@@ -21,6 +21,7 @@ According to the need raised in this post, the model to be developed must have t
 - **Based on IoT** and human-machine interaction.
 
 ### Basic architecture
+![_config.yml]({{ site.baseurl }}/images/model-sensorvariablefont.png)
 
 - **Sensor:** It is in charge of recording a certain phenomenon and returning data in real time.
 - **Variable font:** It is in charge of reproducing, through the values adopted by its axes (which are determined by the font used), the sensor data.
