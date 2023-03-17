@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic model example
+title: Architecture flow
 date: 2019-06-08
 categories: model
 author: Iván Huelves Illas
