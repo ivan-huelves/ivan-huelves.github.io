@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototype Nº3. Temperature and water sensor applied to the weight of the typography in an interactive informative panel
-date: 2019-06-09
+date: 2019-06-11
 categories: prototype
 author: Iván Huelves Illas
 ---
