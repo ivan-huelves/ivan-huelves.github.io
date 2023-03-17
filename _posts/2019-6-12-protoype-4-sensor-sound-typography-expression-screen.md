@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototype Nº4. Sound sensor applied to the expressive capabilities of typography on a large format screen
-date: 2019-06-09
+date: 2019-06-12
 categories: prototype
 author: Iván Huelves Illas
 ---
