@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Prototype Nº1. Distance sensor applied to the weight of the typography on the control panel of a car
+date: 2019-06-09
+categories: protoype
 ---
 <iframe src="https://player.vimeo.com/video/341418395?h=d803adb875" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 In the first prototype it has been considered pertinent to simulate the interface of the on-board computer of a car, relating the distance at which the car is with respect to another object, car or person.
 
