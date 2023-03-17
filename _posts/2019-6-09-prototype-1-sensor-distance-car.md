@@ -2,7 +2,8 @@
 layout: post
 title: Prototype Nº1. Distance sensor applied to the weight of the typography on the control panel of a car
 date: 2019-06-09
-categories: protoype
+categories: prototype
+author: Iván Huelves Illas
 ---
 <iframe src="https://player.vimeo.com/video/341418395?h=d803adb875" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
