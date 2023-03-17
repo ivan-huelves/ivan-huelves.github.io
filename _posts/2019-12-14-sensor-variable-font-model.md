@@ -2,7 +2,7 @@
 layout: post
 title: Sensor Variable Font model
 date: 2019-12-14
-categories: prototype
+categories: model
 author: Iván Huelves Illas
 ---
 ![_config.yml]({{ site.baseurl }}/images/model-sensorvariablefont.png)
