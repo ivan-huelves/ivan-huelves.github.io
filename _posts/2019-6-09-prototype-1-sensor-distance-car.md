@@ -1,13 +1,8 @@
 ---
 layout: post
-title: What is Sensor Variable Font?
+title: Prototype Nº1. Distance sensor applied to the weight of the typography on the control panel of a car
 ---
-Hola
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-Prototype Nº1. Distance sensor applied to the weight of the typography on the control panel of a car
-
 
 In the first prototype it has been considered pertinent to simulate the interface of the on-board computer of a car, relating the distance at which the car is with respect to another object, car or person.
 
