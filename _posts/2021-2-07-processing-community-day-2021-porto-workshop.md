@@ -27,8 +27,10 @@ Specifically, we showed participants the new font technology, variable fonts, ho
 ![_config.yml]({{ site.baseurl }}/images/vlcsnap-2021-02-11-09h15m46s193.jpg)
 
 It was a huge surprise what some of the participants achieved in such a short time! Here some results:
-INSERTAR VIDEOS
-Marie Malarme’s variable color font sun / starts
+<iframe src="https://player.vimeo.com/video/809132431?h=4dc5fd5a4a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 [Bruna Sousa’s](https://cdv.dei.uc.pt/authors/bruna-sousa/) clock prototype
+<iframe src="https://player.vimeo.com/video/809133599?h=1883a4edf3" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+Marie Malarme’s variable color font sun / starts
+
 
 Game intro Workshop: [https://sensor-variable-font-workshop.netlify.app/](https://sensor-variable-font-workshop.netlify.app/)
