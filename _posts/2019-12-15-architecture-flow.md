@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What is Sensor Variable Font?
+title: Basic model example
 date: 2019-06-08
-categories: info
+categories: model
 author: Iván Huelves Illas
 ---
 ![_config.yml]({{ site.baseurl }}/images/model-sensorvariablefont-flow.png)
