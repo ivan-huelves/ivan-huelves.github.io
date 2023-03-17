@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Sensor Variable Font?
+title: Installation tutorial
 date: 2021-01-14
 categories: workshop
 author: Iván Huelves Illas
