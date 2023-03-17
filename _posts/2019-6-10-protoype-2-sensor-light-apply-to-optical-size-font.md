@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototype Nº2. Lighting sensor applied to the optical size of the typography in devices with a screen
-date: 2019-06-10
+date: 2019-6-10
 categories: prototype
 author: Iván Huelves Illas
 ---
