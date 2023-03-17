@@ -11,7 +11,8 @@ According to the [World Urbanization Prospects report](https://www.un.org/develo
 
 > Today’s city is the postmodern city: untamed, shrew, capricious, ever-changing; actually, it is not a city but a text; a text written by millions of unknown writers, unaware that they are writers, read by millions of readers; each reading his or her own personal and subjective story in this ever changing and chaotic text, thus changing and recreating it and further complicating it.
 
-Juval Portugali {: .right}
+Juval Portugali
+{: .text-right}
     
 We move quickly towards the so-called smart cities, where IoT and the hyper-connectivity of citizens shape new paradigms of coexistence and interaction. According to Cisco, 500 billion devices with sensors collecting data are expected by 2030. In this context of hyperconnection and continuous interaction with the environment, disciplines such as data visualization and interaction design are key. However, the literature consulted, [Bollini](https://www.tandfonline.com/doi/abs/10.1080/14606925.2017.1352649) and [Sun, Leigh, Johnson & Lee](https://link.springer.com/chapter/10.1007/978-3-642-13544-6_18), highlights the need to deepen the processes of significance of graphical interfaces. Viljami Salminen asserts:
 
