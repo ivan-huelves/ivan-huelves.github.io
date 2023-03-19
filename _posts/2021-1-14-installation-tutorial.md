@@ -16,16 +16,20 @@ The following apps are needed to create an interactive prototype that relates va
 - Visit [https://git-scm.com/download/win](https://git-scm.com/download/win) and install your Os version.
 - Visit [https://classic.yarnpkg.com/en/docs/install#windows-stable](https://classic.yarnpkg.com/en/docs/install#windows-stable) your Os version
 - Run PowerShell as administrator (right-click) and write:
+- 
 `yarn global add windows-build-tools`
 
 **Now only for Mac users:**
 Open the terminal (Open Launchpad and look for Terminal) write and press intro after:
+
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 Now write and press into after:
+
 `brew install git`
 
 Now write and press into after:
+
 `brew install yarn`
 
 *If during the installation on the Terminal you are asked for administrator permissions, write “sudo” in front of the above codes.
