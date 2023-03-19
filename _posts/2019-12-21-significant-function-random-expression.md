@@ -15,6 +15,7 @@ For this purpose I designed a specific variable font with Glyphs App which axe r
 ![_config.yml]({{ site.baseurl }}/images/glyphs - random rotation.png)
 
 To make each letter rotate randomly I use the JS expression:
+
 `return Math.floor(Math.random() * (max - min + 1) ) + min;`
 
-Here you can see the prototype working: Significant Function – random expression
+Here you can see the prototype working: [Significant Function – random expression]()
