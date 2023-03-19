@@ -11,5 +11,5 @@ In this case it has been developed a basic graphic interface that shows wind spe
 
 The purpose is to show how variable fonts can add value to the information representation.
 
-[Visit wind variable font example >]()
+[Visit wind variable font example >](https://ivan-huelves.github.io/projects/wind/)
 
