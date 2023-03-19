@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Sensor Variable Font?
-date: 2025-06-08
+date: 2021-07-8
 categories: info
 author: Iván Huelves Illas
 ---
