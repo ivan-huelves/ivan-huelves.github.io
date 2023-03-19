@@ -12,6 +12,7 @@ In order to show different possibilities of the Significant Function, I prototyp
 In this case the scenario is a shop with a variable identity. Each time a customer is detected by presence sensor the logotype will variate.
 
 For this purpose I designed a specific variable font with Glyphs App which axe rotate 360º the glyphs.
+
 ![_config.yml]({{ site.baseurl }}/images/glyphs - random rotation.png)
 
 To make each letter rotate randomly I use the JS expression:
