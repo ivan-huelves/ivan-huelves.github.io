@@ -30,4 +30,4 @@ Now write and press into after:
 
 *If during the installation on the Terminal you are asked for administrator permissions, write “sudo” in front of the above codes.
 
-###Well done!!! Now you are ready to start the workshop
+Well done!!! Now you are ready to start the workshop
