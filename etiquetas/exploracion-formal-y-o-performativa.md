@@ -1,0 +1,62 @@
+---
+layout: page
+title: "Proyectos: Exploración formal y/o performativa"
+permalink: /etiquetas/exploracion-formal-y-o-performativa/
+---
+
+Proyectos catalogados como **Exploración formal y/o performativa**:
+
+- [36 Days of Type (Embodied Interaction)](/referentes/36-days-of-type-(embodied-interaction)/)
+- [A Font is a Percussion Instrument](/referentes/a-font-is-a-percussion-instrument/)
+- [Alphabot](/referentes/alphabot/)
+- [Between Page and Screen](/referentes/between-page-and-screen/)
+- [Brain Opera](/referentes/brain-opera/)
+- [Cymatics Typeface](/referentes/cymatics-typeface/)
+- [Dance Writer](/referentes/dance-writer/)
+- [Dancing Type](/referentes/dancing-type/)
+- [Dialogue](/referentes/dialogue/)
+- [Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/)
+- [Embodied Type](/referentes/embodied-type/)
+- [Fable Table & TTT Poem](/referentes/fable-table-&-ttt-poem/)
+- [Flefixx](/referentes/flefixx/)
+- [GEN](/referentes/gen/)
+- [Holopoetry](/referentes/holopoetry/)
+- [Illuminated Manuscript](/referentes/illuminated-manuscript/)
+- [In Order to Control](/referentes/in-order-to-control/)
+- [Interactive book](/referentes/interactive-book/)
+- [Keyboard Type Control y Voice Type Control](/referentes/keyboard-type-control-y-voice-type-control/)
+- [LMNOP](/referentes/lmnop/)
+- [Laser Letters](/referentes/laser-letters/)
+- [Leon Sans](/referentes/leon-sans/)
+- [Letter Dance](/referentes/letter-dance/)
+- [Letterspace](/referentes/letterspace/)
+- [Like Beauty in Flames](/referentes/like-beauty-in-flames/)
+- [Live Letters](/referentes/live-letters/)
+- [Look/Hear](/referentes/look-hear/)
+- [Move Me MM](/referentes/move-me-mm/)
+- [Nomad Typeface](/referentes/nomad-typeface/)
+- [Poemas no meio do caminho](/referentes/poemas-no-meio-do-caminho/)
+- [Quarto](/referentes/quarto/)
+- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/)
+- [Reactive Typography](/referentes/reactive-typography/)
+- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)
+- [Screen Profile](/referentes/screen-profile/)
+- [Segundo Soneto Meio Barroco](/referentes/segundo-soneto-meio-barroco/)
+- [Stream of Consciousness](/referentes/stream-of-consciousness/)
+- [Talmud Project](/referentes/talmud-project/)
+- [Text Rain](/referentes/text-rain/)
+- [The Guide To Be Seen](/referentes/the-guide-to-be-seen/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
+- [Touch Type](/referentes/touch-type/)
+- [Type Machine](/referentes/type-machine/)
+- [Type Me, Type Me Not](/referentes/type-me-type-me-not/)
+- [Typeface Project](/referentes/typeface-project/)
+- [Typeractive](/referentes/typeractive/)
+- [Visual Chronicles of Abya Yala](/referentes/visual-chronicles-of-abya-yala/)
+- [Visual Grammar](/referentes/visual-grammar/)
+- [Wet Fonts](/referentes/wet-fonts/)
+- [abcdefghijklmnopqrstuvwxyz](/referentes/abcdefghijklmnopqrstuvwxyz/)
+
+
+<br>
+[← Volver al índice de referentes](/referentes/)

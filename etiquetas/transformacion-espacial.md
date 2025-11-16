@@ -1,0 +1,60 @@
+---
+layout: page
+title: "Proyectos: Transformación espacial"
+permalink: /etiquetas/transformacion-espacial/
+---
+
+Proyectos catalogados como **Transformación espacial**:
+
+- [A Font is a Percussion Instrument](/referentes/a-font-is-a-percussion-instrument/)
+- [Between Page and Screen](/referentes/between-page-and-screen/)
+- [Brain Opera](/referentes/brain-opera/)
+- [Cheiro](/referentes/cheiro/)
+- [Cumulus Park](/referentes/cumulus-park/)
+- [Dance Writer](/referentes/dance-writer/)
+- [Dialogue](/referentes/dialogue/)
+- [Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/)
+- [Embodied Type](/referentes/embodied-type/)
+- [Experimentos de Tipografía en Realidad Aumentada](/referentes/experimentos-de-tipografia-en-realidad-aumentada/)
+- [Fable Table & TTT Poem](/referentes/fable-table-&-ttt-poem/)
+- [GEN](/referentes/gen/)
+- [Holopoetry](/referentes/holopoetry/)
+- [Illuminated Manuscript](/referentes/illuminated-manuscript/)
+- [In Order to Control](/referentes/in-order-to-control/)
+- [Interactive Typography](/referentes/interactive-typography/)
+- [Interactive book](/referentes/interactive-book/)
+- [Janemail](/referentes/janemail/)
+- [Kinetic Instant Messenger](/referentes/kinetic-instant-messenger/)
+- [Laser Letters](/referentes/laser-letters/)
+- [Leon Sans](/referentes/leon-sans/)
+- [Letter Dance](/referentes/letter-dance/)
+- [Letterspace](/referentes/letterspace/)
+- [Like Beauty in Flames](/referentes/like-beauty-in-flames/)
+- [Move Me MM](/referentes/move-me-mm/)
+- [Nomad Typeface](/referentes/nomad-typeface/)
+- [Performa](/referentes/performa/)
+- [Poemas no meio do caminho](/referentes/poemas-no-meio-do-caminho/)
+- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/)
+- [Reactive Typography](/referentes/reactive-typography/)
+- [Real-time Conversations](/referentes/real-time-conversations/)
+- [Rio Carnaval](/referentes/rio-carnaval/)
+- [Screen Profile](/referentes/screen-profile/)
+- [Segundo Soneto Meio Barroco](/referentes/segundo-soneto-meio-barroco/)
+- [Space Type Generator](/referentes/space-type-generator/)
+- [Stream of Consciousness](/referentes/stream-of-consciousness/)
+- [Takeluma](/referentes/takeluma/)
+- [Talmud Project](/referentes/talmud-project/)
+- [Text Rain](/referentes/text-rain/)
+- [The Guide To Be Seen](/referentes/the-guide-to-be-seen/)
+- [Type Machine](/referentes/type-machine/)
+- [Type Me, Type Me Not](/referentes/type-me-type-me-not/)
+- [Type/dynamics](/referentes/type-dynamics/)
+- [TypeVoice](/referentes/typevoice/)
+- [Typeractive](/referentes/typeractive/)
+- [Visual Chronicles of Abya Yala](/referentes/visual-chronicles-of-abya-yala/)
+- [Whitmail](/referentes/whitmail/)
+- [abcdefghijklmnopqrstuvwxyz](/referentes/abcdefghijklmnopqrstuvwxyz/)
+
+
+<br>
+[← Volver al índice de referentes](/referentes/)
