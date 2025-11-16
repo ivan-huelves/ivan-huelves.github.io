@@ -9,6 +9,8 @@ permalink: /referentes/screen-profile/
 
 **Robert Coover, Shawn Greenlee, Andrew McClain, Robert Arellano y Joshua Carroll., 2022**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Screen es una instalación de realidad virtual inmersiva donde el texto de un poema no se presenta sobre una superficie, sino que flota alrededor del lector en un espacio tridimensional. Las palabras y las paredes de la instalación virtual reaccionan al movimiento del cuerpo del usuario.
 
@@ -19,13 +21,13 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Brown University
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Gestual (movimiento corporal, manos)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Desarrollo a medida; Instalación de Realidad Virtual inmersiva en un entorno CAVE (Cave Automatic Virtual Environment); un cubo de 8 pies con proyecciones en tres paredes y el suelo.
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Gestual (movimiento corporal, manos)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Desarrollo a medida, Instalación de Realidad Virtual inmersiva en un entorno CAVE (Cave Automatic Virtual Environment), un cubo de 8 pies con proyecciones en tres paredes y el suelo.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

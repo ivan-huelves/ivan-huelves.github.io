@@ -9,6 +9,8 @@ permalink: /referentes/visual-chronicles-of-abya-yala/
 
 **Vanessa Zúñiga Tinizaray, 2004**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Visual Chronicles of Abya Yala es un laboratorio de investigación que explora la cultura indígena de Abya Yala a través de la tipografía modular y generativa. El proyecto combina archivo visual, diseño tipográfico y programación creativa para reinterpretar símbolos y patrones de las culturas originarias latinoamericanas.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Cursor; Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Processing; P5.js
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Processing, P5.js
 * **Alfanumérica:** Mixto
 * **Mantiene codificación textual:** No
 

@@ -9,6 +9,11 @@ permalink: /referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue
 
 **Jason E. Lewis, 1996**
 
+
+![Imagen de Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/images/referentes/Buscar imágenes artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este trabajo explora la creación de poesía concebida específicamente para el medio digital, tratando la tipografía como un elemento narrativo y performativo. Su enfoque se materializa en obras como la instalación WordNozzle, donde el usuario \"lanza\" palabras con una interfaz física.
 
@@ -19,13 +24,13 @@ La relevancia de este trabajo reside en su enfoque pionero que fusiona el conten
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Royal College of Art
-* **Grado de interactividad:** Interactivo multimodal, Generativo
-* **Tipo de input:** Cursor; Controlador físico (en WordNozzle); Algoritmo (en Breeder)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** C/C++; librerías gráficas como OpenGL
+* **Grado de interactividad:** [Interactivo multimodal, Generativo](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Controlador físico (en WordNozzle)](/etiquetas/controlador-fisico/), [Algoritmo (en Breeder)](/etiquetas/algoritmo/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** C/C++, librerías gráficas como OpenGL
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

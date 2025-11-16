@@ -9,6 +9,8 @@ permalink: /referentes/like-beauty-in-flames/
 
 **Jenny Holzer, 2021**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es una instalación de realidad aumentada de la artista Jenny Holzer que proyecta sus característicos Truisms sobre la arquitectura del Museo Guggenheim Bilbao. Con esta obra, la tipografía se desvincula de un soporte plano y utiliza el propio edificio como un lienzo dinámico.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación radica en que explora la interacción del
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (cámara); Datos externos (geolocalización)
-* **Tipo de output:** Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Datos externos (geolocalización)](/etiquetas/datos-externos/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Realidad Aumentada (aplicación móvil Like Beauty in Flames)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

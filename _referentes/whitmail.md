@@ -9,6 +9,11 @@ permalink: /referentes/whitmail/
 
 **Yin Yin Wong, 1995**
 
+
+![Imagen de Whitmail](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 El experimento Whitmail explora cómo mantener el contexto en una lectura secuencial (palabra por palabra) mediante el uso simultáneo del primer plano y el fondo. El sistema presenta palabras una a una, pero en lugar de desaparecer, las palabras clave se mantienen visibles en el fondo para dar un contexto general o un tono emocional a las palabras que aparecen después en primer plano.
 
@@ -19,12 +24,11 @@ La relevancia de este experimento es que establece un precedente metodológico p
 ---
 
 ### Clasificación
-* **Función:** Accesibilidad
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

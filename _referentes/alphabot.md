@@ -9,6 +9,8 @@ permalink: /referentes/alphabot/
 
 **Nikita Pashenkov, 2000**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Alphabot es una animación 3D que traslada la tipografía a un espacio tridimensional virtual. El proyecto consiste en 26 robots que se transforman para formar cada una de las letras del alfabeto latino.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** C++; OpenGL
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** C++, OpenGL
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

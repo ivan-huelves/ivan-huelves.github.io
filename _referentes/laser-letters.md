@@ -9,6 +9,8 @@ permalink: /referentes/laser-letters/
 
 **Eri Sekiguchi, Fabian Florian y David El-Khouri, 2016**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Laser Letters es una instalación interactiva que proyecta caracteres tipográficos sobre una superficie. Estos caracteres se comportan como objetos con propiedades físicas dentro de la proyección digital.
 
@@ -19,13 +21,13 @@ La relevancia de este proyecto para la investigación reside en el tratamiento d
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Basel School of Design
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (puntero láser)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Processing; Librerías minim; Geomerative y oscp5
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (puntero láser)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Processing, Librerías minim, Geomerative y oscp5
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

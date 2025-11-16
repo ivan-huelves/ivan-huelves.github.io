@@ -9,6 +9,8 @@ permalink: /referentes/reactive-books-(the-reactive-square-flying-letters-12-o'c
 
 **John Maeda, 1994**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Esta serie de \"libros reactivos\" es un hito fundamental en la historia de la tipografía interactiva. El proyecto explora sistemáticamente la relación entre los inputs básicos del ordenador (ratón, teclado, micrófono) y la expresión tipográfica a través de una serie de experimentos.
 
@@ -19,12 +21,12 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (micrófono); Cursor; Teclado; Visual (cámara)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (micrófono)](/etiquetas/sonido/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Visual (cámara)](/etiquetas/visual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Java
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

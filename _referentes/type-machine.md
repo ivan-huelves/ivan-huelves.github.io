@@ -9,6 +9,8 @@ permalink: /referentes/type-machine/
 
 **Heike Neff, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 TypeMachine presenta interfaz física para la experimentación tipográfica. El proyecto integra un hardware artesanal con un software generativo, permitiendo al usuario una manipulación tangible de las formas tipográficas.
 
@@ -19,13 +21,13 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental. Instalación artística
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental. Instalación artística](/etiquetas/investigacion---experimental/)
 * **Institución:** Inside Kommunikationdesign Wiesbaden
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Controlador físico (botones, interruptores y deslizadores)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Processing; Arduino
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Controlador físico (botones, interruptores y deslizadores)](/etiquetas/controlador-fisico/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Processing, Arduino
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

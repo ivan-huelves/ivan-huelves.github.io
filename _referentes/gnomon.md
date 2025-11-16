@@ -9,6 +9,8 @@ permalink: /referentes/gnomon/
 
 **Indestructible Type, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Gnomon es una tipografía variable que funciona como un sistema de visualización de datos contextual. La fuente simula la sombra que proyectaría el sol sobre los caracteres, calculando su ángulo y longitud en función de la hora y la localización del usuario.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 ---
 
 ### Clasificación
-* **Función:** Visualización de datos
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Datos externos; (hora del día y localización geográfica)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable; Un script de Javascript utiliza las librerías SunCalc.js (para calcular la posición del sol) y Moment.js (para gestionar la hora)
+* **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (hora del día y localización geográfica)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Un script de Javascript utiliza las librerías SunCalc.js (para calcular la posición del sol) y Moment.js (para gestionar la hora)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

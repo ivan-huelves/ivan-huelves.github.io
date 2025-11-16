@@ -9,6 +9,8 @@ permalink: /referentes/the-guide-to-be-seen/
 
 **Eager Zhang, 2023**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto consiste en una tipografía con una doble función. Visualmente, sus caracteres están construidos con formas geométricas abstractas, como círculos y líneas discontinuas, inspiradas en los patrones de prueba y las marcas de calibración que utilizan los sistemas de visión por computador (similares a un QR).
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental; Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (cámara); Gestual (movimiento del dispositivo o del póster)
-* **Tipo de output:** Transformación espacial; Generación tipográfica
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (movimiento del dispositivo o del póster)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

@@ -9,6 +9,8 @@ permalink: /referentes/the-climate-crisis-font/
 
 **Helsingin Sanomat, Eino Korkala y Daniel Coull, 2021**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 The Climate Crisis Font es una tipografía variable cuyo eje de peso está vinculado a datos históricos y proyecciones futuras sobre el deshielo del Ártico. A medida que el usuario selecciona diferentes años, desde 1979 hasta 2050, el grosor de la fuente disminuye, reflejando visualmente la pérdida de hielo polar.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto reside en su uso innovador de la tipografía vari
 ---
 
 ### Clasificación
-* **Función:** Visualización de datos
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Datos externos; (datos del retroceso del hielo ártico)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable
+* **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (datos del retroceso del hielo ártico)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

@@ -9,6 +9,11 @@ permalink: /referentes/cheiro/
 
 **Francis Lam, 2006**
 
+
+![Imagen de Cheiro](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Cheiro es un sistema de comunicación textual expresiva que investiga la tipografía antropomórfica. El sistema permite al usuario imbuir al texto de cualidades gestuales a través de sus propios movimientos, capturados mediante un dispositivo de puntero.
 
@@ -19,12 +24,12 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor; Teclado
-* **Tipo de output:** Transformación espacial; Transformación morfológica
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

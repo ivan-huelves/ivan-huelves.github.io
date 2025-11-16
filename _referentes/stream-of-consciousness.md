@@ -9,6 +9,11 @@ permalink: /referentes/stream-of-consciousness/
 
 **David Small y Tom White, 1999**
 
+
+![Imagen de Stream of Consciousness](/images/referentes/https://acg.media.mit.edu/projects/stream/)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Stream of Consciousness es una instalación descrita como un \"jardín poético interactivo\". La obra consiste en una fuente física por la que fluye agua, sobre la cual se proyecta un \"torrente de palabras\". Estas palabras flotan en la superficie del agua como si fueran hojas, creando una fusión entre el entorno físico y la tipogafía digital.
 
@@ -19,12 +24,11 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental; Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (táctil manos)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (táctil manos)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

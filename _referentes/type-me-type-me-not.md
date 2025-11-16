@@ -9,6 +9,8 @@ permalink: /referentes/type-me-type-me-not/
 
 **Peter Cho, 1997**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Type Me, Type Me Not es un proyecto compuesto por tres experimentos que exploran la transición entre letras, la vinculación del sonido con la forma y la creación de glifos a partir de una cuadrícula.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que constituye un antecedente fundamen
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial; Sonido
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/), [Sonido](/etiquetas/sonido/)
 * **Tecnología empleada:** N. C. (nueva versión en P5.js)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

@@ -9,6 +9,8 @@ permalink: /referentes/dance-writer/
 
 **Peter Biľak, 2009**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Dance Writer es un proyecto que convierte el texto en una coreografía de danza. El sistema funciona a partir de un alfabeto predefinido donde cada carácter del alfabeto latino corresponde a una postura corporal específica, grabada previamente en vídeo por una bailarina.
 
@@ -19,12 +21,12 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Institución:** Bienal ExperimentaDesign Lisboa
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación espacial; Generación tipográfica
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

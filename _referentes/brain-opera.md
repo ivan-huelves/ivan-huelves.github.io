@@ -9,6 +9,8 @@ permalink: /referentes/brain-opera/
 
 **David Small y Yin Yin Wong, 1996**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 El trabajo de David Small en el Brain Opera se materializa en la animación Minsky Melodies, creada como un componente visual para el segundo movimiento de la ópera. El proyecto utiliza tipografía animada para visualizar las palabras del científico Marvin Minsky, que son cantadas durante la pieza. Las palabras \"bailan\" y actúan en una gran pantalla situada detrás de los músicos, funcionando como un contrapunto visual a la composición musical.
 
@@ -19,12 +21,12 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística; Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (música); Gestual (táctil)
-* **Tipo de output:** Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (música)](/etiquetas/sonido/), [Gestual (táctil)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

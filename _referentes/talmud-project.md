@@ -9,6 +9,8 @@ permalink: /referentes/talmud-project/
 
 **David Small y Tom White, 1999**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 El Talmud Project es un entorno de estudio digital diseñado para visualizar y navegar la compleja red de textos interconectados del Talmud. El sistema presenta simultáneamente tres capas de texto principales (un ensayo de Levinas, el propio Talmud y la Torá) en un mismo espacio visual. Para gestionar la complejidad, utiliza técnicas de enfoque, desenfoque y transparencia, permitiendo que la capa de interés del lector destaque mientras las otras retroceden visualmente al fondo. 
 
@@ -19,12 +21,12 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental; Instalación artística
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** N. C.
-* **Tipo de output:** Transformación espacial
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

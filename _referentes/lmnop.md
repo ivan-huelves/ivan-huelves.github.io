@@ -9,6 +9,11 @@ permalink: /referentes/lmnop/
 
 **Peter Cho, 1999**
 
+
+![Imagen de LMNOP](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 LMNOP es un proyecto que explora la transofrmación morfológica de los caracteres a partir de un sistema paramétrico. El sistema se basa en cinco glifos que se transforman mediante once puntos de control en respuesta a la posición del cursor.
 
@@ -19,12 +24,12 @@ La relevancia para esta investigación es que el proyecto anticipa el uso de la 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor
-* **Tipo de output:** Transformación morfológica
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

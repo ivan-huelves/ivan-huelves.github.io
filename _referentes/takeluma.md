@@ -9,6 +9,8 @@ permalink: /referentes/takeluma/
 
 **Peter Cho, 2005**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Takeluma es un sistema de escritura que propone un nuevo alfabeto fonético para el idioma inglés. El proyecto se fundamenta en la teoría del simbolismo sonoro (sound symbolism), que sostiene que los sonidos del habla no son arbitrarios y pueden evocar imágenes y emociones por sí mismos. Como instalación interactiva, el sistema traduce la voz del usuario en tiempo real, generando una línea continua de escritura visual que da forma a los fonemas pronunciados.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Instalación artística, Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (voz)
-* **Tipo de output:** Generación tipográfica; Transformación espacial
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Instalación artística, Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No

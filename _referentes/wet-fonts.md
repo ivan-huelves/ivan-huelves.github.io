@@ -9,6 +9,8 @@ permalink: /referentes/wet-fonts/
 
 **David Small, 1990**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Wet Fonts es un sistema que simula la tipografía como si estuviera hecha de pigmentos líquidos sobre un soporte de papel. Para ello el proyecto calcula la difusión del pigmento y el agua a través de las fibras simuladas del papel por cada pixel de la pantalla.
 
@@ -19,12 +21,12 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Algoritmo
-* **Tipo de output:** Generación tipográfica
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente sesarrollo a medida)
 * **Alfanumérica:** Si
 * **Mantiene codificación textual:** No

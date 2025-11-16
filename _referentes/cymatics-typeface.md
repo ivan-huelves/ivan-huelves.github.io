@@ -9,6 +9,8 @@ permalink: /referentes/cymatics-typeface/
 
 **Danielle Abbon, 2016**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Cymatics Typeface es un proyecto experimental que explora la relación entre el sonido y la forma tipográfica. El sistema traduce primero cada letra del alfabeto a una frecuencia sonora específica (dentro de un rango de 750 a 2000 Hz) y, posteriormente, utiliza estas frecuencias para generar patrones visuales de Chladni a partir de vibraciones físicas sobre un medio.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Sonido (frecuencias entre 750–2000 Hz)
-* **Tipo de output:** Transformación morfológica (figuras de Chladni)
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Sonido (frecuencias entre 750–2000 Hz)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica (figuras de Chladni)](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No

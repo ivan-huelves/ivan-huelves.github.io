@@ -9,6 +9,8 @@ permalink: /referentes/genoma-grotesk/
 
 **Robin Eberwein, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Genoma Grotesk es una tipografía variable diseñada para adaptarse a las condiciones lumínicas del entorno. Utilizando el sensor de luz de un dispositivo, la fuente ajusta automáticamente el eje de variación peso para mantener un contraste y una legibilidad óptimos.
 
@@ -19,13 +21,13 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 ---
 
 ### Clasificación
-* **Función:** Accesibilidad
-* **Contexto:** Investigación / Experimental
+* **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** F+F Schule für Kunst und Design
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Datos externos (luz)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable; Arduino; JavaScript; Css
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Arduino, JavaScript, Css
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

@@ -9,6 +9,8 @@ permalink: /referentes/a-font-is-a-percussion-instrument/
 
 **Rob Stenson, 2023**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este trabajo se centra en el desarrollo de Coldtype, una librería de código abierto en Python para la composición y animación tipográfica mediante programación. El sistema está diseñado para explorar la relación entre la tipografía y la música.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Python; Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Python, [Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

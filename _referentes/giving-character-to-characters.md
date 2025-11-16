@@ -9,6 +9,11 @@ permalink: /referentes/giving-character-to-characters/
 
 **Richard The, 2010**
 
+
+![Imagen de Giving Character to Characters](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Giving Character to Characters es un sistema de software para crear y animar tipografía, investigando la relación entre la escritura manual y el texto digital. Un usuario escribe texto y lo anima mediante una interfaz gestual basada en un lápiz óptico. Para ello, se desarrolló un nuevo formato de fuente paramétrica y basada en trazos, que permite la animación computacional de los segmentos individuales de cada letra.
 
@@ -19,12 +24,12 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor
-* **Tipo de output:** Transformación morfológica
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

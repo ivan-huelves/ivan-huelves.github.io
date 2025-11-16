@@ -9,6 +9,8 @@ permalink: /referentes/live-letters/
 
 **Julia Schäfer, 2020**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Live Letters es una investigación que explora la escritura a través del cuerpo, inspirándose en el funcionamiento de una tabla Ouija. El sistema utiliza un modelo de machine learning, entrenado con un set de datos de posturas corporales, para interpretar y predecir qué letra está realizando el usuario en tiempo real.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual
-* **Tipo de output:** Generación tipográfica
-* **Tecnología empleada:** Machine Learning; (Pose Estimation, Teachable Machine); p5.js
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
+* **Tecnología empleada:** Machine Learning, (Pose Estimation, Teachable Machine), p5.js
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

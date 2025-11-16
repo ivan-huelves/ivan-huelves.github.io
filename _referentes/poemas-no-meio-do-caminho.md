@@ -9,6 +9,8 @@ permalink: /referentes/poemas-no-meio-do-caminho/
 
 **Rui Torres, 2008**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Poemas no meio do caminho es una obra de literatura digital que propone una experiencia de lectura espacial. El proyecto sitúa al usuario en un entorno panorámico interactivo por el que debe navegar para encontrar y construir los textos. A través de la exploración de este espacio virtual, el lector interactúa con fragmentos poéticos cuya aparición y sintaxis varían dinámicamente, rompiendo con la linealidad tradicional del soporte estático.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación reside en su planteamiento de la lectura 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Actionscript 3.0
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

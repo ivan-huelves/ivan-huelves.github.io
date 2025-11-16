@@ -9,6 +9,11 @@ permalink: /referentes/letterspace/
 
 **Peter Sungil Cho, 1998**
 
+
+![Imagen de Letterspace](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Letterspace es una pieza interactiva que utiliza dos sensores magnéticos 3D, uno en cada mano del usuario, como interfaz. Los gestos que el participante realiza en el espacio se mapean a caracteres en la pantalla, provocando que las letras transicionen fluidamente entre diferentes formas. El sistema también incluye un modo donde un rastro de letras crea formas tridimensionales extruidas en un espacio que rota. 
 
@@ -19,12 +24,12 @@ La relevancia de este proyecto para la investigación reside en su aproximación
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (sensores de campo magnético 3D en las manos del usuario)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (sensores de campo magnético 3D en las manos del usuario)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

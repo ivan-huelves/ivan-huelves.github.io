@@ -9,6 +9,8 @@ permalink: /referentes/symphosizer/
 
 **Collins y Dinamo, 2021**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Symphosizer es un sistema que convierte la tipografía en un instrumento performativo, vinculándola directamente con el sonido y la voz del usuario. Desarrollado para la San Francisco Symphony, el sistema utiliza tipografías variables para traducir parámetros acústicos en transformaciones dinámicas de peso, inclinación y movimiento de las letras, de modo que la tipografía refleja en tiempo real la intensidad y los matices de la música.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

@@ -9,6 +9,8 @@ permalink: /referentes/dana-font/
 
 **Ana Estrada, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Danafont es una tipografía modular y adaptativa (responsive) diseñada para entornos web. El sistema está construido con SVG, HTML, CSS y Javascript, lo que permite que los caracteres ajusten su morfología en tiempo real para adaptarse al ancho del navegador.
 
@@ -19,13 +21,13 @@ La relevancia para esta investigación es que establece un precedente claro para
 ---
 
 ### Clasificación
-* **Función:** Accesibilidad
-* **Contexto:** Investigación / Experimental
+* **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Escuela Superior de Diseño de Madrid
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Datos externos (Ancho ventana navegador)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Javascript; CSS
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Datos externos (Ancho ventana navegador)](/etiquetas/datos-externos/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** Javascript, CSS
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

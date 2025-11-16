@@ -9,6 +9,8 @@ permalink: /referentes/leon-sans/
 
 **Jongmin Kim, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Leon Sans es una tipografía generada íntegramente mediante código, donde cada glifo se define a partir de coordenadas vectoriales que se dibujan en un canvas de HTML5. Esto permite al usuario alterar dinámicamente su peso, color y aplicar efectos visuales como ondas o patrones en tiempo real.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que se trata de un ejemplo de tipograf
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor (sliders)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** JavaScript (librería TweenMax para animaciones)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

@@ -9,6 +9,11 @@ permalink: /referentes/typeractive/
 
 **Peter Sungil Cho, 1999**
 
+
+![Imagen de Typeractive](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typeractive es un experimento de tipografía tridimensional donde el usuario escribe en el teclado y un carácter en primer plano transita de una forma a otra. Mientras la letra principal se transforma, va oscilando lentamente para mostrar su tridimensionalidad. Simultáneamente, el texto que se escribe aparece en formato de mapa de bits en el fondo de la pantalla.
 
@@ -19,12 +24,12 @@ La relevancia de este proyecto para la investigación reside en que es una de la
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente Desarrollo a medida)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

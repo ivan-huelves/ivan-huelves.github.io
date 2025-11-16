@@ -9,6 +9,8 @@ permalink: /referentes/space-type-generator/
 
 **Kiel Mutschelknaus, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Space Type Generator es una herramienta en línea que permite a cualquier usuario crear animaciones tipográficas desde el navegador, sin necesidad de experiencia previa en motion graphics. Concebido como un sistema abierto y lúdico, funciona a partir de parámetros controlables mediante deslizadores (sliders) que transforman el texto en tiempo real.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 ---
 
 ### Clasificación
-* **Función:** Sistema de diseño tipográfico
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Cursor; Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** P5.js
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

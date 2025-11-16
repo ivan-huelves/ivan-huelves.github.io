@@ -9,6 +9,8 @@ permalink: /referentes/gravient/
 
 **Pràctica, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 The Next Point of View es la identidad corporativa para Gravient, una compañía de realidad virtual y aumentada. Su núcleo es un sistema tipográfico interactivo que modifica la forma de las letras en función del ángulo de visión del usuario, generando variaciones tridimensionales que remiten a la experiencia inmersiva de la VR/AR.
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (realidad aumentada y realidad virtual)
-* **Tipo de output:** Transformación morfológica
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (realidad aumentada y realidad virtual)](/etiquetas/visual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

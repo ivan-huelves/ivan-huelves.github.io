@@ -9,6 +9,8 @@ permalink: /referentes/reactive-typography/
 
 **Victoria Constantine, 2013**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typo-Picture es un proyecto que explora la tipografía como un sistema de aprendizaje multisensorial. El sistema se basa en la creación de caracteres compuestos por ilustraciones que representan el significado de la palabra, estableciendo así una asociación visual directa para facilitar el aprendizaje de idiomas.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación reside en su enfoque sobre la accesibilid
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido
-* **Tipo de output:** Transformación espacial; Transformación morfológica
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No

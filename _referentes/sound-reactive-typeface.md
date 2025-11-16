@@ -9,6 +9,8 @@ permalink: /referentes/sound-reactive-typeface/
 
 **Yarza Twins, 2015**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Sound-Reactive Typeface es un experimento que muestra cómo el análisis de audio en tiempo real puede integrarse en el diseño tipográfico. El sistema vincula directamente la pronunciación de fonemas con la transformación del glifo, utilizando Processing para modificar dinámicamente una malla tipográfica creada en Blender.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido
-* **Tipo de output:** Transformación morfológica
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

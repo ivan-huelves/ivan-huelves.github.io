@@ -9,6 +9,8 @@ permalink: /referentes/in-order-to-control/
 
 **Nota Bene Visual, 2011**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 In Order to Control es una instalación interactiva donde el texto se proyecta directamente sobre el cuerpo del espectador. El sistema adapta la tipografía a la silueta del individuo, utilizando su cuerpo como una superficie de lectura activa y personal.
 
@@ -19,12 +21,11 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (cámara); Gestual (silueta corporal)
-* **Tipo de output:** Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (silueta corporal)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N.C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

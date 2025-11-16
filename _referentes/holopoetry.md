@@ -9,6 +9,8 @@ permalink: /referentes/holopoetry/
 
 **Eduardo Kac, 1983**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Holopoetry es un proyecto que reinventa el concepto de tipografía al desplegar la palabra en un espacio holográfico. En este medio, los caracteres no son objetos estáticos, sino entidades dinámicas que emergen, se transforman y desaparecen dependiendo del movimiento y la perspectiva del lector.
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto es que desafía las concepciones tradicionales de
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual](/etiquetas/visual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Holografía
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

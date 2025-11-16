@@ -9,6 +9,11 @@ permalink: /referentes/dialogue/
 
 **Yin Yin Wong, 1995**
 
+
+![Imagen de Dialogue](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es un experimento que representa un diálogo de la historia de \"Caperucita Roja\" para explorar cómo se pueden transmitir diferentes cualidades de voz y personalidad. El sistema presenta a los dos personajes en dos posiciones fijas en la pantalla, y su diálogo se muestra secuencialmente, palabra por palabra. 
 
@@ -19,13 +24,13 @@ La relevancia de este proyecto reside en su tratamiento pionero de la pantalla c
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Algoritmo (el sistema controla el ritmo y la aparición del texto)
-* **Tipo de output:** Transformación espacial
-* **Tecnología empleada:** C; RSVP. Software personalizado desarrollado en C sobre una estación de trabajo Silicon Graphics (SGI)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Algoritmo (el sistema controla el ritmo y la aparición del texto)](/etiquetas/algoritmo/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** C, RSVP. Software personalizado desarrollado en C sobre una estación de trabajo Silicon Graphics (SGI)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

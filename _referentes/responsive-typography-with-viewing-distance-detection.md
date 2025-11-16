@@ -9,6 +9,8 @@ permalink: /referentes/responsive-typography-with-viewing-distance-detection/
 
 **Marko Dugonjić, 2013**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es un experimento web que ajusta dinámicamente el tamaño de la tipografía en función de la distancia del lector a la pantalla. Utilizando la cámara web para detectar la posición del usuario, el sistema aumenta o disminuye el cuerpo del texto para mantener una legibilidad constante.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 ---
 
 ### Clasificación
-* **Función:** Accesibilidad
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (reconocimiento facial)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** JavaScript; librería headtrackr.js; CSS
+* **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (reconocimiento facial)](/etiquetas/visual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** JavaScript, librería headtrackr.js, CSS
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

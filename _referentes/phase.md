@@ -9,6 +9,8 @@ permalink: /referentes/phase/
 
 **Elias Hanzer y Florian Zia, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Phase es una herramienta web para el diseño tipográfico modular construida a partir de tipografías variables. El sistema permite controlar sus ejes de variación en tiempo real mediante la voz o deslizadores, modificando los caracteres sin perder la codificación textual. Además, ofrece la posibilidad de descargar las instancias estáticas de la fuente que se generan.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 ---
 
 ### Clasificación
-* **Función:** Sistema de diseño tipográfico
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Cursor (sliders); Sonido (micrófono).
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable
+* **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Sonido (micrófono).](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

@@ -9,6 +9,11 @@ permalink: /referentes/real-time-conversations/
 
 **Yin Yin Wong, 1995**
 
+
+![Imagen de Real-time Conversations](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto explora dos soluciones para representar conversaciones en tiempo real: un modelo que centraliza los mensajes en un área común de lectura (Flying chat) y otro que los asocia a la identidad individual de cada interlocutor (Focus chat).
 
@@ -19,12 +24,11 @@ La relevancia de estos experimentos es que abordan de manera temprana los desaf�
 ---
 
 ### Clasificación
-* **Función:** Accesibilidad
-* **Contexto:** Investigación / Experimental; Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación espacial
+* **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

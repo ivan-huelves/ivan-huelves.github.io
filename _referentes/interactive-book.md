@@ -9,6 +9,8 @@ permalink: /referentes/interactive-book/
 
 **Tamper Studio, 2017**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Interactive Book es un proyecto que transforma el formato editorial en un dispositivo inmersivo. La instalación consiste en libros físicos de gran formato (101,6 x 76,2 centímetros) que, al ser manipulados por el público, activan proyecciones y animaciones relacionadas con los Objetivos de Desarrollo Sostenible de la ONU. El sistema integra sensores capacitivos en las páginas, proyección mapeada y un sensor Kinect para detectar la interacción.
 
@@ -19,12 +21,12 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Institución:** Asamblea General de Naciones Unidas
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Controlador físico (libro)
-* **Tipo de output:** Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Controlador físico (libro)](/etiquetas/controlador-fisico/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Arduino
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

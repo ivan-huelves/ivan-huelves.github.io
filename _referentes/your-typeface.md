@@ -9,6 +9,8 @@ permalink: /referentes/your-typeface/
 
 **Overtone y Set Snail, 2020**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Face-a-Type es un sistema que utiliza la cara del usuario como una herramienta de diseño tipográfico. A través del reconocimiento facial, el sistema conecta las proporciones y las expresiones faciales (como sonreír o sorprenderse) con los ejes de una tipografía variable.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación reside en la exploración de una relació
 ---
 
 ### Clasificación
-* **Función:** Sistema de diseño tipográfico
-* **Contexto:** Producto digital; Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (reconocimiento facial)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** BRFv5 Face Tracking; Tipografía variable
+* **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (reconocimiento facial)](/etiquetas/visual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** BRFv5 Face Tracking, [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

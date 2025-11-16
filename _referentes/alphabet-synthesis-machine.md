@@ -9,6 +9,8 @@ permalink: /referentes/alphabet-synthesis-machine/
 
 **Golan Levin, Jonathan Feinberg y Cassidy Curtis, 2001**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos \"inventados\" a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 ---
 
 ### Clasificación
-* **Función:** Sistema de diseño tipográfico
-* **Contexto:** Instalación artística; Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Teclado; Cursor
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Applet de Java que utiliza un algoritmo genético para evolucionar y generar sistemas de escritura a partir de un trazo inicInteligencia artificiall del usuario. Los alfabetos generados se pueden descargar como fuentes TrueType.
+* **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Applet de Java que utiliza un algoritmo genético para evolucionar y generar sistemas de escritura a partir de un trazo inicInteligencia artificiall del usuario. Los alfabetos generados se pueden descargar como fuentes TrueType.](/etiquetas/algoritmo/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

@@ -9,6 +9,8 @@ permalink: /referentes/laika/
 
 **Michael Flückiger y Nicolas Kunz, 2009**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Laika es una tipografía paramétrica desarrollada en Processing que cuestiona la rigidez de las fuentes estáticas. El sistema permite modificar en tiempo real parámetros como el peso, la inclinación, el contraste o la longitud de las serifas.
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 ---
 
 ### Clasificación
-* **Función:** Visualización de datos
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Datos externos; (sensores físicos como peso corporal o proximidad de personas y datos como cotizaciones bursátiles); Controladores físicos (sliders, etc.).
-* **Tipo de output:** Transformación morfológica (peso; contraste, longitud de serif y slant)
+* **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (sensores físicos como peso corporal o proximidad de personas y datos como cotizaciones bursátiles), Controladores físicos (sliders, etc.).
+* **Tipo de output:** [Transformación morfológica (peso](/etiquetas/transformacion-morfologica/), contraste, longitud de serif y slant)
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

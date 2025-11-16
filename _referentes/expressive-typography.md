@@ -9,6 +9,8 @@ permalink: /referentes/expressive-typography/
 
 **Suguru Ishizaki, 1996**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typographic Performance es una investigación que propone un modelo teórico para el diseño tipográfico dinámico. El modelo concibe los elementos tipográficos como \"agentes\" que se adaptan continuamente a los cambios del contexto, como la información entrante o la intención del usuario, inspirándose en las artes escénicas.
 
@@ -19,12 +21,11 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N.C.

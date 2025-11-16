@@ -9,6 +9,8 @@ permalink: /referentes/gintogx/
 
 **Daniel Wenzel, 2018**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 El espécimen interactivo de la familia tipográfica Ginto es un laboratorio web que explora de forma exhaustiva las posibilidades de las tipografías variables. A través de distintos inputs, como el movimiento del cursor, la cámara o el micrófono, el proyecto demuestra cómo una tipografía puede transformarse dinámicamente según la interacción del usuario y el contexto.
 
@@ -20,12 +22,11 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 
 ### Clasificación
 * **Función:** Exploración Formal / Expresiva
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Cursor; Gestual; Sonido; Algoritmo
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Tipografía variable
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Gestual](/etiquetas/gestual/), [Sonido](/etiquetas/sonido/), [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

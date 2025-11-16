@@ -9,6 +9,8 @@ permalink: /referentes/abcdefghijklmnopqrstuvwxyz/
 
 **Jörg Piringer, 2010**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 abcdefghijklmnopqrstuvwxyz es una herramienta performativa en la que cada carácter del alfabeto funciona como una “criatura” autónoma. Estos glifos reaccionan a la gravedad, a la colisión con otras letras y a la interacción directa del usuario con la voz.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que ejemplifica un modelo donde los ca
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado; Sonido (voz)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/), [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N.C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

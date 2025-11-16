@@ -9,6 +9,8 @@ permalink: /referentes/hypha/
 
 **Pentagram, A2-TYPE y Counterpoint, 2020**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Hypha es un proyecto que utiliza un sistema generativo, inspirado en un proceso biológico, para crear una identidad visual dinámica para una exposición sobre hongos.
 
@@ -19,12 +21,12 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
 * **Institución:** Mushrooms: The Art, Design and Future of Fungi
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Cursor (sliders); Algoritmo (algoritmo que simula el crecimiento de los hongos)
-* **Tipo de output:** Generación tipográfica
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Algoritmo (algoritmo que simula el crecimiento de los hongos)](/etiquetas/algoritmo/)
+* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N.C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

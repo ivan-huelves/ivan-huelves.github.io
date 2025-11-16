@@ -9,6 +9,11 @@ permalink: /referentes/kinetic-instant-messenger/
 
 **Kerry Bodine y Mathilde Pignol, 2003**
 
+
+![Imagen de Kinetic Instant Messenger](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Kinetic Instant Messenger es un sistema de mensajería instantánea que incorpora tipografía para enriquecer la expresividad del texto. El sistema permitía aplicar efectos tipográficos animados en tiempo real para añadir matices emocionales a la conversación, superando las limitaciones expresivas de los emoticonos.
 
@@ -19,12 +24,11 @@ La relevancia para esta investigación es que el proyecto marcó un precedente e
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

@@ -9,6 +9,8 @@ permalink: /referentes/quarto/
 
 **Giacomo Bastianelli, 2022**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Quarto es un sistema de escritura musical que revisa el concepto de notación a partir de la tradición de la eye music de los años cincuenta. El sistema traduce datos sonoros, capturados mediante tecnología MIDI, en variaciones tipográficas en tiempo real, y se materializa tanto en un visual interactivo como en una publicación impresa.
 
@@ -19,13 +21,13 @@ La relevancia para esta investigación es que demuestra cómo la tipografía int
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** ECAL
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Sonido (tono, intensidad, ritmo)
-* **Tipo de output:** Transformación morfológica; Sonido
-* **Tecnología empleada:** Tipografía variable
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Sonido (tono, intensidad, ritmo)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Sonido](/etiquetas/sonido/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

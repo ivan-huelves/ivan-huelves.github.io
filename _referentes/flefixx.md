@@ -9,6 +9,8 @@ permalink: /referentes/flefixx/
 
 **Sun Young Oh, 2023**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Flefix es un proyecto que explora la creación de un lenguaje visual generativo a partir de la deconstrucción del lenguaje textual. El sistema traduce prefijos lingüísticos en componentes visuales combinatorios que forman una ilustración.
 
@@ -19,12 +21,12 @@ La relevancia de este proyecto para la investigación es que establece un preced
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental; Producto digital
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Institución:** HfG Karlsruhe
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Generación tipográfica (ilustrativa)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Generación tipográfica (ilustrativa)](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente P5.js o Javascript)
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No

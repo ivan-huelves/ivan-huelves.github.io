@@ -9,6 +9,8 @@ permalink: /referentes/phonoma/
 
 **Sandra Lara Baranera, 2017**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Phonoma es un proyecto que explora la intersección entre la fonética, la tipografía y la fabricación aditiva. El sistema traslada la variabilidad sonora de la voz a formas tipográficas tridimensionales que luego se materializan físicamente mediante impresión 3D.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (voz)
-* **Tipo de output:** Transformación morfológica; Materialización física
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Materialización física](/etiquetas/materializacion-fisica/)
 * **Tecnología empleada:** Diseño conceptual
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

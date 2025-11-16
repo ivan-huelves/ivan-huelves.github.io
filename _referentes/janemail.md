@@ -9,6 +9,11 @@ permalink: /referentes/janemail/
 
 **Yin Yin Wong, 1999**
 
+
+![Imagen de Janemail](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Temporal Typography es una investigación que explora cómo las variaciones de ritmo y forma a lo largo del tiempo pueden transmitir cualidades emocionales y el tono de voz del emisor. El proyecto utiliza el método de Presentación Visual Rápida en Serie (RSVP) no solo como una técnica de lectura, sino como una herramienta para dotar de personalidad y expresión al texto.
 
@@ -19,13 +24,13 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Reactivo. El sistema presenta variaciones temporales pre-diseñadas para evocar una emoción concreta.
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
-* **Tecnología empleada:** Desarrollo a medida; RSVP (Rapid SerInteligencia artificiall Visual Presentation)
+* **Grado de interactividad:** [Reactivo. El sistema presenta variaciones temporales pre-diseñadas para evocar una emoción concreta.](/etiquetas/reactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
+* **Tecnología empleada:** Desarrollo a medida, [RSVP (Rapid SerInteligencia artificiall Visual Presentation)](/etiquetas/visual/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

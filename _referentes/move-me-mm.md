@@ -9,6 +9,8 @@ permalink: /referentes/move-me-mm/
 
 **Lucas de Groot, 1994**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Move Me MM es una tipografía que utiliza la tecnología Multiple Master de una forma no prevista. Publicado en el número 11 de la revista Fuse, el proyecto permite al usuario controlar animaciones que deforman los glifos, haciéndolos metamorfosearse entre caracteres legibles e iconos gráficos abstractos.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Cursor (sliders)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Multiple Master
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

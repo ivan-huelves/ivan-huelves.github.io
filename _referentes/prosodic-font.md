@@ -9,6 +9,8 @@ permalink: /referentes/prosodic-font/
 
 **Tara Rosenberger, 1998**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Prosodic Font es un sistema experimental que traduce los parámetros prosódicos del habla (melodía y ritmo) en transformaciones tipográficas dinámicas. Para lograrlo, cada glifo no se trata como una forma única, sino que se descompone en trazos más básicos como las astas. Estos trazos se modifican en tiempo real en atributos como forma, tamaño, peso y orientación, de acuerdo con las variaciones de la señal de voz.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (tono, intensidad y ritmo)
-* **Tipo de output:** Transformación morfológica (tamaño; altura, anchura y grosor de glifos)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (tono, intensidad y ritmo)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica (tamaño](/etiquetas/transformacion-morfologica/), altura, anchura y grosor de glifos)
 * **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

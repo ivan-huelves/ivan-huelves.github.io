@@ -9,6 +9,8 @@ permalink: /referentes/cumulus-park/
 
 **Studio Dumbar/DEPT, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 La identidad de Cumulus Park articula conceptos de diversidad, adaptación e innovación a través de un sistema tipográfico. Las letras, formadas por partículas móviles, se transforman continuamente, evocando la idea del intercambio constante que define a esta comunidad.
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Algoritmo
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

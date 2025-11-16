@@ -9,6 +9,8 @@ permalink: /referentes/visual-grammar/
 
 **Isabel Lea, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Visual Grammar es un proyecto que se presenta como un referente temprano en la exploración de la tipografía variable aplicada a entornos interactivos. El proyecto se materializó en una instalación que demostraba el potencial de esta tecnología.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Datos externos (luz); Sonido (MIDI)
-* **Tipo de output:** Transformación morfológica; Transformación cromática
-* **Tecnología empleada:** Tipografía variable
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/), [Sonido (MIDI)](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

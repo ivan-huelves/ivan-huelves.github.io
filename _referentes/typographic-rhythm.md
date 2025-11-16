@@ -9,6 +9,8 @@ permalink: /referentes/typographic-rhythm/
 
 **Jonathan Puckey, 2005**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typographic Rhythm es un prototipo que explora la tipografía texturizada, recuperando la dimensión gestual de la caligrafía. La herramienta vincula la velocidad de tecleo del usuario con la variación tipográfica, seleccionando de forma automática entre 140 pesos diferentes de una fuente generada para el proyecto.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado (velocidad pulsación)
-* **Tipo de output:** Transformación morfológica (peso de la tipografía)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica (peso de la tipografía)](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

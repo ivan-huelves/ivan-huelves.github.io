@@ -9,6 +9,8 @@ permalink: /referentes/between-page-and-screen/
 
 **Amaranth Borsuk y Brad Bouse, 2012**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Between Page and Screen es una obra que hibrida un libro tradicional con una experiencia digital. El libro no contiene texto impreso, sino únicamente marcadores gráficos que, al ser enfocados con una cámara web, activan poemas animados en la pantalla, creando una especie de \"pop-up digital\".
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Instalación artística
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Visual (cámara), Controlador físico (movimiento del libro físico)
-* **Tipo de output:** Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual (cámara), Controlador físico (movimiento del libro físico)](/etiquetas/controlador-fisico/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Realidad Aumentada (basado en FLARToolKit)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

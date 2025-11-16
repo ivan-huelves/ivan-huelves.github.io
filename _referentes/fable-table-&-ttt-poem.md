@@ -9,6 +9,11 @@ permalink: /referentes/fable-table-&-ttt-poem/
 
 **Douglas Soo, 1997**
 
+
+![Imagen de Fable Table & TTT Poem](/images/referentes/Sacar del artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Estos experimentos exploran el uso de sensores de campo electromagnético como una interfaz de entrada alternativa. En TTT Poem, cuatro sensores se colocan bajo la superficie de un escritorio; a medida que el usuario mueve las manos sobre él, las letras de una palabra se desvanecen o aparecen en la pantalla del monitor. En Fable Table, los sensores se integran en una mesa de madera sobre la cual se proyectan imágenes; al colocar las manos sobre diferentes áreas, se activan objetos, sonidos y palabras que aparecen en una pequeña pantalla incrustada en la superficie.
 
@@ -19,13 +24,13 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental; Instalación artística
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (táctil, manos); Datos externos (sensores proximidad)
-* **Tipo de output:** Transformación espacial; Sonido
-* **Tecnología empleada:** Desarrollo a medida; Sistemas de computación física. Fable Table utiliza una mesa de madera con sensores infrarrojos y un proyector. TTT Poem emplea sensores de proximidad bajo una mesa que rastrean un transmisor de mano.
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (táctil, manos)](/etiquetas/gestual/), [Datos externos (sensores proximidad)](/etiquetas/datos-externos/)
+* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Sonido](/etiquetas/sonido/)
+* **Tecnología empleada:** Desarrollo a medida, Sistemas de computación física. Fable Table utiliza una mesa de madera con sensores infrarrojos y un proyector. TTT Poem emplea sensores de proximidad bajo una mesa que rastrean un transmisor de mano.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

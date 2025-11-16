@@ -9,6 +9,8 @@ permalink: /referentes/typevoice/
 
 **Ogilvy New York, 2016**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 TypeVoice es un sistema de generación tipográfica interactiva creado para una campaña de comunicación de los Webby Awards. La herramienta traduce las cualidades de la voz del usuario (tono, volumen, ritmo) en atributos de una fuente que se genera en tiempo real, convirtiendo la expresión vocal en una herramienta de diseño.
 
@@ -19,12 +21,12 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
 * **Institución:** Campaña promocional para los Webby People’s Voice Awards
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (voz)
-* **Tipo de output:** Generación tipográfica; Transformación morfológica; Transformación espacial
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

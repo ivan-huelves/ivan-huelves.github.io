@@ -9,6 +9,8 @@ permalink: /referentes/typeface-project/
 
 **Mary Huang, 2011**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typeface Project es un sistema que vincula el reconocimiento facial con la tipografía interactiva. El software captura gestos espontáneos del usuario, como una sonrisa, y los traduce en modificaciones dinámicas de los glifos en tiempo real.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (rostro, ojos y boca)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Processing; OpenCV
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (rostro, ojos y boca)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** Processing, OpenCV
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

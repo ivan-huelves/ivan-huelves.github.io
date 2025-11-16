@@ -9,6 +9,8 @@ permalink: /referentes/keyboard-type-control-y-voice-type-control/
 
 **David Small, 1990**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 La investigación \"Expressive Typography\" explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los glifos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo de la tipografía.
 
@@ -19,12 +21,12 @@ La relevancia de estos proyectos es que son precedentes fundamentales que sentar
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido (volumen); Teclado
-* **Tipo de output:** Transformación morfológica
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido (volumen)](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

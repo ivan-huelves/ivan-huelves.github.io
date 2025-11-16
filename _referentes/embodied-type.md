@@ -9,6 +9,8 @@ permalink: /referentes/embodied-type/
 
 **Janny Ji, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Embodied Type es un proyecto que explora la materialidad del texto a través de una doble instalación: una digital y otra física. La parte digital utiliza el seguimiento ocular (eye tracking) para que el usuario pueda \"tocar\" y deformar los caracteres con la mirada, mientras que la parte física consiste en una serie de tipografías escultóricas.
 
@@ -19,12 +21,12 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Pratt Institute
-* **Grado de interactividad:** Interactivo multimodal
-* **Tipo de input:** Visual (mirada); Gestual (glifos físicos)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Tipo de input:** [Visual (mirada)](/etiquetas/visual/), [Gestual (glifos físicos)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

@@ -9,6 +9,8 @@ permalink: /referentes/touch-type/
 
 **Richard Yee, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es una instalación interactiva donde la tipografía está compuesta por partículas que simulan el comportamiento de una bandada. El sistema utiliza un modelo de machine learning (PoseNet) para detectar el cuerpo del usuario, permitiéndole distorsionar los caracteres con sus manos o hacerlas desaparecer al alejarse de la cámara.
 
@@ -19,13 +21,13 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** Google
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Machine Learning; (PoseNet); Algoritmo de Flocking; WebGL
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** Machine Learning, (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), WebGL
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

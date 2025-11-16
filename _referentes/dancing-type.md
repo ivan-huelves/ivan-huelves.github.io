@@ -9,6 +9,8 @@ permalink: /referentes/dancing-type/
 
 **Dev Valladares, 2021**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Dancing Typography es una exploración de tipografía generada mediante machine learning que reacciona al sonido. El sistema utiliza un modelo de inteligencia artificial (StyleGAN 2) entrenado con una base de datos de 4.000 fuentes. Como resultado, la herramienta genera caracteres que se transforman y \"bailan\" en tiempo real al ritmo de la música.
 
@@ -19,13 +21,12 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Sonido
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Inteligencia artificial; Modelo StyleGAN 2; Lucid Sonic Dreams
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** Inteligencia artificial, Modelo StyleGAN 2, Lucid Sonic Dreams
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

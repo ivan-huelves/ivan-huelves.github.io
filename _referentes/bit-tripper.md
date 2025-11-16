@@ -9,6 +9,8 @@ permalink: /referentes/bit-tripper/
 
 **Counterpoint Studio, 2019**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Bit Tripper es un generador de tipografías bitmap creado como parte del proyecto de branding para el álbum Chain Tripping del grupo musical YACHT. El álbum fue compuesto en colaboración con artistas y, principalmente, con inteligencia artificial, y la tipografía sigue el mismo principio.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que el proyecto combina de forma magis
 ---
 
 ### Clasificación
-* **Función:** Identidad visual
-* **Contexto:** Branding
-* **Institución:** 
-* **Grado de interactividad:** Generativo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica
+* **Función:** [Identidad visual](/etiquetas/identidad-visual/)
+* **Contexto:** [Branding](/etiquetas/branding/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Inteligencia artificial
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí

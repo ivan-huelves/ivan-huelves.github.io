@@ -9,6 +9,8 @@ permalink: /referentes/handy-type/
 
 **Rozi Zhu y Haocheng Zhang, 2023**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Handy Type es un sistema que permite a cualquier usuario diseñar tipografía a través de gestos manuales. Mediante un sistema a medida que integra captura de movimiento e inteligencia artificial, los datos de las manos se traducen directamente en formas de carácter, convirtiendo la creación tipográfica en una experiencia accesible, lúdica y personalizada.
 
@@ -19,13 +21,12 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 ---
 
 ### Clasificación
-* **Función:** Sistema de diseño tipográfico
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (dedos y palma de la mano)
-* **Tipo de output:** Transformación morfológica
-* **Tecnología empleada:** Sistema de captura de movimiento; Inteligencia artificial; Desarrollo a medida
+* **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (dedos y palma de la mano)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
+* **Tecnología empleada:** Sistema de captura de movimiento, Inteligencia artificial, Desarrollo a medida
 * **Alfanumérica:** Si
 * **Mantiene codificación textual:** No
 

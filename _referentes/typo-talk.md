@@ -9,6 +9,11 @@ permalink: /referentes/typo-talk/
 
 **Soo, 1997**
 
+
+![Imagen de Typo Talk](/images/referentes/sin imágenes buscar artículo)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 Typo Talk es un sistema de mensajería en red, similar a un chat, que utiliza la tipografía como medio principal de comunicación. El usuario escribe un mensaje, selecciona una plantilla de estilo general y el sistema la aplica a cada palabra. Adicionalmente, el sistema consulta un diccionario para asignar plantillas tipográficas más específicas a términos concretos, automatizando así la generación del diseño en tiempo casi real.
 
@@ -19,12 +24,11 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 ---
 
 ### Clasificación
-* **Función:** Expresión paralingüística
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación cromática
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

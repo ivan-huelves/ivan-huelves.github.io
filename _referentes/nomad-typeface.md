@@ -9,6 +9,8 @@ permalink: /referentes/nomad-typeface/
 
 **Byoung-Il Choi, 2001**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Nomad Typeface es una tipografía interactiva donde cada carácter posee un comportamiento animado individual derivado de la superposición de formas circulares. El sistema responde dinámicamente a la escritura del usuario en el teclado, generando en tiempo real las animaciones correspondientes a cada letra.
 
@@ -19,12 +21,11 @@ La relevancia para esta investigación es que demuestra cómo el input del usuar
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Investigación / Experimental
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Teclado
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

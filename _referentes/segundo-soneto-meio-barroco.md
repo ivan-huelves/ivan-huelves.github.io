@@ -9,6 +9,8 @@ permalink: /referentes/segundo-soneto-meio-barroco/
 
 **Alckmar Luiz dos Santos y Gilbertto Prado, 2000**
 
+
+
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto explora la lectura de un poema dentro de un entorno tridimensional inmersivo, donde la tipografía se integra en el propio espacio virtual. Para su construcción se emplea la tecnología VRML, que permite que los caracteres adquieran volumen y profundidad.
 
@@ -19,12 +21,11 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 ---
 
 ### Clasificación
-* **Función:** Exploración formal y/o performativa
-* **Contexto:** Producto digital
-* **Institución:** 
-* **Grado de interactividad:** Interactivo
-* **Tipo de input:** Gestual (en entorno 3D)
-* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual (en entorno 3D)](/etiquetas/gestual/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** VRML
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
