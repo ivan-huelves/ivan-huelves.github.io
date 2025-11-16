@@ -4,12 +4,12 @@ title: "Takeluma"
 date: 2024-01-01
 author: "Peter Cho"
 year: "2005"
-function: "Expresión paralingüística"
-tech: "Desarrollo a medida"
-source_url: "Cho, P. (2005). Takeluma: An Exploration of Sound, Meaning, and Writing [MFA Thesis]. UCLA Department of Design | Media Arts."
+permalink: /referentes/takeluma/
 ---
 
-### Descripción
+**Peter Cho, 2005**
+
+### Relevancia en relación a la tipografía interactiva
 Takeluma es un sistema de escritura que propone un nuevo alfabeto fonético para el idioma inglés. El proyecto se fundamenta en la teoría del simbolismo sonoro (sound symbolism), que sostiene que los sonidos del habla no son arbitrarios y pueden evocar imágenes y emociones por sí mismos. Como instalación interactiva, el sistema traduce la voz del usuario en tiempo real, generando una línea continua de escritura visual que da forma a los fonemas pronunciados.
 
 Su principal aportación es la materialización de esta teoría lingüística en un sistema tipográfico funcional. Al crear un alfabeto donde la forma de cada signo deriva directamente de las propiedades acústicas y articulatorias de los fonemas —y no de una convención arbitraria—, el proyecto demuestra que la escritura puede visualizar los significados inherentes al sonido del habla.
@@ -18,11 +18,16 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Expresión paralingüística
 * **Contexto:** Instalación artística, Investigación / Experimental
-* **Input:** Sonido (voz)
-* **Output:** Generación tipográfica; Transformación espacial
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Sonido (voz)
+* **Tipo de output:** Generación tipográfica; Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** No
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="Cho, P. (2005). Takeluma: An Exploration of Sound, Meaning, and Writing [MFA Thesis]. UCLA Department of Design | Media Arts." target="_blank">🔗 Ver fuente original del proyecto</a>

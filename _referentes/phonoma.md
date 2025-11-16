@@ -4,12 +4,12 @@ title: "Phonoma"
 date: 2024-01-01
 author: "Sandra Lara Baranera"
 year: "2017"
-function: "Expresión paralingüística"
-tech: "Diseño conceptual"
-source_url: "https://ei.elisava.net/es/phonoma/"
+permalink: /referentes/phonoma/
 ---
 
-### Descripción
+**Sandra Lara Baranera, 2017**
+
+### Relevancia en relación a la tipografía interactiva
 Phonoma es un proyecto que explora la intersección entre la fonética, la tipografía y la fabricación aditiva. El sistema traslada la variabilidad sonora de la voz a formas tipográficas tridimensionales que luego se materializan físicamente mediante impresión 3D.
 
 Su principal aportación es la expansión del campo de la tipografía interactiva hacia el mundo tangible. El proyecto establece un vínculo directo y novedoso entre el input de la voz del usuario y la creación de un output físico, un glifo personalizado y único.
@@ -18,11 +18,16 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Expresión paralingüística
 * **Contexto:** Investigación / Experimental
-* **Input:** Sonido (voz)
-* **Output:** Transformación morfológica; Materialización física
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Sonido (voz)
+* **Tipo de output:** Transformación morfológica; Materialización física
+* **Tecnología empleada:** Diseño conceptual
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://ei.elisava.net/es/phonoma/" target="_blank">🔗 Ver fuente original del proyecto</a>

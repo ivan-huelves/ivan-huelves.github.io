@@ -4,12 +4,12 @@ title: "Hard Music Festival"
 date: 2024-01-01
 author: "Mikiko Yamabayashi"
 year: "2019"
-function: "Identidad visual"
-tech: "Processing"
-source_url: "https://mikikomikiko.com/Content-HARD-Music-Festival"
+permalink: /referentes/hard-music-festival/
 ---
 
-### Descripción
+**Mikiko Yamabayashi, 2019**
+
+### Relevancia en relación a la tipografía interactiva
 Este proyecto consiste en el desarrollo de una tipografía para la identidad visual del HARD Music Festival. El diseño de la fuente responde en tiempo real a parámetros sonoros del entorno, como el volumen, el tono y el ritmo de la música.
 
 Su principal aportación es que la tipografía no solo construye la identidad visual del evento, sino que la convierte en un sistema dinámico y sensible al ambiente musical. De esta manera, la interactividad se integra como una parte esencial de la experiencia de marca.
@@ -18,11 +18,16 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Identidad visual
 * **Contexto:** Branding
-* **Input:** Sonido
-* **Output:** Transformación morfológica
+* **Institución:** 
 * **Grado de interactividad:** Interactivo multimodal
+* **Tipo de input:** Sonido
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://mikikomikiko.com/Content-HARD-Music-Festival" target="_blank">🔗 Ver fuente original del proyecto</a>

@@ -4,12 +4,12 @@ title: "Phase"
 date: 2024-01-01
 author: "Elias Hanzer y Florian Zia"
 year: "2018"
-function: "Sistema de diseño tipográfico"
-tech: "Tipografía variable"
-source_url: "https://www.eliashanzer.com/phase/"
+permalink: /referentes/phase/
 ---
 
-### Descripción
+**Elias Hanzer y Florian Zia, 2018**
+
+### Relevancia en relación a la tipografía interactiva
 Phase es una herramienta web para el diseño tipográfico modular construida a partir de tipografías variables. El sistema permite controlar sus ejes de variación en tiempo real mediante la voz o deslizadores, modificando los caracteres sin perder la codificación textual. Además, ofrece la posibilidad de descargar las instancias estáticas de la fuente que se generan.
 
 Su principal aportación es que hace accesible el diseño de tipografías experimentales a usuarios sin conocimientos de programación. El sistema permite generar nuevas variantes a partir de la adición y mezcla de tipografías existentes. El carácter innovador del proyecto fue reconocido con el SOTA Catalyst Award en 2018.
@@ -18,11 +18,16 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Sistema de diseño tipográfico
 * **Contexto:** Producto digital
-* **Input:** Cursor (sliders); Sonido (micrófono).
-* **Output:** Transformación morfológica
+* **Institución:** 
 * **Grado de interactividad:** Interactivo multimodal
+* **Tipo de input:** Cursor (sliders); Sonido (micrófono).
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Tipografía variable
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente original del proyecto</a>

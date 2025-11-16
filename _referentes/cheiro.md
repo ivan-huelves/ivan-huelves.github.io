@@ -4,12 +4,12 @@ title: "Cheiro"
 date: 2024-01-01
 author: "Francis Lam"
 year: "2006"
-function: "Expresión paralingüística"
-tech: "N. C. (probablemente desarrollo a medida)"
-source_url: "Lam, F. (2006). Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/36156"
+permalink: /referentes/cheiro/
 ---
 
-### Descripción
+**Francis Lam, 2006**
+
+### Relevancia en relación a la tipografía interactiva
 Cheiro es un sistema de comunicación textual expresiva que investiga la tipografía antropomórfica. El sistema permite al usuario imbuir al texto de cualidades gestuales a través de sus propios movimientos, capturados mediante un dispositivo de puntero.
 
 Su principal aportación es la creación de un modelo donde los caracteres se comportan como entidades vivas. El sistema mapea los datos del movimiento del usuario (velocidad, aceleración, dirección) a los comportamientos de la tipografía, permitiéndole moverse, reaccionar y expresar \"emociones\" de forma análoga a un cuerpo.
@@ -18,11 +18,16 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Expresión paralingüística
 * **Contexto:** Investigación / Experimental
-* **Input:** Cursor; Teclado
-* **Output:** Transformación espacial; Transformación morfológica
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Cursor; Teclado
+* **Tipo de output:** Transformación espacial; Transformación morfológica
+* **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="Lam, F. (2006). Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/36156" target="_blank">🔗 Ver fuente original del proyecto</a>

@@ -4,12 +4,12 @@ title: "Rio Carnaval"
 date: 2024-01-01
 author: "Tatil Design"
 year: "2022"
-function: "Identidad visual"
-tech: "Desarrollo a medida"
-source_url: "https://tatil.com.br/asterisco/portfolio/rio-carnaval-2022/"
+permalink: /referentes/rio-carnaval/
 ---
 
-### Descripción
+**Tatil Design, 2022**
+
+### Relevancia en relación a la tipografía interactiva
 Este proyecto es una identidad visual interactiva desarrollada para el Carnaval de Río. El sistema tipográfico fue concebido para reaccionar en tiempo real a la voz, a los instrumentos, a los gestos táctiles o a los clics del ratón, traduciendo estos inputs en formas y colores que reproducen el ritmo y la energía del samba.
 
 Su principal aportación es la integración de múltiples y diversos inputs que convierten el logotipo en un organismo vivo que refleja la vitalidad de la comunidad carnavalesca. El impacto de esta innovadora aproximación al branding ha sido reconocido internacionalmente con dos galardones en los D&AD Awards 2022 y un Merit en The One Show 2022.
@@ -18,11 +18,16 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Identidad visual
 * **Contexto:** Branding
-* **Input:** Sonido; Controlador físico (táctil)
-* **Output:** Transformación morfológica; Transformación cromática; Transformación espacial
+* **Institución:** 
 * **Grado de interactividad:** Interactivo multimodal
+* **Tipo de input:** Sonido; Controlador físico (táctil)
+* **Tipo de output:** Transformación morfológica; Transformación cromática; Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://tatil.com.br/asterisco/portfolio/rio-carnaval-2022/" target="_blank">🔗 Ver fuente original del proyecto</a>

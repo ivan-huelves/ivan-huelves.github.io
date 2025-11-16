@@ -4,12 +4,12 @@ title: "Visual Grammar"
 date: 2024-01-01
 author: "Isabel Lea"
 year: "2019"
-function: "Exploración formal y/o performativa"
-tech: "Tipografía variable"
-source_url: "https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments"
+permalink: /referentes/visual-grammar/
 ---
 
-### Descripción
+**Isabel Lea, 2019**
+
+### Relevancia en relación a la tipografía interactiva
 Visual Grammar es un proyecto que se presenta como un referente temprano en la exploración de la tipografía variable aplicada a entornos interactivos. El proyecto se materializó en una instalación que demostraba el potencial de esta tecnología.
 
 Su principal aportación es la conexión de la experimentación artística con posibles derivaciones prácticas. El proyecto abrió debates sobre la aplicación de la tipografía interactiva en contextos sociales como el subtitulado en tiempo real, la educación infantil o las terapias del habla.
@@ -18,11 +18,16 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Input:** Datos externos (luz); Sonido (MIDI)
-* **Output:** Transformación morfológica; Transformación cromática
+* **Institución:** 
 * **Grado de interactividad:** Interactivo multimodal
+* **Tipo de input:** Datos externos (luz); Sonido (MIDI)
+* **Tipo de output:** Transformación morfológica; Transformación cromática
+* **Tecnología empleada:** Tipografía variable
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments" target="_blank">🔗 Ver fuente original del proyecto</a>

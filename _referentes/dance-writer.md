@@ -4,12 +4,12 @@ title: "Dance Writer"
 date: 2024-01-01
 author: "Peter Biľak"
 year: "2009"
-function: "Exploración formal y/o performativa"
-tech: "N. C."
-source_url: "https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon"
+permalink: /referentes/dance-writer/
 ---
 
-### Descripción
+**Peter Biľak, 2009**
+
+### Relevancia en relación a la tipografía interactiva
 Dance Writer es un proyecto que convierte el texto en una coreografía de danza. El sistema funciona a partir de un alfabeto predefinido donde cada carácter del alfabeto latino corresponde a una postura corporal específica, grabada previamente en vídeo por una bailarina.
 
 Su principal aportación es que el acto de escribir activa una secuencia de estos vídeos pregrabados, componiendo las palabras letra por letra a través del movimiento de la bailarina. De esta forma, la tipografía se convierte en una performance coreografiada que se reproduce a demanda del usuario.
@@ -18,11 +18,16 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Instalación artística
-* **Input:** Teclado
-* **Output:** Transformación espacial; Generación tipográfica
+* **Institución:** Bienal ExperimentaDesign Lisboa
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Teclado
+* **Tipo de output:** Transformación espacial; Generación tipográfica
+* **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon" target="_blank">🔗 Ver fuente original del proyecto</a>

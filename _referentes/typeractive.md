@@ -4,12 +4,12 @@ title: "Typeractive"
 date: 2024-01-01
 author: "Peter Sungil Cho"
 year: "1999"
-function: "Exploración formal y/o performativa"
-tech: "N. C. (Probablemente Desarrollo a medida)"
-source_url: "Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/61105"
+permalink: /referentes/typeractive/
 ---
 
-### Descripción
+**Peter Sungil Cho, 1999**
+
+### Relevancia en relación a la tipografía interactiva
 Typeractive es un experimento de tipografía tridimensional donde el usuario escribe en el teclado y un carácter en primer plano transita de una forma a otra. Mientras la letra principal se transforma, va oscilando lentamente para mostrar su tridimensionalidad. Simultáneamente, el texto que se escribe aparece en formato de mapa de bits en el fondo de la pantalla.
 
 Su principal aportación es la exploración pionera de la transición morfológica entre caracteres en un espacio 3D, activada directamente por la escritura del usuario.
@@ -18,11 +18,16 @@ La relevancia de este proyecto para la investigación reside en que es una de la
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Input:** Teclado
-* **Output:** Transformación morfológica; Transformación espacial
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Teclado
+* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Tecnología empleada:** N. C. (Probablemente Desarrollo a medida)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/61105" target="_blank">🔗 Ver fuente original del proyecto</a>

@@ -4,12 +4,12 @@ title: "A Font is a Percussion Instrument"
 date: 2024-01-01
 author: "Rob Stenson"
 year: "2023"
-function: "Exploración formal y/o performativa"
-tech: "Python; Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido"
-source_url: "https://vimeo.com/864468653"
+permalink: /referentes/a-font-is-a-percussion-instrument/
 ---
 
-### Descripción
+**Rob Stenson, 2023**
+
+### Relevancia en relación a la tipografía interactiva
 Este trabajo se centra en el desarrollo de Coldtype, una librería de código abierto en Python para la composición y animación tipográfica mediante programación. El sistema está diseñado para explorar la relación entre la tipografía y la música.
 
 Su principal aportación es la creación de una herramienta especializada que permite definir con código las relaciones entre parámetros sonoros (como datos MIDI) y los ejes de variación de una fuente. Esto posibilita que las letras funcionen, en palabras de su creador, como \"instrumentos de percusión\".
@@ -18,11 +18,16 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Input:** Sonido
-* **Output:** Transformación morfológica; Transformación espacial
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Sonido
+* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Tecnología empleada:** Python; Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://vimeo.com/864468653" target="_blank">🔗 Ver fuente original del proyecto</a>

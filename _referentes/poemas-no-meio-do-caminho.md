@@ -4,12 +4,12 @@ title: "Poemas no meio do caminho"
 date: 2024-01-01
 author: "Rui Torres"
 year: "2008"
-function: "Exploración formal y/o performativa"
-tech: "Actionscript 3.0"
-source_url: "https://telepoesis.net/caminho/"
+permalink: /referentes/poemas-no-meio-do-caminho/
 ---
 
-### Descripción
+**Rui Torres, 2008**
+
+### Relevancia en relación a la tipografía interactiva
 Poemas no meio do caminho es una obra de literatura digital que propone una experiencia de lectura espacial. El proyecto sitúa al usuario en un entorno panorámico interactivo por el que debe navegar para encontrar y construir los textos. A través de la exploración de este espacio virtual, el lector interactúa con fragmentos poéticos cuya aparición y sintaxis varían dinámicamente, rompiendo con la linealidad tradicional del soporte estático.
 
 Su principal aportación es la transformación del acto de lectura en una experiencia de exploración espacial. La obra convierte al lector en un sujeto activo que debe recorrer literalmente el camino para que el poema emerja, fusionando la lírica con la navegación inmersiva.
@@ -18,11 +18,16 @@ La relevancia para esta investigación reside en su planteamiento de la lectura 
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Input:** Cursor
-* **Output:** Transformación morfológica; Transformación espacial
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Cursor
+* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Tecnología empleada:** Actionscript 3.0
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://telepoesis.net/caminho/" target="_blank">🔗 Ver fuente original del proyecto</a>

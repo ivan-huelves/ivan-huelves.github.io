@@ -4,12 +4,12 @@ title: "Embodied Type"
 date: 2024-01-01
 author: "Janny Ji"
 year: "2019"
-function: "Exploración formal y/o performativa"
-tech: "Processing"
-source_url: "https://jannyji.com/Embodied-Type"
+permalink: /referentes/embodied-type/
 ---
 
-### Descripción
+**Janny Ji, 2019**
+
+### Relevancia en relación a la tipografía interactiva
 Embodied Type es un proyecto que explora la materialidad del texto a través de una doble instalación: una digital y otra física. La parte digital utiliza el seguimiento ocular (eye tracking) para que el usuario pueda \"tocar\" y deformar los caracteres con la mirada, mientras que la parte física consiste en una serie de tipografías escultóricas.
 
 Su aportación fundamental reside en el uso de la mirada como interfaz para simular el sentido del tacto, permitiendo al usuario \"tocar\" y deformar los caracteres con sus ojos. Esta aproximación innovadora ha sido reconocida con un premio al mérito en los Young Ones ADC de 2020 y con su selección para el STA 100 de 2019.
@@ -18,11 +18,16 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Input:** Visual (mirada); Gestual (glifos físicos)
-* **Output:** Transformación morfológica; Transformación espacial
+* **Institución:** Pratt Institute
 * **Grado de interactividad:** Interactivo multimodal
+* **Tipo de input:** Visual (mirada); Gestual (glifos físicos)
+* **Tipo de output:** Transformación morfológica; Transformación espacial
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://jannyji.com/Embodied-Type" target="_blank">🔗 Ver fuente original del proyecto</a>

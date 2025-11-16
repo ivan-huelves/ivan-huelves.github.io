@@ -4,12 +4,12 @@ title: "Responsive Typography with Viewing Distance Detection"
 date: 2024-01-01
 author: "Marko Dugonjić"
 year: "2013"
-function: "Accesibilidad"
-tech: "JavaScript; librería headtrackr.js; CSS"
-source_url: "https://webdesign.maratz.com/lab/responsivetypography/"
+permalink: /referentes/responsive-typography-with-viewing-distance-detection/
 ---
 
-### Descripción
+**Marko Dugonjić, 2013**
+
+### Relevancia en relación a la tipografía interactiva
 Este proyecto es un experimento web que ajusta dinámicamente el tamaño de la tipografía en función de la distancia del lector a la pantalla. Utilizando la cámara web para detectar la posición del usuario, el sistema aumenta o disminuye el cuerpo del texto para mantener una legibilidad constante.
 
 Su principal aportación es la implementación de un sistema que responde a un factor ergonómico fundamental para la legibilidad: la distancia. Es una solución práctica que demuestra cómo la tipografía puede adaptarse dinámicamente a la posición del usuario en el espacio.
@@ -18,11 +18,16 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Accesibilidad
 * **Contexto:** Investigación / Experimental
-* **Input:** Visual (reconocimiento facial)
-* **Output:** Transformación morfológica
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Visual (reconocimiento facial)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** JavaScript; librería headtrackr.js; CSS
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://webdesign.maratz.com/lab/responsivetypography/" target="_blank">🔗 Ver fuente original del proyecto</a>

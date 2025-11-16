@@ -4,12 +4,12 @@ title: "Real-time Conversations"
 date: 2024-01-01
 author: "Yin Yin Wong"
 year: "1995"
-function: "Accesibilidad"
-tech: "Desarrollo a medida"
-source_url: "Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102"
+permalink: /referentes/real-time-conversations/
 ---
 
-### Descripción
+**Yin Yin Wong, 1995**
+
+### Relevancia en relación a la tipografía interactiva
 Este proyecto explora dos soluciones para representar conversaciones en tiempo real: un modelo que centraliza los mensajes en un área común de lectura (Flying chat) y otro que los asocia a la identidad individual de cada interlocutor (Focus chat).
 
 Su principal aportación es la comparación directa entre un modelo de visualización convergente, que prioriza el flujo rítmico de la conversación, y un modelo distribuido, que preserva la identidad de los hablantes, utilizando el movimiento para guiar la atención.
@@ -18,11 +18,16 @@ La relevancia de estos experimentos es que abordan de manera temprana los desaf�
 
 ---
 
-### Detalles del Proyecto
+### Clasificación
+* **Función:** Accesibilidad
 * **Contexto:** Investigación / Experimental; Producto digital
-* **Input:** Teclado
-* **Output:** Transformación espacial
+* **Institución:** 
 * **Grado de interactividad:** Interactivo
+* **Tipo de input:** Teclado
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** N. C.
 
 <br>
 <a href="Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102" target="_blank">🔗 Ver fuente original del proyecto</a>
