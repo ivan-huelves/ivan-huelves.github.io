@@ -32,3 +32,6 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 
 <br>
 <a href="https://indestructibletype.com/Gnomon.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">← Anterior<br><small>Giving Character to Characters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gravient/">Siguiente →<br><small>Gravient</small></a></div></div>

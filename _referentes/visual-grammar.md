@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 <br>
 <a href="https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">← Anterior<br><small>Visual Chronicles of Abya Yala</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/wet-fonts/">Siguiente →<br><small>Wet Fonts</small></a></div></div>

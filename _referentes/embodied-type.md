@@ -33,3 +33,6 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 
 <br>
 <a href="https://jannyji.com/Embodied-Type" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">← Anterior<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-realidad-aumentada/">Siguiente →<br><small>Experimentos de Tipografía en Realidad Aumentada</small></a></div></div>

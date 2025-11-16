@@ -33,3 +33,6 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 
 <br>
 <a href="https://www.malloryrichey.com/experiential/interactive-book" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/in-order-to-control/">← Anterior<br><small>In Order to Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-typography/">Siguiente →<br><small>Interactive Typography</small></a></div></div>

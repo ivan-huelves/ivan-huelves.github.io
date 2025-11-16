@@ -33,3 +33,6 @@ La relevancia para esta investigación es que establece un precedente claro para
 
 <br>
 <a href="https://www.anaestrada.es/danafont/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cymatics-typeface/">← Anterior<br><small>Cymatics Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dance-writer/">Siguiente →<br><small>Dance Writer</small></a></div></div>

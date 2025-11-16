@@ -32,3 +32,6 @@ La relevancia para esta investigación es que constituye un antecedente fundamen
 
 <br>
 <a href="https://www.typotopo.com/work/type-me-type-me-not" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-machine/">← Anterior<br><small>Type Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-dynamics/">Siguiente →<br><small>Type/dynamics</small></a></div></div>

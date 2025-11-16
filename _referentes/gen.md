@@ -32,3 +32,6 @@ La relevancia para esta investigación es que destaca el potencial creativo de l
 
 <br>
 <a href="https://gt.kyuhashim.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/font-remix-project/">← Anterior<br><small>Font Remix Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/genoma-grotesk/">Siguiente →<br><small>Genoma Grotesk</small></a></div></div>

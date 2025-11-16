@@ -33,3 +33,6 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 
 <br>
 <a href="https://maedastudio.com/the-five-reactive-books/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/quarto/">← Anterior<br><small>Quarto</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-typography/">Siguiente →<br><small>Reactive Typography</small></a></div></div>

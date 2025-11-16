@@ -32,3 +32,6 @@ La relevancia para esta investigación radica en que explora la interacción del
 
 <br>
 <a href="https://www.guggenheim-bilbao.eus/la-coleccion/obras/like-beauty-in-flames" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/letterspace/">← Anterior<br><small>Letterspace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/live-letters/">Siguiente →<br><small>Live Letters</small></a></div></div>

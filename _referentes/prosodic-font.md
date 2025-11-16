@@ -32,3 +32,6 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 
 <br>
 <a href="Rosenberger, T. (1998). Prosodic Font. The Space between the Spoken and the Written [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/62340" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">← Anterior<br><small>Poemas no meio do caminho</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/quarto/">Siguiente →<br><small>Quarto</small></a></div></div>

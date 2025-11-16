@@ -32,3 +32,6 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 
 <br>
 <a href="https://tokyotypedirectorsclub.org/en/award/2001_interactive/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">← Anterior<br><small>Alphabet Synthesis Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/amsteldok/">Siguiente →<br><small>Amsteldok</small></a></div></div>

@@ -33,3 +33,6 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 
 <br>
 <a href="https://www.denniskung.work/new-page" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeractive/">← Anterior<br><small>Typeractive</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typo-talk/">Siguiente →<br><small>Typo Talk</small></a></div></div>

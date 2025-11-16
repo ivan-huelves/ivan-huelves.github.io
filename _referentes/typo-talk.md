@@ -35,3 +35,6 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 
 <br>
 <a href="Soo, D. (1997). Implementation of a temporal typography system [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/10274" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typevoice/">← Anterior<br><small>TypeVoice</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typographic-rhythm/">Siguiente →<br><small>Typographic Rhythm</small></a></div></div>

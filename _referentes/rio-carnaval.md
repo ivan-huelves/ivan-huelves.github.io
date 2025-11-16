@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 
 <br>
 <a href="https://tatil.com.br/asterisco/portfolio/rio-carnaval-2022/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/responsive-typography-with-viewing-distance-detection/">← Anterior<br><small>Responsive Typography with Viewing Distance Detection</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">Siguiente →<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div></div>

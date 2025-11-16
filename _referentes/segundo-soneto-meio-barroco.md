@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 
 <br>
 <a href="https://enciclopedia.itaucultural.org.br/pessoas/9686-alckmar-luiz-dos-santos" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/screen-profile/">← Anterior<br><small>Screen Profile</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">Siguiente →<br><small>Sound-Reactive Typeface</small></a></div></div>

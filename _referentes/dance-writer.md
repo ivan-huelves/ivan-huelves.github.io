@@ -33,3 +33,6 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 
 <br>
 <a href="https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dancing-type/">Siguiente →<br><small>Dancing Type</small></a></div></div>

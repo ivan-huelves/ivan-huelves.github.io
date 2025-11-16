@@ -32,3 +32,6 @@ La relevancia para esta investigación es que ejemplifica un modelo donde los ca
 
 <br>
 <a href="https://joerg.piringer.net/index.php?href=performance/abcdefghijklmnopqrstuvwxyz.xml" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">← Anterior<br><small>A Font is a Percussion Instrument</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">Siguiente →<br><small>Alphabet Synthesis Machine</small></a></div></div>

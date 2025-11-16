@@ -32,3 +32,6 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 
 <br>
 <a href="https://www.davidsmall.com/documenta-11" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hypha/">← Anterior<br><small>Hypha</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>

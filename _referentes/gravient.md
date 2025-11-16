@@ -32,3 +32,6 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 
 <br>
 <a href="https://www.itsnicethat.com/articles/practica-the-next-point-of-view-gravient-identity-interactive-160518" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gnomon/">← Anterior<br><small>Gnomon</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/handy-type/">Siguiente →<br><small>Handy Type</small></a></div></div>

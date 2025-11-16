@@ -32,3 +32,6 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 
 <br>
 <a href="https://jonathanpuckey.com/projects/typographic-rhythm/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typo-talk/">← Anterior<br><small>Typo Talk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">Siguiente →<br><small>Visual Chronicles of Abya Yala</small></a></div></div>

@@ -36,3 +36,6 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 
 <br>
 <a href="Lam, F. (2006). Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/36156" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cumulus-park/">Siguiente →<br><small>Cumulus Park</small></a></div></div>

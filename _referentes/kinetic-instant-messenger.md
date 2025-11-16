@@ -35,3 +35,6 @@ La relevancia para esta investigación es que el proyecto marcó un precedente e
 
 <br>
 <a href="Bodine, K., & Pignol, M. (2003). Kinetic typography-based instant messaging. CHI ’03 Extended Abstracts on Human Factors in Computing Systems  - CHI ’03, 914. https://doi.org/10.1145/765891.766067" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">← Anterior<br><small>Keyboard Type Control y Voice Type Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laika/">Siguiente →<br><small>Laika</small></a></div></div>

@@ -36,3 +36,6 @@ La relevancia de este trabajo reside en su enfoque pionero que fusiona el conten
 
 <br>
 <a href="Lewis, J. E. (1996). Dynamic poetry. Introductory Remarks to a Digital Medium. Royal College of Art." target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/embodied-type/">Siguiente →<br><small>Embodied Type</small></a></div></div>

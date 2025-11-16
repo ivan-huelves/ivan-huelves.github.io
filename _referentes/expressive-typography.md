@@ -32,3 +32,6 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 
 <br>
 <a href="Ishizaki, S. (1996). Typographic Performance. Continuous Design Solutions as Emergent Behaviors of Active Agents [Doctoral dissertation, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29105" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-realidad-aumentada/">← Anterior<br><small>Experimentos de Tipografía en Realidad Aumentada</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>

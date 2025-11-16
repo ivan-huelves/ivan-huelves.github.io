@@ -32,3 +32,6 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 
 <br>
 <a href="https://wenzeldaniel.com/w_gintogx.php" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/genoma-grotesk/">← Anterior<br><small>Genoma Grotesk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">Siguiente →<br><small>Giving Character to Characters</small></a></div></div>

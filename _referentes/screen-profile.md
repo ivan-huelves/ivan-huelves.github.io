@@ -33,3 +33,6 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 
 <br>
 <a href="https://if50.substack.com/p/2002-screen" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">← Anterior<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">Siguiente →<br><small>Segundo Soneto Meio Barroco</small></a></div></div>

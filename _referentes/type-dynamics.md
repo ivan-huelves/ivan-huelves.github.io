@@ -32,3 +32,6 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 
 <br>
 <a href="https://rndr.studio/projects/type-dynamics/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">← Anterior<br><small>Type Me, Type Me Not</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeface-project/">Siguiente →<br><small>Typeface Project</small></a></div></div>

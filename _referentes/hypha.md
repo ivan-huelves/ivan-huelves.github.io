@@ -34,3 +34,6 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 <br>
 <a href="https://hyphahypha.com/
 https://mushrooms.ctpt.co/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/holopoetry/">← Anterior<br><small>Holopoetry</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">Siguiente →<br><small>Illuminated Manuscript</small></a></div></div>

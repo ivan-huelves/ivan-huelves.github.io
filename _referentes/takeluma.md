@@ -32,3 +32,6 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 
 <br>
 <a href="Cho, P. (2005). Takeluma: An Exploration of Sound, Meaning, and Writing [MFA Thesis]. UCLA Department of Design | Media Arts." target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/symphosizer/">← Anterior<br><small>Symphosizer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/talmud-project/">Siguiente →<br><small>Talmud Project</small></a></div></div>

@@ -35,3 +35,6 @@ La relevancia para esta investigación es que establece un modelo riguroso para 
 
 <br>
 <a href="Castro, J. C. e, Martins, P., Boavida, A., & Machado, P. (2020). «Máquina de Ouver» - From Sound to Type: Finding the Visual Representation of Speech by Mapping Sound Features to Typographic Variables. Proceedings of the 9th International Conference on Digital and Interactive Arts, 1-8. https://doi.org/10.1145/3359852.3359892" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/look-hear/">← Anterior<br><small>Look/Hear</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/move-me-mm/">Siguiente →<br><small>Move Me MM</small></a></div></div>

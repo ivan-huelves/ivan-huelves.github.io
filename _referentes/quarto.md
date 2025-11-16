@@ -33,3 +33,6 @@ La relevancia para esta investigación es que demuestra cómo la tipografía int
 
 <br>
 <a href="https://ecal.ch/en/feed/projects/7099/quarto/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/prosodic-font/">← Anterior<br><small>Prosodic Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">Siguiente →<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div></div>

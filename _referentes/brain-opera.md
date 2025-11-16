@@ -33,3 +33,6 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 
 <br>
 <a href="Small, D. L. (1999). Rethinking the book." target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/bit-tripper/">← Anterior<br><small>Bit Tripper</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cheiro/">Siguiente →<br><small>Cheiro</small></a></div></div>

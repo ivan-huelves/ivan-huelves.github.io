@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 
 <br>
 <a href="https://mikikomikiko.com/Content-HARD-Music-Festival" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/handy-type/">← Anterior<br><small>Handy Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/holopoetry/">Siguiente →<br><small>Holopoetry</small></a></div></div>

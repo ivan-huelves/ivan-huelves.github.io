@@ -32,3 +32,6 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 
 <br>
 <a href="http://www.flong.com/archive/projects/alphabet/index.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabot/">Siguiente →<br><small>Alphabot</small></a></div></div>

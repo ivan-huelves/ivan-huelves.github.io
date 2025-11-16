@@ -32,3 +32,6 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 
 <br>
 <a href="https://mary-huang.com/projects/typeface/typeface.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-dynamics/">← Anterior<br><small>Type/dynamics</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeractive/">Siguiente →<br><small>Typeractive</small></a></div></div>

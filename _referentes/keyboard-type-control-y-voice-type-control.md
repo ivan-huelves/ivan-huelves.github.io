@@ -33,3 +33,6 @@ La relevancia de estos proyectos es que son precedentes fundamentales que sentar
 
 <br>
 <a href="Small, D. (1990). Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/14011" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/janemail/">← Anterior<br><small>Janemail</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">Siguiente →<br><small>Kinetic Instant Messenger</small></a></div></div>

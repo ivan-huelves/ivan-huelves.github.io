@@ -33,3 +33,6 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 
 <br>
 <a href="https://experiments.withgoogle.com/touch-type" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">← Anterior<br><small>Tipografía generativa (talleres)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>

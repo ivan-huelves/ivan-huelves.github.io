@@ -33,3 +33,6 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 
 <br>
 <a href="Small, D. L. (1999). Rethinking the book." target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/takeluma/">← Anterior<br><small>Takeluma</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/text-rain/">Siguiente →<br><small>Text Rain</small></a></div></div>

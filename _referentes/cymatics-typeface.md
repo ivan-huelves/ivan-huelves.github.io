@@ -32,3 +32,6 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 
 <br>
 <a href="https://www.behance.net/gallery/37465739/Cymatics-Typeface" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cumulus-park/">← Anterior<br><small>Cumulus Park</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dana-font/">Siguiente →<br><small>Dana Font</small></a></div></div>

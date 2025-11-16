@@ -33,3 +33,6 @@ Aunque se trata de un serie de talleres, su relevancia reside en la figura de An
 <br>
 <a href="https://www.annacarreras.com/generative-typography/
 https://www.annacarreras.com/alphabet/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">← Anterior<br><small>The Guide To Be Seen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>

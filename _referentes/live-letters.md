@@ -32,3 +32,6 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 
 <br>
 <a href="https://medium.com/live-letters/live-letters-strike-a-pose-get-a-letter-e7bcadcc8cd7" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">← Anterior<br><small>Like Beauty in Flames</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/lmnop/">Siguiente →<br><small>LMNOP</small></a></div></div>

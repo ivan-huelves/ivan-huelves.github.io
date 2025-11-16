@@ -33,3 +33,6 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 
 <br>
 <a href="https://lorraine.li/bigdot/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/flefixx/">← Anterior<br><small>Flefixx</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gen/">Siguiente →<br><small>GEN</small></a></div></div>

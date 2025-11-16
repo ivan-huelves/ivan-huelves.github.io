@@ -36,3 +36,6 @@ La relevancia de este proyecto reside en su tratamiento pionero de la pantalla c
 
 <br>
 <a href="Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dancing-type/">← Anterior<br><small>Dancing Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">Siguiente →<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div></div>

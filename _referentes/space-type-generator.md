@@ -32,3 +32,6 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 
 <br>
 <a href="https://spacetypegenerator.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">← Anterior<br><small>Sound-Reactive Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>

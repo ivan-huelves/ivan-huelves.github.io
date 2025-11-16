@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 
 <br>
 <a href="https://amuki.com.ec/abya-yala/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typographic-rhythm/">← Anterior<br><small>Typographic Rhythm</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-grammar/">Siguiente →<br><small>Visual Grammar</small></a></div></div>

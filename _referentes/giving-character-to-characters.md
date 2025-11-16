@@ -36,3 +36,6 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 
 <br>
 <a href="The, R. (2010). Subjectified: Personification as a design strategy in visual communication [Massachusetts Institute of Technology. Dept. of Architecture. Program in Media Arts and Sciences.]. http://hdl.handle.net/1721.1/62083" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gintogx/">← Anterior<br><small>GintoGX</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gnomon/">Siguiente →<br><small>Gnomon</small></a></div></div>

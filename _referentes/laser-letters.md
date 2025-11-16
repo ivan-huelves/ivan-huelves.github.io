@@ -33,3 +33,6 @@ La relevancia de este proyecto para la investigación reside en el tratamiento d
 
 <br>
 <a href="https://github.com/ffd8/laser_letters" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laika/">← Anterior<br><small>Laika</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>

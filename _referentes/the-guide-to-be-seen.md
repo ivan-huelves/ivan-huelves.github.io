@@ -32,3 +32,6 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 
 <br>
 <a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">← Anterior<br><small>The Climate Crisis Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>

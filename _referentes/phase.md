@@ -32,3 +32,6 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 
 <br>
 <a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/performa/">← Anterior<br><small>Performa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phonoma/">Siguiente →<br><small>Phonoma</small></a></div></div>

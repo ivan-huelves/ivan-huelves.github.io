@@ -35,3 +35,6 @@ La relevancia de este experimento es que establece un precedente metodológico p
 
 <br>
 <a href="Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/wet-fonts/">← Anterior<br><small>Wet Fonts</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/your-typeface/">Siguiente →<br><small>Your Typeface</small></a></div></div>

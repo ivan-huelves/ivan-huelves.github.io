@@ -32,3 +32,6 @@ La relevancia para esta investigación es que se trata de un ejemplo de tipograf
 
 <br>
 <a href="https://github.com/cmiscm/leonsans" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laser-letters/">← Anterior<br><small>Laser Letters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letter-dance/">Siguiente →<br><small>Letter Dance</small></a></div></div>

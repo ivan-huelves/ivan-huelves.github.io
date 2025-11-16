@@ -32,3 +32,6 @@ La relevancia para esta investigación es que demuestra cómo el input del usuar
 
 <br>
 <a href="Yee, J. (2006). Developing A Practice-Led Framework To Promote The Practise And Understanding Of Typography Across Different Media [University of Northumbria]. http://rgdoi.net/10.13140/2.1.1044.3041" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/move-me-mm/">← Anterior<br><small>Move Me MM</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/performa/">Siguiente →<br><small>Performa</small></a></div></div>

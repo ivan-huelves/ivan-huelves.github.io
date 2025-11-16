@@ -32,3 +32,6 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 
 <br>
 <a href="https://www.wearecollins.com/work/sf-symphony/, https://symphosizer.wearecollins.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">← Anterior<br><small>Stream of Consciousness</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/takeluma/">Siguiente →<br><small>Takeluma</small></a></div></div>

@@ -32,3 +32,6 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 <br>
 <a href="https://webdesign.maratz.com/lab/responsivetypography/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/real-time-conversations/">← Anterior<br><small>Real-time Conversations</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/rio-carnaval/">Siguiente →<br><small>Rio Carnaval</small></a></div></div>

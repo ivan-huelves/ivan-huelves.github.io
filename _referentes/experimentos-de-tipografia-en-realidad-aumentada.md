@@ -32,3 +32,6 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 
 <br>
 <a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/embodied-type/">← Anterior<br><small>Embodied Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/expressive-typography/">Siguiente →<br><small>Expressive Typography</small></a></div></div>

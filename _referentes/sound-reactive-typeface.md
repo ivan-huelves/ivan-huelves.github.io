@@ -32,3 +32,6 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 
 <br>
 <a href="https://www.behance.net/gallery/25784493/Sound-Reactive-Typeface-Experiment" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">← Anterior<br><small>Segundo Soneto Meio Barroco</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/space-type-generator/">Siguiente →<br><small>Space Type Generator</small></a></div></div>

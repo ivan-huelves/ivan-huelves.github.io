@@ -32,3 +32,6 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 
 <br>
 <a href="https://www.myfonts.com/es/a/font/content/fontsmith-and-vbat-create-the-worlds-first-variable-font-logo" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabot/">← Anterior<br><small>Alphabot</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/between-page-and-screen/">Siguiente →<br><small>Between Page and Screen</small></a></div></div>

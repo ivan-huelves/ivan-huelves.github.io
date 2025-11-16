@@ -35,3 +35,6 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 
 <br>
 <a href="White, T., & Small, D. (1998). An interactive poetic garden. CHI 98 Conference Summary on Human Factors in Computing Systems, 335-336. https://doi.org/10.1145/286498.286804" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/space-type-generator/">← Anterior<br><small>Space Type Generator</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphosizer/">Siguiente →<br><small>Symphosizer</small></a></div></div>

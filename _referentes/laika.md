@@ -32,3 +32,6 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 
 <br>
 <a href="https://laikafont.ch/" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">← Anterior<br><small>Kinetic Instant Messenger</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laser-letters/">Siguiente →<br><small>Laser Letters</small></a></div></div>

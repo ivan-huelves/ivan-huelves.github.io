@@ -32,3 +32,6 @@ La relevancia para esta investigación reside en la exploración de una relació
 
 <br>
 <a href="https://vimeo.com/398790800" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/whitmail/">← Anterior<br><small>Whitmail</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div></div></div>

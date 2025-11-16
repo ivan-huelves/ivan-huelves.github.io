@@ -33,3 +33,6 @@ La relevancia para esta investigación es que el proyecto anticipa metodologías
 
 <br>
 <a href="https://thesis2016.micadesign.org/ran/home.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/lmnop/">← Anterior<br><small>LMNOP</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">Siguiente →<br><small>Máquina de Ouver</small></a></div></div>

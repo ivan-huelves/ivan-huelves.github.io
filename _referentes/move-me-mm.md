@@ -32,3 +32,6 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 
 <br>
 <a href="Brody, N., & Wozencroft, J. (Eds.). (2012). Fuse 1 - 20: From invention to antimatter ; twenty years of Fuse. Taschen." target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">← Anterior<br><small>Máquina de Ouver</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/nomad-typeface/">Siguiente →<br><small>Nomad Typeface</small></a></div></div>

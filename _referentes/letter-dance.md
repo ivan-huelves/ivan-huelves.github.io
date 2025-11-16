@@ -36,3 +36,6 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 
 <br>
 <a href="Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/61105" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/leon-sans/">← Anterior<br><small>Leon Sans</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letterspace/">Siguiente →<br><small>Letterspace</small></a></div></div>

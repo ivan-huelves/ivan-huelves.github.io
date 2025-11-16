@@ -32,3 +32,6 @@ La relevancia para esta investigación reside en su enfoque sobre la accesibilid
 
 <br>
 <a href="https://vimeo.com/64978437" target="_blank">🔗 Ver fuente original del proyecto</a>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">← Anterior<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/real-time-conversations/">Siguiente →<br><small>Real-time Conversations</small></a></div></div>
