@@ -10,11 +10,11 @@ permalink: /referentes/36-days-of-type-(embodied-interaction)/
 **Nahuel Gerth, 2023**
 
 
-![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 01)
+![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 01.png)
 
-![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 02)
+![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 02.png)
 
-![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 03)
+![Imagen de 36 Days of Type (Embodied Interaction)](/images/referentes/36 days of type 03.png)
 
 
 
