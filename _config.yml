@@ -84,3 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  # ... el resto de tu configuración ...
+
+collections:
+  referentes:
+    output: true
+    permalink: /referentes/:path/
