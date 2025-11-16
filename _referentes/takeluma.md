@@ -1,0 +1,28 @@
+---
+layout: page
+title: "Takeluma"
+date: 2024-01-01
+author: "Peter Cho"
+year: "2005"
+function: "Expresión paralingüística"
+tech: "Desarrollo a medida"
+source_url: "Cho, P. (2005). Takeluma: An Exploration of Sound, Meaning, and Writing [MFA Thesis]. UCLA Department of Design | Media Arts."
+---
+
+### Descripción
+Takeluma es un sistema de escritura que propone un nuevo alfabeto fonético para el idioma inglés. El proyecto se fundamenta en la teoría del simbolismo sonoro (sound symbolism), que sostiene que los sonidos del habla no son arbitrarios y pueden evocar imágenes y emociones por sí mismos. Como instalación interactiva, el sistema traduce la voz del usuario en tiempo real, generando una línea continua de escritura visual que da forma a los fonemas pronunciados.
+
+Su principal aportación es la materialización de esta teoría lingüística en un sistema tipográfico funcional. Al crear un alfabeto donde la forma de cada signo deriva directamente de las propiedades acústicas y articulatorias de los fonemas —y no de una convención arbitraria—, el proyecto demuestra que la escritura puede visualizar los significados inherentes al sonido del habla.
+
+La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de \"Expresión paralingüística\". Demuestra que la tipografía interactiva puede trascender la representación del alfabeto tradicional para convertirse en una visualización directa del habla.
+
+---
+
+### Detalles del Proyecto
+* **Contexto:** Instalación artística, Investigación / Experimental
+* **Input:** Sonido (voz)
+* **Output:** Generación tipográfica; Transformación espacial
+* **Grado de interactividad:** Interactivo
+
+<br>
+<a href="Cho, P. (2005). Takeluma: An Exploration of Sound, Meaning, and Writing [MFA Thesis]. UCLA Department of Design | Media Arts." target="_blank">🔗 Ver fuente original del proyecto</a>
