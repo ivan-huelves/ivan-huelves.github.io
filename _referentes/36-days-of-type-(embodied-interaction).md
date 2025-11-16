@@ -21,7 +21,6 @@ La relevancia de este proyecto es que demuestra un modelo de interacción altern
 ### Clasificación
 * **Función:** Exploración formal y/o performativa
 * **Contexto:** Investigación / Experimental
-* **Institución:** 
 * **Grado de interactividad:** Interactivo
 * **Tipo de input:** Gestual
 * **Tipo de output:** Transformación morfológica
