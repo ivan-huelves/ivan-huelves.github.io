@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Catálogo de Referentes
+title: Marco de referencia
 permalink: /referentes/
 ---
 
@@ -12,7 +12,7 @@ Aquí encontrarás una recopilación de referentes clasificados de mi tesis doct
       <a href="{{ proyecto.url }}">
         <strong>{{ proyecto.title }}</strong>
       </a> 
-      - <em>{{ proyecto.author }} ({{ proyecto.year }})</em>
+      - <div>{{ proyecto.author }} ({{ proyecto.year }})</div>
       <br>
       <small>{{ proyecto.tech }}</small>
     </li>
