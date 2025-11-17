@@ -4,7 +4,7 @@ title: Marco de referencia
 permalink: /referentes/
 ---
 
-Análisis de referentes clasificados en el marco de mi investigación doctoral.
+Referentes analizados en el marco de mi investigación doctoral.
 
 ---
 
