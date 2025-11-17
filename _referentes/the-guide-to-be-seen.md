@@ -10,6 +10,17 @@ permalink: /referentes/the-guide-to-be-seen/
 **Eager Zhang, 2023**
 
 
+![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 01.mp4)
+
+![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 02.png)
+
+![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 03.png)
+
+![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 04.png)
+
+![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 05.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto consiste en una tipografía con una doble función. Visualmente, sus caracteres están construidos con formas geométricas abstractas, como círculos y líneas discontinuas, inspiradas en los patrones de prueba y las marcas de calibración que utilizan los sistemas de visión por computador (similares a un QR).
@@ -31,7 +42,8 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">← Anterior<br><small>The Climate Crisis Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/holopoetry/">Siguiente →<br><small>Holopoetry</small></a></div></div>

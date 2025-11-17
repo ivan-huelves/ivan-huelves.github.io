@@ -10,6 +10,15 @@ permalink: /referentes/embodied-type/
 **Janny Ji, 2019**
 
 
+![Imagen de Embodied Type](/images/referentes/embodied 01.gif)
+
+![Imagen de Embodied Type](/images/referentes/embodied 02.jpg)
+
+![Imagen de Embodied Type](/images/referentes/embodied 03.jpg)
+
+![Imagen de Embodied Type](/images/referentes/embodied 04.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Embodied Type es un proyecto que explora la materialidad del texto a través de una doble instalación: una digital y otra física. La parte digital utiliza el seguimiento ocular (eye tracking) para que el usuario pueda \"tocar\" y deformar los caracteres con la mirada, mientras que la parte física consiste en una serie de tipografías escultóricas.
@@ -32,7 +41,8 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://jannyji.com/Embodied-Type" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://jannyji.com/Embodied-Type" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">← Anterior<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-realidad-aumentada/">Siguiente →<br><small>Experimentos de Tipografía en Realidad Aumentada</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">Siguiente →<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div></div>

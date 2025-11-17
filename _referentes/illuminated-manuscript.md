@@ -10,6 +10,13 @@ permalink: /referentes/illuminated-manuscript/
 **David Small, 2002**
 
 
+![Imagen de Illuminated Manuscript](/images/referentes/illuminated manuscript - small 1.jpg)
+
+![Imagen de Illuminated Manuscript](/images/referentes/illuminated manuscript - small 3.jpg)
+
+![Imagen de Illuminated Manuscript](/images/referentes/illuminated manuscript - small 2.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Illuminated Manuscript es una instalación interactiva que consiste en un gran libro físico, blanco y sin texto. A medida que el usuario toca o pasa sus páginas, un proyector de vídeo \"imprime\" virtualmente tipografía sobre su superficie.
@@ -31,7 +38,8 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.davidsmall.com/documenta-11" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.davidsmall.com/documenta-11" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hypha/">← Anterior<br><small>Hypha</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cymatics-typeface/">← Anterior<br><small>Cymatics Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">Siguiente →<br><small>Keyboard Type Control y Voice Type Control</small></a></div></div>

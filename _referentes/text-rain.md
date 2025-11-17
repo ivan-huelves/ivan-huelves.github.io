@@ -10,6 +10,9 @@ permalink: /referentes/text-rain/
 **Camille Utterback y Romy Achituv, 1999**
 
 
+![Imagen de Text Rain](/images/referentes/text rain 01.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Text Rain es una instalación interactiva que utiliza el cuerpo del participante como interfaz directa para manipular texto. El sistema emplea visión por computador para que los glifos de un poema, que caen como lluvia, reaccionen a la silueta del usuario, permitiendo que este los \"atrape\" o los mueva.
@@ -31,7 +34,8 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="http://camilleutterback.com/projects/text-rain/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="http://camilleutterback.com/projects/text-rain/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/talmud-project/">← Anterior<br><small>Talmud Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">Siguiente →<br><small>The Climate Crisis Font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/nomad-typeface/">← Anterior<br><small>Nomad Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphosizer/">Siguiente →<br><small>Symphosizer</small></a></div></div>

@@ -10,6 +10,21 @@ permalink: /referentes/font-remix-project/
 **Lorraine Li, 2022**
 
 
+![Imagen de Font Remix Project](/images/referentes/font remix 01.jpg)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 02.jpg)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 03.webp)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 04.jpg)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 05.jpg)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 06.jpg)
+
+![Imagen de Font Remix Project](/images/referentes/font remix 07.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Bigdot es una herramienta que explora la generación tipográfica a través de la combinación algorítmica de fuentes existentes, ofreciendo una nueva forma de interacción para el diseño tipográfico.
@@ -32,7 +47,8 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://lorraine.li/bigdot/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://lorraine.li/bigdot/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/flefixx/">← Anterior<br><small>Flefixx</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gen/">Siguiente →<br><small>GEN</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/performa/">← Anterior<br><small>Performa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/move-me-mm/">Siguiente →<br><small>Move Me MM</small></a></div></div>

@@ -10,6 +10,11 @@ permalink: /referentes/visual-grammar/
 **Isabel Lea, 2019**
 
 
+![Imagen de Visual Grammar](/images/referentes/visual grammar isabel lee 1.jpg)
+
+![Imagen de Visual Grammar](/images/referentes/visual grammar isabel lee 2.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Visual Grammar es un proyecto que se presenta como un referente temprano en la exploración de la tipografía variable aplicada a entornos interactivos. El proyecto se materializó en una instalación que demostraba el potencial de esta tecnología.
@@ -31,7 +36,8 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">← Anterior<br><small>Visual Chronicles of Abya Yala</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/wet-fonts/">Siguiente →<br><small>Wet Fonts</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gnomon/">← Anterior<br><small>Gnomon</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-typography/">Siguiente →<br><small>Interactive Typography</small></a></div></div>

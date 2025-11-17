@@ -10,6 +10,9 @@ permalink: /referentes/gnomon/
 **Indestructible Type, 2018**
 
 
+![Imagen de Gnomon](/images/referentes/gnomon.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Gnomon es una tipografía variable que funciona como un sistema de visualización de datos contextual. La fuente simula la sombra que proyectaría el sol sobre los caracteres, calculando su ángulo y longitud en función de la hora y la localización del usuario.
@@ -31,7 +34,8 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://indestructibletype.com/Gnomon.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://indestructibletype.com/Gnomon.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">← Anterior<br><small>Giving Character to Characters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gravient/">Siguiente →<br><small>Gravient</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">← Anterior<br><small>The Climate Crisis Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-grammar/">Siguiente →<br><small>Visual Grammar</small></a></div></div>

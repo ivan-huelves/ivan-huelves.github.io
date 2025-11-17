@@ -10,6 +10,13 @@ permalink: /referentes/interactive-book/
 **Tamper Studio, 2017**
 
 
+![Imagen de Interactive book](/images/referentes/interactive book 01.webp)
+
+![Imagen de Interactive book](/images/referentes/interactive book 02.webp)
+
+![Imagen de Interactive book](/images/referentes/interactive book 03.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Interactive Book es un proyecto que transforma el formato editorial en un dispositivo inmersivo. La instalación consiste en libros físicos de gran formato (101,6 x 76,2 centímetros) que, al ser manipulados por el público, activan proyecciones y animaciones relacionadas con los Objetivos de Desarrollo Sostenible de la ONU. El sistema integra sensores capacitivos en las páginas, proyección mapeada y un sensor Kinect para detectar la interacción.
@@ -32,7 +39,8 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.malloryrichey.com/experiential/interactive-book" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.malloryrichey.com/experiential/interactive-book" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/in-order-to-control/">← Anterior<br><small>In Order to Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-typography/">Siguiente →<br><small>Interactive Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/flefixx/">← Anterior<br><small>Flefixx</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/prosodic-font/">Siguiente →<br><small>Prosodic Font</small></a></div></div>

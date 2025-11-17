@@ -10,7 +10,9 @@ permalink: /referentes/fable-table-&-ttt-poem/
 **Douglas Soo, 1997**
 
 
-![Imagen de Fable Table & TTT Poem](/images/referentes/Sacar del artículo)
+![Imagen de Fable Table & TTT Poem](/images/referentes/fable table 01.jpg)
+
+![Imagen de Fable Table & TTT Poem](/images/referentes/fable table 02.jpg)
 
 
 
@@ -35,7 +37,8 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Soo, D. (1997). Implementation of a temporal typography system [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/10274" target="_blank">🔗 Ver fuente original del proyecto</a>
+Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/expressive-typography/">← Anterior<br><small>Expressive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/flefixx/">Siguiente →<br><small>Flefixx</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dancing-type/">← Anterior<br><small>Dancing Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">Siguiente →<br><small>The Guide To Be Seen</small></a></div></div>

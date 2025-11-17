@@ -10,6 +10,15 @@ permalink: /referentes/your-typeface/
 **Overtone y Set Snail, 2020**
 
 
+![Imagen de Your Typeface](/images/referentes/yourtypeface 01.jpg)
+
+![Imagen de Your Typeface](/images/referentes/yourtypeface 02.jpg)
+
+![Imagen de Your Typeface](/images/referentes/yourtypeface 03.jpg)
+
+![Imagen de Your Typeface](/images/referentes/yourtypeface 04.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Face-a-Type es un sistema que utiliza la cara del usuario como una herramienta de diseño tipográfico. A través del reconocimiento facial, el sistema conecta las proporciones y las expresiones faciales (como sonreír o sorprenderse) con los ejes de una tipografía variable.
@@ -31,7 +40,8 @@ La relevancia para esta investigación reside en la exploración de una relació
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://vimeo.com/398790800" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://vimeo.com/398790800" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/whitmail/">← Anterior<br><small>Whitmail</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typevoice/">← Anterior<br><small>TypeVoice</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/hypha/">Siguiente →<br><small>Hypha</small></a></div></div>

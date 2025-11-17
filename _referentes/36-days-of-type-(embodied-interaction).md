@@ -38,7 +38,8 @@ La relevancia de este proyecto es que demuestra un modelo de interacción altern
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://nahuelgerth.de/lab/36-days-of-type" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://nahuelgerth.de/lab/36-days-of-type" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">Siguiente →<br><small>A Font is a Percussion Instrument</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hard-music-festival/">← Anterior<br><small>Hard Music Festival</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabot/">Siguiente →<br><small>Alphabot</small></a></div></div>

@@ -10,6 +10,9 @@ permalink: /referentes/typographic-rhythm/
 **Jonathan Puckey, 2005**
 
 
+![Imagen de Typographic Rhythm](/images/referentes/Typographic Rhytm.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Typographic Rhythm es un prototipo que explora la tipografía texturizada, recuperando la dimensión gestual de la caligrafía. La herramienta vincula la velocidad de tecleo del usuario con la variación tipográfica, seleccionando de forma automática entre 140 pesos diferentes de una fuente generada para el proyecto.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 * **Mantiene codificación textual:** N. C.
 
 <br>
-<a href="https://jonathanpuckey.com/projects/typographic-rhythm/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://jonathanpuckey.com/projects/typographic-rhythm/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typo-talk/">← Anterior<br><small>Typo Talk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">Siguiente →<br><small>Visual Chronicles of Abya Yala</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">← Anterior<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>

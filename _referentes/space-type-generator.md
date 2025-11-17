@@ -10,6 +10,21 @@ permalink: /referentes/space-type-generator/
 **Kiel Mutschelknaus, 2018**
 
 
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 01.jpg)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 02.gif)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 03.gif)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 04.gif)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 05.gif)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 06.png)
+
+![Imagen de Space Type Generator](/images/referentes/spacetypegenerator 07.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Space Type Generator es una herramienta en línea que permite a cualquier usuario crear animaciones tipográficas desde el navegador, sin necesidad de experiencia previa en motion graphics. Concebido como un sistema abierto y lúdico, funciona a partir de parámetros controlables mediante deslizadores (sliders) que transforman el texto en tiempo real.
@@ -31,7 +46,8 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://spacetypegenerator.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://spacetypegenerator.com/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">← Anterior<br><small>Sound-Reactive Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">← Anterior<br><small>Kinetic Instant Messenger</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gen/">Siguiente →<br><small>GEN</small></a></div></div>

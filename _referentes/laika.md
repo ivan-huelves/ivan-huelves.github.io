@@ -10,6 +10,15 @@ permalink: /referentes/laika/
 **Michael Flückiger y Nicolas Kunz, 2009**
 
 
+![Imagen de Laika](/images/referentes/laika 01.jpg)
+
+![Imagen de Laika](/images/referentes/laika 02.jpg)
+
+![Imagen de Laika](/images/referentes/laika 03.jpg)
+
+![Imagen de Laika](/images/referentes/laika 04.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Laika es una tipografía paramétrica desarrollada en Processing que cuestiona la rigidez de las fuentes estáticas. El sistema permite modificar en tiempo real parámetros como el peso, la inclinación, el contraste o la longitud de las serifas.
@@ -31,7 +40,8 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://laikafont.ch/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://laikafont.ch/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">← Anterior<br><small>Kinetic Instant Messenger</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laser-letters/">Siguiente →<br><small>Laser Letters</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeface-project/">← Anterior<br><small>Typeface Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/hard-music-festival/">Siguiente →<br><small>Hard Music Festival</small></a></div></div>

@@ -10,6 +10,11 @@ permalink: /referentes/keyboard-type-control-y-voice-type-control/
 **David Small, 1990**
 
 
+![Imagen de Keyboard Type Control y Voice Type Control](/images/referentes/Keyboard Type Control y Voice Type Control 01.png)
+
+![Imagen de Keyboard Type Control y Voice Type Control](/images/referentes/Keyboard Type Control y Voice Type Control 02.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 La investigación \"Expressive Typography\" explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los glifos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo de la tipografía.
@@ -32,7 +37,8 @@ La relevancia de estos proyectos es que son precedentes fundamentales que sentar
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Small, D. (1990). Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/14011" target="_blank">🔗 Ver fuente original del proyecto</a>
+Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/janemail/">← Anterior<br><small>Janemail</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">Siguiente →<br><small>Kinetic Instant Messenger</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">← Anterior<br><small>Illuminated Manuscript</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/wet-fonts/">Siguiente →<br><small>Wet Fonts</small></a></div></div>

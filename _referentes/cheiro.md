@@ -10,12 +10,16 @@ permalink: /referentes/cheiro/
 **Francis Lam, 2006**
 
 
-![Imagen de Cheiro](/images/referentes/Sacar del artículo)
+![Imagen de Cheiro](/images/referentes/cheiro 01.jpg)
+
+![Imagen de Cheiro](/images/referentes/cheiro 02.jpg)
+
+![Imagen de Cheiro](/images/referentes/cheiro 03.jpg)
 
 
 
 ### Relevancia en relación a la tipografía interactiva
-Cheiro es un sistema de comunicación textual expresiva que investiga la tipografía antropomórfica. El sistema permite al usuario imbuir al texto de cualidades gestuales a través de sus propios movimientos, capturados mediante un dispositivo de puntero.
+Cheiro es un sistema de comunicación textual expresiva que investiga la tipografía antropomórfica. El sistema permite al usuario imbuir al texto de cualidades gestuales a través de sus propios movimientos, capturados mediante un cursor o sensores en los dedos.
 
 Su principal aportación es la creación de un modelo donde los caracteres se comportan como entidades vivas. El sistema mapea los datos del movimiento del usuario (velocidad, aceleración, dirección) a los comportamientos de la tipografía, permitiéndole moverse, reaccionar y expresar \"emociones\" de forma análoga a un cuerpo.
 
@@ -35,7 +39,8 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Lam, F. (2006). Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/36156" target="_blank">🔗 Ver fuente original del proyecto</a>
+Lam, Francis. «Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography». Master’s thesis, Massachusetts Institute of Technology, 2006. <a href='http://hdl.handle.net/1721.1/36156.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cumulus-park/">Siguiente →<br><small>Cumulus Park</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/ff-beowolf/">← Anterior<br><small>FF Beowolf</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/quarto/">Siguiente →<br><small>Quarto</small></a></div></div>

@@ -10,7 +10,7 @@ permalink: /referentes/typeractive/
 **Peter Sungil Cho, 1999**
 
 
-![Imagen de Typeractive](/images/referentes/Sacar del artículo)
+![Imagen de Typeractive](/images/referentes/typeractive.jpg)
 
 
 
@@ -35,7 +35,8 @@ La relevancia de este proyecto para la investigación reside en que es una de la
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/61105" target="_blank">🔗 Ver fuente original del proyecto</a>
+Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeface-project/">← Anterior<br><small>Typeface Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typevoice/">Siguiente →<br><small>TypeVoice</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/letterspace/">← Anterior<br><small>Letterspace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gravient/">Siguiente →<br><small>Gravient</small></a></div></div>

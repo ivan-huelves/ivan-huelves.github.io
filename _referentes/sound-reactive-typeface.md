@@ -10,6 +10,9 @@ permalink: /referentes/sound-reactive-typeface/
 **Yarza Twins, 2015**
 
 
+![Imagen de Sound-Reactive Typeface](/images/referentes/sound-reactive typeface yarza twins.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Sound-Reactive Typeface es un experimento que muestra cómo el análisis de audio en tiempo real puede integrarse en el diseño tipográfico. El sistema vincula directamente la pronunciación de fonemas con la transformación del glifo, utilizando Processing para modificar dinámicamente una malla tipográfica creada en Blender.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.behance.net/gallery/25784493/Sound-Reactive-Typeface-Experiment" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.behance.net/gallery/25784493/Sound-Reactive-Typeface-Experiment" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">← Anterior<br><small>Segundo Soneto Meio Barroco</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/space-type-generator/">Siguiente →<br><small>Space Type Generator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-typography/">← Anterior<br><small>Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dialogue/">Siguiente →<br><small>Dialogue</small></a></div></div>

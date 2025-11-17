@@ -10,6 +10,13 @@ permalink: /referentes/look-hear/
 **Ran Zheng, 2016**
 
 
+![Imagen de Look/Hear](/images/referentes/LOOK_HEAR 1.jpg)
+
+![Imagen de Look/Hear](/images/referentes/LOOK_HEAR 2.jpg)
+
+![Imagen de Look/Hear](/images/referentes/LOOK_HEAR 3.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 LOOK/HEAR explora la sinestesia como estrategia para traducir el sonido en forma tipográfica. El sistema convierte datos acústicos del entorno en variables generativas, empleando capas tridimensionales que se vinculan a diferentes canales sonoros y se visualizan en instalaciones interactivas.
@@ -32,7 +39,8 @@ La relevancia para esta investigación es que el proyecto anticipa metodologías
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://thesis2016.micadesign.org/ran/home.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://thesis2016.micadesign.org/ran/home.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/lmnop/">← Anterior<br><small>LMNOP</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">Siguiente →<br><small>Máquina de Ouver</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gravient/">← Anterior<br><small>Gravient</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">Siguiente →<br><small>Giving Character to Characters</small></a></div></div>

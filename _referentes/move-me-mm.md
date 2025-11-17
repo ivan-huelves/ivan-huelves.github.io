@@ -10,6 +10,9 @@ permalink: /referentes/move-me-mm/
 **Lucas de Groot, 1994**
 
 
+![Imagen de Move Me MM](/images/referentes/move me mm.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Move Me MM es una tipografía que utiliza la tecnología Multiple Master de una forma no prevista. Publicado en el número 11 de la revista Fuse, el proyecto permite al usuario controlar animaciones que deforman los glifos, haciéndolos metamorfosearse entre caracteres legibles e iconos gráficos abstractos.
@@ -31,7 +34,9 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 * **Mantiene codificación textual:** N. C.
 
 <br>
-<a href="Brody, N., & Wozencroft, J. (Eds.). (2012). Fuse 1 - 20: From invention to antimatter ; twenty years of Fuse. Taschen." target="_blank">🔗 Ver fuente original del proyecto</a>
+Brody, Neville, y Jon Wozencroft, eds. Fuse 1 - 20: From Invention to Antimatter<br>
+Twenty Years of Fuse. Taschen, 2012.<br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">← Anterior<br><small>Máquina de Ouver</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/nomad-typeface/">Siguiente →<br><small>Nomad Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/font-remix-project/">← Anterior<br><small>Font Remix Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-dynamics/">Siguiente →<br><small>Type/dynamics</small></a></div></div>

@@ -10,6 +10,23 @@ permalink: /referentes/visual-chronicles-of-abya-yala/
 **Vanessa Zúñiga Tinizaray, 2004**
 
 
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 01.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 02.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 03.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 04.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 05.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 06.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 07.jpg)
+
+![Imagen de Visual Chronicles of Abya Yala](/images/referentes/Visual Chronicles of Abya Yala 08.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Visual Chronicles of Abya Yala es un laboratorio de investigación que explora la cultura indígena de Abya Yala a través de la tipografía modular y generativa. El proyecto combina archivo visual, diseño tipográfico y programación creativa para reinterpretar símbolos y patrones de las culturas originarias latinoamericanas.
@@ -31,7 +48,8 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://amuki.com.ec/abya-yala/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://amuki.com.ec/abya-yala/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typographic-rhythm/">← Anterior<br><small>Typographic Rhythm</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-grammar/">Siguiente →<br><small>Visual Grammar</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/rio-carnaval/">← Anterior<br><small>Rio Carnaval</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/amsteldok/">Siguiente →<br><small>Amsteldok</small></a></div></div>

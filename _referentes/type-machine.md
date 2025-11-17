@@ -10,6 +10,13 @@ permalink: /referentes/type-machine/
 **Heike Neff, 2019**
 
 
+![Imagen de Type Machine](/images/referentes/typemachine 01.mp4)
+
+![Imagen de Type Machine](/images/referentes/typemachine 02.png)
+
+![Imagen de Type Machine](/images/referentes/typemachine 03.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 TypeMachine presenta interfaz física para la experimentación tipográfica. El proyecto integra un hardware artesanal con un software generativo, permitiendo al usuario una manipulación tangible de las formas tipográficas.
@@ -32,7 +39,8 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.heikeneff.com/typemachine.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.heikeneff.com/typemachine.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-as-tone/">← Anterior<br><small>Type as Tone</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">Siguiente →<br><small>Type Me, Type Me Not</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">← Anterior<br><small>Alphabet Synthesis Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">Siguiente →<br><small>The Climate Crisis Font</small></a></div></div>

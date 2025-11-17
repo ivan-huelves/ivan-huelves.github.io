@@ -10,6 +10,11 @@ permalink: /referentes/a-font-is-a-percussion-instrument/
 **Rob Stenson, 2023**
 
 
+![Imagen de A Font is a Percussion Instrument](/images/referentes/A Font is a Percussion Instrument 01.webp)
+
+![Imagen de A Font is a Percussion Instrument](/images/referentes/A Font is a Percussion Instrument 02.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este trabajo se centra en el desarrollo de Coldtype, una librería de código abierto en Python para la composición y animación tipográfica mediante programación. El sistema está diseñado para explorar la relación entre la tipografía y la música.
@@ -31,7 +36,8 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://vimeo.com/864468653" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://vimeo.com/864468653" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">Siguiente →<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/touch-type/">← Anterior<br><small>Touch Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/screen-profile/">Siguiente →<br><small>Screen Profile</small></a></div></div>

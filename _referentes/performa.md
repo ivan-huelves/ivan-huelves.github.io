@@ -10,7 +10,7 @@ permalink: /referentes/performa/
 **Kyuha Shim, 2013**
 
 
-![Imagen de Performa](/images/referentes/la pagina ya no está disponible)
+![Imagen de Performa](/images/referentes/performa.jpg)
 
 
 
@@ -34,7 +34,8 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://kyuhashim.com/work/performa" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://kyuhashim.com/work/performa" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/nomad-typeface/">← Anterior<br><small>Nomad Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phase/">Siguiente →<br><small>Phase</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gen/">← Anterior<br><small>GEN</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/font-remix-project/">Siguiente →<br><small>Font Remix Project</small></a></div></div>

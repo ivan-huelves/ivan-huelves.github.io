@@ -10,6 +10,13 @@ permalink: /referentes/dance-writer/
 **Peter Biľak, 2009**
 
 
+![Imagen de Dance Writer](/images/referentes/dancewriter 01.jpg)
+
+![Imagen de Dance Writer](/images/referentes/dancewriter 02.jpg)
+
+![Imagen de Dance Writer](/images/referentes/dancewriter 03.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Dance Writer es un proyecto que convierte el texto en una coreografía de danza. El sistema funciona a partir de un alfabeto predefinido donde cada carácter del alfabeto latino corresponde a una postura corporal específica, grabada previamente en vídeo por una bailarina.
@@ -32,7 +39,8 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dancing-type/">Siguiente →<br><small>Dancing Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hypha/">← Anterior<br><small>Hypha</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/takeluma/">Siguiente →<br><small>Takeluma</small></a></div></div>

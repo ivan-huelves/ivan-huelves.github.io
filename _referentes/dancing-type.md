@@ -10,6 +10,13 @@ permalink: /referentes/dancing-type/
 **Dev Valladares, 2021**
 
 
+![Imagen de Dancing Type](/images/referentes/dancing type 01.png)
+
+![Imagen de Dancing Type](/images/referentes/dancing type 02.png)
+
+![Imagen de Dancing Type](/images/referentes/dancing type 03.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Dancing Typography es una exploración de tipografía generada mediante machine learning que reacciona al sonido. El sistema utiliza un modelo de inteligencia artificial (StyleGAN 2) entrenado con una base de datos de 4.000 fuentes. Como resultado, la herramienta genera caracteres que se transforman y \"bailan\" en tiempo real al ritmo de la música.
@@ -31,7 +38,8 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://valladares.dev/dancing-type-1" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://valladares.dev/dancing-type-1" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dance-writer/">← Anterior<br><small>Dance Writer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dialogue/">Siguiente →<br><small>Dialogue</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>

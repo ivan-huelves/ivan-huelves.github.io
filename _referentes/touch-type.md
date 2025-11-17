@@ -10,6 +10,15 @@ permalink: /referentes/touch-type/
 **Richard Yee, 2019**
 
 
+![Imagen de Touch Type](/images/referentes/touch type 01.gif)
+
+![Imagen de Touch Type](/images/referentes/touch type 02.gif)
+
+![Imagen de Touch Type](/images/referentes/touch type 03.gif)
+
+![Imagen de Touch Type](/images/referentes/touch type 04.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es una instalación interactiva donde la tipografía está compuesta por partículas que simulan el comportamiento de una bandada. El sistema utiliza un modelo de machine learning (PoseNet) para detectar el cuerpo del usuario, permitiéndole distorsionar los caracteres con sus manos o hacerlas desaparecer al alejarse de la cámara.
@@ -32,7 +41,8 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://experiments.withgoogle.com/touch-type" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://experiments.withgoogle.com/touch-type" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">← Anterior<br><small>Tipografía generativa (talleres)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">← Anterior<br><small>Giving Character to Characters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">Siguiente →<br><small>A Font is a Percussion Instrument</small></a></div></div>

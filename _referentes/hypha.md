@@ -10,6 +10,11 @@ permalink: /referentes/hypha/
 **Pentagram, A2-TYPE y Counterpoint, 2020**
 
 
+![Imagen de Hypha](/images/referentes/hypha 01.png)
+
+![Imagen de Hypha](/images/referentes/hypha 02.avif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Hypha es un proyecto que utiliza un sistema generativo, inspirado en un proceso biológico, para crear una identidad visual dinámica para una exposición sobre hongos.
@@ -32,8 +37,8 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://hyphahypha.com/
-https://mushrooms.ctpt.co/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://hyphahypha.com/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/holopoetry/">← Anterior<br><small>Holopoetry</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">Siguiente →<br><small>Illuminated Manuscript</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/your-typeface/">← Anterior<br><small>Your Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dance-writer/">Siguiente →<br><small>Dance Writer</small></a></div></div>

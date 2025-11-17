@@ -10,7 +10,7 @@ permalink: /referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue
 **Jason E. Lewis, 1996**
 
 
-![Imagen de Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/images/referentes/Buscar imágenes artículo)
+![Imagen de Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/images/referentes/No hay fotos en el artículo)
 
 
 
@@ -35,7 +35,8 @@ La relevancia de este trabajo reside en su enfoque pionero que fusiona el conten
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Lewis, J. E. (1996). Dynamic poetry. Introductory Remarks to a Digital Medium. Royal College of Art." target="_blank">🔗 Ver fuente original del proyecto</a>
+Lewis, Jason E. «Dynamic Poetry. Introductory Remarks to a Digital Medium». Royal College of Art, 1996.<br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/embodied-type/">Siguiente →<br><small>Embodied Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/embodied-type/">← Anterior<br><small>Embodied Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">Siguiente →<br><small>Like Beauty in Flames</small></a></div></div>

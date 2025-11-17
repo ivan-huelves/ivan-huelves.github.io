@@ -10,6 +10,15 @@ permalink: /referentes/alphabet-synthesis-machine/
 **Golan Levin, Jonathan Feinberg y Cassidy Curtis, 2001**
 
 
+![Imagen de Alphabet Synthesis Machine](/images/referentes/Alphabet Synthesis Machine 01.jpg)
+
+![Imagen de Alphabet Synthesis Machine](/images/referentes/Alphabet Synthesis Machine 02.jpg)
+
+![Imagen de Alphabet Synthesis Machine](/images/referentes/Alphabet Synthesis Machine 03.jpg)
+
+![Imagen de Alphabet Synthesis Machine](/images/referentes/Alphabet Synthesis Machine 04.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos \"inventados\" a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
@@ -31,7 +40,8 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="http://www.flong.com/archive/projects/alphabet/index.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="http://www.flong.com/archive/projects/alphabet/index.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabot/">Siguiente →<br><small>Alphabot</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/quarto/">← Anterior<br><small>Quarto</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-machine/">Siguiente →<br><small>Type Machine</small></a></div></div>

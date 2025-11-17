@@ -10,6 +10,11 @@ permalink: /referentes/gravient/
 **Pràctica, 2018**
 
 
+![Imagen de Gravient](/images/referentes/Gravient 01.gif)
+
+![Imagen de Gravient](/images/referentes/Gravient 02.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 The Next Point of View es la identidad corporativa para Gravient, una compañía de realidad virtual y aumentada. Su núcleo es un sistema tipográfico interactivo que modifica la forma de las letras en función del ángulo de visión del usuario, generando variaciones tridimensionales que remiten a la experiencia inmersiva de la VR/AR.
@@ -31,7 +36,8 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.itsnicethat.com/articles/practica-the-next-point-of-view-gravient-identity-interactive-160518" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.itsnicethat.com/articles/practica-the-next-point-of-view-gravient-identity-interactive-160518" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gnomon/">← Anterior<br><small>Gnomon</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/handy-type/">Siguiente →<br><small>Handy Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeractive/">← Anterior<br><small>Typeractive</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/look-hear/">Siguiente →<br><small>Look/Hear</small></a></div></div>

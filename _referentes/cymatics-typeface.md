@@ -10,6 +10,9 @@ permalink: /referentes/cymatics-typeface/
 **Danielle Abbon, 2016**
 
 
+![Imagen de Cymatics Typeface](/images/referentes/Cymatics 01.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Cymatics Typeface es un proyecto experimental que explora la relación entre el sonido y la forma tipográfica. El sistema traduce primero cada letra del alfabeto a una frecuencia sonora específica (dentro de un rango de 750 a 2000 Hz) y, posteriormente, utiliza estas frecuencias para generar patrones visuales de Chladni a partir de vibraciones físicas sobre un medio.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.behance.net/gallery/37465739/Cymatics-Typeface" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.behance.net/gallery/37465739/Cymatics-Typeface" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cumulus-park/">← Anterior<br><small>Cumulus Park</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dana-font/">Siguiente →<br><small>Dana Font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/automated-type-design/">← Anterior<br><small>Automated Type Design</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">Siguiente →<br><small>Illuminated Manuscript</small></a></div></div>

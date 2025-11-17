@@ -10,6 +10,9 @@ permalink: /referentes/phonoma/
 **Sandra Lara Baranera, 2017**
 
 
+![Imagen de Phonoma](/images/referentes/phonoma.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Phonoma es un proyecto que explora la intersección entre la fonética, la tipografía y la fabricación aditiva. El sistema traslada la variabilidad sonora de la voz a formas tipográficas tridimensionales que luego se materializan físicamente mediante impresión 3D.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://ei.elisava.net/es/phonoma/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://ei.elisava.net/es/phonoma/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/phase/">← Anterior<br><small>Phase</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">Siguiente →<br><small>Poemas no meio do caminho</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">← Anterior<br><small>Poemas no meio do caminho</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typo-talk/">Siguiente →<br><small>Typo Talk</small></a></div></div>

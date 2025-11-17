@@ -10,6 +10,21 @@ permalink: /referentes/rio-carnaval/
 **Tatil Design, 2022**
 
 
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 01.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 02.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 03.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 04.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 05.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 06.jpeg)
+
+![Imagen de Rio Carnaval](/images/referentes/rio carnaval 07.jpeg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es una identidad visual interactiva desarrollada para el Carnaval de Río. El sistema tipográfico fue concebido para reaccionar en tiempo real a la voz, a los instrumentos, a los gestos táctiles o a los clics del ratón, traduciendo estos inputs en formas y colores que reproducen el ritmo y la energía del samba.
@@ -31,7 +46,8 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://tatil.com.br/asterisco/portfolio/rio-carnaval-2022/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://tatil.com.br/asterisco/portfolio/rio-carnaval-2022/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/responsive-typography-with-viewing-distance-detection/">← Anterior<br><small>Responsive Typography with Viewing Distance Detection</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">Siguiente →<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/prosodic-font/">← Anterior<br><small>Prosodic Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">Siguiente →<br><small>Visual Chronicles of Abya Yala</small></a></div></div>

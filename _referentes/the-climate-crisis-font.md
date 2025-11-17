@@ -10,6 +10,13 @@ permalink: /referentes/the-climate-crisis-font/
 **Helsingin Sanomat, Eino Korkala y Daniel Coull, 2021**
 
 
+![Imagen de The Climate Crisis Font](/images/referentes/climate crisis font 01.gif)
+
+![Imagen de The Climate Crisis Font](/images/referentes/climate crisis font 02.webp)
+
+![Imagen de The Climate Crisis Font](/images/referentes/climate crisis font 03.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 The Climate Crisis Font es una tipografía variable cuyo eje de peso está vinculado a datos históricos y proyecciones futuras sobre el deshielo del Ártico. A medida que el usuario selecciona diferentes años, desde 1979 hasta 2050, el grosor de la fuente disminuye, reflejando visualmente la pérdida de hielo polar.
@@ -31,7 +38,8 @@ La relevancia de este proyecto reside en su uso innovador de la tipografía vari
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://kampanjat.hs.fi/climatefont/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://kampanjat.hs.fi/climatefont/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/text-rain/">← Anterior<br><small>Text Rain</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">Siguiente →<br><small>The Guide To Be Seen</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-machine/">← Anterior<br><small>Type Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gnomon/">Siguiente →<br><small>Gnomon</small></a></div></div>

@@ -10,6 +10,17 @@ permalink: /referentes/symphosizer/
 **Collins y Dinamo, 2021**
 
 
+![Imagen de Symphosizer](/images/referentes/Symphosizer 01.png)
+
+![Imagen de Symphosizer](/images/referentes/Symphosizer 02.avif)
+
+![Imagen de Symphosizer](/images/referentes/Symphosizer 03.avif)
+
+![Imagen de Symphosizer](/images/referentes/Symphosizer 04.jpg)
+
+![Imagen de Symphosizer](/images/referentes/Symphosizer 05.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Symphosizer es un sistema que convierte la tipografía en un instrumento performativo, vinculándola directamente con el sonido y la voz del usuario. Desarrollado para la San Francisco Symphony, el sistema utiliza tipografías variables para traducir parámetros acústicos en transformaciones dinámicas de peso, inclinación y movimiento de las letras, de modo que la tipografía refleja en tiempo real la intensidad y los matices de la música.
@@ -31,7 +42,9 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://www.wearecollins.com/work/sf-symphony/, https://symphosizer.wearecollins.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.wearecollins.com/work/sf-symphony/" target="_blank">🔗 Ver fuente 1</a><br>
+<a href="https://symphosizer.wearecollins.com/" target="_blank">🔗 Ver fuente 2</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">← Anterior<br><small>Stream of Consciousness</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/takeluma/">Siguiente →<br><small>Takeluma</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/text-rain/">← Anterior<br><small>Text Rain</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/bit-tripper/">Siguiente →<br><small>Bit Tripper</small></a></div></div>

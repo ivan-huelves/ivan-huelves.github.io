@@ -10,7 +10,7 @@ permalink: /referentes/dialogue/
 **Yin Yin Wong, 1995**
 
 
-![Imagen de Dialogue](/images/referentes/Sacar del artículo)
+![Imagen de Dialogue](/images/referentes/dialogue.png)
 
 
 
@@ -28,14 +28,15 @@ La relevancia de este proyecto reside en su tratamiento pionero de la pantalla c
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Algoritmo (el sistema controla el ritmo y la aparición del texto)](/etiquetas/algoritmo/)
+* **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** C, RSVP. Software personalizado desarrollado en C sobre una estación de trabajo Silicon Graphics (SGI)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102" target="_blank">🔗 Ver fuente original del proyecto</a>
+Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dancing-type/">← Anterior<br><small>Dancing Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">Siguiente →<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">← Anterior<br><small>Sound-Reactive Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/janemail/">Siguiente →<br><small>Janemail</small></a></div></div>

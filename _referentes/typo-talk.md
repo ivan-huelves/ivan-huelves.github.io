@@ -10,7 +10,7 @@ permalink: /referentes/typo-talk/
 **Soo, 1997**
 
 
-![Imagen de Typo Talk](/images/referentes/sin imágenes buscar artículo)
+![Imagen de Typo Talk](/images/referentes/typo talk.jpg)
 
 
 
@@ -34,7 +34,8 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 * **Mantiene codificación textual:** N. C.
 
 <br>
-<a href="Soo, D. (1997). Implementation of a temporal typography system [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/10274" target="_blank">🔗 Ver fuente original del proyecto</a>
+Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typevoice/">← Anterior<br><small>TypeVoice</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typographic-rhythm/">Siguiente →<br><small>Typographic Rhythm</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/phonoma/">← Anterior<br><small>Phonoma</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cumulus-park/">Siguiente →<br><small>Cumulus Park</small></a></div></div>

@@ -10,6 +10,17 @@ permalink: /referentes/live-letters/
 **Julia Schäfer, 2020**
 
 
+![Imagen de Live Letters](/images/referentes/live letters 01.webp)
+
+![Imagen de Live Letters](/images/referentes/live letters 02.gif)
+
+![Imagen de Live Letters](/images/referentes/live letters 03.webp)
+
+![Imagen de Live Letters](/images/referentes/live letters 04.webp)
+
+![Imagen de Live Letters](/images/referentes/live letters 05.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Live Letters es una investigación que explora la escritura a través del cuerpo, inspirándose en el funcionamiento de una tabla Ouija. El sistema utiliza un modelo de machine learning, entrenado con un set de datos de posturas corporales, para interpretar y predecir qué letra está realizando el usuario en tiempo real.
@@ -31,7 +42,8 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://medium.com/live-letters/live-letters-strike-a-pose-get-a-letter-e7bcadcc8cd7" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://medium.com/live-letters/live-letters-strike-a-pose-get-a-letter-e7bcadcc8cd7" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">← Anterior<br><small>Like Beauty in Flames</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/lmnop/">Siguiente →<br><small>LMNOP</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>

@@ -10,6 +10,13 @@ permalink: /referentes/holopoetry/
 **Eduardo Kac, 1983**
 
 
+![Imagen de Holopoetry](/images/referentes/holopoetry 01.gif)
+
+![Imagen de Holopoetry](/images/referentes/holopoetry 02.jpg)
+
+![Imagen de Holopoetry](/images/referentes/holopoetry 03.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Holopoetry es un proyecto que reinventa el concepto de tipografía al desplegar la palabra en un espacio holográfico. En este medio, los caracteres no son objetos estáticos, sino entidades dinámicas que emergen, se transforman y desaparecen dependiendo del movimiento y la perspectiva del lector.
@@ -31,7 +38,8 @@ La relevancia de este proyecto es que desafía las concepciones tradicionales de
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.ekac.org/allholopoems.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.ekac.org/allholopoems.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hard-music-festival/">← Anterior<br><small>Hard Music Festival</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/hypha/">Siguiente →<br><small>Hypha</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">← Anterior<br><small>The Guide To Be Seen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phase/">Siguiente →<br><small>Phase</small></a></div></div>

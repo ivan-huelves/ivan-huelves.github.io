@@ -10,7 +10,7 @@ permalink: /referentes/kinetic-instant-messenger/
 **Kerry Bodine y Mathilde Pignol, 2003**
 
 
-![Imagen de Kinetic Instant Messenger](/images/referentes/sin imágenes buscar artículo)
+![Imagen de Kinetic Instant Messenger](/images/referentes/kinetic typography.jpg)
 
 
 
@@ -34,7 +34,8 @@ La relevancia para esta investigación es que el proyecto marcó un precedente e
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Bodine, K., & Pignol, M. (2003). Kinetic typography-based instant messaging. CHI ’03 Extended Abstracts on Human Factors in Computing Systems  - CHI ’03, 914. https://doi.org/10.1145/765891.766067" target="_blank">🔗 Ver fuente original del proyecto</a>
+Bodine, Kerry, y Mathilde Pignol. «Kinetic Typography-Based Instant Messaging». CHI ’03 Extended Abstracts on Human Factors in Computing Systems  - CHI ’03, ACM Press, 2003, 914. <a href='https://doi.org/10.1145/765891.766067.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">← Anterior<br><small>Keyboard Type Control y Voice Type Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laika/">Siguiente →<br><small>Laika</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-as-tone/">← Anterior<br><small>Type as Tone</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/space-type-generator/">Siguiente →<br><small>Space Type Generator</small></a></div></div>

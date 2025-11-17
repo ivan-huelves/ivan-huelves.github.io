@@ -10,6 +10,11 @@ permalink: /referentes/screen-profile/
 **Robert Coover, Shawn Greenlee, Andrew McClain, Robert Arellano y Joshua Carroll., 2022**
 
 
+![Imagen de Screen Profile](/images/referentes/screen profile 01.jpg)
+
+![Imagen de Screen Profile](/images/referentes/screen profile 02.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Screen es una instalación de realidad virtual inmersiva donde el texto de un poema no se presenta sobre una superficie, sino que flota alrededor del lector en un espacio tridimensional. Las palabras y las paredes de la instalación virtual reaccionan al movimiento del cuerpo del usuario.
@@ -32,7 +37,8 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://if50.substack.com/p/2002-screen" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://if50.substack.com/p/2002-screen" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">← Anterior<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">Siguiente →<br><small>Segundo Soneto Meio Barroco</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">← Anterior<br><small>A Font is a Percussion Instrument</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/genoma-grotesk/">Siguiente →<br><small>Genoma Grotesk</small></a></div></div>

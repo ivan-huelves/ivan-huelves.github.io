@@ -10,6 +10,9 @@ permalink: /referentes/prosodic-font/
 **Tara Rosenberger, 1998**
 
 
+![Imagen de Prosodic Font](/images/referentes/prosodic font.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Prosodic Font es un sistema experimental que traduce los parámetros prosódicos del habla (melodía y ritmo) en transformaciones tipográficas dinámicas. Para lograrlo, cada glifo no se trata como una forma única, sino que se descompone en trazos más básicos como las astas. Estos trazos se modifican en tiempo real en atributos como forma, tamaño, peso y orientación, de acuerdo con las variaciones de la señal de voz.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Rosenberger, T. (1998). Prosodic Font. The Space between the Spoken and the Written [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/62340" target="_blank">🔗 Ver fuente original del proyecto</a>
+Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">← Anterior<br><small>Poemas no meio do caminho</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/quarto/">Siguiente →<br><small>Quarto</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-book/">← Anterior<br><small>Interactive book</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/rio-carnaval/">Siguiente →<br><small>Rio Carnaval</small></a></div></div>

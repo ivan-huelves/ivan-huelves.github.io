@@ -3,14 +3,14 @@ layout: page
 title: "Janemail"
 date: 2024-01-01
 author: "Yin Yin Wong"
-year: "1999"
+year: "1995"
 permalink: /referentes/janemail/
 ---
 
-**Yin Yin Wong, 1999**
+**Yin Yin Wong, 1995**
 
 
-![Imagen de Janemail](/images/referentes/Sacar del artículo)
+![Imagen de Janemail](/images/referentes/Janemail.png)
 
 
 
@@ -27,7 +27,7 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Reactivo. El sistema presenta variaciones temporales pre-diseñadas para evocar una emoción concreta.](/etiquetas/reactivo/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida, [RSVP (Rapid SerInteligencia artificiall Visual Presentation)](/etiquetas/visual/)
@@ -35,7 +35,8 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Wong, Y. Y. (1995). Temporal Typography. Characterization of time-varying typographic forms [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29102" target="_blank">🔗 Ver fuente original del proyecto</a>
+Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">Siguiente →<br><small>Keyboard Type Control y Voice Type Control</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">Siguiente →<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div></div>

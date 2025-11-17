@@ -10,6 +10,13 @@ permalink: /referentes/laser-letters/
 **Eri Sekiguchi, Fabian Florian y David El-Khouri, 2016**
 
 
+![Imagen de Laser Letters](/images/referentes/laser letters 01.gif)
+
+![Imagen de Laser Letters](/images/referentes/laser letters 02.gif)
+
+![Imagen de Laser Letters](/images/referentes/laser letters 03.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Laser Letters es una instalación interactiva que proyecta caracteres tipográficos sobre una superficie. Estos caracteres se comportan como objetos con propiedades físicas dentro de la proyección digital.
@@ -32,7 +39,8 @@ La relevancia de este proyecto para la investigación reside en el tratamiento d
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://github.com/ffd8/laser_letters" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://github.com/ffd8/laser_letters" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laika/">← Anterior<br><small>Laika</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/seen/">← Anterior<br><small>Seen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/ff-beowolf/">Siguiente →<br><small>FF Beowolf</small></a></div></div>

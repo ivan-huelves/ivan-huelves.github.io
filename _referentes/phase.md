@@ -10,6 +10,13 @@ permalink: /referentes/phase/
 **Elias Hanzer y Florian Zia, 2018**
 
 
+![Imagen de Phase](/images/referentes/phase 01.webp)
+
+![Imagen de Phase](/images/referentes/phase 02.webp)
+
+![Imagen de Phase](/images/referentes/phase 03.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Phase es una herramienta web para el diseño tipográfico modular construida a partir de tipografías variables. El sistema permite controlar sus ejes de variación en tiempo real mediante la voz o deslizadores, modificando los caracteres sin perder la codificación textual. Además, ofrece la posibilidad de descargar las instancias estáticas de la fuente que se generan.
@@ -31,7 +38,8 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/performa/">← Anterior<br><small>Performa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phonoma/">Siguiente →<br><small>Phonoma</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/holopoetry/">← Anterior<br><small>Holopoetry</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/seen/">Siguiente →<br><small>Seen</small></a></div></div>

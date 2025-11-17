@@ -10,6 +10,23 @@ permalink: /referentes/hard-music-festival/
 **Mikiko Yamabayashi, 2019**
 
 
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 01.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 02.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 03.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 04.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 05.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 06.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 07.jpg)
+
+![Imagen de Hard Music Festival](/images/referentes/HARD Music Festival 08.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto consiste en el desarrollo de una tipografía para la identidad visual del HARD Music Festival. El diseño de la fuente responde en tiempo real a parámetros sonoros del entorno, como el volumen, el tono y el ritmo de la música.
@@ -31,7 +48,8 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://mikikomikiko.com/Content-HARD-Music-Festival" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://mikikomikiko.com/Content-HARD-Music-Festival" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/handy-type/">← Anterior<br><small>Handy Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/holopoetry/">Siguiente →<br><small>Holopoetry</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laika/">← Anterior<br><small>Laika</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">Siguiente →<br><small>36 Days of Type (Embodied Interaction)</small></a></div></div>

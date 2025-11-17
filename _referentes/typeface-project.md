@@ -10,6 +10,27 @@ permalink: /referentes/typeface-project/
 **Mary Huang, 2011**
 
 
+![Imagen de Typeface Project](/images/referentes/typeface 01.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 02.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 03.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 04.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 05.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 06.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 07.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 08.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 09.jpg)
+
+![Imagen de Typeface Project](/images/referentes/typeface 10.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Typeface Project es un sistema que vincula el reconocimiento facial con la tipografía interactiva. El software captura gestos espontáneos del usuario, como una sonrisa, y los traduce en modificaciones dinámicas de los glifos en tiempo real.
@@ -31,7 +52,8 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://mary-huang.com/projects/typeface/typeface.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://mary-huang.com/projects/typeface/typeface.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-dynamics/">← Anterior<br><small>Type/dynamics</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeractive/">Siguiente →<br><small>Typeractive</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/responsive-typography-with-viewing-distance-detection/">← Anterior<br><small>Responsive Typography with Viewing Distance Detection</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laika/">Siguiente →<br><small>Laika</small></a></div></div>

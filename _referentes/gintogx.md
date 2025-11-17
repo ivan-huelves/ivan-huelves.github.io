@@ -10,6 +10,13 @@ permalink: /referentes/gintogx/
 **Daniel Wenzel, 2018**
 
 
+![Imagen de GintoGX](/images/referentes/gintogx_01.gif)
+
+![Imagen de GintoGX](/images/referentes/gintogx_02.gif)
+
+![Imagen de GintoGX](/images/referentes/gintogx_03.gif)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 El espécimen interactivo de la familia tipográfica Ginto es un laboratorio web que explora de forma exhaustiva las posibilidades de las tipografías variables. A través de distintos inputs, como el movimiento del cursor, la cámara o el micrófono, el proyecto demuestra cómo una tipografía puede transformarse dinámicamente según la interacción del usuario y el contexto.
@@ -31,7 +38,8 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://wenzeldaniel.com/w_gintogx.php" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://wenzeldaniel.com/w_gintogx.php" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/genoma-grotesk/">← Anterior<br><small>Genoma Grotesk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">Siguiente →<br><small>Giving Character to Characters</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/bit-tripper/">← Anterior<br><small>Bit Tripper</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/automated-type-design/">Siguiente →<br><small>Automated Type Design</small></a></div></div>

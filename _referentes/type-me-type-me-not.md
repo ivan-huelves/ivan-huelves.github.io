@@ -10,6 +10,9 @@ permalink: /referentes/type-me-type-me-not/
 **Peter Cho, 1997**
 
 
+![Imagen de Type Me, Type Me Not](/images/referentes/type me type not 01.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Type Me, Type Me Not es un proyecto compuesto por tres experimentos que exploran la transición entre letras, la vinculación del sonido con la forma y la creación de glifos a partir de una cuadrícula.
@@ -31,7 +34,8 @@ La relevancia para esta investigación es que constituye un antecedente fundamen
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.typotopo.com/work/type-me-type-me-not" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.typotopo.com/work/type-me-type-me-not" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-machine/">← Anterior<br><small>Type Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-dynamics/">Siguiente →<br><small>Type/dynamics</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/takeluma/">← Anterior<br><small>Takeluma</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letter-dance/">Siguiente →<br><small>Letter Dance</small></a></div></div>

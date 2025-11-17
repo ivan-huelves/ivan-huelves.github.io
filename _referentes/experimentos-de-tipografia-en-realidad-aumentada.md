@@ -10,6 +10,11 @@ permalink: /referentes/experimentos-de-tipografia-en-realidad-aumentada/
 **Andrew Johnson y Erik van Blokland, 2018**
 
 
+![Imagen de Experimentos de Tipografía en Realidad Aumentada](/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif)
+
+![Imagen de Experimentos de Tipografía en Realidad Aumentada](/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 La investigación de Andrew Johnson consiste en una serie de experimentos que trasladan la tipografía del plano bidimensional al espacio tridimensional e interactivo de la realidad aumentada. El trabajo explora sistemáticamente cómo los caracteres pueden y deben comportarse cuando responden a variables del mundo real, como la distancia del observador, la luz ambiental o el movimiento del usuario.
@@ -31,7 +36,8 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/embodied-type/">← Anterior<br><small>Embodied Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/expressive-typography/">Siguiente →<br><small>Expressive Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>

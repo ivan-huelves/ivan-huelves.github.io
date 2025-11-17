@@ -10,6 +10,11 @@ permalink: /referentes/expressive-typography/
 **Suguru Ishizaki, 1996**
 
 
+![Imagen de Expressive Typography](/images/referentes/ishizaki - expressive typography 1.png)
+
+![Imagen de Expressive Typography](/images/referentes/ishizaki - expressive typography 2.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Typographic Performance es una investigación que propone un modelo teórico para el diseño tipográfico dinámico. El modelo concibe los elementos tipográficos como \"agentes\" que se adaptan continuamente a los cambios del contexto, como la información entrante o la intención del usuario, inspirándose en las artes escénicas.
@@ -31,7 +36,8 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 * **Mantiene codificación textual:** N.C.
 
 <br>
-<a href="Ishizaki, S. (1996). Typographic Performance. Continuous Design Solutions as Emergent Behaviors of Active Agents [Doctoral dissertation, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/29105" target="_blank">🔗 Ver fuente original del proyecto</a>
+Ishizaki, Suguru. «Typographic Performance. Continuous Design Solutions as Emergent Behaviors of Active Agents». Doctoral dissertation, Massachusetts Institute of Technology, 1996. <a href='http://hdl.handle.net/1721.1/29105.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-realidad-aumentada/">← Anterior<br><small>Experimentos de Tipografía en Realidad Aumentada</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cumulus-park/">← Anterior<br><small>Cumulus Park</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/flefixx/">Siguiente →<br><small>Flefixx</small></a></div></div>

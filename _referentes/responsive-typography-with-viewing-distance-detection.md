@@ -10,6 +10,9 @@ permalink: /referentes/responsive-typography-with-viewing-distance-detection/
 **Marko Dugonjić, 2013**
 
 
+![Imagen de Responsive Typography with Viewing Distance Detection](/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es un experimento web que ajusta dinámicamente el tamaño de la tipografía en función de la distancia del lector a la pantalla. Utilizando la cámara web para detectar la posición del usuario, el sistema aumenta o disminuye el cuerpo del texto para mantener una legibilidad constante.
@@ -31,7 +34,8 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://webdesign.maratz.com/lab/responsivetypography/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://webdesign.maratz.com/lab/responsivetypography/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/real-time-conversations/">← Anterior<br><small>Real-time Conversations</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/rio-carnaval/">Siguiente →<br><small>Rio Carnaval</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-dynamics/">← Anterior<br><small>Type/dynamics</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeface-project/">Siguiente →<br><small>Typeface Project</small></a></div></div>

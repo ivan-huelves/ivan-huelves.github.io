@@ -10,6 +10,13 @@ permalink: /referentes/typevoice/
 **Ogilvy New York, 2016**
 
 
+![Imagen de TypeVoice](/images/referentes/type voice 1.jpg)
+
+![Imagen de TypeVoice](/images/referentes/type voice 2.jpg)
+
+![Imagen de TypeVoice](/images/referentes/type voice 3.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 TypeVoice es un sistema de generación tipográfica interactiva creado para una campaña de comunicación de los Webby Awards. La herramienta traduce las cualidades de la voz del usuario (tono, volumen, ritmo) en atributos de una fuente que se genera en tiempo real, convirtiendo la expresión vocal en una herramienta de diseño.
@@ -32,7 +39,8 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.denniskung.work/new-page" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.denniskung.work/new-page" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeractive/">← Anterior<br><small>Typeractive</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typo-talk/">Siguiente →<br><small>Typo Talk</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/in-order-to-control/">← Anterior<br><small>In Order to Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/your-typeface/">Siguiente →<br><small>Your Typeface</small></a></div></div>

@@ -10,6 +10,17 @@ permalink: /referentes/cumulus-park/
 **Studio Dumbar/DEPT, 2019**
 
 
+![Imagen de Cumulus Park](/images/referentes/cumulus 01.png)
+
+![Imagen de Cumulus Park](/images/referentes/cumulus 02.png)
+
+![Imagen de Cumulus Park](/images/referentes/cumulus 03.png)
+
+![Imagen de Cumulus Park](/images/referentes/cumulus 04.webp)
+
+![Imagen de Cumulus Park](/images/referentes/cumulus 05.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 La identidad de Cumulus Park articula conceptos de diversidad, adaptación e innovación a través de un sistema tipográfico. Las letras, formadas por partículas móviles, se transforman continuamente, evocando la idea del intercambio constante que define a esta comunidad.
@@ -31,7 +42,8 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://studiodumbar.com/work/cumulus-park" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://studiodumbar.com/work/cumulus-park" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cheiro/">← Anterior<br><small>Cheiro</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cymatics-typeface/">Siguiente →<br><small>Cymatics Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typo-talk/">← Anterior<br><small>Typo Talk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/expressive-typography/">Siguiente →<br><small>Expressive Typography</small></a></div></div>

@@ -10,6 +10,15 @@ permalink: /referentes/gen/
 **Kyuha Shim, 2015**
 
 
+![Imagen de GEN](/images/referentes/GEN Kyuha Shim 01.jpg)
+
+![Imagen de GEN](/images/referentes/GEN Kyuha Shim 02.jpg)
+
+![Imagen de GEN](/images/referentes/GEN Kyuha Shim 03.jpg)
+
+![Imagen de GEN](/images/referentes/GEN Kyuha Shim 04.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 GEN es un proyecto que explora la tipografía generativa, donde la forma de los caracteres emerge de un sistema complejo y parcialmente impredecible. A diferencia de otros sistemas interactivos, el usuario no controla directamente la forma final, sino que establece un parámetro (por ejemplo, la densidad), y un algoritmo genera el resultado visual a partir de imágenes externas.
@@ -31,7 +40,8 @@ La relevancia para esta investigación es que destaca el potencial creativo de l
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://gt.kyuhashim.com/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://gt.kyuhashim.com/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/font-remix-project/">← Anterior<br><small>Font Remix Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/genoma-grotesk/">Siguiente →<br><small>Genoma Grotesk</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/space-type-generator/">← Anterior<br><small>Space Type Generator</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/performa/">Siguiente →<br><small>Performa</small></a></div></div>

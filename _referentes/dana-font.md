@@ -10,6 +10,13 @@ permalink: /referentes/dana-font/
 **Ana Estrada, 2018**
 
 
+![Imagen de Dana Font](/images/referentes/dana 01.jpg)
+
+![Imagen de Dana Font](/images/referentes/dana 02.jpg)
+
+![Imagen de Dana Font](/images/referentes/dana 03.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Danafont es una tipografía modular y adaptativa (responsive) diseñada para entornos web. El sistema está construido con SVG, HTML, CSS y Javascript, lo que permite que los caracteres ajusten su morfología en tiempo real para adaptarse al ancho del navegador.
@@ -32,7 +39,8 @@ La relevancia para esta investigación es que establece un precedente claro para
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.anaestrada.es/danafont/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.anaestrada.es/danafont/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cymatics-typeface/">← Anterior<br><small>Cymatics Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dance-writer/">Siguiente →<br><small>Dance Writer</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/between-page-and-screen/">← Anterior<br><small>Between Page and Screen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-realidad-aumentada/">Siguiente →<br><small>Experimentos de Tipografía en Realidad Aumentada</small></a></div></div>

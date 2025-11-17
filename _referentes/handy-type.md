@@ -10,6 +10,11 @@ permalink: /referentes/handy-type/
 **Rozi Zhu y Haocheng Zhang, 2023**
 
 
+![Imagen de Handy Type](/images/referentes/handytype 01.png)
+
+![Imagen de Handy Type](/images/referentes/handytype 02.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Handy Type es un sistema que permite a cualquier usuario diseñar tipografía a través de gestos manuales. Mediante un sistema a medida que integra captura de movimiento e inteligencia artificial, los datos de las manos se traducen directamente en formas de carácter, convirtiendo la creación tipográfica en una experiencia accesible, lúdica y personalizada.
@@ -31,7 +36,8 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://haochengstudio.com/selected-works-1" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://haochengstudio.com/selected-works-1" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gravient/">← Anterior<br><small>Gravient</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/hard-music-festival/">Siguiente →<br><small>Hard Music Festival</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/genoma-grotesk/">← Anterior<br><small>Genoma Grotesk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">Siguiente →<br><small>Poemas no meio do caminho</small></a></div></div>

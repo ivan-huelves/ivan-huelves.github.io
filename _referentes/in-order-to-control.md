@@ -10,6 +10,11 @@ permalink: /referentes/in-order-to-control/
 **Nota Bene Visual, 2011**
 
 
+![Imagen de In Order to Control](/images/referentes/in order to control 01.webp)
+
+![Imagen de In Order to Control](/images/referentes/in order to control 02.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 In Order to Control es una instalación interactiva donde el texto se proyecta directamente sobre el cuerpo del espectador. El sistema adapta la tipografía a la silueta del individuo, utilizando su cuerpo como una superficie de lectura activa y personal.
@@ -31,7 +36,8 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.notabenevisual.com/works/in-order-to-control" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.notabenevisual.com/works/in-order-to-control" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">← Anterior<br><small>Illuminated Manuscript</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-book/">Siguiente →<br><small>Interactive book</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabot/">← Anterior<br><small>Alphabot</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typevoice/">Siguiente →<br><small>TypeVoice</small></a></div></div>

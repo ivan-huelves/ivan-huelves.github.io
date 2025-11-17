@@ -10,6 +10,9 @@ permalink: /referentes/wet-fonts/
 **David Small, 1990**
 
 
+![Imagen de Wet Fonts](/images/referentes/wet fonts.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Wet Fonts es un sistema que simula la tipografía como si estuviera hecha de pigmentos líquidos sobre un soporte de papel. Para ello el proyecto calcula la difusión del pigmento y el agua a través de las fibras simuladas del papel por cada pixel de la pantalla.
@@ -32,7 +35,8 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Small, D. (1990). Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment [Master’s thesis, Massachusetts Institute of Technology]. http://hdl.handle.net/1721.1/14011" target="_blank">🔗 Ver fuente original del proyecto</a>
+Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-grammar/">← Anterior<br><small>Visual Grammar</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/whitmail/">Siguiente →<br><small>Whitmail</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">← Anterior<br><small>Keyboard Type Control y Voice Type Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>

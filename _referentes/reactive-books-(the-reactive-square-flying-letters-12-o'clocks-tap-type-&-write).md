@@ -10,6 +10,11 @@ permalink: /referentes/reactive-books-(the-reactive-square-flying-letters-12-o'c
 **John Maeda, 1994**
 
 
+![Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/images/referentes/reactive books 12 oclock.webp)
+
+![Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/images/referentes/reactive books tap tap write.webp)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Esta serie de \"libros reactivos\" es un hito fundamental en la historia de la tipografía interactiva. El proyecto explora sistemáticamente la relación entre los inputs básicos del ordenador (ratón, teclado, micrófono) y la expresión tipográfica a través de una serie de experimentos.
@@ -32,7 +37,8 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://maedastudio.com/the-five-reactive-books/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://maedastudio.com/the-five-reactive-books/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/quarto/">← Anterior<br><small>Quarto</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-typography/">Siguiente →<br><small>Reactive Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">← Anterior<br><small>Máquina de Ouver</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typographic-rhythm/">Siguiente →<br><small>Typographic Rhythm</small></a></div></div>

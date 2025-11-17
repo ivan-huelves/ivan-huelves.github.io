@@ -10,7 +10,7 @@ permalink: /referentes/giving-character-to-characters/
 **Richard The, 2010**
 
 
-![Imagen de Giving Character to Characters](/images/referentes/sin imágenes buscar artículo)
+![Imagen de Giving Character to Characters](/images/referentes/Giving Character to Characters.png)
 
 
 
@@ -35,7 +35,8 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 * **Mantiene codificación textual:** N. C.
 
 <br>
-<a href="The, R. (2010). Subjectified: Personification as a design strategy in visual communication [Massachusetts Institute of Technology. Dept. of Architecture. Program in Media Arts and Sciences.]. http://hdl.handle.net/1721.1/62083" target="_blank">🔗 Ver fuente original del proyecto</a>
+The, Richard. «Subjectified : personification as a design strategy in visual communication». Massachusetts Institute of Technology. Dept. of Architecture. Program in Media Arts and Sciences., 2010. <a href='http://hdl.handle.net/1721.1/62083.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gintogx/">← Anterior<br><small>GintoGX</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gnomon/">Siguiente →<br><small>Gnomon</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/look-hear/">← Anterior<br><small>Look/Hear</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>

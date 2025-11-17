@@ -10,6 +10,9 @@ permalink: /referentes/talmud-project/
 **David Small y Tom White, 1999**
 
 
+![Imagen de Talmud Project](/images/referentes/talmud.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 El Talmud Project es un entorno de estudio digital diseñado para visualizar y navegar la compleja red de textos interconectados del Talmud. El sistema presenta simultáneamente tres capas de texto principales (un ensayo de Levinas, el propio Talmud y la Torá) en un mismo espacio visual. Para gestionar la complejidad, utiliza técnicas de enfoque, desenfoque y transparencia, permitiendo que la capa de interés del lector destaque mientras las otras retroceden visualmente al fondo. 
@@ -32,7 +35,8 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Small, D. L. (1999). Rethinking the book." target="_blank">🔗 Ver fuente original del proyecto</a>
+Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/takeluma/">← Anterior<br><small>Takeluma</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/text-rain/">Siguiente →<br><small>Text Rain</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">← Anterior<br><small>Stream of Consciousness</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/brain-opera/">Siguiente →<br><small>Brain Opera</small></a></div></div>

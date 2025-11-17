@@ -10,6 +10,11 @@ permalink: /referentes/bit-tripper/
 **Counterpoint Studio, 2019**
 
 
+![Imagen de Bit Tripper](/images/referentes/Bit Tripper 01.png)
+
+![Imagen de Bit Tripper](/images/referentes/Bit Tripper 02.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Bit Tripper es un generador de tipografías bitmap creado como parte del proyecto de branding para el álbum Chain Tripping del grupo musical YACHT. El álbum fue compuesto en colaboración con artistas y, principalmente, con inteligencia artificial, y la tipografía sigue el mismo principio.
@@ -31,7 +36,8 @@ La relevancia para esta investigación es que el proyecto combina de forma magis
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://bit-tripper.ctpt.co/" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://bit-tripper.ctpt.co/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/between-page-and-screen/">← Anterior<br><small>Between Page and Screen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/brain-opera/">Siguiente →<br><small>Brain Opera</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/symphosizer/">← Anterior<br><small>Symphosizer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gintogx/">Siguiente →<br><small>GintoGX</small></a></div></div>

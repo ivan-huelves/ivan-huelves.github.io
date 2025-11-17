@@ -10,6 +10,19 @@ permalink: /referentes/like-beauty-in-flames/
 **Jenny Holzer, 2021**
 
 
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 1.jpg)
+
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 2.jpg)
+
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 3.jpg)
+
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 4.jpg)
+
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 5.jpg)
+
+![Imagen de Like Beauty in Flames](/images/referentes/like beauty in flames 6.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto es una instalación de realidad aumentada de la artista Jenny Holzer que proyecta sus característicos Truisms sobre la arquitectura del Museo Guggenheim Bilbao. Con esta obra, la tipografía se desvincula de un soporte plano y utiliza el propio edificio como un lienzo dinámico.
@@ -31,7 +44,8 @@ La relevancia para esta investigación radica en que explora la interacción del
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://www.guggenheim-bilbao.eus/la-coleccion/obras/like-beauty-in-flames" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://www.guggenheim-bilbao.eus/la-coleccion/obras/like-beauty-in-flames" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/letterspace/">← Anterior<br><small>Letterspace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/live-letters/">Siguiente →<br><small>Live Letters</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">← Anterior<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">Siguiente →<br><small>Máquina de Ouver</small></a></div></div>

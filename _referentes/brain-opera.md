@@ -10,6 +10,9 @@ permalink: /referentes/brain-opera/
 **David Small y Yin Yin Wong, 1996**
 
 
+![Imagen de Brain Opera](/images/referentes/brain-opera.jpg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 El trabajo de David Small en el Brain Opera se materializa en la animación Minsky Melodies, creada como un componente visual para el segundo movimiento de la ópera. El proyecto utiliza tipografía animada para visualizar las palabras del científico Marvin Minsky, que son cantadas durante la pieza. Las palabras \"bailan\" y actúan en una gran pantalla situada detrás de los músicos, funcionando como un contrapunto visual a la composición musical.
@@ -32,7 +35,8 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="Small, D. L. (1999). Rethinking the book." target="_blank">🔗 Ver fuente original del proyecto</a>
+Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf.' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/bit-tripper/">← Anterior<br><small>Bit Tripper</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cheiro/">Siguiente →<br><small>Cheiro</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/talmud-project/">← Anterior<br><small>Talmud Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dancing-type/">Siguiente →<br><small>Dancing Type</small></a></div></div>

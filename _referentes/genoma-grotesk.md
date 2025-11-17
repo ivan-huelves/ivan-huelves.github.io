@@ -10,6 +10,9 @@ permalink: /referentes/genoma-grotesk/
 **Robin Eberwein, 2018**
 
 
+![Imagen de Genoma Grotesk](/images/referentes/genoma 01.png, genoma 02.png)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Genoma Grotesk es una tipografía variable diseñada para adaptarse a las condiciones lumínicas del entorno. Utilizando el sensor de luz de un dispositivo, la fuente ajusta automáticamente el eje de variación peso para mantener un contraste y una legibilidad óptimos.
@@ -32,7 +35,8 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 * **Mantiene codificación textual:** Sí
 
 <br>
-<a href="https://robineberwein.ch/genoma/info.html" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://robineberwein.ch/genoma/info.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gen/">← Anterior<br><small>GEN</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gintogx/">Siguiente →<br><small>GintoGX</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/screen-profile/">← Anterior<br><small>Screen Profile</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/handy-type/">Siguiente →<br><small>Handy Type</small></a></div></div>

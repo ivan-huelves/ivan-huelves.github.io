@@ -10,6 +10,9 @@ permalink: /referentes/segundo-soneto-meio-barroco/
 **Alckmar Luiz dos Santos y Gilbertto Prado, 2000**
 
 
+![Imagen de Segundo Soneto Meio Barroco](/images/referentes/Segundo Soneto Meio Barroco.jpeg)
+
+
 
 ### Relevancia en relación a la tipografía interactiva
 Este proyecto explora la lectura de un poema dentro de un entorno tridimensional inmersivo, donde la tipografía se integra en el propio espacio virtual. Para su construcción se emplea la tecnología VRML, que permite que los caracteres adquieran volumen y profundidad.
@@ -31,7 +34,8 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 * **Mantiene codificación textual:** No
 
 <br>
-<a href="https://enciclopedia.itaucultural.org.br/pessoas/9686-alckmar-luiz-dos-santos" target="_blank">🔗 Ver fuente original del proyecto</a>
+<a href="https://enciclopedia.itaucultural.org.br/pessoas/9686-alckmar-luiz-dos-santos" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/screen-profile/">← Anterior<br><small>Screen Profile</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">Siguiente →<br><small>Sound-Reactive Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/between-page-and-screen/">Siguiente →<br><small>Between Page and Screen</small></a></div></div>
