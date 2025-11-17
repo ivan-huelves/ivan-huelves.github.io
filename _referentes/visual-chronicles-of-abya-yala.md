@@ -44,7 +44,6 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, P5.js
-* **Alfanumérica:** Mixto
 * **Mantiene codificación textual:** No
 
 <br>

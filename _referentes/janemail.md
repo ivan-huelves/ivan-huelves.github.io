@@ -31,11 +31,10 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida, [RSVP (Rapid SerInteligencia artificiall Visual Presentation)](/etiquetas/visual/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102.' target='_blank'>[Ver enlace]</a><br>
+Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

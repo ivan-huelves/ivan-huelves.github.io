@@ -42,7 +42,6 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Controlador físico (táctil)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

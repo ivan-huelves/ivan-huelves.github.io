@@ -30,7 +30,6 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

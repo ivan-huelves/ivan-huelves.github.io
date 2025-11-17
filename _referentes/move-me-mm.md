@@ -30,7 +30,6 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Multiple Master
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
 <br>

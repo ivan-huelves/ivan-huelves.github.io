@@ -36,7 +36,6 @@ La relevancia para esta investigación reside en la exploración de una relació
 * **Tipo de input:** [Visual (reconocimiento facial)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** BRFv5 Face Tracking, [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

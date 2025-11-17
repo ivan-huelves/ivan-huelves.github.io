@@ -39,7 +39,6 @@ La relevancia para esta investigación reside en la conexión directa que establ
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** OpenType
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

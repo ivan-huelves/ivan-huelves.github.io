@@ -34,7 +34,6 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 * **Tipo de input:** [Gestual (táctil)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

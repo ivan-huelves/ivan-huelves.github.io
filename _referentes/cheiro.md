@@ -35,11 +35,10 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Lam, Francis. «Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography». Master’s thesis, Massachusetts Institute of Technology, 2006. <a href='http://hdl.handle.net/1721.1/36156.' target='_blank'>[Ver enlace]</a><br>
+Lam, Francis. «Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography». Master’s thesis, Massachusetts Institute of Technology, 2006. <a href='http://hdl.handle.net/1721.1/36156' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

@@ -36,7 +36,6 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (sensores físicos como peso corporal o proximidad de personas y datos como cotizaciones bursátiles), Controladores físicos (sliders, etc.).
 * **Tipo de output:** [Transformación morfológica (peso](/etiquetas/transformacion-morfologica/), contraste, longitud de serif y slant)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

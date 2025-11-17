@@ -32,7 +32,6 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 * **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (silueta corporal)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N.C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

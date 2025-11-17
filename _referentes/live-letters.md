@@ -38,7 +38,6 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** Machine Learning, (Pose Estimation, Teachable Machine), p5.js
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

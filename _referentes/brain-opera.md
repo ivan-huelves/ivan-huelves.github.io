@@ -31,11 +31,10 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 * **Tipo de input:** [Sonido (música)](/etiquetas/sonido/), [Gestual (táctil)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf.' target='_blank'>[Ver enlace]</a><br>
+Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

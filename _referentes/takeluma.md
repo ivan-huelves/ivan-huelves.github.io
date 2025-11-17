@@ -34,7 +34,6 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

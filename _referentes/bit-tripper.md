@@ -32,7 +32,6 @@ La relevancia para esta investigación es que el proyecto combina de forma magis
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Inteligencia artificial
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

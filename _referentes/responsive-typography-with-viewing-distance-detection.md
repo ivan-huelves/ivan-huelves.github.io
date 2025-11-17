@@ -30,7 +30,6 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 * **Tipo de input:** [Visual (reconocimiento facial)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** JavaScript, librería headtrackr.js, CSS
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

@@ -31,7 +31,6 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 * **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Arduino, JavaScript, Css
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

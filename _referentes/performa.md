@@ -30,7 +30,6 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 * **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -43,7 +43,6 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Datos externos (dos tipografías)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** JavaScript, con la librería opentype.js
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

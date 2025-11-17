@@ -38,7 +38,6 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 * **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (movimiento del dispositivo o del póster)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

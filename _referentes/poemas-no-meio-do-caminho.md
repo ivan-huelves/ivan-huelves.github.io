@@ -32,7 +32,6 @@ La relevancia para esta investigación reside en su planteamiento de la lectura 
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Actionscript 3.0
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

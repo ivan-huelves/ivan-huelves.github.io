@@ -36,7 +36,6 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Applet de Java que utiliza un algoritmo genético para evolucionar y generar sistemas de escritura a partir de un trazo inicInteligencia artificiall del usuario. Los alfabetos generados se pueden descargar como fuentes TrueType.](/etiquetas/algoritmo/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

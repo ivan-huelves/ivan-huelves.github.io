@@ -43,7 +43,6 @@ La relevancia para esta investigación reside en su sistematización de los mét
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** Inteligencia artificial
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

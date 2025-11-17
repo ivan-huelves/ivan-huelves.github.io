@@ -31,11 +31,10 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente sesarrollo a medida)
-* **Alfanumérica:** Si
 * **Mantiene codificación textual:** No
 
 <br>
-Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011.' target='_blank'>[Ver enlace]</a><br>
+Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

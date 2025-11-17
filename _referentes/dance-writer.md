@@ -35,7 +35,6 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

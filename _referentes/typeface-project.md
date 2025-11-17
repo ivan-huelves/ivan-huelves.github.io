@@ -48,7 +48,6 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Tipo de input:** [Gestual (rostro, ojos y boca)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing, OpenCV
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

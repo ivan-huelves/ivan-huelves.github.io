@@ -37,7 +37,6 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Machine Learning, (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), WebGL
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

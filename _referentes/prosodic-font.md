@@ -30,11 +30,10 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Tipo de input:** [Sonido (tono, intensidad y ritmo)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica (tamaño](/etiquetas/transformacion-morfologica/), altura, anchura y grosor de glifos)
 * **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340.' target='_blank'>[Ver enlace]</a><br>
+Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

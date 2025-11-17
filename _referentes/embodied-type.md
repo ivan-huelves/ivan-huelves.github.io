@@ -37,7 +37,6 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 * **Tipo de input:** [Visual (mirada)](/etiquetas/visual/), [Gestual (glifos físicos)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

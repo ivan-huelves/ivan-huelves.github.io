@@ -35,7 +35,6 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 * **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -34,7 +34,6 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Inteligencia artificial, Modelo StyleGAN 2, Lucid Sonic Dreams
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

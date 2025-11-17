@@ -32,7 +32,6 @@ Aunque se trata de un serie de talleres, su relevancia reside en la figura de An
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

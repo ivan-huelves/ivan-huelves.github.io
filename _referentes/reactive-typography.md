@@ -32,7 +32,6 @@ La relevancia para esta investigación reside en su enfoque sobre la accesibilid
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

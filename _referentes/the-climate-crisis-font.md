@@ -34,7 +34,6 @@ La relevancia de este proyecto reside en su uso innovador de la tipografía vari
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (datos del retroceso del hielo ártico)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

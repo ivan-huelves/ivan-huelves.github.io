@@ -35,7 +35,6 @@ La relevancia para esta investigación es que el proyecto anticipa metodologías
 * **Tipo de input:** [Sonido (intensidad y frecuencia)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing, librería Minim
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -35,7 +35,6 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 * **Tipo de input:** [Controlador físico (botones, interruptores y deslizadores)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, Arduino
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

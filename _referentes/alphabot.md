@@ -34,7 +34,6 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** C++, OpenGL
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

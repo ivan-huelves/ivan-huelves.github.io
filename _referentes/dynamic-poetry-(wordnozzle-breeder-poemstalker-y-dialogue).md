@@ -31,7 +31,6 @@ La relevancia de este trabajo reside en su enfoque pionero que fusiona el conten
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Controlador físico (en WordNozzle)](/etiquetas/controlador-fisico/), [Algoritmo (en Breeder)](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** C/C++, librerías gráficas como OpenGL
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

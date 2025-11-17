@@ -33,11 +33,10 @@ La relevancia de este proyecto para la investigación reside en su aproximación
 * **Tipo de input:** [Gestual (sensores de campo magnético 3D en las manos del usuario)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105.' target='_blank'>[Ver enlace]</a><br>
+Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

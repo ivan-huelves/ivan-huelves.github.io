@@ -31,11 +31,10 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Problablemente desarrollo a medida)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105.' target='_blank'>[Ver enlace]</a><br>
+Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

@@ -32,7 +32,6 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Tipo de input:** [Gestual (dedos y palma de la mano)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Sistema de captura de movimiento, Inteligencia artificial, Desarrollo a medida
-* **Alfanumérica:** Si
 * **Mantiene codificación textual:** No
 
 <br>

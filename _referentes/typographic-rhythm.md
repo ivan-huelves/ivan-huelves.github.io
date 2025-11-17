@@ -30,7 +30,6 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 * **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica (peso de la tipografía)](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
 <br>

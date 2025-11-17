@@ -35,7 +35,6 @@ La relevancia de este proyecto para la investigación es que establece un preced
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Generación tipográfica (ilustrativa)](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente P5.js o Javascript)
-* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

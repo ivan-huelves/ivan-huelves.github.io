@@ -38,7 +38,6 @@ La relevancia para esta investigación reside en su condición de precedente his
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** PostScript
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

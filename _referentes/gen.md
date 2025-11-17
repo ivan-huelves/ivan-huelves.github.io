@@ -36,7 +36,6 @@ La relevancia para esta investigación es que destaca el potencial creativo de l
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

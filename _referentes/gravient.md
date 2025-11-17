@@ -32,7 +32,6 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Tipo de input:** [Visual (realidad aumentada y realidad virtual)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

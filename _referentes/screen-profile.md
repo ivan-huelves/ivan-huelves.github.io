@@ -33,7 +33,6 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 * **Tipo de input:** [Gestual (movimiento corporal, manos)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida, Instalación de Realidad Virtual inmersiva en un entorno CAVE (Cave Automatic Virtual Environment), un cubo de 8 pies con proyecciones en tres paredes y el suelo.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

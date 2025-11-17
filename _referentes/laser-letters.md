@@ -35,7 +35,6 @@ La relevancia de este proyecto para la investigación reside en el tratamiento d
 * **Tipo de input:** [Gestual (puntero láser)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, Librerías minim, Geomerative y oscp5
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

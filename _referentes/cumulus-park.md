@@ -38,7 +38,6 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

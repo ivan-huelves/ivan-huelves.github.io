@@ -33,11 +33,10 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 * **Tipo de input:** [Gestual (táctil, manos)](/etiquetas/gestual/), [Datos externos (sensores proximidad)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Sonido](/etiquetas/sonido/)
 * **Tecnología empleada:** Desarrollo a medida, Sistemas de computación física. Fable Table utiliza una mesa de madera con sensores infrarrojos y un proyector. TTT Poem emplea sensores de proximidad bajo una mesa que rastrean un transmisor de mano.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274.' target='_blank'>[Ver enlace]</a><br>
+Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

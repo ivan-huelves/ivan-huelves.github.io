@@ -32,7 +32,6 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 * **Tipo de input:** [Datos externos (distancia del usuario, luz ambiental)](/etiquetas/datos-externos/), [Gestual (movimiento del usuario en el espacio)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarollo a medida, Motor de 3D en tiempo real para Realidad Aumentada, Con manipulación de mallas y componentes de texto para simular ejes de variación y deformaciones.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

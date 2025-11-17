@@ -38,7 +38,6 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

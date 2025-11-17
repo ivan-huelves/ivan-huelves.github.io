@@ -44,7 +44,6 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

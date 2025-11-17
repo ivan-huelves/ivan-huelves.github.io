@@ -30,7 +30,6 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 * **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, Arduino
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

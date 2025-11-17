@@ -33,7 +33,6 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 * **Tipo de input:** [Sonido (micrófono)](/etiquetas/sonido/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Visual (cámara)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Java
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

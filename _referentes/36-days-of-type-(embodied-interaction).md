@@ -34,7 +34,6 @@ La relevancia de este proyecto es que demuestra un modelo de interacción altern
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** P5.js, Machine Learning (Mediapipe)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

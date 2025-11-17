@@ -30,11 +30,10 @@ La relevancia para esta investigación es que demuestra cómo el input del usuar
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Yee, Joyce. «Developing A Practice-Led Framework To Promote The Practise And Understanding Of Typography Across Different Media». University of Northumbria, 2006. <a href='http://rgdoi.net/10.13140/2.1.1044.3041.' target='_blank'>[Ver enlace]</a><br>
+Yee, Joyce. «Developing A Practice-Led Framework To Promote The Practise And Understanding Of Typography Across Different Media». University of Northumbria, 2006. <a href='http://rgdoi.net/10.13140/2.1.1044.3041' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

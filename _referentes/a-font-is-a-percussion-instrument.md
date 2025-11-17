@@ -32,7 +32,6 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Python, [Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -33,7 +33,6 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Algoritmo (algoritmo que simula el crecimiento de los hongos)](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N.C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

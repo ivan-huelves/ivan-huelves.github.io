@@ -30,11 +30,10 @@ La relevancia para esta investigación es que el proyecto marcó un precedente e
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Bodine, Kerry, y Mathilde Pignol. «Kinetic Typography-Based Instant Messaging». CHI ’03 Extended Abstracts on Human Factors in Computing Systems  - CHI ’03, ACM Press, 2003, 914. <a href='https://doi.org/10.1145/765891.766067.' target='_blank'>[Ver enlace]</a><br>
+Bodine, Kerry, y Mathilde Pignol. «Kinetic Typography-Based Instant Messaging». CHI ’03 Extended Abstracts on Human Factors in Computing Systems  - CHI ’03, ACM Press, 2003, 914. <a href='https://doi.org/10.1145/765891.766067' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

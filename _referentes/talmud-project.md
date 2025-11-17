@@ -31,11 +31,10 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 * **Tipo de input:** N. C.
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf.' target='_blank'>[Ver enlace]</a><br>
+Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>

@@ -33,11 +33,10 @@ La relevancia de estos proyectos es que son precedentes fundamentales que sentar
 * **Tipo de input:** [Sonido (volumen)](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>
-Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011.' target='_blank'>[Ver enlace]</a><br>
+Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>
