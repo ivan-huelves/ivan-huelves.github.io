@@ -34,8 +34,7 @@ La relevancia de este trabajo reside en su enfoque pionero que fusiona el conten
 * **Mantiene codificación textual:** No
 
 <br>
-Lewis, Jason E. «Dynamic Poetry. Introductory Remarks to a Digital Medium». Royal College of Art, 1996.<br>
-
+Lewis, Jason E. «Dynamic Poetry. Introductory Remarks to a Digital Medium». Royal College of Art, 1996. <a href='https://www.obxlabs.net/obx_docs/dynamic_poetry_new_medium.pdf' target='_blank'>[Ver enlace]</a><br>
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/embodied-type/">← Anterior<br><small>Embodied Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">Siguiente →<br><small>Like Beauty in Flames</small></a></div></div>
