@@ -4,14 +4,12 @@ title: "The Guide To Be Seen"
 date: 2024-01-01
 author: "Eager Zhang"
 year: "2023"
-thumbnail: "/images/referentes/the guide to be seen 01.mp4"
+thumbnail: "/images/referentes/the guide to be seen 02.png"
 permalink: /referentes/the-guide-to-be-seen/
 ---
 
 **Eager Zhang, 2023**
 
-
-![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 01.mp4)
 
 ![Imagen de The Guide To Be Seen](/images/referentes/the guide to be seen 02.png)
 
