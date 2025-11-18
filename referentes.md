@@ -8,7 +8,7 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 
 ---
 
-### 🧭 Explorar por Función
+### Explorar por Función
 
 <div class="nav-links">
 <p>
@@ -22,7 +22,7 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 </p>
 </div>
 
-### 🧭 Explorar por Contexto
+### Explorar por Contexto
 
 <div class="nav-links">
 <p>
@@ -33,7 +33,7 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 </p>
 </div>
 
-### 🧭 Explorar por Grado de interactividad
+### Explorar por Grado de interactividad
 
 <div class="nav-links">
 <p>
@@ -46,7 +46,7 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 
 ---
 
-### 📚 Catálogo Completo
+### Referentes analizados
 
 <div class="project-grid">
   {% for proyecto in site.referentes %}
