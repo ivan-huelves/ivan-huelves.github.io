@@ -4,22 +4,22 @@ title: "Type/dynamics"
 date: 2024-01-01
 author: "Lust Studio y Jurriaan Schrofer"
 year: "2013"
-thumbnail: "/images/referentes/Type/dynamics 01.avif"
+thumbnail: "/images/referentes/Type dynamics 01.avif"
 permalink: /referentes/type-dynamics/
 ---
 
 **Lust Studio y Jurriaan Schrofer, 2013**
 
 
-![Imagen de Type/dynamics](/images/referentes/Type/dynamics 01.avif)
+![Imagen de Type/dynamics](/images/referentes/Type dynamics 01.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type/dynamics 02.avif)
+![Imagen de Type/dynamics](/images/referentes/Type dynamics 02.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type/dynamics 03.avif)
+![Imagen de Type/dynamics](/images/referentes/Type dynamics 03.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type/dynamics 04.jpg)
+![Imagen de Type/dynamics](/images/referentes/Type dynamics 04.jpg)
 
-![Imagen de Type/dynamics](/images/referentes/Type/dynamics 05.jpg)
+![Imagen de Type/dynamics](/images/referentes/Type dynamics 05.jpg)
 
 
 
