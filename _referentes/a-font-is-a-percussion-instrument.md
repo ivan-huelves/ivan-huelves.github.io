@@ -4,6 +4,7 @@ title: "A Font is a Percussion Instrument"
 date: 2024-01-01
 author: "Rob Stenson"
 year: "2023"
+thumbnail: "/images/referentes/A Font is a Percussion Instrument 01.webp"
 permalink: /referentes/a-font-is-a-percussion-instrument/
 ---
 
@@ -32,6 +33,7 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Python, [Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

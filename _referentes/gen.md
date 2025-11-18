@@ -4,6 +4,7 @@ title: "GEN"
 date: 2024-01-01
 author: "Kyuha Shim"
 year: "2015"
+thumbnail: "/images/referentes/GEN Kyuha Shim 01.jpg"
 permalink: /referentes/gen/
 ---
 
@@ -36,6 +37,7 @@ La relevancia para esta investigación es que destaca el potencial creativo de l
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

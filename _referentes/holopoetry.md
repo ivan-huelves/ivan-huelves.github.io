@@ -4,6 +4,7 @@ title: "Holopoetry"
 date: 2024-01-01
 author: "Eduardo Kac"
 year: "1983"
+thumbnail: "/images/referentes/holopoetry 01.gif"
 permalink: /referentes/holopoetry/
 ---
 
@@ -34,6 +35,7 @@ La relevancia de este proyecto es que desafía las concepciones tradicionales de
 * **Tipo de input:** [Visual](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Holografía
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

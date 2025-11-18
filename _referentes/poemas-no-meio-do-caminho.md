@@ -4,6 +4,7 @@ title: "Poemas no meio do caminho"
 date: 2024-01-01
 author: "Rui Torres"
 year: "2008"
+thumbnail: "/images/referentes/poemasnomeiodocaminho_01.jpg"
 permalink: /referentes/poemas-no-meio-do-caminho/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación reside en su planteamiento de la lectura 
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Actionscript 3.0
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

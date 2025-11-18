@@ -4,6 +4,7 @@ title: "Wet Fonts"
 date: 2024-01-01
 author: "David Small"
 year: "1990"
+thumbnail: "/images/referentes/wet fonts.jpg"
 permalink: /referentes/wet-fonts/
 ---
 
@@ -31,6 +32,7 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente sesarrollo a medida)
+* **Alfanumérica:** Si
 * **Mantiene codificación textual:** No
 
 <br>

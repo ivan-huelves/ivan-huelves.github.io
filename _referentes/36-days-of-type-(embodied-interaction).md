@@ -4,6 +4,7 @@ title: "36 Days of Type (Embodied Interaction)"
 date: 2024-01-01
 author: "Nahuel Gerth"
 year: "2023"
+thumbnail: "/images/referentes/36 days of type 01.png"
 permalink: /referentes/36-days-of-type-(embodied-interaction)/
 ---
 
@@ -34,6 +35,7 @@ La relevancia de este proyecto es que demuestra un modelo de interacción altern
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** P5.js, Machine Learning (Mediapipe)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Touch Type"
 date: 2024-01-01
 author: "Richard Yee"
 year: "2019"
+thumbnail: "/images/referentes/touch type 01.gif"
 permalink: /referentes/touch-type/
 ---
 
@@ -37,6 +38,7 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Machine Learning, (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), WebGL
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

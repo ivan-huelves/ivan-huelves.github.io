@@ -4,6 +4,7 @@ title: "The Climate Crisis Font"
 date: 2024-01-01
 author: "Helsingin Sanomat, Eino Korkala y Daniel Coull"
 year: "2021"
+thumbnail: "/images/referentes/climate crisis font 01.gif"
 permalink: /referentes/the-climate-crisis-font/
 ---
 
@@ -34,6 +35,7 @@ La relevancia de este proyecto reside en su uso innovador de la tipografía vari
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (datos del retroceso del hielo ártico)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

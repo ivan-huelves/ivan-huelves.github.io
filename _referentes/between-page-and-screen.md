@@ -4,6 +4,7 @@ title: "Between Page and Screen"
 date: 2024-01-01
 author: "Amaranth Borsuk y Brad Bouse"
 year: "2012"
+thumbnail: "/images/referentes/Between Page and Screen 01.jpg"
 permalink: /referentes/between-page-and-screen/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 * **Tipo de input:** [Visual (cámara), Controlador físico (movimiento del libro físico)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Realidad Aumentada (basado en FLARToolKit)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Cymatics Typeface"
 date: 2024-01-01
 author: "Danielle Abbon"
 year: "2016"
+thumbnail: "/images/referentes/Cymatics 01.webp"
 permalink: /referentes/cymatics-typeface/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 * **Tipo de input:** [Sonido (frecuencias entre 750–2000 Hz)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica (figuras de Chladni)](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

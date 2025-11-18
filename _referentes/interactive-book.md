@@ -4,6 +4,7 @@ title: "Interactive book"
 date: 2024-01-01
 author: "Tamper Studio"
 year: "2017"
+thumbnail: "/images/referentes/interactive book 01.webp"
 permalink: /referentes/interactive-book/
 ---
 
@@ -35,6 +36,7 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 * **Tipo de input:** [Controlador físico (libro)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Arduino
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

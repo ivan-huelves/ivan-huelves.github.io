@@ -4,6 +4,7 @@ title: "Brain Opera"
 date: 2024-01-01
 author: "David Small y Yin Yin Wong"
 year: "1996"
+thumbnail: "/images/referentes/brain-opera.jpg"
 permalink: /referentes/brain-opera/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 * **Tipo de input:** [Sonido (música)](/etiquetas/sonido/), [Gestual (táctil)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Alphabet Synthesis Machine"
 date: 2024-01-01
 author: "Golan Levin, Jonathan Feinberg y Cassidy Curtis"
 year: "2001"
+thumbnail: "/images/referentes/Alphabet Synthesis Machine 01.jpg"
 permalink: /referentes/alphabet-synthesis-machine/
 ---
 
@@ -36,6 +37,7 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Applet de Java que utiliza un algoritmo genético para evolucionar y generar sistemas de escritura a partir de un trazo inicInteligencia artificiall del usuario. Los alfabetos generados se pueden descargar como fuentes TrueType.](/etiquetas/algoritmo/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

@@ -4,6 +4,7 @@ title: "Typo Talk"
 date: 2024-01-01
 author: "Soo"
 year: "1997"
+thumbnail: "/images/referentes/typo talk.jpg"
 permalink: /referentes/typo-talk/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
 <br>

@@ -4,6 +4,7 @@ title: "Seen"
 date: 2024-01-01
 author: "Emil Kozole"
 year: "2014"
+thumbnail: "/images/referentes/seen 01.png"
 permalink: /referentes/seen/
 ---
 
@@ -39,6 +40,7 @@ La relevancia para esta investigación reside en la conexión directa que establ
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** OpenType
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

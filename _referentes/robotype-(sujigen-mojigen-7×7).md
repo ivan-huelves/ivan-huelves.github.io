@@ -4,6 +4,7 @@ title: "Robotype (Sujigen, Mojigen, 7×7)"
 date: 2024-01-01
 author: "Yuichiro Katsumoto"
 year: "2016"
+thumbnail: "/images/referentes/robotype 01.jpg"
 permalink: /referentes/robotype-(sujigen-mojigen-7×7)/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que traslada la tipografía interactiv
 * **Tipo de input:** [Algoritmo (robots)](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** Robótica
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

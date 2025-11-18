@@ -4,6 +4,7 @@ title: "Sound-Reactive Typeface"
 date: 2024-01-01
 author: "Yarza Twins"
 year: "2015"
+thumbnail: "/images/referentes/sound-reactive typeface yarza twins.gif"
 permalink: /referentes/sound-reactive-typeface/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

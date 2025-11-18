@@ -4,6 +4,7 @@ title: "Visual Chronicles of Abya Yala"
 date: 2024-01-01
 author: "Vanessa Zúñiga Tinizaray"
 year: "2004"
+thumbnail: "/images/referentes/Visual Chronicles of Abya Yala 01.jpg"
 permalink: /referentes/visual-chronicles-of-abya-yala/
 ---
 
@@ -44,6 +45,7 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, P5.js
+* **Alfanumérica:** Mixto
 * **Mantiene codificación textual:** No
 
 <br>

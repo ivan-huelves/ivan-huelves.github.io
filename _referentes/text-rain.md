@@ -4,6 +4,7 @@ title: "Text Rain"
 date: 2024-01-01
 author: "Camille Utterback y Romy Achituv"
 year: "1999"
+thumbnail: "/images/referentes/text rain 01.jpg"
 permalink: /referentes/text-rain/
 ---
 
@@ -30,6 +31,7 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 * **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (movimiento corporal)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

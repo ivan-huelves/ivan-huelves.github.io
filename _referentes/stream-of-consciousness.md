@@ -4,6 +4,7 @@ title: "Stream of Consciousness"
 date: 2024-01-01
 author: "David Small y Tom White"
 year: "1999"
+thumbnail: "/images/referentes/https://acg.media.mit.edu/projects/stream/"
 permalink: /referentes/stream-of-consciousness/
 ---
 
@@ -30,6 +31,7 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 * **Tipo de input:** [Gestual (táctil manos)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

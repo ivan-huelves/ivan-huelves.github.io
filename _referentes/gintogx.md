@@ -4,6 +4,7 @@ title: "GintoGX"
 date: 2024-01-01
 author: "Daniel Wenzel"
 year: "2018"
+thumbnail: "/images/referentes/gintogx_01.gif"
 permalink: /referentes/gintogx/
 ---
 
@@ -34,6 +35,7 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Gestual](/etiquetas/gestual/), [Sonido](/etiquetas/sonido/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

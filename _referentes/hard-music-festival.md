@@ -4,6 +4,7 @@ title: "Hard Music Festival"
 date: 2024-01-01
 author: "Mikiko Yamabayashi"
 year: "2019"
+thumbnail: "/images/referentes/HARD Music Festival 01.jpg"
 permalink: /referentes/hard-music-festival/
 ---
 
@@ -44,6 +45,7 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Genoma Grotesk"
 date: 2024-01-01
 author: "Robin Eberwein"
 year: "2018"
+thumbnail: "/images/referentes/genoma 01.png, genoma 02.png"
 permalink: /referentes/genoma-grotesk/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 * **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Arduino, JavaScript, Css
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

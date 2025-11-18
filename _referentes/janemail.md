@@ -4,6 +4,7 @@ title: "Janemail"
 date: 2024-01-01
 author: "Yin Yin Wong"
 year: "1995"
+thumbnail: "/images/referentes/Janemail.png"
 permalink: /referentes/janemail/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida, [RSVP (Rapid SerInteligencia artificiall Visual Presentation)](/etiquetas/visual/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

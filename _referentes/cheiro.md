@@ -4,6 +4,7 @@ title: "Cheiro"
 date: 2024-01-01
 author: "Francis Lam"
 year: "2006"
+thumbnail: "/images/referentes/cheiro 01.jpg"
 permalink: /referentes/cheiro/
 ---
 
@@ -35,6 +36,7 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

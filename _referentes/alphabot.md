@@ -4,6 +4,7 @@ title: "Alphabot"
 date: 2024-01-01
 author: "Nikita Pashenkov"
 year: "2000"
+thumbnail: "/images/referentes/ALPHABOT 01.webp"
 permalink: /referentes/alphabot/
 ---
 
@@ -34,6 +35,7 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** C++, OpenGL
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

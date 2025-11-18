@@ -4,6 +4,7 @@ title: "Your Typeface"
 date: 2024-01-01
 author: "Overtone y Set Snail"
 year: "2020"
+thumbnail: "/images/referentes/yourtypeface 01.jpg"
 permalink: /referentes/your-typeface/
 ---
 
@@ -36,6 +37,7 @@ La relevancia para esta investigación reside en la exploración de una relació
 * **Tipo de input:** [Visual (reconocimiento facial)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** BRFv5 Face Tracking, [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

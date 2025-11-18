@@ -4,6 +4,7 @@ title: "FF Beowolf"
 date: 2024-01-01
 author: "Erik van Blokland y Just van Rossum"
 year: "1989"
+thumbnail: "/images/referentes/beowolf 01.jpg"
 permalink: /referentes/ff-beowolf/
 ---
 
@@ -38,6 +39,7 @@ La relevancia para esta investigación reside en su condición de precedente his
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** PostScript
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

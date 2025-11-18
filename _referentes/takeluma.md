@@ -4,6 +4,7 @@ title: "Takeluma"
 date: 2024-01-01
 author: "Peter Cho"
 year: "2005"
+thumbnail: "/images/referentes/takeluma 01.jpg"
 permalink: /referentes/takeluma/
 ---
 
@@ -34,6 +35,7 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

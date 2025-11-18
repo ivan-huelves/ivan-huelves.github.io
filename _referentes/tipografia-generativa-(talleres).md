@@ -4,6 +4,7 @@ title: "Tipografía generativa (talleres)"
 date: 2024-01-01
 author: "Anna Carreras"
 year: "2017"
+thumbnail: "/images/referentes/anna carreras 01.png"
 permalink: /referentes/tipografia-generativa-(talleres)/
 ---
 
@@ -32,6 +33,7 @@ Aunque se trata de un serie de talleres, su relevancia reside en la figura de An
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

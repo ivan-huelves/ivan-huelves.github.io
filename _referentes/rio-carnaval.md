@@ -4,6 +4,7 @@ title: "Rio Carnaval"
 date: 2024-01-01
 author: "Tatil Design"
 year: "2022"
+thumbnail: "/images/referentes/rio carnaval 01.jpeg"
 permalink: /referentes/rio-carnaval/
 ---
 
@@ -42,6 +43,7 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Controlador físico (táctil)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

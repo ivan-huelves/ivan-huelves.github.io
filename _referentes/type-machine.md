@@ -4,6 +4,7 @@ title: "Type Machine"
 date: 2024-01-01
 author: "Heike Neff"
 year: "2019"
+thumbnail: "/images/referentes/typemachine 01.mp4"
 permalink: /referentes/type-machine/
 ---
 
@@ -35,6 +36,7 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 * **Tipo de input:** [Controlador físico (botones, interruptores y deslizadores)](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, Arduino
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

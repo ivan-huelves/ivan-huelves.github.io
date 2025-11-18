@@ -4,6 +4,7 @@ title: "Font Remix Project"
 date: 2024-01-01
 author: "Lorraine Li"
 year: "2022"
+thumbnail: "/images/referentes/font remix 01.jpg"
 permalink: /referentes/font-remix-project/
 ---
 
@@ -43,6 +44,7 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Datos externos (dos tipografías)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** JavaScript, con la librería opentype.js
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

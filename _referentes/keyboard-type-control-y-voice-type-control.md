@@ -4,6 +4,7 @@ title: "Keyboard Type Control y Voice Type Control"
 date: 2024-01-01
 author: "David Small"
 year: "1990"
+thumbnail: "/images/referentes/Keyboard Type Control y Voice Type Control 01.png"
 permalink: /referentes/keyboard-type-control-y-voice-type-control/
 ---
 
@@ -33,6 +34,7 @@ La relevancia de estos proyectos es que son precedentes fundamentales que sentar
 * **Tipo de input:** [Sonido (volumen)](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

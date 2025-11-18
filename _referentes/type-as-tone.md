@@ -4,6 +4,7 @@ title: "Type as Tone"
 date: 2024-01-01
 author: "Kasper Pyndt"
 year: "2016"
+thumbnail: "/images/referentes/type as tone 1.webp"
 permalink: /referentes/type-as-tone/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación es que abre un campo de exploración sobr
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Diseño conceptual
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

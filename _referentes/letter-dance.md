@@ -4,6 +4,7 @@ title: "Letter Dance"
 date: 2024-01-01
 author: "Peter Sungil Cho"
 year: "1999"
+thumbnail: "/images/referentes/letter dance.jpg"
 permalink: /referentes/letter-dance/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Problablemente desarrollo a medida)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

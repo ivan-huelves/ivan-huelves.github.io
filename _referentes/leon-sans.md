@@ -4,6 +4,7 @@ title: "Leon Sans"
 date: 2024-01-01
 author: "Jongmin Kim"
 year: "2019"
+thumbnail: "/images/referentes/leon sans 01.png"
 permalink: /referentes/leon-sans/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación es que se trata de un ejemplo de tipograf
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** JavaScript (librería TweenMax para animaciones)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

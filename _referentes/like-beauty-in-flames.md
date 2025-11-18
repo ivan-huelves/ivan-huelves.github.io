@@ -4,6 +4,7 @@ title: "Like Beauty in Flames"
 date: 2024-01-01
 author: "Jenny Holzer"
 year: "2021"
+thumbnail: "/images/referentes/like beauty in flames 1.jpg"
 permalink: /referentes/like-beauty-in-flames/
 ---
 
@@ -40,6 +41,7 @@ La relevancia para esta investigación radica en que explora la interacción del
 * **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Datos externos (geolocalización)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Realidad Aumentada (aplicación móvil Like Beauty in Flames)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

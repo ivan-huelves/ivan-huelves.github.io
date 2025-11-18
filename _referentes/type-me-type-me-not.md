@@ -4,6 +4,7 @@ title: "Type Me, Type Me Not"
 date: 2024-01-01
 author: "Peter Cho"
 year: "1997"
+thumbnail: "/images/referentes/type me type not 01.png"
 permalink: /referentes/type-me-type-me-not/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que constituye un antecedente fundamen
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/), [Sonido](/etiquetas/sonido/)
 * **Tecnología empleada:** N. C. (nueva versión en P5.js)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

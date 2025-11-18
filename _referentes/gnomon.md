@@ -4,6 +4,7 @@ title: "Gnomon"
 date: 2024-01-01
 author: "Indestructible Type"
 year: "2018"
+thumbnail: "/images/referentes/gnomon.png"
 permalink: /referentes/gnomon/
 ---
 
@@ -30,6 +31,7 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (hora del día y localización geográfica)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Un script de Javascript utiliza las librerías SunCalc.js (para calcular la posición del sol) y Moment.js (para gestionar la hora)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

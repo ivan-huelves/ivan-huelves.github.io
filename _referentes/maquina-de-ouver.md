@@ -4,6 +4,7 @@ title: "Máquina de Ouver"
 date: 2024-01-01
 author: "João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida"
 year: "2019"
+thumbnail: "/images/referentes/ouver 01.jpg"
 permalink: /referentes/maquina-de-ouver/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación es que establece un modelo riguroso para 
 * **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Praat (para el análisis de tono e intensidad), ExtendScript y BasilJS (para controlar dinámicamente Adobe InDesign y After Effects)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Reactive Typography"
 date: 2024-01-01
 author: "Victoria Constantine"
 year: "2013"
+thumbnail: "/images/referentes/Reactive Typography 1.png"
 permalink: /referentes/reactive-typography/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación reside en su enfoque sobre la accesibilid
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

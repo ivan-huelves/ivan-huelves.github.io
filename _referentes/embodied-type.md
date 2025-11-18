@@ -4,6 +4,7 @@ title: "Embodied Type"
 date: 2024-01-01
 author: "Janny Ji"
 year: "2019"
+thumbnail: "/images/referentes/embodied 01.gif"
 permalink: /referentes/embodied-type/
 ---
 
@@ -37,6 +38,7 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 * **Tipo de input:** [Visual (mirada)](/etiquetas/visual/), [Gestual (glifos físicos)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Talmud Project"
 date: 2024-01-01
 author: "David Small y Tom White"
 year: "1999"
+thumbnail: "/images/referentes/talmud.png"
 permalink: /referentes/talmud-project/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 * **Tipo de input:** N. C.
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

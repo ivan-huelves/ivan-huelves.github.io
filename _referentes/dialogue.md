@@ -4,6 +4,7 @@ title: "Dialogue"
 date: 2024-01-01
 author: "Yin Yin Wong"
 year: "1995"
+thumbnail: "/images/referentes/dialogue.png"
 permalink: /referentes/dialogue/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto reside en su tratamiento pionero de la pantalla c
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** C, RSVP. Software personalizado desarrollado en C sobre una estación de trabajo Silicon Graphics (SGI)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

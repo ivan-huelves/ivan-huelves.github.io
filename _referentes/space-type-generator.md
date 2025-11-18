@@ -4,6 +4,7 @@ title: "Space Type Generator"
 date: 2024-01-01
 author: "Kiel Mutschelknaus"
 year: "2018"
+thumbnail: "/images/referentes/spacetypegenerator 01.jpg"
 permalink: /referentes/space-type-generator/
 ---
 
@@ -42,6 +43,7 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** P5.js
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

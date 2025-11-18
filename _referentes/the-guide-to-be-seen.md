@@ -4,6 +4,7 @@ title: "The Guide To Be Seen"
 date: 2024-01-01
 author: "Eager Zhang"
 year: "2023"
+thumbnail: "/images/referentes/the guide to be seen 01.mp4"
 permalink: /referentes/the-guide-to-be-seen/
 ---
 
@@ -38,6 +39,7 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 * **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (movimiento del dispositivo o del póster)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

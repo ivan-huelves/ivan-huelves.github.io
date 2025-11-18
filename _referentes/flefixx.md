@@ -4,6 +4,7 @@ title: "Flefixx"
 date: 2024-01-01
 author: "Sun Young Oh"
 year: "2023"
+thumbnail: "/images/referentes/Flefixx 1.png"
 permalink: /referentes/flefixx/
 ---
 
@@ -35,6 +36,7 @@ La relevancia de este proyecto para la investigación es que establece un preced
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Generación tipográfica (ilustrativa)](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** N. C. (probablemente P5.js o Javascript)
+* **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
 <br>

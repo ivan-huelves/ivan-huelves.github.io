@@ -4,6 +4,7 @@ title: "Nomad Typeface"
 date: 2024-01-01
 author: "Byoung-Il Choi"
 year: "2001"
+thumbnail: "/images/referentes/nomad typeface.jpg"
 permalink: /referentes/nomad-typeface/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que demuestra cómo el input del usuar
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

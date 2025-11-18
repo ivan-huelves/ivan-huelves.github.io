@@ -4,6 +4,7 @@ title: "Amsteldok"
 date: 2024-01-01
 author: "Vbat y Fontsmith"
 year: "2018"
+thumbnail: "/images/referentes/Amsteldok 01.webp"
 permalink: /referentes/amsteldok/
 ---
 
@@ -54,6 +55,7 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Tipo de input:** [Gestual](/etiquetas/gestual/), [Datos externos (presencia y hora del día)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

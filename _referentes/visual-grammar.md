@@ -4,6 +4,7 @@ title: "Visual Grammar"
 date: 2024-01-01
 author: "Isabel Lea"
 year: "2019"
+thumbnail: "/images/referentes/visual grammar isabel lee 1.jpg"
 permalink: /referentes/visual-grammar/
 ---
 
@@ -32,6 +33,7 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 * **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/), [Sonido (MIDI)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

@@ -4,6 +4,7 @@ title: "Typeface Project"
 date: 2024-01-01
 author: "Mary Huang"
 year: "2011"
+thumbnail: "/images/referentes/typeface 01.jpg"
 permalink: /referentes/typeface-project/
 ---
 
@@ -48,6 +49,7 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Tipo de input:** [Gestual (rostro, ojos y boca)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Processing, OpenCV
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Move Me MM"
 date: 2024-01-01
 author: "Lucas de Groot"
 year: "1994"
+thumbnail: "/images/referentes/move me mm.jpg"
 permalink: /referentes/move-me-mm/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Multiple Master
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
 <br>

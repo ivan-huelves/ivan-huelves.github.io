@@ -4,6 +4,7 @@ title: "Kinetic Instant Messenger"
 date: 2024-01-01
 author: "Kerry Bodine y Mathilde Pignol"
 year: "2003"
+thumbnail: "/images/referentes/kinetic typography.jpg"
 permalink: /referentes/kinetic-instant-messenger/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que el proyecto marcó un precedente e
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

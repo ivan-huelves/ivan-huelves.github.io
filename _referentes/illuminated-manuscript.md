@@ -4,6 +4,7 @@ title: "Illuminated Manuscript"
 date: 2024-01-01
 author: "David Small"
 year: "2002"
+thumbnail: "/images/referentes/illuminated manuscript - small 1.jpg"
 permalink: /referentes/illuminated-manuscript/
 ---
 
@@ -34,6 +35,7 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 * **Tipo de input:** [Gestual (táctil)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

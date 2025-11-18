@@ -4,6 +4,7 @@ title: "Automated Type Design"
 date: 2024-01-01
 author: "Daniel Wenzel"
 year: "2019"
+thumbnail: "/images/referentes/Automated Type Design 01.jpg"
 permalink: /referentes/automated-type-design/
 ---
 
@@ -43,6 +44,7 @@ La relevancia para esta investigación reside en su sistematización de los mét
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** Inteligencia artificial
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

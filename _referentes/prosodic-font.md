@@ -4,6 +4,7 @@ title: "Prosodic Font"
 date: 2024-01-01
 author: "Tara Rosenberger"
 year: "1998"
+thumbnail: "/images/referentes/prosodic font.png"
 permalink: /referentes/prosodic-font/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Tipo de input:** [Sonido (tono, intensidad y ritmo)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica (tamaño](/etiquetas/transformacion-morfologica/), altura, anchura y grosor de glifos)
 * **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

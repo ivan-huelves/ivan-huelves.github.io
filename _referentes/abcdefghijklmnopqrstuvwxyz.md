@@ -4,6 +4,7 @@ title: "abcdefghijklmnopqrstuvwxyz"
 date: 2024-01-01
 author: "Jörg Piringer"
 year: "2010"
+thumbnail: "/images/referentes/abcdefghijklmnopqrstuvwxyz.png"
 permalink: /referentes/abcdefghijklmnopqrstuvwxyz/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que ejemplifica un modelo donde los ca
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N.C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

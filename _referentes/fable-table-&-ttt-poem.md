@@ -4,6 +4,7 @@ title: "Fable Table & TTT Poem"
 date: 2024-01-01
 author: "Douglas Soo"
 year: "1997"
+thumbnail: "/images/referentes/fable table 01.jpg"
 permalink: /referentes/fable-table-&-ttt-poem/
 ---
 
@@ -33,6 +34,7 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 * **Tipo de input:** [Gestual (táctil, manos)](/etiquetas/gestual/), [Datos externos (sensores proximidad)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Sonido](/etiquetas/sonido/)
 * **Tecnología empleada:** Desarrollo a medida, Sistemas de computación física. Fable Table utiliza una mesa de madera con sensores infrarrojos y un proyector. TTT Poem emplea sensores de proximidad bajo una mesa que rastrean un transmisor de mano.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

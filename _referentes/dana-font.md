@@ -4,6 +4,7 @@ title: "Dana Font"
 date: 2024-01-01
 author: "Ana Estrada"
 year: "2018"
+thumbnail: "/images/referentes/dana 01.jpg"
 permalink: /referentes/dana-font/
 ---
 
@@ -35,6 +36,7 @@ La relevancia para esta investigación es que establece un precedente claro para
 * **Tipo de input:** [Datos externos (Ancho ventana navegador)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Javascript, CSS
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

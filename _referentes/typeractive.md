@@ -4,6 +4,7 @@ title: "Typeractive"
 date: 2024-01-01
 author: "Peter Sungil Cho"
 year: "1999"
+thumbnail: "/images/referentes/typeractive.jpg"
 permalink: /referentes/typeractive/
 ---
 
@@ -31,6 +32,7 @@ La relevancia de este proyecto para la investigación reside en que es una de la
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente Desarrollo a medida)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

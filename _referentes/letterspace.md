@@ -4,6 +4,7 @@ title: "Letterspace"
 date: 2024-01-01
 author: "Peter Sungil Cho"
 year: "1998"
+thumbnail: "/images/referentes/letterspace 01.jpg"
 permalink: /referentes/letterspace/
 ---
 
@@ -33,6 +34,7 @@ La relevancia de este proyecto para la investigación reside en su aproximación
 * **Tipo de input:** [Gestual (sensores de campo magnético 3D en las manos del usuario)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

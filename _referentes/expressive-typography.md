@@ -4,6 +4,7 @@ title: "Expressive Typography"
 date: 2024-01-01
 author: "Suguru Ishizaki"
 year: "1996"
+thumbnail: "/images/referentes/ishizaki - expressive typography 1.png"
 permalink: /referentes/expressive-typography/
 ---
 
@@ -32,6 +33,7 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N.C.
 
 <br>

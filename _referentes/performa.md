@@ -4,6 +4,7 @@ title: "Performa"
 date: 2024-01-01
 author: "Kyuha Shim"
 year: "2013"
+thumbnail: "/images/referentes/performa.jpg"
 permalink: /referentes/performa/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 * **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Interactive Typography"
 date: 2024-01-01
 author: "Jaivardhan Singh Channey"
 year: "2013"
+thumbnail: "/images/referentes/interactive typography.jpg"
 permalink: /referentes/interactive-typography/
 ---
 
@@ -30,6 +31,7 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 * **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing, Arduino
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

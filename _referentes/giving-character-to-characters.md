@@ -4,6 +4,7 @@ title: "Giving Character to Characters"
 date: 2024-01-01
 author: "Richard The"
 year: "2010"
+thumbnail: "/images/referentes/Giving Character to Characters.png"
 permalink: /referentes/giving-character-to-characters/
 ---
 
@@ -31,6 +32,7 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
 <br>

@@ -4,6 +4,7 @@ title: "Live Letters"
 date: 2024-01-01
 author: "Julia Schäfer"
 year: "2020"
+thumbnail: "/images/referentes/live letters 01.webp"
 permalink: /referentes/live-letters/
 ---
 
@@ -38,6 +39,7 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
 * **Tecnología empleada:** Machine Learning, (Pose Estimation, Teachable Machine), p5.js
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

@@ -4,6 +4,7 @@ title: "Segundo Soneto Meio Barroco"
 date: 2024-01-01
 author: "Alckmar Luiz dos Santos y Gilbertto Prado"
 year: "2000"
+thumbnail: "/images/referentes/Segundo Soneto Meio Barroco.jpeg"
 permalink: /referentes/segundo-soneto-meio-barroco/
 ---
 
@@ -30,6 +31,7 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 * **Tipo de input:** [Gestual (en entorno 3D)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** VRML
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

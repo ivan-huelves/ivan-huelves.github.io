@@ -4,6 +4,7 @@ title: "Handy Type"
 date: 2024-01-01
 author: "Rozi Zhu y Haocheng Zhang"
 year: "2023"
+thumbnail: "/images/referentes/handytype 01.png"
 permalink: /referentes/handy-type/
 ---
 
@@ -32,6 +33,7 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Tipo de input:** [Gestual (dedos y palma de la mano)](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Sistema de captura de movimiento, Inteligencia artificial, Desarrollo a medida
+* **Alfanumérica:** Si
 * **Mantiene codificación textual:** No
 
 <br>

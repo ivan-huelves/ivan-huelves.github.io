@@ -4,6 +4,7 @@ title: "Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, T
 date: 2024-01-01
 author: "John Maeda"
 year: "1994"
+thumbnail: "/images/referentes/reactive books 12 oclock.webp"
 permalink: /referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/
 ---
 
@@ -33,6 +34,7 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 * **Tipo de input:** [Sonido (micrófono)](/etiquetas/sonido/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Visual (cámara)](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Java
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

@@ -4,6 +4,7 @@ title: "Symphosizer"
 date: 2024-01-01
 author: "Collins y Dinamo"
 year: "2021"
+thumbnail: "/images/referentes/Symphosizer 01.png"
 permalink: /referentes/symphosizer/
 ---
 
@@ -38,6 +39,7 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>

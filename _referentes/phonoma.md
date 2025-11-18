@@ -4,6 +4,7 @@ title: "Phonoma"
 date: 2024-01-01
 author: "Sandra Lara Baranera"
 year: "2017"
+thumbnail: "/images/referentes/phonoma.jpg"
 permalink: /referentes/phonoma/
 ---
 
@@ -30,6 +31,7 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 * **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Materialización física](/etiquetas/materializacion-fisica/)
 * **Tecnología empleada:** Diseño conceptual
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

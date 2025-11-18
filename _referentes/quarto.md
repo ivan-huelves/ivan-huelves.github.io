@@ -4,6 +4,7 @@ title: "Quarto"
 date: 2024-01-01
 author: "Giacomo Bastianelli"
 year: "2022"
+thumbnail: "/images/referentes/quarto 1.jpg"
 permalink: /referentes/quarto/
 ---
 
@@ -33,6 +34,7 @@ La relevancia para esta investigación es que demuestra cómo la tipografía int
 * **Tipo de input:** [Sonido (tono, intensidad, ritmo)](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Sonido](/etiquetas/sonido/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 
 <br>
