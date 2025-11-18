@@ -287,3 +287,97 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+//página referentes
+/* --- Estilos para la Sección de Referentes --- */
+
+/* Rejilla de proyectos */
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Dos columnas iguales */
+  gap: 30px; /* Espacio entre tarjetas */
+  margin-top: 40px;
+}
+
+/* En móviles, una sola columna */
+@media (max-width: 768px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-card {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s;
+  text-decoration: none !important; /* Forzamos quitar subrayado */
+  color: inherit;
+  display: block;
+  background: #fff; /* Fondo blanco para la tarjeta */
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
+
+.card-image {
+  width: 100%;
+  height: 200px; /* Altura fija */
+  background-color: #f4f4f4;
+  overflow: hidden;
+  border-bottom: 1px solid #eee;
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Recorte perfecto */
+  display: block;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+  color: #333;
+}
+
+.card-meta {
+  font-size: 0.9em;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* Estilos para los menús de navegación (etiquetas) */
+.nav-links p {
+  line-height: 1.8;
+  font-size: 0.95em;
+}
+
+.nav-links a {
+  display: inline-block;
+  background: #f8f9fa;
+  padding: 4px 10px;
+  border-radius: 15px; /* Más redondeado tipo "pill" */
+  text-decoration: none;
+  margin: 3px 2px;
+  border: 1px solid #e9ecef;
+  font-size: 0.85em;
+  color: #555;
+  transition: all 0.2s ease;
+}
+
+.nav-links a:hover {
+  background: #007bff; /* Azul al pasar el ratón */
+  color: white;
+  border-color: #007bff;
+}
