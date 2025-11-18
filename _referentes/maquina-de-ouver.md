@@ -13,7 +13,7 @@ permalink: /referentes/maquina-de-ouver/
 
 ![Imagen de Máquina de Ouver](/images/referentes/ouver 01.jpg)
 
-![Imagen de Máquina de Ouver](/images/referentes/ouver02.jpg)
+![Imagen de Máquina de Ouver](/images/referentes/ouver 02.jpg)
 
 
 
