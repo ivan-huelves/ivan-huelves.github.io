@@ -9,6 +9,13 @@ permalink: /referentes/experimentos-de-tipografía-en-realidad-aumentada/
 
 **Andrew Johnson y Erik van Blokland, 2018**
 
+
+![Imagen de Experimentos de Tipografía en Realidad Aumentada](/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif)
+
+![Imagen de Experimentos de Tipografía en Realidad Aumentada](/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.webp)
+
+
+
 ### Relevancia en relación a la tipografía interactiva
 La investigación de Andrew Johnson consiste en una serie de experimentos que trasladan la tipografía del plano bidimensional al espacio tridimensional e interactivo de la realidad aumentada. El trabajo explora sistemáticamente cómo los caracteres pueden y deben comportarse cuando responden a variables del mundo real, como la distancia del observador, la luz ambiental o el movimiento del usuario.
 
