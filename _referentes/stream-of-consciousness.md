@@ -4,7 +4,7 @@ title: "Stream of Consciousness"
 date: 2024-01-01
 author: "David Small y Tom White"
 year: "1999"
-thumbnail: "/images/referentes/https://acg.media.mit.edu/projects/stream/"
+thumbnail: "/images/referentes/stream 01.jpg"
 permalink: /referentes/stream-of-consciousness/
 ---
 
