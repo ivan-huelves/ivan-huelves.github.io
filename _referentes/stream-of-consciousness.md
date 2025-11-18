@@ -11,7 +11,7 @@ permalink: /referentes/stream-of-consciousness/
 **David Small y Tom White, 1999**
 
 
-![Imagen de Stream of Consciousness](/images/referentes/https://acg.media.mit.edu/projects/stream/)
+![Imagen de Stream of Consciousness](/images/referentes/stream 01.jpg)
 
 
 
