@@ -29,7 +29,7 @@ La relevancia para esta investigación es que se trata de un ejemplo de tipograf
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** JavaScript (librería TweenMax para animaciones)
