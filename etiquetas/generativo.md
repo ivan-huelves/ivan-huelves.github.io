@@ -13,6 +13,7 @@ Proyectos catalogados como **Generativo**:
 - [Flefixx](/referentes/flefixx/)
 - [Font Remix Project](/referentes/font-remix-project/)
 - [GEN](/referentes/gen/)
+- [Leon Sans](/referentes/leon-sans/)
 - [Hypha](/referentes/hypha/)
 - [Space Type Generator](/referentes/space-type-generator/)
 - [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
