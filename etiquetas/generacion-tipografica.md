@@ -9,7 +9,7 @@ Proyectos catalogados como **Generación tipográfica**:
 - [Dance Writer](/referentes/dance-writer/)
 - [Flefixx](/referentes/flefixx/)
 - [Font Remix Project](/referentes/font-remix-project/)
-- [GEN](/referentes/gen/)
+- [GEN](/referentes/gn/)
 - [Hypha](/referentes/hypha/)
 - [Live Letters](/referentes/live-letters/)
 - [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)

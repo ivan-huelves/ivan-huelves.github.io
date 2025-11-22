@@ -12,7 +12,7 @@ Proyectos catalogados como **Generativo**:
 - [Cymatics Typeface](/referentes/cymatics-typeface/)
 - [Flefixx](/referentes/flefixx/)
 - [Font Remix Project](/referentes/font-remix-project/)
-- [GEN](/referentes/gen/)
+- [GEN](/referentes/gn/)
 - [Leon Sans](/referentes/leon-sans/)
 - [Hypha](/referentes/hypha/)
 - [Space Type Generator](/referentes/space-type-generator/)

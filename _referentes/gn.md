@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GEN"
+title: "GN"
 date: 2024-01-01
 author: "Kyuha Shim"
 year: "2015"
@@ -22,7 +22,7 @@ permalink: /referentes/gen/
 
 
 ### Relevancia en relación a la tipografía interactiva
-GEN es un proyecto que explora la tipografía generativa, donde la forma de los caracteres emerge de un sistema complejo y parcialmente impredecible. A diferencia de otros sistemas interactivos, el usuario no controla directamente la forma final, sino que establece un parámetro (por ejemplo, la densidad), y un algoritmo genera el resultado visual a partir de imágenes externas.
+GN es un proyecto que explora la tipografía generativa, donde la forma de los caracteres emerge de un sistema complejo y parcialmente impredecible. A diferencia de otros sistemas interactivos, el usuario no controla directamente la forma final, sino que establece un parámetro (por ejemplo, la densidad), y un algoritmo genera el resultado visual a partir de imágenes externas.
 
 La principal aportación del proyecto reside en investigar la creación tipográfica como un proceso autónomo y en constante cambio. Cuestiona las nociones tradicionales de control y autoría en el diseño, ya que el usuario influye en el sistema en lugar de determinar el resultado.
 
