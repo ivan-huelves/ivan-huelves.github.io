@@ -38,7 +38,8 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No
 
-<br>Cho, Peter. «Takeluma: An Exploration of Sound, Meaning, and Writing». MFA Thesis, UCLA Department of Design | Media Arts, 2005. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>
+<br>
+Cho, Peter. «Takeluma: An Exploration of Sound, Meaning, and Writing». MFA Thesis, UCLA Department of Design | Media Arts, 2005. <a href='https://pcho.net/takeluma/' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>
