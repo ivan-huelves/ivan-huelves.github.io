@@ -3,26 +3,316 @@ layout: page
 title: "Proyectos: Producto digital"
 permalink: /etiquetas/producto-digital/
 ---
+
 Proyectos catalogados como **Producto digital**:
-- [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
-- [DIA Tools](/referentes/dia-tools/)
-- [Expressive Typography](/referentes/expressive-typography/)
-- [Flefixx](/referentes/flefixx/)
-- [Font Remix Project](/referentes/font-remix-project/)
-- [GintoGX](/referentes/gintogx/)
-- [Gnomon](/referentes/gnomon/)
-- [Handy Type](/referentes/handy-type/)
-- [Phase](/referentes/phase/)
-- [Prosodic Font](/referentes/prosodic-font/)
-- [Segundo Soneto Meio Barroco](/referentes/segundo-soneto-meio-barroco/)
-- [Space Type Generator](/referentes/space-type-generator/)
-- [The Climate Crisis Font](/referentes/the-climate-crisis-font/)
-- [The Guide To Be Seen](/referentes/the-guide-to-be-seen/)
-- [Type Tools](/referentes/type-tools/)
-- [Typespace](/referentes/typespace/)
-- [Typographic Rhythm](/referentes/typographic-rhythm/)
-- [Your Typeface](/referentes/your-typeface/)
-- [no design foundry Tools](/referentes/no-design-foundry-tools/)
+
+<div class="project-grid">
+
+    <a href="/referentes/alphabet-synthesis-machine/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Alphabet Synthesis Machine 01.jpg" alt="Imagen de Alphabet Synthesis Machine" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Alphabet Synthesis Machine
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Jonathan Feinberg y Cassidy Curtis
+          <br>
+          <span style="color: #999;">2001</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dia-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DIA Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          DIA Studio
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/expressive-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/ishizaki - expressive typography 1.png" alt="Imagen de Expressive Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Expressive Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Suguru Ishizaki
+          <br>
+          <span style="color: #999;">1996</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/flefixx/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Flefixx 1.png" alt="Imagen de Flefixx" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Flefixx
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Sun Young Oh
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/font-remix-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/font remix 01.jpg" alt="Imagen de Font Remix Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Font Remix Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lorraine Li
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/gintogx/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/gintogx_01.gif" alt="Imagen de GintoGX" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            GintoGX
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Daniel Wenzel
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/gnomon/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/gnomon.png" alt="Imagen de Gnomon" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Gnomon
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Indestructible Type
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/handy-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/handytype 01.png" alt="Imagen de Handy Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Handy Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rozi Zhu y Haocheng Zhang
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/no-design-foundry-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/no design foundry 01.png" alt="Imagen de no design foundry Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            no design foundry Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          no design foundry
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/phase/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/phase 01.webp" alt="Imagen de Phase" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Phase
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Elias Hanzer y Florian Zia
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/prosodic-font/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/prosodic font.png" alt="Imagen de Prosodic Font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Prosodic Font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Tara Rosenberger
+          <br>
+          <span style="color: #999;">1998</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/segundo-soneto-meio-barroco/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo Soneto Meio Barroco" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Segundo Soneto Meio Barroco
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Alckmar Luiz dos Santos y Gilbertto Prado
+          <br>
+          <span style="color: #999;">2000</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/space-type-generator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/spacetypegenerator 01.jpg" alt="Imagen de Space Type Generator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Space Type Generator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kiel Mutschelknaus
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/the-climate-crisis-font/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/climate crisis font 01.gif" alt="Imagen de The Climate Crisis Font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            The Climate Crisis Font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Helsingin Sanomat, Eino Korkala y Daniel Coull
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/the-guide-to-be-seen/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/the guide to be seen 02.png" alt="Imagen de The Guide To Be Seen" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            The Guide To Be Seen
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Eager Zhang
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typespace/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typespace 01.avif" alt="Imagen de Typespace" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typespace
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rajshree Saraf
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typographic-rhythm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typographic Rhythm
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Puckey
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/your-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/yourtypeface 01.jpg" alt="Imagen de Your Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Your Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Overtone y Set Snail
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+</div>
 
 <br>
+<hr>
 [← Volver al índice de referentes](/referentes/)
