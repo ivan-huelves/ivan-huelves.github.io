@@ -41,4 +41,4 @@ Su relevancia para la investigación reside en evidenciar la capacidad de la tip
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/funky-mr-salvador-e-isabel-marant/">← Anterior<br><small>Funky Mr. Salvador e Isabel Marant</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sonictype/">Siguiente →<br><small>Sonictype</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/embodied-type/">Siguiente →<br><small>Embodied Type</small></a></div></div>

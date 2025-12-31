@@ -41,4 +41,4 @@ La relevancia de estos proyectos para la investigación reside en que ilustran l
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/existential-co/">← Anterior<br><small>Existential Co.</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-tools/">Siguiente →<br><small>Type Tools</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/existential-co/">← Anterior<br><small>Existential Co.</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-ar/">Siguiente →<br><small>Experimentos de Tipografía en AR</small></a></div></div>

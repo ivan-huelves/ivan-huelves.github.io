@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación estriba en que prefigura e
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/timed-type/">← Anterior<br><small>Timed Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/morisawa-fontpark-20/">Siguiente →<br><small>Morisawa Fontpark 2.0</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/embodied-type/">← Anterior<br><small>Embodied Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/emotional-type/">Siguiente →<br><small>Emotional Type</small></a></div></div>

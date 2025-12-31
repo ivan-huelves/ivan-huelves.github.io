@@ -41,4 +41,4 @@ Para esta investigación, la relevancia del proyecto es fundamental al ser uno d
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emotxt/">← Anterior<br><small>Emotxt</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/activetext-project-y-it's-alive!/">Siguiente →<br><small>ActiveText Project y It's Alive!</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/orfeo/">← Anterior<br><small>Orfeo</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/performa/">Siguiente →<br><small>Performa</small></a></div></div>

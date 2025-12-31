@@ -40,4 +40,4 @@ Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typograph
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">← Anterior<br><small>Sound-Reactive Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/janemail/">Siguiente →<br><small>Janemail</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dia-tools/">← Anterior<br><small>DIA Tools</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dmz-life-under-the-shadow-of-a-gun/">Siguiente →<br><small>DMZ. Life Under the Shadow of a Gun</small></a></div></div>

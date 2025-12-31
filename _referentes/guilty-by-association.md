@@ -45,4 +45,4 @@ La relevancia del proyecto para la investigación radica en demostrar que la tip
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/speak-don't-speak/">← Anterior<br><small>Speak Don't Speak</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/aerial-bold/">Siguiente →<br><small>Aerial Bold</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gt/">← Anterior<br><small>GT</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/handy-type/">Siguiente →<br><small>Handy Type</small></a></div></div>

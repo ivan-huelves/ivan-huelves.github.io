@@ -41,4 +41,4 @@ La relevancia para esta investigación es que abre un campo de exploración sobr
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/live-letters/">← Anterior<br><small>Live Letters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">Siguiente →<br><small>Kinetic Instant Messenger</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-+-code/">← Anterior<br><small>TYPE + CODE</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-machine/">Siguiente →<br><small>Type Machine</small></a></div></div>

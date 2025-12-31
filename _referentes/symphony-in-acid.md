@@ -45,4 +45,4 @@ La relevancia del proyecto radica en cómo utiliza la tipografía para generar u
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typespace/">← Anterior<br><small>Typespace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/speak-don't-speak/">Siguiente →<br><small>Speak Don't Speak</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">← Anterior<br><small>Stream of Consciousness</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphosizer/">Siguiente →<br><small>Symphosizer</small></a></div></div>

@@ -40,4 +40,4 @@ Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">← Anterior<br><small>Type Me, Type Me Not</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letterspace/">Siguiente →<br><small>Letterspace</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/leon-sans/">← Anterior<br><small>Leon Sans</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letterspace/">Siguiente →<br><small>Letterspace</small></a></div></div>

@@ -44,4 +44,4 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">← Anterior<br><small>Alphabet Synthesis Machine</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">Siguiente →<br><small>The Climate Crisis Font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-as-tone/">← Anterior<br><small>Type as Tone</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">Siguiente →<br><small>Type Me, Type Me Not</small></a></div></div>

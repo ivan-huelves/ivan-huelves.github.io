@@ -43,4 +43,4 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/in-order-to-control/">← Anterior<br><small>In Order to Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/your-typeface/">Siguiente →<br><small>Your Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typespace/">← Anterior<br><small>Typespace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typo-talk/">Siguiente →<br><small>Typo Talk</small></a></div></div>

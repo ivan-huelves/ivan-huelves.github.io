@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/iso-type-generator/">← Anterior<br><small>ISO Type Generator</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uglyph/">Siguiente →<br><small>Uglyph</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laser-letters/">← Anterior<br><small>Laser Letters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>

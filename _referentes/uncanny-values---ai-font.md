@@ -42,4 +42,4 @@ La relevancia de este proyecto para la investigación reside en que ejemplifica 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/munken-creator/">← Anterior<br><small>Munken Creator</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/facetype/">Siguiente →<br><small>Facetype</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/uglyph/">← Anterior<br><small>Uglyph</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/variable-fonts-–-reactive-typography/">Siguiente →<br><small>Variable Fonts – Reactive Typography</small></a></div></div>

@@ -43,4 +43,4 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cymatics-typeface/">← Anterior<br><small>Cymatics Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">Siguiente →<br><small>Keyboard Type Control y Voice Type Control</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/hypha/">← Anterior<br><small>Hypha</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>

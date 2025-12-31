@@ -45,4 +45,4 @@ La relevancia de este proyecto para la investigación reside en que valida el de
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/space-type-generator/">← Anterior<br><small>Space Type Generator</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/performa/">Siguiente →<br><small>Performa</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gravient/">← Anterior<br><small>Gravient</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/guilty-by-association/">Siguiente →<br><small>Guilty By Association</small></a></div></div>

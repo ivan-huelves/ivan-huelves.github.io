@@ -52,4 +52,4 @@ La relevancia para esta investigación reside en su sistematización de los mét
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gintogx/">← Anterior<br><small>GintoGX</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cymatics-typeface/">Siguiente →<br><small>Cymatics Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/aterytool/">← Anterior<br><small>AteryTool</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/between-page-and-screen/">Siguiente →<br><small>Between Page and Screen</small></a></div></div>

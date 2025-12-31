@@ -41,4 +41,4 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/alphabot/">← Anterior<br><small>Alphabot</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typevoice/">Siguiente →<br><small>TypeVoice</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">← Anterior<br><small>Illuminated Manuscript</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/inscript-festival-identity/">Siguiente →<br><small>Inscript Festival Identity</small></a></div></div>

@@ -42,4 +42,4 @@ Soo, Douglas. «Implementation of a temporal typography system». Master’s the
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dancing-type/">← Anterior<br><small>Dancing Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">Siguiente →<br><small>The Guide To Be Seen</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/expressive-typography/">← Anterior<br><small>Expressive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/facetype/">Siguiente →<br><small>Facetype</small></a></div></div>

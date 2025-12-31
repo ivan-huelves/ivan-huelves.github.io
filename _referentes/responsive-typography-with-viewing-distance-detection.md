@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-dynamics/">← Anterior<br><small>Type/dynamics</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeface-project/">Siguiente →<br><small>Typeface Project</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-typography/">← Anterior<br><small>Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/rio-carnaval/">Siguiente →<br><small>Rio Carnaval</small></a></div></div>

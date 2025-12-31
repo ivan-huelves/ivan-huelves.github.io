@@ -45,4 +45,6 @@ La relevancia de esta colección para la investigación radica en que evidencia 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-tools/">← Anterior<br><small>Type Tools</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/no-design-foundry-tools/">Siguiente →<br><small>no design foundry Tools</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/">← Anterior<br><small>Design of Kinetic Typography Interaction
+ based on the Structural Characteristics of Hangul</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dialogue/">Siguiente →<br><small>Dialogue</small></a></div></div>

@@ -39,4 +39,4 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gt/">← Anterior<br><small>GT</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/font-remix-project/">Siguiente →<br><small>Font Remix Project</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemm/">← Anterior<br><small>P.o.E.M.M.</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phase/">Siguiente →<br><small>Phase</small></a></div></div>

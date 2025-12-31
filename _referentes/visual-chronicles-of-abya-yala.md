@@ -53,4 +53,4 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/rio-carnaval/">← Anterior<br><small>Rio Carnaval</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/amsteldok/">Siguiente →<br><small>Amsteldok</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/vave/">← Anterior<br><small>Vave</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-grammar/">Siguiente →<br><small>Visual Grammar</small></a></div></div>

@@ -44,4 +44,4 @@ La relevancia de este proyecto para la investigación es que establece un preced
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/expressive-typography/">← Anterior<br><small>Expressive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-book/">Siguiente →<br><small>Interactive book</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/ff-beowolf/">← Anterior<br><small>FF Beowolf</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/font-remix-project/">Siguiente →<br><small>Font Remix Project</small></a></div></div>

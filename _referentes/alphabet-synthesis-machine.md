@@ -45,4 +45,4 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/quarto/">← Anterior<br><small>Quarto</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-machine/">Siguiente →<br><small>Type Machine</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/aerial-bold/">← Anterior<br><small>Aerial Bold</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabot/">Siguiente →<br><small>Alphabot</small></a></div></div>

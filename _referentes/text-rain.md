@@ -39,4 +39,4 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/nomad-typeface/">← Anterior<br><small>Nomad Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphosizer/">Siguiente →<br><small>Symphosizer</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/talmud-project/">← Anterior<br><small>Talmud Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/textension/">Siguiente →<br><small>Textension</small></a></div></div>

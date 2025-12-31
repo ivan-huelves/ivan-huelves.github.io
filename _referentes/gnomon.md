@@ -39,4 +39,4 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">← Anterior<br><small>The Climate Crisis Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-grammar/">Siguiente →<br><small>Visual Grammar</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/glitch-type-generator-tool/">← Anterior<br><small>Glitch Type Generator Tool</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/goertek-typeface/">Siguiente →<br><small>Goertek Typeface</small></a></div></div>

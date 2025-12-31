@@ -48,4 +48,4 @@ La relevancia para esta investigación reside en la conexión directa que establ
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/phase/">← Anterior<br><small>Phase</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laser-letters/">Siguiente →<br><small>Laser Letters</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/screen-profile/">← Anterior<br><small>Screen Profile</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">Siguiente →<br><small>Segundo Soneto Meio Barroco</small></a></div></div>

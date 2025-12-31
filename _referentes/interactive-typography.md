@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-grammar/">← Anterior<br><small>Visual Grammar</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/embodied-type/">Siguiente →<br><small>Embodied Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-book/">← Anterior<br><small>Interactive book</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/iso-type-generator/">Siguiente →<br><small>ISO Type Generator</small></a></div></div>

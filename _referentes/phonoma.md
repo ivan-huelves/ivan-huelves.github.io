@@ -39,4 +39,4 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">← Anterior<br><small>Poemas no meio do caminho</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typo-talk/">Siguiente →<br><small>Typo Talk</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/phase/">← Anterior<br><small>Phase</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/physarum-type-tool/">Siguiente →<br><small>Physarum Type Tool</small></a></div></div>

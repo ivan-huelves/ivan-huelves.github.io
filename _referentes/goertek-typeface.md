@@ -43,4 +43,4 @@ La relevancia de este proyecto para la investigación es que ejemplifica la apli
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/variable-fonts-–-reactive-typography/">← Anterior<br><small>Variable Fonts – Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/munken-creator/">Siguiente →<br><small>Munken Creator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gnomon/">← Anterior<br><small>Gnomon</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gravient/">Siguiente →<br><small>Gravient</small></a></div></div>

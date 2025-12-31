@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación radica en que establece un
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/aterytool/">← Anterior<br><small>AteryTool</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-+-code/">Siguiente →<br><small>TYPE + CODE</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/text-rain/">← Anterior<br><small>Text Rain</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-climate-crisis-font/">Siguiente →<br><small>The Climate Crisis Font</small></a></div></div>

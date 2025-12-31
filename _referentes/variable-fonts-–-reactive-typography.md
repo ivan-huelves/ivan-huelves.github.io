@@ -44,4 +44,4 @@ La relevancia de este proyecto para la investigación es que valida la necesidad
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">← Anterior<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/goertek-typeface/">Siguiente →<br><small>Goertek Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/uncanny-values---ai-font/">← Anterior<br><small>Uncanny Values - Ai font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>

@@ -41,4 +41,4 @@ La relevancia para esta investigación reside en su planteamiento de la lectura 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/handy-type/">← Anterior<br><small>Handy Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/phonoma/">Siguiente →<br><small>Phonoma</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/physarum-type-tool/">← Anterior<br><small>Physarum Type Tool</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/prosodic-font/">Siguiente →<br><small>Prosodic Font</small></a></div></div>

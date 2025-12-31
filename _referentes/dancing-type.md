@@ -43,4 +43,6 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dance-writer/">← Anterior<br><small>Dance Writer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/">Siguiente →<br><small>Design of Kinetic Typography Interaction
+ based on the Structural Characteristics of Hangul</small></a></div></div>

@@ -44,4 +44,4 @@ La relevancia para esta investigación es que establece un precedente claro para
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/between-page-and-screen/">← Anterior<br><small>Between Page and Screen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-ar/">Siguiente →<br><small>Experimentos de Tipografía en AR</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cymatics-typeface/">← Anterior<br><small>Cymatics Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dance-writer/">Siguiente →<br><small>Dance Writer</small></a></div></div>

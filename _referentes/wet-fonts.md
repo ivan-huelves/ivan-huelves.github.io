@@ -40,4 +40,4 @@ Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typog
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">← Anterior<br><small>Keyboard Type Control y Voice Type Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-grammar/">← Anterior<br><small>Visual Grammar</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/your-typeface/">Siguiente →<br><small>Your Typeface</small></a></div></div>

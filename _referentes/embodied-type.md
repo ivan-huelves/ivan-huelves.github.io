@@ -46,4 +46,4 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">Siguiente →<br><small>Like Beauty in Flames</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dmz-life-under-the-shadow-of-a-gun/">← Anterior<br><small>DMZ. Life Under the Shadow of a Gun</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/emergence/">Siguiente →<br><small>Emergence</small></a></div></div>

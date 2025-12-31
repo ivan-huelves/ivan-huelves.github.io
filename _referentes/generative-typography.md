@@ -42,4 +42,4 @@ La relevancia de este repositorio para la investigación radica en que documenta
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/funky-mr-salvador-e-isabel-marant/">← Anterior<br><small>Funky Mr. Salvador e Isabel Marant</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/genoma-grotesk/">Siguiente →<br><small>Genoma Grotesk</small></a></div></div>

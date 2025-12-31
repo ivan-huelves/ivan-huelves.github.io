@@ -47,4 +47,4 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">← Anterior<br><small>Like Beauty in Flames</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/look-hear/">Siguiente →<br><small>Look/Hear</small></a></div></div>

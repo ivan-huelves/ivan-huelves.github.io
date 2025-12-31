@@ -40,4 +40,4 @@ Tipografía variable; Inteligencia artificial
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kachi-buwa/">← Anterior<br><small>Kachi-Buwa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/generative-typography/">Siguiente →<br><small>Generative Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">← Anterior<br><small>Tipografía generativa (talleres)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>

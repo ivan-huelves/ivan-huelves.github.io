@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gnomon/">← Anterior<br><small>Gnomon</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-typography/">Siguiente →<br><small>Interactive Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">← Anterior<br><small>Visual Chronicles of Abya Yala</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/wet-fonts/">Siguiente →<br><small>Wet Fonts</small></a></div></div>

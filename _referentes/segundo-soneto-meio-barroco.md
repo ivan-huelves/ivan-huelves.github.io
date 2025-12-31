@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/between-page-and-screen/">Siguiente →<br><small>Between Page and Screen</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/seen/">← Anterior<br><small>Seen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sonictype/">Siguiente →<br><small>Sonictype</small></a></div></div>

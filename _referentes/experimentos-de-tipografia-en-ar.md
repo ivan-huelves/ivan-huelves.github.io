@@ -41,4 +41,4 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-ar-(women-of-type-y-canal)/">← Anterior<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/expressive-typography/">Siguiente →<br><small>Expressive Typography</small></a></div></div>

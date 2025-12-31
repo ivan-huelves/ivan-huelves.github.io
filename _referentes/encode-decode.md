@@ -41,4 +41,4 @@ Para esta investigación su relevancia reside en el uso de interfaces naturales 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/still-standing/">← Anterior<br><small>Still Standing</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emotxt/">← Anterior<br><small>Emotxt</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/existential-co/">Siguiente →<br><small>Existential Co.</small></a></div></div>

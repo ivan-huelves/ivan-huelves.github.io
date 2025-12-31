@@ -47,4 +47,4 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typo-talk/">← Anterior<br><small>Typo Talk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/expressive-typography/">Siguiente →<br><small>Expressive Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cheiro/">← Anterior<br><small>Cheiro</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cymatics-typeface/">Siguiente →<br><small>Cymatics Typeface</small></a></div></div>

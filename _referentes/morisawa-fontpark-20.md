@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación reside en que establece un
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emergence/">← Anterior<br><small>Emergence</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/iso-type-generator/">Siguiente →<br><small>ISO Type Generator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/momem/">← Anterior<br><small>Momem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/move-me-mm/">Siguiente →<br><small>Move Me MM</small></a></div></div>

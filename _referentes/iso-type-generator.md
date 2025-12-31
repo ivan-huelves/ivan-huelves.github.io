@@ -42,4 +42,4 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/morisawa-fontpark-20/">← Anterior<br><small>Morisawa Fontpark 2.0</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/lattice/">Siguiente →<br><small>Lattice</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/janemail/">Siguiente →<br><small>Janemail</small></a></div></div>

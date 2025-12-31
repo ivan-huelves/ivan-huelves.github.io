@@ -40,4 +40,4 @@ The, Richard. «Subjectified : personification as a design strategy in visual 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/look-hear/">← Anterior<br><small>Look/Hear</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gintogx/">← Anterior<br><small>GintoGX</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/glitch-type-generator-tool/">Siguiente →<br><small>Glitch Type Generator Tool</small></a></div></div>

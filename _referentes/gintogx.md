@@ -43,4 +43,4 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/bit-tripper/">← Anterior<br><small>Bit Tripper</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/automated-type-design/">Siguiente →<br><small>Automated Type Design</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/genoma-grotesk/">← Anterior<br><small>Genoma Grotesk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">Siguiente →<br><small>Giving Character to Characters</small></a></div></div>

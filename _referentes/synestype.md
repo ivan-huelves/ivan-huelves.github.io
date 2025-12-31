@@ -42,4 +42,4 @@ La relevancia del proyecto radica en la aplicación funcional de la tecnología 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/orfeo/">← Anterior<br><small>Orfeo</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/emotional-type/">Siguiente →<br><small>Emotional Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/symphosizer/">← Anterior<br><small>Symphosizer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/takeluma/">Siguiente →<br><small>Takeluma</small></a></div></div>

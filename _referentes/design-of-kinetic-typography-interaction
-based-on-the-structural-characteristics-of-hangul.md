@@ -42,4 +42,4 @@ Su relevancia radica en mostrar cómo la tipografía puede articular instalacion
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/archiv-des-wirrwarrs/">← Anterior<br><small>Archiv des Wirrwarrs</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/emotxt/">Siguiente →<br><small>Emotxt</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dancing-type/">← Anterior<br><small>Dancing Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dia-tools/">Siguiente →<br><small>DIA Tools</small></a></div></div>

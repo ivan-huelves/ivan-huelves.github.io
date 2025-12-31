@@ -39,4 +39,4 @@ White, Tom, y David Small. «An Interactive Poetic Garden». CHI 98 Conference S
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/wet-fonts/">← Anterior<br><small>Wet Fonts</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/talmud-project/">Siguiente →<br><small>Talmud Project</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/still-standing/">← Anterior<br><small>Still Standing</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphony-in-acid/">Siguiente →<br><small>Symphony in Acid</small></a></div></div>

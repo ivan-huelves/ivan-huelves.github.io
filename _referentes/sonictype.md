@@ -41,4 +41,4 @@ Para esta investigación, la relevancia del caso radica en validar el uso del so
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dmz-life-under-the-shadow-of-a-gun/">← Anterior<br><small>DMZ. Life Under the Shadow of a Gun</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/archiv-des-wirrwarrs/">Siguiente →<br><small>Archiv des Wirrwarrs</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">← Anterior<br><small>Segundo Soneto Meio Barroco</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-type/">Siguiente →<br><small>Sound Type</small></a></div></div>

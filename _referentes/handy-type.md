@@ -41,4 +41,4 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/genoma-grotesk/">← Anterior<br><small>Genoma Grotesk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">Siguiente →<br><small>Poemas no meio do caminho</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/guilty-by-association/">← Anterior<br><small>Guilty By Association</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/hard-music-festival/">Siguiente →<br><small>Hard Music Festival</small></a></div></div>

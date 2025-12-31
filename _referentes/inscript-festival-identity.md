@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación radica en el uso de la tip
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-+-code/">← Anterior<br><small>TYPE + CODE</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-sound/">Siguiente →<br><small>Type Sound</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/in-order-to-control/">← Anterior<br><small>In Order to Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-book/">Siguiente →<br><small>Interactive book</small></a></div></div>

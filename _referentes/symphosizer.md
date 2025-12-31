@@ -48,4 +48,4 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/text-rain/">← Anterior<br><small>Text Rain</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/bit-tripper/">Siguiente →<br><small>Bit Tripper</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/symphony-in-acid/">← Anterior<br><small>Symphony in Acid</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/synestype/">Siguiente →<br><small>Synestype</small></a></div></div>

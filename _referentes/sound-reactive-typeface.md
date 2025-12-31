@@ -39,4 +39,4 @@ La relevancia para esta investigación es que es un precursor de aplicaciones qu
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-typography/">← Anterior<br><small>Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dialogue/">Siguiente →<br><small>Dialogue</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-type/">← Anterior<br><small>Sound Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/space-type-generator/">Siguiente →<br><small>Space Type Generator</small></a></div></div>

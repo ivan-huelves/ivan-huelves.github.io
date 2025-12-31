@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/your-typeface/">← Anterior<br><small>Your Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dance-writer/">Siguiente →<br><small>Dance Writer</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/holopoetry/">← Anterior<br><small>Holopoetry</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">Siguiente →<br><small>Illuminated Manuscript</small></a></div></div>

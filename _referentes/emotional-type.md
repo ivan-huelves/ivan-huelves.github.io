@@ -42,4 +42,4 @@ La relevancia del proyecto radica en proponer la propia morfología de la letra 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/synestype/">← Anterior<br><small>Synestype</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/kachi-buwa/">Siguiente →<br><small>Kachi-Buwa</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emergence/">← Anterior<br><small>Emergence</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/emotxt/">Siguiente →<br><small>Emotxt</small></a></div></div>

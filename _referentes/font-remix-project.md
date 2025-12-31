@@ -52,4 +52,4 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/performa/">← Anterior<br><small>Performa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/move-me-mm/">Siguiente →<br><small>Move Me MM</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/flefixx/">← Anterior<br><small>Flefixx</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/funky-mr-salvador-e-isabel-marant/">Siguiente →<br><small>Funky Mr. Salvador e Isabel Marant</small></a></div></div>

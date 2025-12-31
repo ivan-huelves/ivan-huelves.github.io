@@ -42,4 +42,4 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">← Anterior<br><small>Máquina de Ouver</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typographic-rhythm/">Siguiente →<br><small>Typographic Rhythm</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/quarto/">← Anterior<br><small>Quarto</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-typography/">Siguiente →<br><small>Reactive Typography</small></a></div></div>

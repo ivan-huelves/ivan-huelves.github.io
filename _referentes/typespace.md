@@ -41,4 +41,4 @@ La relevancia del proyecto para la investigación radica en cómo, al facilitar 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-type/">← Anterior<br><small>Sound Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/symphony-in-acid/">Siguiente →<br><small>Symphony in Acid</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeractive/">← Anterior<br><small>Typeractive</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typevoice/">Siguiente →<br><small>TypeVoice</small></a></div></div>

@@ -39,4 +39,4 @@ La relevancia del proyecto para la investigación radica en el uso de la tipogra
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/inscript-festival-identity/">← Anterior<br><small>Inscript Festival Identity</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-type/">Siguiente →<br><small>Sound Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">← Anterior<br><small>Type Me, Type Me Not</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-tools/">Siguiente →<br><small>Type Tools</small></a></div></div>

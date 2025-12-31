@@ -43,4 +43,4 @@ Para esta investigación, la relevancia del caso radica en validar la capacidad 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/generative-typography/">← Anterior<br><small>Generative Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/momem/">Siguiente →<br><small>Momem</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/variable-fonts-–-reactive-typography/">← Anterior<br><small>Variable Fonts – Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/visual-chronicles-of-abya-yala/">Siguiente →<br><small>Visual Chronicles of Abya Yala</small></a></div></div>

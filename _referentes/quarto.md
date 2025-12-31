@@ -42,4 +42,4 @@ La relevancia para esta investigación es que demuestra cómo la tipografía int
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/cheiro/">← Anterior<br><small>Cheiro</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">Siguiente →<br><small>Alphabet Synthesis Machine</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/prosodic-font/">← Anterior<br><small>Prosodic Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">Siguiente →<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div></div>

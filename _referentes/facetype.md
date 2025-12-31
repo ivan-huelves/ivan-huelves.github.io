@@ -44,4 +44,4 @@ La relevancia de este proyecto para la investigación reside en que explora el p
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/uncanny-values---ai-font/">← Anterior<br><small>Uncanny Values - Ai font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typechaosifier/">Siguiente →<br><small>typeChaosifier</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/ff-beowolf/">Siguiente →<br><small>FF Beowolf</small></a></div></div>

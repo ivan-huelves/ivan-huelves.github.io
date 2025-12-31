@@ -41,4 +41,4 @@ Para esta investigación, la relevancia de ambos casos radica en validar cómo l
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/momem/">← Anterior<br><small>Momem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dmz-life-under-the-shadow-of-a-gun/">Siguiente →<br><small>DMZ. Life Under the Shadow of a Gun</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/font-remix-project/">← Anterior<br><small>Font Remix Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/generative-typography/">Siguiente →<br><small>Generative Typography</small></a></div></div>

@@ -39,4 +39,4 @@ Bodine, Kerry, y Mathilde Pignol. «Kinetic Typography-Based Instant Messaging»
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-as-tone/">← Anterior<br><small>Type as Tone</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/space-type-generator/">Siguiente →<br><small>Space Type Generator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">← Anterior<br><small>Keyboard Type Control y Voice Type Control</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laika/">Siguiente →<br><small>Laika</small></a></div></div>

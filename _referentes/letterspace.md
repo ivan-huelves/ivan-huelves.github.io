@@ -42,4 +42,4 @@ Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/letter-dance/">← Anterior<br><small>Letter Dance</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeractive/">Siguiente →<br><small>Typeractive</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/letter-dance/">← Anterior<br><small>Letter Dance</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">Siguiente →<br><small>Like Beauty in Flames</small></a></div></div>

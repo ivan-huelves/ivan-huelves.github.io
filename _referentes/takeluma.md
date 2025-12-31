@@ -43,4 +43,4 @@ Cho, Peter. «Takeluma: An Exploration of Sound, Meaning, and Writing». MFA The
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dance-writer/">← Anterior<br><small>Dance Writer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">Siguiente →<br><small>Type Me, Type Me Not</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/synestype/">← Anterior<br><small>Synestype</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/talmud-project/">Siguiente →<br><small>Talmud Project</small></a></div></div>

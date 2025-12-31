@@ -57,4 +57,4 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/responsive-typography-with-viewing-distance-detection/">← Anterior<br><small>Responsive Typography with Viewing Distance Detection</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/laika/">Siguiente →<br><small>Laika</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typechaosifier/">← Anterior<br><small>typeChaosifier</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeractive/">Siguiente →<br><small>Typeractive</small></a></div></div>

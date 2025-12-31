@@ -43,4 +43,4 @@ La relevancia de este proyecto para la investigación destaca por su enfoque exp
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-sound/">← Anterior<br><small>Type Sound</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typespace/">Siguiente →<br><small>Typespace</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sonictype/">← Anterior<br><small>Sonictype</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">Siguiente →<br><small>Sound-Reactive Typeface</small></a></div></div>

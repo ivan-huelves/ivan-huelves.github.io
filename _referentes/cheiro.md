@@ -44,4 +44,4 @@ Lam, Francis. «Cheiro. Creating Expressive Textual Communication and Anthropomo
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/ff-beowolf/">← Anterior<br><small>FF Beowolf</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/quarto/">Siguiente →<br><small>Quarto</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cumulus-park/">Siguiente →<br><small>Cumulus Park</small></a></div></div>

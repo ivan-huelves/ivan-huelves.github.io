@@ -40,4 +40,4 @@ Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/talmud-project/">← Anterior<br><small>Talmud Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dancing-type/">Siguiente →<br><small>Dancing Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/bit-tripper/">← Anterior<br><small>Bit Tripper</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cheiro/">Siguiente →<br><small>Cheiro</small></a></div></div>

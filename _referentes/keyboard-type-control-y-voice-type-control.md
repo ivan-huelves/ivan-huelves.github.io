@@ -42,4 +42,4 @@ Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typog
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/illuminated-manuscript/">← Anterior<br><small>Illuminated Manuscript</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/wet-fonts/">Siguiente →<br><small>Wet Fonts</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kachi-buwa/">← Anterior<br><small>Kachi-Buwa</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">Siguiente →<br><small>Kinetic Instant Messenger</small></a></div></div>

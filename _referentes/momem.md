@@ -39,4 +39,4 @@ Para esta investigación, la relevancia del caso radica en demostrar cómo la ti
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/vave/">← Anterior<br><small>Vave</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/funky-mr-salvador-e-isabel-marant/">Siguiente →<br><small>Funky Mr. Salvador e Isabel Marant</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/look-hear/">← Anterior<br><small>Look/Hear</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/morisawa-fontpark-20/">Siguiente →<br><small>Morisawa Fontpark 2.0</small></a></div></div>

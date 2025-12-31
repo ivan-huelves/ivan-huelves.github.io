@@ -44,4 +44,4 @@ La relevancia del proyecto para la investigación radica en cómo sistematizar l
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emotional-type/">← Anterior<br><small>Emotional Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/janemail/">← Anterior<br><small>Janemail</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/keyboard-type-control-y-voice-type-control/">Siguiente →<br><small>Keyboard Type Control y Voice Type Control</small></a></div></div>

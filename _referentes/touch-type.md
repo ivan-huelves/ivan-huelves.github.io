@@ -46,4 +46,4 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">← Anterior<br><small>Giving Character to Characters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">Siguiente →<br><small>A Font is a Percussion Instrument</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-+-code/">Siguiente →<br><small>TYPE + CODE</small></a></div></div>

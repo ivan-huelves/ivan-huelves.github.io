@@ -42,4 +42,4 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/screen-profile/">← Anterior<br><small>Screen Profile</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/handy-type/">Siguiente →<br><small>Handy Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/generative-typography/">← Anterior<br><small>Generative Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gintogx/">Siguiente →<br><small>GintoGX</small></a></div></div>

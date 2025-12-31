@@ -39,4 +39,4 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/physarum-type-tool/">← Anterior<br><small>Physarum Type Tool</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/aterytool/">Siguiente →<br><small>AteryTool</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/giving-character-to-characters/">← Anterior<br><small>Giving Character to Characters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gnomon/">Siguiente →<br><small>Gnomon</small></a></div></div>

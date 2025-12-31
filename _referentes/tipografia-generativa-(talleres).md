@@ -42,4 +42,4 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-de-tipografia-en-ar/">← Anterior<br><small>Experimentos de Tipografía en AR</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/nomad-typeface/">Siguiente →<br><small>Nomad Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/timed-type/">← Anterior<br><small>Timed Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>

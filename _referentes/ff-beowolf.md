@@ -47,4 +47,4 @@ La relevancia para esta investigación reside en su condición de precedente his
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laser-letters/">← Anterior<br><small>Laser Letters</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/cheiro/">Siguiente →<br><small>Cheiro</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/facetype/">← Anterior<br><small>Facetype</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/flefixx/">Siguiente →<br><small>Flefixx</small></a></div></div>

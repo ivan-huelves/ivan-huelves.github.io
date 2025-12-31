@@ -43,4 +43,4 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/flefixx/">← Anterior<br><small>Flefixx</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/prosodic-font/">Siguiente →<br><small>Prosodic Font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/inscript-festival-identity/">← Anterior<br><small>Inscript Festival Identity</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/interactive-typography/">Siguiente →<br><small>Interactive Typography</small></a></div></div>

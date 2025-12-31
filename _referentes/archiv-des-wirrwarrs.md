@@ -45,6 +45,4 @@ Para esta investigación, la relevancia del caso reside en la integración de la
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sonictype/">← Anterior<br><small>Sonictype</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction
--based-on-the-structural-characteristics-of-hangul/">Siguiente →<br><small>Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/amsteldok/">← Anterior<br><small>Amsteldok</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/aterytool/">Siguiente →<br><small>AteryTool</small></a></div></div>
