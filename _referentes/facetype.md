@@ -31,8 +31,13 @@ La relevancia de este proyecto para la investigación reside en que explora el p
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** The Royal Danish Academy of Fine Arts
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** JavaScript (opentype.js)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://recordings.designmatters.io/can-you-control-a-typeface-using-only-your-facial-expressions/" target="_blank">🔗 Ver fuente 1</a><br>

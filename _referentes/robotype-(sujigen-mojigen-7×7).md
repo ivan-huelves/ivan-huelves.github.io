@@ -29,6 +29,10 @@ La relevancia para esta investigación es que traslada la tipografía interactiv
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** Robótica
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 Katsumoto, Yuichiro. «Robotype: Studies of Kinetic Typography by Robot Display for Expressing Letters, Time and Movement». Leonardo 51, n.º 4 (2018): 386-93. <a href='https://doi.org/10.1162/leon_a_01648' target='_blank'>[Ver enlace]</a><br>

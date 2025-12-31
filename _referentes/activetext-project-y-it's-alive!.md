@@ -31,6 +31,10 @@ Para esta investigación su relevancia es fundacional al establecer la base tecn
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Controlador físico](/etiquetas/controlador-fisico/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica
+* **Tecnología empleada:** C++
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.thethoughtshop.com/research/atextr/atext.htm" target="_blank">🔗 Ver fuente 1</a><br>

@@ -29,6 +29,10 @@ La relevancia de este proyecto para la investigación estriba en que prefigura e
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="http://www.stefanieschwarz-graphicdesign.de/INTERACTIVE-TYPE-APP-emergence.html" target="_blank">🔗 Ver fuente 1</a><br>

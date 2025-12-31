@@ -47,6 +47,10 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Processing, OpenCV
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://mary-huang.com/projects/typeface/typeface.html" target="_blank">🔗 Ver fuente 1</a><br>

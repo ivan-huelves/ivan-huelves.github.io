@@ -35,6 +35,10 @@ La relevancia del proyecto radica en cómo utiliza la tipografía para generar u
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/), [Visual](/etiquetas/visual/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** JavaScript
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://ksawerykomputery.com/works/max-cooper-symphony-in-acid" target="_blank">🔗 Ver fuente 1</a><br>

@@ -31,6 +31,10 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida, Motor de 3D en tiempo real para Realidad Aumentada, Con manipulación de mallas y componentes de texto para simular ejes de variación y deformaciones.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente 1</a><br>

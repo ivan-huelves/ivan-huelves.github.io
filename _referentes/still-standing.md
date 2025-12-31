@@ -31,6 +31,10 @@ Para esta investigación su relevancia es histórica al ser uno de los trabajos 
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://collection.eliterature.org/2/works/nadeau_stillstanding.html" target="_blank">🔗 Ver fuente 1</a><br>

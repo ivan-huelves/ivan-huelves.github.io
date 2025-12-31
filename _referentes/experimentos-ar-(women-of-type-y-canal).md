@@ -31,6 +31,10 @@ La relevancia de estos proyectos para la investigación reside en que ilustran l
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** Realidad Aumentada
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://beatrizl.com/project/canal" target="_blank">🔗 Ver fuente 1</a><br>

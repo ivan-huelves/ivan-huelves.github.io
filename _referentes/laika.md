@@ -35,6 +35,10 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Controlador físico](/etiquetas/controlador-fisico/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://laikafont.ch/" target="_blank">🔗 Ver fuente 1</a><br>

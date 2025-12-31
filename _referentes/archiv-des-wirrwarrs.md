@@ -35,6 +35,10 @@ Para esta investigación, la relevancia del caso reside en la integración de la
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** p5.js, ml5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://alvinlindesign.com/archiv-des-wirrwarrs-(chaos-archive" target="_blank">🔗 Ver fuente 1</a><br>

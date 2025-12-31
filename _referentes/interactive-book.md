@@ -33,6 +33,10 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** Arduino
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.malloryrichey.com/experiential/interactive-book" target="_blank">🔗 Ver fuente 1</a><br>

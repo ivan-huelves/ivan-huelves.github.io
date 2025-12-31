@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación reside en que establece un
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Generación tipográfica, Transformación morfológica
+* **Tecnología empleada:** Flash
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.morisawa.co.jp/culture/fontpark/" target="_blank">🔗 Ver fuente 1</a><br>

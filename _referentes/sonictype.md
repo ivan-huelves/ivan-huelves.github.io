@@ -31,6 +31,10 @@ Para esta investigación, la relevancia del caso radica en validar el uso del so
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://jakerichardson.uk/SONICTYPE" target="_blank">🔗 Ver fuente 1</a><br>

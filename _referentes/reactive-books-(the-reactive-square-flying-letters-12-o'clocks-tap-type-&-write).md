@@ -29,8 +29,13 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** Java
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://maedastudio.com/the-five-reactive-books/" target="_blank">🔗 Ver fuente 1</a><br>

@@ -35,6 +35,10 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación espacial, Generación tipográfica
+* **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente 1</a><br>

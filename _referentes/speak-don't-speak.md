@@ -29,6 +29,10 @@ La relevancia del proyecto radica en su crítica a las interfaces estandarizadas
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** JavaScript
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://yhsong.com/" target="_blank">🔗 Ver fuente 1</a><br>

@@ -29,6 +29,10 @@ La relevancia del proyecto para la investigación radica en el uso de la tipogra
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Sonido
+* **Tecnología empleada:** Processing, VCV Rack
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://mikevandersanden.com/cases/type-sound/" target="_blank">🔗 Ver fuente 1</a><br>

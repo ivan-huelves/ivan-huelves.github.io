@@ -33,6 +33,10 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Inteligencia artificial, Modelo StyleGAN 2, Lucid Sonic Dreams
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://valladares.dev/dancing-type-1" target="_blank">🔗 Ver fuente 1</a><br>

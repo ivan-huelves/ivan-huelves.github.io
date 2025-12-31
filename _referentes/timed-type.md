@@ -29,6 +29,10 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="http://www.stefanieschwarz-graphicdesign.de/timed-type/processing-clock.html" target="_blank">🔗 Ver fuente 1</a><br>

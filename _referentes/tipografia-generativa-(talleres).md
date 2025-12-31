@@ -31,6 +31,10 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.annacarreras.com/generative-typography/" target="_blank">🔗 Ver fuente 1</a><br>

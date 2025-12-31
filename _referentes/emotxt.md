@@ -35,6 +35,10 @@ Para esta investigación, su relevancia radica en demostrar cómo la interacció
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** N. C., Inteligencia artificial
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://weiyingma.work/EMOTXT" target="_blank">🔗 Ver fuente 1</a><br>

@@ -27,8 +27,13 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>

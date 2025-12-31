@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://joaogeneroso.com/creative-coding/lattice.html" target="_blank">🔗 Ver fuente 1</a><br>

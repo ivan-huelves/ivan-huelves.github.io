@@ -35,8 +35,13 @@ La relevancia para esta investigación reside en la conexión directa que establ
 ### Clasificación
 * **Función:** [Narrativa social](/etiquetas/narrativa-social/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** Central Saint Martins
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** OpenType
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="http://projectseen.com/" target="_blank">🔗 Ver fuente 1</a><br>

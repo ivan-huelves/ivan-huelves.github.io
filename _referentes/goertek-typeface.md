@@ -33,6 +33,10 @@ La relevancia de este proyecto para la investigación es que ejemplifica la apli
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.kontrapunkt.dk/journal/sound-sensitive-typography-goertek-giving-type-meaning-book" target="_blank">🔗 Ver fuente 1</a><br>

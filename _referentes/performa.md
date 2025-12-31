@@ -29,6 +29,10 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://kyuhashim.com/work/performa" target="_blank">🔗 Ver fuente 1</a><br>

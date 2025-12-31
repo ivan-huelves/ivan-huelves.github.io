@@ -31,6 +31,10 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.notabenevisual.com/works/in-order-to-control" target="_blank">🔗 Ver fuente 1</a><br>

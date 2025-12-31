@@ -33,6 +33,10 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.davidsmall.com/documenta-11" target="_blank">🔗 Ver fuente 1</a><br>

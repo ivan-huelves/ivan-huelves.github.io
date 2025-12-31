@@ -31,6 +31,10 @@ Para esta investigación, la relevancia de ambos casos radica en validar cómo l
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Controlador físico](/etiquetas/controlador-fisico/), [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** N. C., Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://schultzschultz.com/work/" target="_blank">🔗 Ver fuente 1</a><br>

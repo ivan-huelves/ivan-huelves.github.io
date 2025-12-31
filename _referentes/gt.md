@@ -35,6 +35,10 @@ La relevancia de este proyecto para la investigación reside en que valida el de
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** Generación tipográfica, Transformación espacial
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://gt.kyuhashim.com/" target="_blank">🔗 Ver fuente 1</a><br>

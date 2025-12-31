@@ -37,6 +37,10 @@ La relevancia de este proyecto es que redefine la interacción tipográfica como
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** Machine Learning, (Pose Estimation, Teachable Machine), p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://medium.com/live-letters/live-letters-strike-a-pose-get-a-letter-e7bcadcc8cd7" target="_blank">🔗 Ver fuente 1</a><br>

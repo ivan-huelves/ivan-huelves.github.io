@@ -33,6 +33,10 @@ La relevancia de este proyecto para la investigación destaca por su enfoque exp
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** Osciloscopio
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.typeroom.eu/jonathan-mak-where-sound-meets-type" target="_blank">🔗 Ver fuente 1</a><br>

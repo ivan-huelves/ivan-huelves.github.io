@@ -29,6 +29,10 @@ La relevancia de este proyecto para la investigación radica en que establece un
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** C++
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://jtnimoy.cc/item.php%3Fhandle=14882287-textension-word-processor-variations.html" target="_blank">🔗 Ver fuente 1</a><br>

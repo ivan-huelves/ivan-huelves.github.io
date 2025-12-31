@@ -31,6 +31,10 @@ La relevancia para esta investigación es que el proyecto combina de forma magis
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Inteligencia artificial
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://bit-tripper.ctpt.co/" target="_blank">🔗 Ver fuente 1</a><br>

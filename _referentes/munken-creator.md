@@ -31,8 +31,13 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
+* **Institución:** Munken Paper
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.patrik-huebner.com/generative-design/munken-creator-generative-typography-design/" target="_blank">🔗 Ver fuente 1</a><br>

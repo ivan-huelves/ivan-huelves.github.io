@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación radica en el uso de la tip
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** JavaScript (WebGL / Shaders / Web Audio API)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://inscript.tf/2023" target="_blank">🔗 Ver fuente 1</a><br>

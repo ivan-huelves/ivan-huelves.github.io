@@ -31,6 +31,10 @@ La relevancia del proyecto para la investigación radica en el uso de la tipogra
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/), [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** TouchDesigner, ChatGPT
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://raco.cat/index.php/Artnodes/article/view/428543" target="_blank">🔗 Ver fuente 1</a><br>

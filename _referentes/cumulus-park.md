@@ -37,6 +37,10 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://studiodumbar.com/work/cumulus-park" target="_blank">🔗 Ver fuente 1</a><br>

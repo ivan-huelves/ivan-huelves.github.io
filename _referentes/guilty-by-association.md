@@ -35,6 +35,10 @@ La relevancia del proyecto para la investigación radica en demostrar que la tip
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** JavaScript
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://cotton.design/work/guilty-by-association" target="_blank">🔗 Ver fuente 1</a><br>

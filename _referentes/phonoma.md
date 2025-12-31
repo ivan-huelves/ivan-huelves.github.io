@@ -29,6 +29,10 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica, Materialización física
+* **Tecnología empleada:** Diseño conceptual
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://ei.elisava.net/es/phonoma/" target="_blank">🔗 Ver fuente 1</a><br>

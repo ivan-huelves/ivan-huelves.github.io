@@ -33,6 +33,10 @@ La relevancia para esta investigación es que demuestra cómo la escritura digit
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación espacial, Generación tipográfica
+* **Tecnología empleada:** N. C.
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.typotheque.com/blog/dancewriter-at-experimenta-lisbon" target="_blank">🔗 Ver fuente 1</a><br>

@@ -29,6 +29,10 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** VRML
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://enciclopedia.itaucultural.org.br/pessoas/9686-alckmar-luiz-dos-santos" target="_blank">🔗 Ver fuente 1</a><br>

@@ -29,6 +29,10 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="http://camilleutterback.com/projects/text-rain/" target="_blank">🔗 Ver fuente 1</a><br>

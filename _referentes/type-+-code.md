@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación radica en su papel pionero
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Datos externos](/etiquetas/datos-externos/)
+* **Tipo de output:** Transformación morfológica, Generación tipográfica
+* **Tecnología empleada:** Processing
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="http://www.yeoahn.com/typecode/" target="_blank">🔗 Ver fuente 1</a><br>

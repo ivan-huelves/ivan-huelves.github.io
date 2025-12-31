@@ -35,6 +35,10 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Java
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="http://www.flong.com/archive/projects/alphabet/index.html" target="_blank">🔗 Ver fuente 1</a><br>

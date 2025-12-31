@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación reside en que ilustra el u
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación espacial
+* **Tecnología empleada:** p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://spacetypeco.com/work/2022-existentialco" target="_blank">🔗 Ver fuente 1</a><br>

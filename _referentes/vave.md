@@ -33,6 +33,10 @@ Para esta investigación, la relevancia del caso radica en validar la capacidad 
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** JavaScript
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://schultzschultz.com/work/" target="_blank">🔗 Ver fuente 1</a><br>

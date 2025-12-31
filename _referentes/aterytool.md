@@ -31,6 +31,10 @@ La relevancia de este proyecto para la investigación radica en la implementaci�
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** p5.js, opentype.js, paper.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.luanpalma.ch/projects/atery-project" target="_blank">🔗 Ver fuente 1</a><br>

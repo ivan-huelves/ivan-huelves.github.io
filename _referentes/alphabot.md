@@ -33,6 +33,10 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** C++, OpenGL
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://tokyotypedirectorsclub.org/en/award/2001_interactive/" target="_blank">🔗 Ver fuente 1</a><br>

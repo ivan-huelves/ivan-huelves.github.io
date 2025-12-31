@@ -35,6 +35,10 @@ La relevancia para esta investigación reside en la exploración de una relació
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** BRFv5 Face Tracking, Tipografía variable
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://vimeo.com/398790800" target="_blank">🔗 Ver fuente 1</a><br>

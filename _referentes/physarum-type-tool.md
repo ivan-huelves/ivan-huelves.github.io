@@ -29,6 +29,10 @@ La relevancia de este proyecto para la investigación radica en que cuestiona el
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://maxenceduterne.com/physarumtype" target="_blank">🔗 Ver fuente 1</a><br>

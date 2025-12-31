@@ -31,6 +31,10 @@ La relevancia para esta investigación es que abre un campo de exploración sobr
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Diseño conceptual
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.behance.net/gallery/44360849/Type-as-Tone" target="_blank">🔗 Ver fuente 1</a><br>

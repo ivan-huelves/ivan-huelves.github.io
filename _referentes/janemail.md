@@ -27,8 +27,13 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 ### Clasificación
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica, Transformación espacial
+* **Tecnología empleada:** Desarrollo a medida, RSVP (Rapid Serial Visual Presentation)
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102' target='_blank'>[Ver enlace]</a><br>

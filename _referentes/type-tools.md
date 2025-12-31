@@ -33,6 +33,10 @@ La relevancia de este proyecto para la investigación radica en que demuestra la
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** p5.js
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.type-tools.com/" target="_blank">🔗 Ver fuente 1</a><br>

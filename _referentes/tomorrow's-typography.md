@@ -27,8 +27,13 @@ Tipografía variable; Inteligencia artificial
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Python, Inteligencia artificial, JavaScript
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://type.veravandeseyp.com/" target="_blank">🔗 Ver fuente 1</a><br>

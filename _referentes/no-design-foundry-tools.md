@@ -35,6 +35,10 @@ La relevancia para la investigación radica en que, a diferencia de otros refere
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Generación tipográfica
+* **Tecnología empleada:** Python
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://nodesignfoundry.com/" target="_blank">🔗 Ver fuente 1</a><br>

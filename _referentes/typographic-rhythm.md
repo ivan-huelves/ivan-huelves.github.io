@@ -29,6 +29,10 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Desarrollo a medida
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** N. C.
 
 <br>
 <a href="https://jonathanpuckey.com/projects/typographic-rhythm/" target="_blank">🔗 Ver fuente 1</a><br>

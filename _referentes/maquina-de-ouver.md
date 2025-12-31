@@ -31,6 +31,10 @@ La relevancia para esta investigación es que establece un modelo riguroso para 
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** Transformación morfológica
+* **Tecnología empleada:** Praat, ExtendScript, BasilJS
+* **Alfanumérica:** Sí
+* **Mantiene codificación textual:** No
 
 <br>
 Castro, João Couceiro e, Pedro Martins, Ana Boavida, y Penousal Machado. «“Máquina de Ouver” - From Sound to Type: Finding the Visual Representation of Speech by Mapping Sound Features to Typographic Variables». Proceedings of the 9th International Conference on Digital and Interactive Arts (New York, NY, USA), ARTECH 2019, Association for Computing Machinery, 13 de febrero de 2020, 1-8. <a href='https://doi.org/10.1145/3359852.3359892' target='_blank'>[Ver enlace]</a><br>
