@@ -8,7 +8,7 @@ Proyectos catalogados como **Interactivo**:
 
 <div class="project-grid">
 
-    <a href="/referentes/36-days-of-type-(embodied-interaction)/" class="project-card">
+    <a href="/referentes/36-days-of-type-embodied-interaction/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/36 days of type 01.png" alt="Imagen de 36 Days of Type (Embodied Interaction)" loading="lazy">
       </div>
@@ -56,7 +56,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/activetext-project-y-it's-alive!/" class="project-card">
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
       </div>
@@ -216,16 +216,13 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/design-of-kinetic-typography-interaction
--based-on-the-structural-characteristics-of-hangul/" class="project-card">
+    <a href="/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/kinetic hangul.png" alt="Imagen de Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul" loading="lazy">
+        <img src="/images/referentes/kinetic hangul.png" alt="Imagen de Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul
+            Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Sooyeon Lim
@@ -347,7 +344,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/experimentos-ar-(women-of-type-y-canal)/" class="project-card">
+    <a href="/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
       </div>
@@ -379,7 +376,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/fable-table-&-ttt-poem/" class="project-card">
+    <a href="/referentes/fable-table-ttt-poem/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
       </div>
@@ -923,7 +920,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/" class="project-card">
+    <a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
       </div>
@@ -1035,7 +1032,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/speak-don't-speak/" class="project-card">
+    <a href="/referentes/speak-dont-speak/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/speak 01.avif" alt="Imagen de Speak Don't Speak" loading="lazy">
       </div>
@@ -1387,7 +1384,7 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/variable-fonts-–-reactive-typography/" class="project-card">
+    <a href="/referentes/variable-fonts-reactive-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/variable-fonts-reactive-typo 01.jpg" alt="Imagen de Variable Fonts – Reactive Typography" loading="lazy">
       </div>

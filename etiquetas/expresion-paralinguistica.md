@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Proyectos: Expresión paralingüística"
-permalink: /etiquetas/expresion-paralingüistica/
+permalink: /etiquetas/expresion-paralinguistica/
 ---
 
 Proyectos catalogados como **Expresión paralingüística**:

@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Lisa Reckeweg"
 year: "2019"
 thumbnail: "/images/referentes/variable-fonts-reactive-typo 01.jpg"
-permalink: /referentes/variable-fonts-–-reactive-typography/
+permalink: /referentes/variable-fonts-reactive-typography/
 ---
 
 **Lisa Reckeweg, 2019**
@@ -30,7 +30,7 @@ La relevancia de este proyecto para la investigación es que valida la necesidad
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** FH Aachen
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
@@ -44,4 +44,4 @@ La relevancia de este proyecto para la investigación es que valida la necesidad
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/uncanny-values---ai-font/">← Anterior<br><small>Uncanny Values - Ai font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/uncanny-values-ai-font/">← Anterior<br><small>Uncanny Values - Ai font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>

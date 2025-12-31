@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Beatriz Lozano"
 year: "2021"
 thumbnail: "/images/referentes/experimentos ar 01.jpg"
-permalink: /referentes/experimentos-ar-(women-of-type-y-canal)/
+permalink: /referentes/experimentos-ar-women-of-type-y-canal/
 ---
 
 **Beatriz Lozano, 2021**

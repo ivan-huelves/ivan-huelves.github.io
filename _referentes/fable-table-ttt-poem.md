@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Douglas Soo"
 year: "1997"
 thumbnail: "/images/referentes/fable table 01.jpg"
-permalink: /referentes/fable-table-&-ttt-poem/
+permalink: /referentes/fable-table-ttt-poem/
 ---
 
 **Douglas Soo, 1997**
@@ -28,7 +28,7 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/), [Datos externos](/etiquetas/datos-externos/)

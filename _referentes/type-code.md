@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Yeohyun Ahn"
 year: "2005"
 thumbnail: "/images/referentes/type code 01.jpg"
-permalink: /referentes/type-+-code/
+permalink: /referentes/type-code/
 ---
 
 **Yeohyun Ahn, 2005**
@@ -28,7 +28,7 @@ La relevancia de este proyecto para la investigación radica en su papel pionero
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica, Generación tipográfica

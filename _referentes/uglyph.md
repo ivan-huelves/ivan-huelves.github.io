@@ -28,7 +28,7 @@ La relevancia para la investigación radica en que ejemplifica cómo las herrami
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** Transformación morfológica
@@ -41,4 +41,4 @@ La relevancia para la investigación radica en que ejemplifica cómo las herrami
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typographic-rhythm/">← Anterior<br><small>Typographic Rhythm</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values---ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typographic-rhythm/">← Anterior<br><small>Typographic Rhythm</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values-ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>

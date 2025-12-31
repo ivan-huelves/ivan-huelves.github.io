@@ -88,7 +88,7 @@ Proyectos catalogados como **Datos externos**:
       </div>
     </a>
 
-    <a href="/referentes/fable-table-&-ttt-poem/" class="project-card">
+    <a href="/referentes/fable-table-ttt-poem/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
       </div>
@@ -296,7 +296,7 @@ Proyectos catalogados como **Datos externos**:
       </div>
     </a>
 
-    <a href="/referentes/type-+-code/" class="project-card">
+    <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
       </div>

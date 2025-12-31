@@ -392,7 +392,7 @@ Proyectos catalogados como **Generativo**:
       </div>
     </a>
 
-    <a href="/referentes/tipografia-generativa-(talleres)/" class="project-card">
+    <a href="/referentes/tipografia-generativa-talleres/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/anna carreras 01.png" alt="Imagen de Tipografía generativa (talleres)" loading="lazy">
       </div>
@@ -408,7 +408,7 @@ Proyectos catalogados como **Generativo**:
       </div>
     </a>
 
-    <a href="/referentes/type-+-code/" class="project-card">
+    <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
       </div>
@@ -488,7 +488,7 @@ Proyectos catalogados como **Generativo**:
       </div>
     </a>
 
-    <a href="/referentes/uncanny-values---ai-font/" class="project-card">
+    <a href="/referentes/uncanny-values-ai-font/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/uncanny 01.png" alt="Imagen de Uncanny Values - Ai font" loading="lazy">
       </div>

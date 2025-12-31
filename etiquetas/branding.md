@@ -88,7 +88,7 @@ Proyectos catalogados como **Branding**:
       </div>
     </a>
 
-    <a href="/referentes/experimentos-ar-(women-of-type-y-canal)/" class="project-card">
+    <a href="/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
       </div>
@@ -328,7 +328,7 @@ Proyectos catalogados como **Branding**:
       </div>
     </a>
 
-    <a href="/referentes/uncanny-values---ai-font/" class="project-card">
+    <a href="/referentes/uncanny-values-ai-font/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/uncanny 01.png" alt="Imagen de Uncanny Values - Ai font" loading="lazy">
       </div>

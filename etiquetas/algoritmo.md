@@ -152,7 +152,7 @@ Proyectos catalogados como **Algoritmo**:
       </div>
     </a>
 
-    <a href="/referentes/robotype-(sujigen-mojigen-7×7)/" class="project-card">
+    <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
       </div>
@@ -168,7 +168,7 @@ Proyectos catalogados como **Algoritmo**:
       </div>
     </a>
 
-    <a href="/referentes/tomorrow's-typography/" class="project-card">
+    <a href="/referentes/tomorrows-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
       </div>
@@ -184,7 +184,7 @@ Proyectos catalogados como **Algoritmo**:
       </div>
     </a>
 
-    <a href="/referentes/uncanny-values---ai-font/" class="project-card">
+    <a href="/referentes/uncanny-values-ai-font/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/uncanny 01.png" alt="Imagen de Uncanny Values - Ai font" loading="lazy">
       </div>

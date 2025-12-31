@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Vera van de Seyp"
 year: "2024"
 thumbnail: "/images/referentes/tomorrow typography 01.png"
-permalink: /referentes/tomorrow's-typography/
+permalink: /referentes/tomorrows-typography/
 ---
 
 **Vera van de Seyp, 2024**
@@ -26,7 +26,7 @@ Tipografía variable; Inteligencia artificial
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/)
@@ -40,4 +40,4 @@ Tipografía variable; Inteligencia artificial
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">← Anterior<br><small>Tipografía generativa (talleres)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tipografia-generativa-talleres/">← Anterior<br><small>Tipografía generativa (talleres)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/touch-type/">Siguiente →<br><small>Touch Type</small></a></div></div>

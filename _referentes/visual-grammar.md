@@ -28,7 +28,7 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica, Transformación cromática

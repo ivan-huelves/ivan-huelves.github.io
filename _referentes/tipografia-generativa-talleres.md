@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Anna Carreras"
 year: "2017"
 thumbnail: "/images/referentes/anna carreras 01.png"
-permalink: /referentes/tipografia-generativa-(talleres)/
+permalink: /referentes/tipografia-generativa-talleres/
 ---
 
 **Anna Carreras, 2017**
@@ -28,7 +28,7 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
 * **Tipo de output:** Transformación morfológica
@@ -42,4 +42,4 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/timed-type/">← Anterior<br><small>Timed Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/timed-type/">← Anterior<br><small>Timed Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrows-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>

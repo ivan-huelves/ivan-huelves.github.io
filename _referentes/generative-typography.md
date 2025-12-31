@@ -28,7 +28,7 @@ La relevancia de este repositorio para la investigación radica en que documenta
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** ArtCenter College of Design
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Interactivo multimodal](/etiquetas/interactivo-multimodal/), [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)

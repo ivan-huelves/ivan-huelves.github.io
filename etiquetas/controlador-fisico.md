@@ -8,7 +8,7 @@ Proyectos catalogados como **Controlador físico**:
 
 <div class="project-grid">
 
-    <a href="/referentes/activetext-project-y-it's-alive!/" class="project-card">
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
       </div>

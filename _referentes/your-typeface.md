@@ -32,7 +32,7 @@ La relevancia para esta investigación reside en la exploración de una relació
 
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
-* **Contexto:** [Producto digital](/etiquetas/producto-digital/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Producto digital](/etiquetas/producto-digital/), [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/)
 * **Tipo de output:** Transformación morfológica

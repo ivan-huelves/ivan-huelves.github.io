@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "John Maeda"
 year: "1994"
 thumbnail: "/images/referentes/reactive books 12 oclock.webp"
-permalink: /referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/
+permalink: /referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/
 ---
 
 **John Maeda, 1994**
@@ -28,7 +28,7 @@ La relevancia de esta serie para la investigación es que constituye uno de los 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)

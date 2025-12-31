@@ -28,7 +28,7 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Brown University
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
@@ -42,4 +42,4 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">← Anterior<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/seen/">Siguiente →<br><small>Seen</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/robotype-sujigen-mojigen-77/">← Anterior<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/seen/">Siguiente →<br><small>Seen</small></a></div></div>

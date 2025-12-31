@@ -39,4 +39,4 @@ La relevancia para esta investigación es que ejemplifica un modelo donde los ca
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">← Anterior<br><small>A Font is a Percussion Instrument</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/activetext-project-y-it's-alive!/">Siguiente →<br><small>ActiveText Project y It's Alive!</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">← Anterior<br><small>A Font is a Percussion Instrument</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/activetext-project-y-its-alive/">Siguiente →<br><small>ActiveText Project y It's Alive!</small></a></div></div>

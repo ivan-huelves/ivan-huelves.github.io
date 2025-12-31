@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Jason Edward Lewis y Alex Weyers"
 year: "1998"
 thumbnail: "/images/referentes/active text 01.jpg"
-permalink: /referentes/activetext-project-y-it's-alive!/
+permalink: /referentes/activetext-project-y-its-alive/
 ---
 
 **Jason Edward Lewis y Alex Weyers, 1998**
@@ -28,7 +28,7 @@ Para esta investigación su relevancia es fundacional al establecer la base tecn
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Controlador físico](/etiquetas/controlador-fisico/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica

@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Yehwan Song"
 year: "2022"
 thumbnail: "/images/referentes/speak 01.avif"
-permalink: /referentes/speak-don't-speak/
+permalink: /referentes/speak-dont-speak/
 ---
 
 **Yehwan Song, 2022**

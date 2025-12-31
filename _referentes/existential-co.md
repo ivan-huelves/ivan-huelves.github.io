@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación reside en que ilustra el u
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/encode-decode/">← Anterior<br><small>Encode/Decode</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-ar-(women-of-type-y-canal)/">Siguiente →<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/encode-decode/">← Anterior<br><small>Encode/Decode</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-ar-women-of-type-y-canal/">Siguiente →<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div></div>

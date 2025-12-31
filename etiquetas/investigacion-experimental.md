@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Proyectos: Investigación / Experimental"
-permalink: /etiquetas/investigacion---experimental/
+permalink: /etiquetas/investigacion-experimental/
 ---
 
 Proyectos catalogados como **Investigación / Experimental**:
 
 <div class="project-grid">
 
-    <a href="/referentes/36-days-of-type-(embodied-interaction)/" class="project-card">
+    <a href="/referentes/36-days-of-type-embodied-interaction/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/36 days of type 01.png" alt="Imagen de 36 Days of Type (Embodied Interaction)" loading="lazy">
       </div>
@@ -40,7 +40,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/activetext-project-y-it's-alive!/" class="project-card">
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
       </div>
@@ -264,7 +264,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/fable-table-&-ttt-poem/" class="project-card">
+    <a href="/referentes/fable-table-ttt-poem/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
       </div>
@@ -744,7 +744,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/" class="project-card">
+    <a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
       </div>
@@ -792,7 +792,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/robotype-(sujigen-mojigen-7×7)/" class="project-card">
+    <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
       </div>
@@ -1000,7 +1000,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/tipografia-generativa-(talleres)/" class="project-card">
+    <a href="/referentes/tipografia-generativa-talleres/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/anna carreras 01.png" alt="Imagen de Tipografía generativa (talleres)" loading="lazy">
       </div>
@@ -1016,7 +1016,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/tomorrow's-typography/" class="project-card">
+    <a href="/referentes/tomorrows-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
       </div>
@@ -1048,7 +1048,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/type-+-code/" class="project-card">
+    <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
       </div>
@@ -1208,7 +1208,7 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/variable-fonts-–-reactive-typography/" class="project-card">
+    <a href="/referentes/variable-fonts-reactive-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/variable-fonts-reactive-typo 01.jpg" alt="Imagen de Variable Fonts – Reactive Typography" loading="lazy">
       </div>

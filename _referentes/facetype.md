@@ -30,7 +30,7 @@ La relevancia de este proyecto para la investigación reside en que explora el p
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** The Royal Danish Academy of Fine Arts
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
@@ -44,4 +44,4 @@ La relevancia de este proyecto para la investigación reside en que explora el p
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/ff-beowolf/">Siguiente →<br><small>FF Beowolf</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/ff-beowolf/">Siguiente →<br><small>FF Beowolf</small></a></div></div>

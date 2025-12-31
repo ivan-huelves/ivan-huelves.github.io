@@ -30,7 +30,7 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
@@ -43,6 +43,4 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dance-writer/">← Anterior<br><small>Dance Writer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction
--based-on-the-structural-characteristics-of-hangul/">Siguiente →<br><small>Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dance-writer/">← Anterior<br><small>Dance Writer</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/">Siguiente →<br><small>Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul</small></a></div></div>

@@ -41,4 +41,4 @@ Para esta investigación su relevancia es histórica al ser uno de los trabajos 
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/speak-don't-speak/">← Anterior<br><small>Speak Don't Speak</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/speak-dont-speak/">← Anterior<br><small>Speak Don't Speak</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/stream-of-consciousness/">Siguiente →<br><small>Stream of Consciousness</small></a></div></div>

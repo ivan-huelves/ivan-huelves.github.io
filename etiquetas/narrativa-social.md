@@ -56,7 +56,7 @@ Proyectos catalogados como **Narrativa social**:
       </div>
     </a>
 
-    <a href="/referentes/speak-don't-speak/" class="project-card">
+    <a href="/referentes/speak-dont-speak/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/speak 01.avif" alt="Imagen de Speak Don't Speak" loading="lazy">
       </div>

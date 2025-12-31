@@ -28,7 +28,7 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Generación tipográfica
@@ -41,4 +41,4 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-it's-alive!/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">Siguiente →<br><small>Alphabet Synthesis Machine</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-its-alive/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">Siguiente →<br><small>Alphabet Synthesis Machine</small></a></div></div>

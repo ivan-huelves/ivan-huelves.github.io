@@ -28,7 +28,7 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
@@ -41,4 +41,4 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">Siguiente →<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-embodied-interaction/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/abcdefghijklmnopqrstuvwxyz/">Siguiente →<br><small>abcdefghijklmnopqrstuvwxyz</small></a></div></div>

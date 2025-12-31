@@ -8,7 +8,7 @@ Proyectos catalogados como **Cursor**:
 
 <div class="project-grid">
 
-    <a href="/referentes/activetext-project-y-it's-alive!/" class="project-card">
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
       </div>
@@ -424,7 +424,7 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/tipografia-generativa-(talleres)/" class="project-card">
+    <a href="/referentes/tipografia-generativa-talleres/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/anna carreras 01.png" alt="Imagen de Tipografía generativa (talleres)" loading="lazy">
       </div>
@@ -440,7 +440,7 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/tomorrow's-typography/" class="project-card">
+    <a href="/referentes/tomorrows-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
       </div>

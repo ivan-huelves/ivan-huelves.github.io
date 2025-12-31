@@ -120,16 +120,13 @@ Proyectos catalogados como **Instalación artística**:
       </div>
     </a>
 
-    <a href="/referentes/design-of-kinetic-typography-interaction
--based-on-the-structural-characteristics-of-hangul/" class="project-card">
+    <a href="/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/kinetic hangul.png" alt="Imagen de Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul" loading="lazy">
+        <img src="/images/referentes/kinetic hangul.png" alt="Imagen de Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul
+            Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Sooyeon Lim
@@ -171,7 +168,7 @@ Proyectos catalogados como **Instalación artística**:
       </div>
     </a>
 
-    <a href="/referentes/fable-table-&-ttt-poem/" class="project-card">
+    <a href="/referentes/fable-table-ttt-poem/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
       </div>
@@ -315,7 +312,7 @@ Proyectos catalogados como **Instalación artística**:
       </div>
     </a>
 
-    <a href="/referentes/robotype-(sujigen-mojigen-7×7)/" class="project-card">
+    <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
       </div>
@@ -331,7 +328,7 @@ Proyectos catalogados como **Instalación artística**:
       </div>
     </a>
 
-    <a href="/referentes/speak-don't-speak/" class="project-card">
+    <a href="/referentes/speak-dont-speak/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/speak 01.avif" alt="Imagen de Speak Don't Speak" loading="lazy">
       </div>

@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Yuichiro Katsumoto"
 year: "2016"
 thumbnail: "/images/referentes/robotype 01.jpg"
-permalink: /referentes/robotype-(sujigen-mojigen-7×7)/
+permalink: /referentes/robotype-sujigen-mojigen-77/
 ---
 
 **Yuichiro Katsumoto, 2016**
@@ -26,7 +26,7 @@ La relevancia para esta investigación es que traslada la tipografía interactiv
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Generación tipográfica

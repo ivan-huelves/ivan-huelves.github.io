@@ -88,7 +88,7 @@ Proyectos catalogados como **Identidad visual**:
       </div>
     </a>
 
-    <a href="/referentes/experimentos-ar-(women-of-type-y-canal)/" class="project-card">
+    <a href="/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
       </div>
