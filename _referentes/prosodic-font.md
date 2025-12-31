@@ -25,14 +25,10 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340' target='_blank'>[Ver enlace]</a><br>

@@ -28,13 +28,9 @@ La relevancia de este proyecto para la investigación radica en la implementaci�
 
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** p5.js, opentype.js, paper.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.luanpalma.ch/projects/atery-project" target="_blank">🔗 Ver fuente 1</a><br>

@@ -25,15 +25,10 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** N. C.
 
 <br>
 The, Richard. «Subjectified : personification as a design strategy in visual communication». Massachusetts Institute of Technology. Dept. of Architecture. Program in Media Arts and Sciences., 2010. <a href='http://hdl.handle.net/1721.1/62083' target='_blank'>[Ver enlace]</a><br>

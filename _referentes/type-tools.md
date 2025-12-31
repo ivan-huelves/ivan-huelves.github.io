@@ -33,14 +33,10 @@ La relevancia de este proyecto para la investigación radica en que demuestra la
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.type-tools.com/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-ar-women-of-type-y-canal/">← Anterior<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dia-tools/">Siguiente →<br><small>DIA Tools</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/experimentos-ar-(women-of-type-y-canal)/">← Anterior<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dia-tools/">Siguiente →<br><small>DIA Tools</small></a></div></div>

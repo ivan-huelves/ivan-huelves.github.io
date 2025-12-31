@@ -26,14 +26,9 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>

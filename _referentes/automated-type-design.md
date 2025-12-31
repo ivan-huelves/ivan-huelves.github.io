@@ -38,14 +38,9 @@ La relevancia para esta investigación reside en su sistematización de los mét
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** HTWG Konstanz
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** [Inteligencia artificial](/etiquetas/inteligencia-artificial/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://wenzeldaniel.com/w_atd.php" target="_blank">🔗 Ver fuente 1</a><br>

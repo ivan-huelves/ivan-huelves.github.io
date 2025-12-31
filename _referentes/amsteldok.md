@@ -53,10 +53,6 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/), [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.myfonts.com/es/a/font/content/fontsmith-and-vbat-create-the-worlds-first-variable-font-logo" target="_blank">🔗 Ver fuente 1</a><br>

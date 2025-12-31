@@ -31,12 +31,8 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente 1</a><br>

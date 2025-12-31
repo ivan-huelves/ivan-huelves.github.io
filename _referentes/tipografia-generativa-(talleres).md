@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Anna Carreras"
 year: "2017"
 thumbnail: "/images/referentes/anna carreras 01.png"
-permalink: /referentes/tipografia-generativa-talleres/
+permalink: /referentes/tipografia-generativa-(talleres)/
 ---
 
 **Anna Carreras, 2017**
@@ -28,13 +28,9 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.annacarreras.com/generative-typography/" target="_blank">🔗 Ver fuente 1</a><br>

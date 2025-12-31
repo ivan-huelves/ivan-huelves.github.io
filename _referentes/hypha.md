@@ -31,10 +31,6 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Algoritmo](/etiquetas/algoritmo/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://hyphahypha.com/" target="_blank">🔗 Ver fuente 1</a><br>

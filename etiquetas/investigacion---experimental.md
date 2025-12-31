@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "Proyectos: Investigación / Experimental"
-permalink: /etiquetas/investigacion-experimental/
+permalink: /etiquetas/investigacion---experimental/
 ---
 Proyectos catalogados como **Investigación / Experimental**:
-
-- [36 Days of Type (Embodied Interaction)](/referentes/36-days-of-type-embodied-interaction/)
+- [36 Days of Type (Embodied Interaction)](/referentes/36-days-of-type-(embodied-interaction)/)
 - [A Font is a Percussion Instrument](/referentes/a-font-is-a-percussion-instrument/)
-- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-its-alive/)
+- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-it's-alive!/)
 - [Aerial Bold](/referentes/aerial-bold/)
 - [AteryTool](/referentes/aterytool/)
 - [Automated Type Design](/referentes/automated-type-design/)
@@ -22,7 +21,7 @@ Proyectos catalogados como **Investigación / Experimental**:
 - [Emotxt](/referentes/emotxt/)
 - [Experimentos de Tipografía en AR](/referentes/experimentos-de-tipografia-en-ar/)
 - [FF Beowolf](/referentes/ff-beowolf/)
-- [Fable Table & TTT Poem](/referentes/fable-table-ttt-poem/)
+- [Fable Table & TTT Poem](/referentes/fable-table-&-ttt-poem/)
 - [Facetype](/referentes/facetype/)
 - [Flefixx](/referentes/flefixx/)
 - [Font Remix Project](/referentes/font-remix-project/)
@@ -51,10 +50,10 @@ Proyectos catalogados como **Investigación / Experimental**:
 - [Physarum Type Tool](/referentes/physarum-type-tool/)
 - [Poemas no meio do caminho](/referentes/poemas-no-meio-do-caminho/)
 - [Quarto](/referentes/quarto/)
-- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/)
+- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/)
 - [Reactive Typography](/referentes/reactive-typography/)
 - [Responsive Typography with Viewing Distance Detection](/referentes/responsive-typography-with-viewing-distance-detection/)
-- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-sujigen-mojigen-77/)
+- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)
 - [Screen Profile](/referentes/screen-profile/)
 - [Seen](/referentes/seen/)
 - [Sonictype](/referentes/sonictype/)
@@ -62,14 +61,14 @@ Proyectos catalogados como **Investigación / Experimental**:
 - [Sound-Reactive Typeface](/referentes/sound-reactive-typeface/)
 - [Stream of Consciousness](/referentes/stream-of-consciousness/)
 - [Synestype](/referentes/synestype/)
-- [TYPE + CODE](/referentes/type-code/)
+- [TYPE + CODE](/referentes/type-+-code/)
 - [Takeluma](/referentes/takeluma/)
 - [Talmud Project](/referentes/talmud-project/)
 - [Textension](/referentes/textension/)
 - [The Guide To Be Seen](/referentes/the-guide-to-be-seen/)
 - [Timed Type](/referentes/timed-type/)
-- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-talleres/)
-- [Tomorrow's Typography](/referentes/tomorrows-typography/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
+- [Tomorrow's Typography](/referentes/tomorrow's-typography/)
 - [Touch Type](/referentes/touch-type/)
 - [Type Machine](/referentes/type-machine/)
 - [Type Me, Type Me Not](/referentes/type-me-type-me-not/)
@@ -79,7 +78,7 @@ Proyectos catalogados como **Investigación / Experimental**:
 - [Typeractive](/referentes/typeractive/)
 - [Typo Talk](/referentes/typo-talk/)
 - [Uglyph](/referentes/uglyph/)
-- [Variable Fonts – Reactive Typography](/referentes/variable-fonts-reactive-typography/)
+- [Variable Fonts – Reactive Typography](/referentes/variable-fonts-–-reactive-typography/)
 - [Visual Chronicles of Abya Yala](/referentes/visual-chronicles-of-abya-yala/)
 - [Visual Grammar](/referentes/visual-grammar/)
 - [Wet Fonts](/referentes/wet-fonts/)
@@ -87,5 +86,4 @@ Proyectos catalogados como **Investigación / Experimental**:
 - [typeChaosifier](/referentes/typechaosifier/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

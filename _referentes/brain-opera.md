@@ -26,14 +26,9 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf' target='_blank'>[Ver enlace]</a><br>

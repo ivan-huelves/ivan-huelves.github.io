@@ -28,14 +28,9 @@ La relevancia del proyecto radica en la aplicación funcional de la tecnología 
 
 ### Clasificación
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** Politecnico di Milano, Politecnico di Torino
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), [Inteligencia artificial](/etiquetas/inteligencia-artificial/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.asp-poli.it/wp-content/uploads/2022/03/Variable-Fonts_ASP_Poster.pdf" target="_blank">🔗 Ver fuente 1</a><br>

@@ -40,13 +40,9 @@ La relevancia de este proyecto para la investigación es que utiliza la tipograf
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Processing, p5.js
-* **Alfanumérica:** Mixto
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://amuki.com.ec/abya-yala/" target="_blank">🔗 Ver fuente 1</a><br>

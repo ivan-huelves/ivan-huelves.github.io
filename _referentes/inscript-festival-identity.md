@@ -31,14 +31,10 @@ La relevancia de este proyecto para la investigación radica en el uso de la tip
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** JavaScript (WebGL / Shaders / Web Audio API)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://inscript.tf/2023" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-code/">← Anterior<br><small>TYPE + CODE</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-sound/">Siguiente →<br><small>Type Sound</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-+-code/">← Anterior<br><small>TYPE + CODE</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-sound/">Siguiente →<br><small>Type Sound</small></a></div></div>

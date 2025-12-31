@@ -26,13 +26,9 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Multiple Master
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** N. C.
 
 <br>
 Brody, Neville, y Jon Wozencroft, eds. Fuse 1 - 20: From Invention to Antimatter<br>

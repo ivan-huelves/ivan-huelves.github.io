@@ -31,19 +31,16 @@ Para esta investigación, su relevancia radica en demostrar cómo la interacció
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** N. C., [Inteligencia artificial](/etiquetas/inteligencia-artificial/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://weiyingma.work/EMOTXT" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/">← Anterior<br><small>Design of Kinetic Typography Interaction
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/">← Anterior<br><small>Design of Kinetic Typography Interaction
  based on the Structural Characteristics of Hangul</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/poemm/">Siguiente →<br><small>P.o.E.M.M.</small></a></div></div>

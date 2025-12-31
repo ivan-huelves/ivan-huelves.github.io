@@ -4,7 +4,6 @@ title: "Proyectos: Sistema de diseño tipográfico"
 permalink: /etiquetas/sistema-de-diseno-tipografico/
 ---
 Proyectos catalogados como **Sistema de diseño tipográfico**:
-
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [AteryTool](/referentes/aterytool/)
 - [DIA Tools](/referentes/dia-tools/)
@@ -20,5 +19,4 @@ Proyectos catalogados como **Sistema de diseño tipográfico**:
 - [typeChaosifier](/referentes/typechaosifier/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

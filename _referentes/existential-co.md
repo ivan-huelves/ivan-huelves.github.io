@@ -31,14 +31,10 @@ La relevancia de este proyecto para la investigación reside en que ilustra el u
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://spacetypeco.com/work/2022-existentialco" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typechaosifier/">← Anterior<br><small>typeChaosifier</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-ar-women-of-type-y-canal/">Siguiente →<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typechaosifier/">← Anterior<br><small>typeChaosifier</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/experimentos-ar-(women-of-type-y-canal)/">Siguiente →<br><small>Experimentos AR (Women of Type y CANAL)</small></a></div></div>

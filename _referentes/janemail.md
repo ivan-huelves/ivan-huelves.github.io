@@ -25,19 +25,14 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida, RSVP (Rapid Serial Visual Presentation)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102' target='_blank'>[Ver enlace]</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/robotype-sujigen-mojigen-77/">Siguiente →<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dialogue/">← Anterior<br><small>Dialogue</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/robotype-(sujigen-mojigen-7×7)/">Siguiente →<br><small>Robotype (Sujigen, Mojigen, 7×7)</small></a></div></div>

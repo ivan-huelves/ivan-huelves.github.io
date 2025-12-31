@@ -26,14 +26,9 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Institución:** MIT Media Lab
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf' target='_blank'>[Ver enlace]</a><br>

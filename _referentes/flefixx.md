@@ -30,14 +30,9 @@ La relevancia de este proyecto para la investigación es que establece un preced
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
-* **Institución:** HfG Karlsruhe
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** N. C. (probablemente p5.js o JavaScript)
-* **Alfanumérica:** No
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://flefixx.sunyoungoh.com/" target="_blank">🔗 Ver fuente 1</a><br>

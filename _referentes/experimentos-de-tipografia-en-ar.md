@@ -28,17 +28,13 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 
 ### Clasificación
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida, Motor de 3D en tiempo real para Realidad Aumentada, Con manipulación de mallas y componentes de texto para simular ejes de variación y deformaciones.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-talleres/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/dana-font/">← Anterior<br><small>Dana Font</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tipografia-generativa-(talleres)/">Siguiente →<br><small>Tipografía generativa (talleres)</small></a></div></div>

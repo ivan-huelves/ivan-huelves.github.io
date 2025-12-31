@@ -41,10 +41,6 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://spacetypegenerator.com/" target="_blank">🔗 Ver fuente 1</a><br>

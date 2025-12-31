@@ -25,14 +25,10 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** N. C.
 
 <br>
 Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274' target='_blank'>[Ver enlace]</a><br>

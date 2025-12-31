@@ -4,8 +4,7 @@ title: "Proyectos: Cursor"
 permalink: /etiquetas/cursor/
 ---
 Proyectos catalogados como **Cursor**:
-
-- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-its-alive/)
+- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-it's-alive!/)
 - [Aerial Bold](/referentes/aerial-bold/)
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [AteryTool](/referentes/aterytool/)
@@ -30,8 +29,8 @@ Proyectos catalogados como **Cursor**:
 - [Space Type Generator](/referentes/space-type-generator/)
 - [Symphony in Acid](/referentes/symphony-in-acid/)
 - [Talmud Project](/referentes/talmud-project/)
-- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-talleres/)
-- [Tomorrow's Typography](/referentes/tomorrows-typography/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
+- [Tomorrow's Typography](/referentes/tomorrow's-typography/)
 - [Type Tools](/referentes/type-tools/)
 - [Uglyph](/referentes/uglyph/)
 - [Vave](/referentes/vave/)
@@ -40,5 +39,4 @@ Proyectos catalogados como **Cursor**:
 - [typeChaosifier](/referentes/typechaosifier/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

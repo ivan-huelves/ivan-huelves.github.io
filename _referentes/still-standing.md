@@ -31,14 +31,10 @@ Para esta investigación su relevancia es histórica al ser uno de los trabajos 
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://collection.eliterature.org/2/works/nadeau_stillstanding.html" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-its-alive/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/encode-decode/">Siguiente →<br><small>Encode/Decode</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-it's-alive!/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/encode-decode/">Siguiente →<br><small>Encode/Decode</small></a></div></div>

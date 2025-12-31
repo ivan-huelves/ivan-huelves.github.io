@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Nahuel Gerth"
 year: "2023"
 thumbnail: "/images/referentes/36 days of type 01.png"
-permalink: /referentes/36-days-of-type-embodied-interaction/
+permalink: /referentes/36-days-of-type-(embodied-interaction)/
 ---
 
 **Nahuel Gerth, 2023**
@@ -30,13 +30,9 @@ La relevancia de este proyecto es que demuestra un modelo de interacción altern
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** p5.js, [Machine Learning (Mediapipe)](/etiquetas/machine-learning/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://nahuelgerth.de/lab/36-days-of-type" target="_blank">🔗 Ver fuente 1</a><br>

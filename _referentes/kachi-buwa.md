@@ -29,19 +29,14 @@ La relevancia del proyecto para la investigación radica en cómo sistematizar l
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** OCAD University
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://emitakahashi.ca/kachibuwa/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emotional-type/">← Anterior<br><small>Emotional Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrows-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/emotional-type/">← Anterior<br><small>Emotional Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">Siguiente →<br><small>Tomorrow's Typography</small></a></div></div>

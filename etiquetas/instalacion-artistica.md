@@ -4,7 +4,6 @@ title: "Proyectos: Instalación artística"
 permalink: /etiquetas/instalacion-artistica/
 ---
 Proyectos catalogados como **Instalación artística**:
-
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [Alphabot](/referentes/alphabot/)
 - [Archiv des Wirrwarrs](/referentes/archiv-des-wirrwarrs/)
@@ -13,9 +12,10 @@ Proyectos catalogados como **Instalación artística**:
 - [DMZ. Life Under the Shadow of a Gun](/referentes/dmz-life-under-the-shadow-of-a-gun/)
 - [Dance Writer](/referentes/dance-writer/)
 - [Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul](/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/)
+ based on the Structural Characteristics of Hangul](/referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/)
 - [Encode/Decode](/referentes/encode-decode/)
-- [Fable Table & TTT Poem](/referentes/fable-table-ttt-poem/)
+- [Fable Table & TTT Poem](/referentes/fable-table-&-ttt-poem/)
 - [Holopoetry](/referentes/holopoetry/)
 - [Illuminated Manuscript](/referentes/illuminated-manuscript/)
 - [In Order to Control](/referentes/in-order-to-control/)
@@ -24,8 +24,8 @@ Proyectos catalogados como **Instalación artística**:
 - [Like Beauty in Flames](/referentes/like-beauty-in-flames/)
 - [Orfeo](/referentes/orfeo/)
 - [P.o.E.M.M.](/referentes/poemm/)
-- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-sujigen-mojigen-77/)
-- [Speak Don't Speak](/referentes/speak-dont-speak/)
+- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)
+- [Speak Don't Speak](/referentes/speak-don't-speak/)
 - [Still Standing](/referentes/still-standing/)
 - [Stream of Consciousness](/referentes/stream-of-consciousness/)
 - [Symphony in Acid](/referentes/symphony-in-acid/)
@@ -37,5 +37,4 @@ Proyectos catalogados como **Instalación artística**:
 - [abcdefghijklmnopqrstuvwxyz](/referentes/abcdefghijklmnopqrstuvwxyz/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

@@ -4,7 +4,6 @@ title: "Proyectos: Visual"
 permalink: /etiquetas/visual/
 ---
 Proyectos catalogados como **Visual**:
-
 - [Between Page and Screen](/referentes/between-page-and-screen/)
 - [Embodied Type](/referentes/embodied-type/)
 - [Gravient](/referentes/gravient/)
@@ -18,5 +17,4 @@ Proyectos catalogados como **Visual**:
 - [Your Typeface](/referentes/your-typeface/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

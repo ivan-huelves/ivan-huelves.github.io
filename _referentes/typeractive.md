@@ -26,14 +26,9 @@ La relevancia de este proyecto para la investigación reside en que es una de la
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C. (Probablemente Desarrollo a medida)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [Master’s thesis, Massachusetts Institute of Technology]. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>

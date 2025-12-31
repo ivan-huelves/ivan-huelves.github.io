@@ -28,13 +28,9 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/), [Algoritmo](/etiquetas/algoritmo/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** JavaScript, Mapbox, [Machine Learning](/etiquetas/machine-learning/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://benedikt-gross.de/projects/the-aerial-bold-project/" target="_blank">🔗 Ver fuente 1</a><br>

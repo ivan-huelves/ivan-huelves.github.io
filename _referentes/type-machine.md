@@ -30,14 +30,9 @@ La relevancia para esta investigación es que ejemplifica cómo un dispositivo f
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Institución:** Hochschule RheinMain
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Controlador físico](/etiquetas/controlador-fisico/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Processing, Arduino
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.heikeneff.com/typemachine.html" target="_blank">🔗 Ver fuente 1</a><br>

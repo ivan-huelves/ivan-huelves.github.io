@@ -4,7 +4,6 @@ title: "Proyectos: Generativo"
 permalink: /etiquetas/generativo/
 ---
 Proyectos catalogados como **Generativo**:
-
 - [Aerial Bold](/referentes/aerial-bold/)
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [AteryTool](/referentes/aterytool/)
@@ -28,12 +27,12 @@ Proyectos catalogados como **Generativo**:
 - [Physarum Type Tool](/referentes/physarum-type-tool/)
 - [Sound Type](/referentes/sound-type/)
 - [Space Type Generator](/referentes/space-type-generator/)
-- [TYPE + CODE](/referentes/type-code/)
-- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-talleres/)
+- [TYPE + CODE](/referentes/type-+-code/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
 - [Type Sound](/referentes/type-sound/)
 - [Type Tools](/referentes/type-tools/)
 - [Uglyph](/referentes/uglyph/)
-- [Uncanny Values - Ai font](/referentes/uncanny-values-ai-font/)
+- [Uncanny Values - Ai font](/referentes/uncanny-values---ai-font/)
 - [Vave](/referentes/vave/)
 - [Visual Chronicles of Abya Yala](/referentes/visual-chronicles-of-abya-yala/)
 - [Wet Fonts](/referentes/wet-fonts/)
@@ -41,5 +40,4 @@ Proyectos catalogados como **Generativo**:
 - [typeChaosifier](/referentes/typechaosifier/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

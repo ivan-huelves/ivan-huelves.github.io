@@ -26,13 +26,9 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://jake-welch-design.github.io/Glitch_type_generator_tool/" target="_blank">🔗 Ver fuente 1</a><br>

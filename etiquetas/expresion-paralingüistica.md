@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Proyectos: Expresión paralingüística"
-permalink: /etiquetas/expresion-paralinguistica/
+permalink: /etiquetas/expresion-paralingüistica/
 ---
 Proyectos catalogados como **Expresión paralingüística**:
-
 - [Cheiro](/referentes/cheiro/)
 - [Emotional Type](/referentes/emotional-type/)
 - [Emotxt](/referentes/emotxt/)
@@ -24,5 +23,4 @@ Proyectos catalogados como **Expresión paralingüística**:
 - [Typographic Rhythm](/referentes/typographic-rhythm/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

@@ -26,13 +26,9 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 ### Clasificación
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** JavaScript, librería headtrackr.js, CSS
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://webdesign.maratz.com/lab/responsivetypography/" target="_blank">🔗 Ver fuente 1</a><br>

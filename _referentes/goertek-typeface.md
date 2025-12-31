@@ -33,14 +33,10 @@ La relevancia de este proyecto para la investigación es que ejemplifica la apli
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.kontrapunkt.dk/journal/sound-sensitive-typography-goertek-giving-type-meaning-book" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/variable-fonts-reactive-typography/">← Anterior<br><small>Variable Fonts – Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/munken-creator/">Siguiente →<br><small>Munken Creator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/variable-fonts-–-reactive-typography/">← Anterior<br><small>Variable Fonts – Reactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/munken-creator/">Siguiente →<br><small>Munken Creator</small></a></div></div>

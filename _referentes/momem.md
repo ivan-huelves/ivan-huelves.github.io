@@ -29,10 +29,6 @@ Para esta investigación, la relevancia del caso radica en demostrar cómo la ti
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** N. C., Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://schultzschultz.com/work/" target="_blank">🔗 Ver fuente 1</a><br>

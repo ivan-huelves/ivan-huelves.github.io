@@ -41,16 +41,12 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://mikikomikiko.com/Content-HARD-Music-Festival" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laika/">← Anterior<br><small>Laika</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/36-days-of-type-embodied-interaction/">Siguiente →<br><small>36 Days of Type (Embodied Interaction)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/laika/">← Anterior<br><small>Laika</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">Siguiente →<br><small>36 Days of Type (Embodied Interaction)</small></a></div></div>

@@ -6,7 +6,8 @@ date: 2024-01-01
 author: "Sooyeon Lim"
 year: "2016"
 thumbnail: "/images/referentes/kinetic hangul.png"
-permalink: /referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/
+permalink: /referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/
 ---
 
 **Sooyeon Lim, 2016**
@@ -31,10 +32,6 @@ Su relevancia radica en mostrar cómo la tipografía puede articular instalacion
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** OpenCV
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://doi.org/10.5392/IJoC.2016.12.3.042" target="_blank">🔗 Ver fuente 1</a><br>

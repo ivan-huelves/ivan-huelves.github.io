@@ -31,10 +31,6 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.itsnicethat.com/articles/practica-the-next-point-of-view-gravient-identity-interactive-160518" target="_blank">🔗 Ver fuente 1</a><br>

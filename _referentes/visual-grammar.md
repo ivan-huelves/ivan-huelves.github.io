@@ -28,13 +28,9 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.behance.net/gallery/70995465/Dancing-Typefaces-Other-Variable-Experiments" target="_blank">🔗 Ver fuente 1</a><br>

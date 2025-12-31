@@ -33,14 +33,10 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** C++, OpenGL
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://tokyotypedirectorsclub.org/en/award/2001_interactive/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-embodied-interaction/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>

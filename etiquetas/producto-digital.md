@@ -4,7 +4,6 @@ title: "Proyectos: Producto digital"
 permalink: /etiquetas/producto-digital/
 ---
 Proyectos catalogados como **Producto digital**:
-
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [DIA Tools](/referentes/dia-tools/)
 - [Expressive Typography](/referentes/expressive-typography/)
@@ -26,5 +25,4 @@ Proyectos catalogados como **Producto digital**:
 - [no design foundry Tools](/referentes/no-design-foundry-tools/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

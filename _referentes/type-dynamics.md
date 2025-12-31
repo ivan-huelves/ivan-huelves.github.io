@@ -37,10 +37,6 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida, En Java sobre el framework RNDR. El sistema utiliza la API de Google Street View, sensores Kinect para el rastreo de visitantes.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://rndr.studio/projects/type-dynamics/" target="_blank">🔗 Ver fuente 1</a><br>

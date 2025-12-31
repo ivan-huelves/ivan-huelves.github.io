@@ -29,14 +29,10 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** No
-* **Mantiene codificación textual:** No
 
 <br>
 Cho, Peter. «Takeluma: An Exploration of Sound, Meaning, and Writing». MFA Thesis, UCLA Department of Design | Media Arts, 2005. <a href='https://pcho.net/takeluma' target='_blank'>[Ver enlace]</a><br>

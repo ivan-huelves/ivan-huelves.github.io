@@ -26,13 +26,9 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 White, Tom, y David Small. «An Interactive Poetic Garden». CHI 98 Conference Summary on Human Factors in Computing Systems  - CHI ’98, ACM Press, 1998, 335-36. <a href='https://doi.org/10.1145/286498.286804' target='_blank'>[Ver enlace]</a><br>

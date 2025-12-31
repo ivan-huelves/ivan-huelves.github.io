@@ -32,13 +32,9 @@ La relevancia de este proyecto para la investigación reside en que valida el de
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://gt.kyuhashim.com/" target="_blank">🔗 Ver fuente 1</a><br>

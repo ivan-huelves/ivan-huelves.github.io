@@ -28,18 +28,13 @@ La relevancia de este repositorio para la investigación radica en que documenta
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** ArtCenter College of Design
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Interactivo multimodal](/etiquetas/interactivo/), [Generativo](/etiquetas/generativo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Interactivo multimodal](/etiquetas/interactivo-multimodal/), [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://zeke.studio/gentype/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrows-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrow's-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/vave/">Siguiente →<br><small>Vave</small></a></div></div>

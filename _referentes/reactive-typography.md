@@ -28,13 +28,9 @@ La relevancia para esta investigación reside en su enfoque sobre la accesibilid
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Processing
-* **Alfanumérica:** No
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://vimeo.com/64978437" target="_blank">🔗 Ver fuente 1</a><br>

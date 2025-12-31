@@ -30,14 +30,9 @@ La relevancia para esta investigación es que el proyecto anticipa metodologías
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** Maryland Institute College of Art
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Processing, librería Minim
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://thesis2016.micadesign.org/ran/home.html" target="_blank">🔗 Ver fuente 1</a><br>

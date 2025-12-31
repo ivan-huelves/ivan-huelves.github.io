@@ -31,10 +31,6 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Controlador físico](/etiquetas/controlador-fisico/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Realidad Aumentada (basado en FLARToolKit)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://amaranthborsuk.com/publications/between-page-and-screen/" target="_blank">🔗 Ver fuente 1</a><br>

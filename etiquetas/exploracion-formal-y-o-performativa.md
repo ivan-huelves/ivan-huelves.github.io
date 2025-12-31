@@ -4,10 +4,9 @@ title: "Proyectos: Exploración formal y/o performativa"
 permalink: /etiquetas/exploracion-formal-y-o-performativa/
 ---
 Proyectos catalogados como **Exploración formal y/o performativa**:
-
-- [36 Days of Type (Embodied Interaction)](/referentes/36-days-of-type-embodied-interaction/)
+- [36 Days of Type (Embodied Interaction)](/referentes/36-days-of-type-(embodied-interaction)/)
 - [A Font is a Percussion Instrument](/referentes/a-font-is-a-percussion-instrument/)
-- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-its-alive/)
+- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-it's-alive!/)
 - [Aerial Bold](/referentes/aerial-bold/)
 - [Alphabot](/referentes/alphabot/)
 - [Archiv des Wirrwarrs](/referentes/archiv-des-wirrwarrs/)
@@ -18,11 +17,12 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
 - [Dance Writer](/referentes/dance-writer/)
 - [Dancing Type](/referentes/dancing-type/)
 - [Design of Kinetic Typography Interaction
- based on the Structural Characteristics of Hangul](/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/)
+ based on the Structural Characteristics of Hangul](/referentes/design-of-kinetic-typography-interaction
+-based-on-the-structural-characteristics-of-hangul/)
 - [Dialogue](/referentes/dialogue/)
 - [Embodied Type](/referentes/embodied-type/)
 - [FF Beowolf](/referentes/ff-beowolf/)
-- [Fable Table & TTT Poem](/referentes/fable-table-ttt-poem/)
+- [Fable Table & TTT Poem](/referentes/fable-table-&-ttt-poem/)
 - [Facetype](/referentes/facetype/)
 - [Flefixx](/referentes/flefixx/)
 - [GT](/referentes/gt/)
@@ -48,9 +48,9 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
 - [Physarum Type Tool](/referentes/physarum-type-tool/)
 - [Poemas no meio do caminho](/referentes/poemas-no-meio-do-caminho/)
 - [Quarto](/referentes/quarto/)
-- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/)
+- [Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)](/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/)
 - [Reactive Typography](/referentes/reactive-typography/)
-- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-sujigen-mojigen-77/)
+- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)
 - [Screen Profile](/referentes/screen-profile/)
 - [Segundo Soneto Meio Barroco](/referentes/segundo-soneto-meio-barroco/)
 - [Sonictype](/referentes/sonictype/)
@@ -58,14 +58,14 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
 - [Still Standing](/referentes/still-standing/)
 - [Stream of Consciousness](/referentes/stream-of-consciousness/)
 - [Symphony in Acid](/referentes/symphony-in-acid/)
-- [TYPE + CODE](/referentes/type-code/)
+- [TYPE + CODE](/referentes/type-+-code/)
 - [Talmud Project](/referentes/talmud-project/)
 - [Text Rain](/referentes/text-rain/)
 - [Textension](/referentes/textension/)
 - [The Guide To Be Seen](/referentes/the-guide-to-be-seen/)
 - [Timed Type](/referentes/timed-type/)
-- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-talleres/)
-- [Tomorrow's Typography](/referentes/tomorrows-typography/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
+- [Tomorrow's Typography](/referentes/tomorrow's-typography/)
 - [Touch Type](/referentes/touch-type/)
 - [Type Machine](/referentes/type-machine/)
 - [Type Me, Type Me Not](/referentes/type-me-type-me-not/)
@@ -74,13 +74,12 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
 - [Typeractive](/referentes/typeractive/)
 - [Typespace](/referentes/typespace/)
 - [Uglyph](/referentes/uglyph/)
-- [Uncanny Values - Ai font](/referentes/uncanny-values-ai-font/)
-- [Variable Fonts – Reactive Typography](/referentes/variable-fonts-reactive-typography/)
+- [Uncanny Values - Ai font](/referentes/uncanny-values---ai-font/)
+- [Variable Fonts – Reactive Typography](/referentes/variable-fonts-–-reactive-typography/)
 - [Visual Chronicles of Abya Yala](/referentes/visual-chronicles-of-abya-yala/)
 - [Visual Grammar](/referentes/visual-grammar/)
 - [Wet Fonts](/referentes/wet-fonts/)
 - [abcdefghijklmnopqrstuvwxyz](/referentes/abcdefghijklmnopqrstuvwxyz/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

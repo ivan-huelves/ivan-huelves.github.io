@@ -32,17 +32,13 @@ La relevancia de este proyecto consiste en que demuestra cómo la tipografía pu
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/holopoetry/">Siguiente →<br><small>Holopoetry</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">← Anterior<br><small>Fable Table & TTT Poem</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/holopoetry/">Siguiente →<br><small>Holopoetry</small></a></div></div>

@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Jason Edward Lewis y Alex Weyers"
 year: "1998"
 thumbnail: "/images/referentes/active text 01.jpg"
-permalink: /referentes/activetext-project-y-its-alive/
+permalink: /referentes/activetext-project-y-it's-alive!/
 ---
 
 **Jason Edward Lewis y Alex Weyers, 1998**
@@ -28,13 +28,9 @@ Para esta investigación su relevancia es fundacional al establecer la base tecn
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/), [Controlador físico](/etiquetas/controlador-fisico/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/), [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** C++
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://www.thethoughtshop.com/research/atextr/atext.htm" target="_blank">🔗 Ver fuente 1</a><br>

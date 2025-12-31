@@ -38,14 +38,9 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
-* **Institución:** Central Saint Martins
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** JavaScript (Three.js), p5.js, GLSL (Shaders)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://lorraine.li/bigdot/" target="_blank">🔗 Ver fuente 1</a><br>

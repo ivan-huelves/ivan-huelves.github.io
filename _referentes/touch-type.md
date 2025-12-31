@@ -32,14 +32,9 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** Google
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** [Machine Learning](/etiquetas/machine-learning/), (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), [WebGL](/etiquetas/web/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://experiments.withgoogle.com/touch-type" target="_blank">🔗 Ver fuente 1</a><br>

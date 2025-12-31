@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Beatriz Lozano"
 year: "2021"
 thumbnail: "/images/referentes/experimentos ar 01.jpg"
-permalink: /referentes/experimentos-ar-women-of-type-y-canal/
+permalink: /referentes/experimentos-ar-(women-of-type-y-canal)/
 ---
 
 **Beatriz Lozano, 2021**
@@ -31,10 +31,6 @@ La relevancia de estos proyectos para la investigación reside en que ilustran l
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** [Realidad Aumentada](/etiquetas/realidad-aumentada/)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://beatrizl.com/project/canal" target="_blank">🔗 Ver fuente 1</a><br>

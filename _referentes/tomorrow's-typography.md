@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Vera van de Seyp"
 year: "2024"
 thumbnail: "/images/referentes/tomorrow typography 01.png"
-permalink: /referentes/tomorrows-typography/
+permalink: /referentes/tomorrow's-typography/
 ---
 
 **Vera van de Seyp, 2024**
@@ -26,14 +26,9 @@ Tipografía variable; Inteligencia artificial
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Python, [Inteligencia artificial](/etiquetas/inteligencia-artificial/), JavaScript
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://type.veravandeseyp.com/" target="_blank">🔗 Ver fuente 1</a><br>

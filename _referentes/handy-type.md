@@ -31,10 +31,6 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Sistema de captura de movimiento, [Inteligencia artificial](/etiquetas/inteligencia-artificial/), Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://haochengstudio.com/selected-works-1" target="_blank">🔗 Ver fuente 1</a><br>

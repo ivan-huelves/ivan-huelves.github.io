@@ -5,7 +5,7 @@ date: 2024-01-01
 author: "Process Studio"
 year: "2019"
 thumbnail: "/images/referentes/uncanny 01.png"
-permalink: /referentes/uncanny-values-ai-font/
+permalink: /referentes/uncanny-values---ai-font/
 ---
 
 **Process Studio, 2019**
@@ -29,13 +29,8 @@ La relevancia de este proyecto para la investigación reside en que ejemplifica 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Institución:** Mak Museum
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** GAN (Generative Adversarial Network)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://uncannyvalues.org/works/aifont" target="_blank">🔗 Ver fuente 1</a><br>

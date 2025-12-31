@@ -4,8 +4,7 @@ title: "Proyectos: Teclado"
 permalink: /etiquetas/teclado/
 ---
 Proyectos catalogados como **Teclado**:
-
-- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-its-alive/)
+- [ActiveText Project y It's Alive!](/referentes/activetext-project-y-it's-alive!/)
 - [Aerial Bold](/referentes/aerial-bold/)
 - [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
 - [Alphabot](/referentes/alphabot/)
@@ -31,9 +30,9 @@ Proyectos catalogados como **Teclado**:
 - [Physarum Type Tool](/referentes/physarum-type-tool/)
 - [Space Type Generator](/referentes/space-type-generator/)
 - [Symphony in Acid](/referentes/symphony-in-acid/)
-- [TYPE + CODE](/referentes/type-code/)
+- [TYPE + CODE](/referentes/type-+-code/)
 - [Textension](/referentes/textension/)
-- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-talleres/)
+- [Tipografía generativa (talleres)](/referentes/tipografia-generativa-(talleres)/)
 - [Type Me, Type Me Not](/referentes/type-me-type-me-not/)
 - [Type Sound](/referentes/type-sound/)
 - [Type Tools](/referentes/type-tools/)
@@ -49,5 +48,4 @@ Proyectos catalogados como **Teclado**:
 - [typeChaosifier](/referentes/typechaosifier/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

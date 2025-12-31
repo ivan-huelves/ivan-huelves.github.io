@@ -26,13 +26,9 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 
 ### Clasificación
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Processing, Arduino
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.behance.net/gallery/12438829/Interactive-Typography" target="_blank">🔗 Ver fuente 1</a><br>

@@ -33,10 +33,6 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.denniskung.work/new-page" target="_blank">🔗 Ver fuente 1</a><br>

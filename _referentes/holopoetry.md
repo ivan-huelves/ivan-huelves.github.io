@@ -33,10 +33,6 @@ La relevancia de este proyecto es que desafía las concepciones tradicionales de
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Holografía
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.ekac.org/allholopoems.html" target="_blank">🔗 Ver fuente 1</a><br>

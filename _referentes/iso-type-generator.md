@@ -29,13 +29,8 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Institución:** Future Campus Ruhr
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** p5.js
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://nahuelgerth.de/work/iso-type-generator" target="_blank">🔗 Ver fuente 1</a><br>

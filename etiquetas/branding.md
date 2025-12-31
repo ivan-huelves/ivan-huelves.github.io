@@ -4,13 +4,12 @@ title: "Proyectos: Branding"
 permalink: /etiquetas/branding/
 ---
 Proyectos catalogados como **Branding**:
-
 - [Amsteldok](/referentes/amsteldok/)
 - [Bit Tripper](/referentes/bit-tripper/)
 - [Cumulus Park](/referentes/cumulus-park/)
 - [Emergence](/referentes/emergence/)
 - [Existential Co.](/referentes/existential-co/)
-- [Experimentos AR (Women of Type y CANAL)](/referentes/experimentos-ar-women-of-type-y-canal/)
+- [Experimentos AR (Women of Type y CANAL)](/referentes/experimentos-ar-(women-of-type-y-canal)/)
 - [Funky Mr. Salvador e Isabel Marant](/referentes/funky-mr-salvador-e-isabel-marant/)
 - [Goertek Typeface](/referentes/goertek-typeface/)
 - [Gravient](/referentes/gravient/)
@@ -25,9 +24,8 @@ Proyectos catalogados como **Branding**:
 - [Rio Carnaval](/referentes/rio-carnaval/)
 - [Symphosizer](/referentes/symphosizer/)
 - [TypeVoice](/referentes/typevoice/)
-- [Uncanny Values - Ai font](/referentes/uncanny-values-ai-font/)
+- [Uncanny Values - Ai font](/referentes/uncanny-values---ai-font/)
 - [Vave](/referentes/vave/)
 
 <br>
-<hr>
 [← Volver al índice de referentes](/referentes/)

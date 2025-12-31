@@ -31,10 +31,6 @@ La relevancia del proyecto para la investigación radica en cómo, al facilitar 
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N. C.
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.itsnicethat.com/articles/rajshree-saraf-hallucinating-type-130722" target="_blank">🔗 Ver fuente 1</a><br>

@@ -39,10 +39,6 @@ La relevancia para esta investigación radica en que explora la interacción del
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Visual](/etiquetas/visual/), [Datos externos](/etiquetas/datos-externos/)
-* **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Realidad Aumentada (aplicación móvil Like Beauty in Flames)
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.guggenheim-bilbao.eus/la-coleccion/obras/like-beauty-in-flames" target="_blank">🔗 Ver fuente 1</a><br>

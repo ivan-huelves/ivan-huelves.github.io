@@ -31,17 +31,12 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Institución:** Munken Paper
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Desarrollo a medida
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.patrik-huebner.com/generative-design/munken-creator-generative-typography-design/" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/goertek-typeface/">← Anterior<br><small>Goertek Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values-ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/goertek-typeface/">← Anterior<br><small>Goertek Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values---ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>

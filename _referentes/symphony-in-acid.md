@@ -33,16 +33,12 @@ La relevancia del proyecto radica en cómo utiliza la tipografía para generar u
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/), [Visual](/etiquetas/visual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** JavaScript
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
 
 <br>
 <a href="https://ksawerykomputery.com/works/max-cooper-symphony-in-acid" target="_blank">🔗 Ver fuente 1</a><br>
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typespace/">← Anterior<br><small>Typespace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/speak-dont-speak/">Siguiente →<br><small>Speak Don't Speak</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typespace/">← Anterior<br><small>Typespace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/speak-don't-speak/">Siguiente →<br><small>Speak Don't Speak</small></a></div></div>

@@ -31,10 +31,6 @@ Su relevancia para la investigación reside en evidenciar la capacidad de la tip
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Processing
-* **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="http://www.transmedia.graphics/gentype/index.html" target="_blank">🔗 Ver fuente 1</a><br>

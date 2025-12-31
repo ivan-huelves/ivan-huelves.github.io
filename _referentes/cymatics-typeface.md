@@ -26,13 +26,9 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** N. C.
-* **Alfanumérica:** No
-* **Mantiene codificación textual:** No
 
 <br>
 <a href="https://www.behance.net/gallery/37465739/Cymatics-Typeface" target="_blank">🔗 Ver fuente 1</a><br>
