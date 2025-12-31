@@ -15,9 +15,10 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 <a href="/etiquetas/exploracion-formal-y-o-performativa/">Exploración formal</a>
 <a href="/etiquetas/expresion-paralinguistica/">Expresión paralingüística</a>
 <a href="/etiquetas/identidad-visual/">Identidad visual</a>
+<a href="/etiquetas/narrativa-social/">Narrativa social</a>
 <a href="/etiquetas/sistema-de-diseno-tipografico/">Sistemas de diseño</a>
 <a href="/etiquetas/visualizacion-de-datos/">Visualización de datos</a>
-<a href="/etiquetas/narrativa-social/">Narrativa social</a>
+
 </p>
 </div>
 
@@ -28,20 +29,29 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 <a href="/etiquetas/instalacion-artistica/">Instalación artística</a>
 <a href="/etiquetas/investigacion-experimental/">Investigación / Experimental</a>
 <a href="/etiquetas/producto-digital/">Producto digital</a>
-<a href="/etiquetas/materializacion-fisica/">Materialización física</a>
 </p>
 </div>
 
-### Explorar por Interacción y Tecnología (NUEVO)
+### Explorar por Grado de interactividad
 <div class="nav-links">
 <p>
-<a href="/etiquetas/inteligencia-artificial/">Inteligencia Artificial</a>
+<a href="/etiquetas/interactivo/">Interactivo</a>
+<a href="/etiquetas/interactivo-multimodal/">Interactivo multimodal</a>
 <a href="/etiquetas/generativo/">Generativo</a>
+</p>
+</div>
+
+### Explorar por Tipo de interacción según el input
+<div class="nav-links">
+<p>
+<a href="/etiquetas/algoritmo/">Algoritmo</a>
+<a href="/etiquetas/controlador-fisico/">Controlador físico</a>
+<a href="/etiquetas/cursor/">Cursor</a>
+<a href="/etiquetas/datos-externos/">Datos externos</a>
+<a href="/etiquetas/sonido/">Sonido</a>
 <a href="/etiquetas/gestual/">Gestual</a>
-<a href="/etiquetas/sonido/">Sonido / Voz</a>
-<a href="/etiquetas/realidad-aumentada/">Realidad Aumentada</a>
-<a href="/etiquetas/tipografia-variable/">Tipografía Variable</a>
-<a href="/etiquetas/interactivo-multimodal/">Multimodal</a>
+<a href="/etiquetas/teclado/">Teclado</a>
+<a href="/etiquetas/visual/">Visual</a>
 </p>
 </div>
 
