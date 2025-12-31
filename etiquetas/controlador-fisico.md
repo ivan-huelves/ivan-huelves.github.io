@@ -90,7 +90,7 @@ Proyectos catalogados como **Controlador físico**:
 
     <a href="/referentes/type-machine/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/typemachine 01.mp4" alt="Imagen de Type Machine" loading="lazy">
+        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">

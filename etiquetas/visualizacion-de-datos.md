@@ -58,7 +58,7 @@ Proyectos catalogados como **Visualización de datos**:
 
     <a href="/referentes/type-dynamics/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Type/dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">

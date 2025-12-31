@@ -4,16 +4,16 @@ title: "Genoma Grotesk"
 date: 2024-01-01
 author: "Robin Eberwein"
 year: "2018"
-thumbnail: "/images/referentes/genoma-01.png"
+thumbnail: "/images/referentes/genoma 01.png"
 permalink: /referentes/genoma-grotesk/
 ---
 
 **Robin Eberwein, 2018**
 
 
-![Imagen de Genoma Grotesk](/images/referentes/genoma-01.png)
+![Imagen de Genoma Grotesk](/images/referentes/genoma 01.png)
 
-![Imagen de Genoma Grotesk](/images/referentes/genoma-02.png)
+![Imagen de Genoma Grotesk](/images/referentes/genoma 02.png)
 
 
 

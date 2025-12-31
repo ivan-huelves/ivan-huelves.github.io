@@ -442,7 +442,7 @@ Proyectos catalogados como **Interactivo**:
 
     <a href="/referentes/genoma-grotesk/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/genoma-01.png" alt="Imagen de Genoma Grotesk" loading="lazy">
+        <img src="/images/referentes/genoma 01.png" alt="Imagen de Genoma Grotesk" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
@@ -1242,7 +1242,7 @@ Proyectos catalogados como **Interactivo**:
 
     <a href="/referentes/type-machine/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/typemachine 01.mp4" alt="Imagen de Type Machine" loading="lazy">
+        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
@@ -1274,7 +1274,7 @@ Proyectos catalogados como **Interactivo**:
 
     <a href="/referentes/type-dynamics/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Type/dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">

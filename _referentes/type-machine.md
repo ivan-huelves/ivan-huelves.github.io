@@ -4,14 +4,12 @@ title: "Type Machine"
 date: 2024-01-01
 author: "Heike Neff"
 year: "2019"
-thumbnail: "/images/referentes/typemachine 01.mp4"
+thumbnail: "/images/referentes/typemachine 02.png"
 permalink: /referentes/type-machine/
 ---
 
 **Heike Neff, 2019**
 
-
-![Imagen de Type Machine](/images/referentes/typemachine 01.mp4)
 
 ![Imagen de Type Machine](/images/referentes/typemachine 02.png)
 
