@@ -28,11 +28,11 @@ La relevancia de este proyecto es tanto técnica como conceptual, al proporciona
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Python, [Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido](/etiquetas/tipografia-variable/)
+* **Tecnología empleada:** Python, Desarrollo de la biblioteca Coldtype para animar tipografía (incluyendo tipografía variable) con sonido
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

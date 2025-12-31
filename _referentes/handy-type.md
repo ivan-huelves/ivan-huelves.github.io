@@ -30,10 +30,10 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Gestual (dedos y palma de la mano)](/etiquetas/gestual/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Sistema de captura de movimiento, Inteligencia artificial, Desarrollo a medida
-* **Alfanumérica:** Si
+* **Tecnología empleada:** Sistema de captura de movimiento, [Inteligencia artificial](/etiquetas/inteligencia-artificial/), Desarrollo a medida
+* **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
 <br>

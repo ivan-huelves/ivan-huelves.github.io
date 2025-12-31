@@ -31,8 +31,8 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Sonido (micrófono).](/etiquetas/sonido/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí

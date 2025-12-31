@@ -30,12 +30,12 @@ La relevancia de este proyecto para la investigación reside en el tratamiento d
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Basel School of Design
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Gestual (puntero láser)](/etiquetas/gestual/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** Processing, Librerías minim, Geomerative y oscp5
+* **Tecnología empleada:** Processing (Minim, Geomerative y oscp5)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

@@ -43,4 +43,4 @@ La relevancia para esta investigación reside en que muestra cómo la tipografí
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-(embodied-interaction)/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/36-days-of-type-embodied-interaction/">← Anterior<br><small>36 Days of Type (Embodied Interaction)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/in-order-to-control/">Siguiente →<br><small>In Order to Control</small></a></div></div>

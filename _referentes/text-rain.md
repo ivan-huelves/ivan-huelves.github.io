@@ -28,7 +28,7 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (movimiento corporal)](/etiquetas/gestual/)
+* **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí

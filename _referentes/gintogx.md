@@ -29,9 +29,9 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 ---
 
 ### Clasificación
-* **Función:** Exploración Formal / Expresiva
+* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Gestual](/etiquetas/gestual/), [Sonido](/etiquetas/sonido/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)

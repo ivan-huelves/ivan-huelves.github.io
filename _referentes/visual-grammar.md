@@ -28,9 +28,9 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/), [Sonido (MIDI)](/etiquetas/sonido/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)
 * **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/)
 * **Alfanumérica:** Sí

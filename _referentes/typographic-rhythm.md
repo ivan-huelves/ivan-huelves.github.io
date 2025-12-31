@@ -25,11 +25,11 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
-* **Tipo de output:** [Transformación morfológica (peso de la tipografía)](/etiquetas/transformacion-morfologica/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
@@ -39,4 +39,4 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">← Anterior<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/">← Anterior<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/leon-sans/">Siguiente →<br><small>Leon Sans</small></a></div></div>

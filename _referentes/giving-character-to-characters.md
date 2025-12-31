@@ -25,8 +25,8 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/)

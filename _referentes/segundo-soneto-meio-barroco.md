@@ -28,7 +28,7 @@ La relevancia de este proyecto para la investigación radica en que desafía las
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Gestual (en entorno 3D)](/etiquetas/gestual/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** VRML
 * **Alfanumérica:** Sí

@@ -2,24 +2,24 @@
 layout: page
 title: "Type/dynamics"
 date: 2024-01-01
-author: "Lust Studio y Jurriaan Schrofer"
+author: "Lust Studio"
 year: "2013"
-thumbnail: "/images/referentes/Type dynamics 01.avif"
+thumbnail: "/images/referentes/Type/dynamics 01.avif"
 permalink: /referentes/type-dynamics/
 ---
 
-**Lust Studio y Jurriaan Schrofer, 2013**
+**Lust Studio, 2013**
 
 
-![Imagen de Type/dynamics](/images/referentes/Type dynamics 01.avif)
+![Imagen de Type/dynamics](/images/referentes/Type/dynamics 01.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type dynamics 02.avif)
+![Imagen de Type/dynamics](/images/referentes/Type/dynamics 02.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type dynamics 03.avif)
+![Imagen de Type/dynamics](/images/referentes/Type/dynamics 03.avif)
 
-![Imagen de Type/dynamics](/images/referentes/Type dynamics 04.jpg)
+![Imagen de Type/dynamics](/images/referentes/Type/dynamics 04.jpg)
 
-![Imagen de Type/dynamics](/images/referentes/Type dynamics 05.jpg)
+![Imagen de Type/dynamics](/images/referentes/Type/dynamics 05.jpg)
 
 
 
@@ -36,7 +36,7 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 * **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), (noticias en tiempo real y sensores físicos que detectan la posición, el número y el movimiento de los visitantes)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida, En Java sobre el framework RNDR. El sistema utiliza la API de Google Street View, sensores Kinect para el rastreo de visitantes.
 * **Alfanumérica:** Sí

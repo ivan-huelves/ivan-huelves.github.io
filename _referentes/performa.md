@@ -25,10 +25,10 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Teclado (velocidad pulsación)](/etiquetas/teclado/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
@@ -39,4 +39,4 @@ La relevancia para esta investigación es que el proyecto ofrece un modelo claro
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gen/">← Anterior<br><small>GEN</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/font-remix-project/">Siguiente →<br><small>Font Remix Project</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/gt/">← Anterior<br><small>GT</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/font-remix-project/">Siguiente →<br><small>Font Remix Project</small></a></div></div>

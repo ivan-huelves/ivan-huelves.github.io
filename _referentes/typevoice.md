@@ -31,9 +31,8 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Institución:** Campaña promocional para los Webby People’s Voice Awards
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí

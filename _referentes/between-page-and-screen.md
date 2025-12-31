@@ -30,7 +30,7 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual (cámara), Controlador físico (movimiento del libro físico)](/etiquetas/controlador-fisico/)
+* **Tipo de input:** [Visual](/etiquetas/visual/), [Controlador físico](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Realidad Aumentada (basado en FLARToolKit)
 * **Alfanumérica:** Sí

@@ -3,20 +3,23 @@ layout: page
 title: "Proyectos: Algoritmo"
 permalink: /etiquetas/algoritmo/
 ---
-
 Proyectos catalogados como **Algoritmo**:
 
-- [Alphabet Synthesis Machine](/referentes/alphabet-synthesis-machine/)
+- [Aerial Bold](/referentes/aerial-bold/)
+- [Automated Type Design](/referentes/automated-type-design/)
 - [Cumulus Park](/referentes/cumulus-park/)
 - [Dialogue](/referentes/dialogue/)
-- [Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)](/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/)
-- [GEN](/referentes/gen/)
+- [FF Beowolf](/referentes/ff-beowolf/)
+- [GT](/referentes/gt/)
 - [GintoGX](/referentes/gintogx/)
 - [Hypha](/referentes/hypha/)
-- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-(sujigen-mojigen-7×7)/)
+- [Orfeo](/referentes/orfeo/)
+- [Robotype (Sujigen, Mojigen, 7×7)](/referentes/robotype-sujigen-mojigen-77/)
+- [Tomorrow's Typography](/referentes/tomorrows-typography/)
 - [Touch Type](/referentes/touch-type/)
+- [Uncanny Values - Ai font](/referentes/uncanny-values-ai-font/)
 - [Wet Fonts](/referentes/wet-fonts/)
 
-
 <br>
+<hr>
 [← Volver al índice de referentes](/referentes/)

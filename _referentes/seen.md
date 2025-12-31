@@ -34,7 +34,7 @@ La relevancia para esta investigación reside en la conexión directa que establ
 
 ### Clasificación
 * **Función:** [Narrativa social](/etiquetas/narrativa-social/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Central Saint Martins
 * **Grado de interactividad:** [Reactivo](/etiquetas/reactivo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)

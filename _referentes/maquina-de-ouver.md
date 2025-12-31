@@ -27,12 +27,12 @@ La relevancia para esta investigación es que establece un modelo riguroso para 
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Sonido (voz)](/etiquetas/sonido/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Praat (para el análisis de tono e intensidad), ExtendScript y BasilJS (para controlar dinámicamente Adobe InDesign y After Effects)
+* **Tecnología empleada:** Praat, ExtendScript, BasilJS
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
@@ -41,4 +41,4 @@ Castro, João Couceiro e, Pedro Martins, Ana Boavida, y Penousal Machado. «“M
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">← Anterior<br><small>Like Beauty in Flames</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-books-(the-reactive-square-flying-letters-12-o'clocks-tap-type-&-write)/">Siguiente →<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">← Anterior<br><small>Like Beauty in Flames</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/">Siguiente →<br><small>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</small></a></div></div>

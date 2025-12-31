@@ -2,13 +2,13 @@
 layout: page
 title: "Typo Talk"
 date: 2024-01-01
-author: "Soo"
+author: "Douglas Soo"
 year: "1997"
 thumbnail: "/images/referentes/typo talk.jpg"
 permalink: /referentes/typo-talk/
 ---
 
-**Soo, 1997**
+**Douglas Soo, 1997**
 
 
 ![Imagen de Typo Talk](/images/referentes/typo talk.jpg)
@@ -25,8 +25,8 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/)

@@ -25,11 +25,11 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Sonido (tono, intensidad y ritmo)](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica (tamaño](/etiquetas/transformacion-morfologica/), altura, anchura y grosor de glifos)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No

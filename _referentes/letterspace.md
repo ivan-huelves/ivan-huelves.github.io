@@ -2,13 +2,13 @@
 layout: page
 title: "Letterspace"
 date: 2024-01-01
-author: "Peter Sungil Cho"
+author: "Peter Cho"
 year: "1998"
 thumbnail: "/images/referentes/letterspace 01.jpg"
 permalink: /referentes/letterspace/
 ---
 
-**Peter Sungil Cho, 1998**
+**Peter Cho, 1998**
 
 
 ![Imagen de Letterspace](/images/referentes/letterspace 01.jpg)
@@ -28,10 +28,10 @@ La relevancia de este proyecto para la investigación reside en su aproximación
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Gestual (sensores de campo magnético 3D en las manos del usuario)](/etiquetas/gestual/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí

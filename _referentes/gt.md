@@ -5,34 +5,34 @@ date: 2024-01-01
 author: "Kyuha Shim"
 year: "2011"
 thumbnail: "/images/referentes/GEN Kyuha Shim 01.jpg"
-permalink: /referentes/gen/
+permalink: /referentes/gt/
 ---
 
-**Kyuha Shim, 2015**
+**Kyuha Shim, 2011**
 
 
-![Imagen de GEN](/images/referentes/GEN Kyuha Shim 01.jpg)
+![Imagen de GT](/images/referentes/GEN Kyuha Shim 01.jpg)
 
-![Imagen de GEN](/images/referentes/GEN Kyuha Shim 02.jpg)
+![Imagen de GT](/images/referentes/GEN Kyuha Shim 02.jpg)
 
-![Imagen de GEN](/images/referentes/GEN Kyuha Shim 03.jpg)
+![Imagen de GT](/images/referentes/GEN Kyuha Shim 03.jpg)
 
-![Imagen de GEN](/images/referentes/GEN Kyuha Shim 04.jpg)
+![Imagen de GT](/images/referentes/GEN Kyuha Shim 04.jpg)
 
 
 
 ### Relevancia en relación a la tipografía interactiva
-GT es un proyecto que explora la tipografía generativa, donde la forma de los caracteres emerge de un sistema complejo y parcialmente impredecible. A diferencia de otros sistemas interactivos, el usuario no controla directamente la forma final, sino que establece un parámetro (por ejemplo, la densidad), y un algoritmo genera el resultado visual a partir de imágenes externas.
+GT (Generative Typography) son una serie de proyectos que ejemplifican la convergencia entre el pensamiento computacional y el diseño gráfico mediante métodos paramétricos. Se articula como una herramienta programada a medida que permite la manipulación de parámetros en diversos rangos de valores, generando formas tipográficas que evolucionan y se adaptan en tiempo real como respuesta a datos entrantes.
 
-La principal aportación del proyecto reside en investigar la creación tipográfica como un proceso autónomo y en constante cambio. Cuestiona las nociones tradicionales de control y autoría en el diseño, ya que el usuario influye en el sistema en lugar de determinar el resultado.
+Su principal aportación es el desarrollo de herramientas de software personalizadas que convierten al ordenador en un medio creativo activo, superando su rol tradicional de simple instrumento. El sistema permite traducir la lógica del diseñador en algoritmos computacionales, automatizando la generación de formas con una precisión y velocidad imposibles de alcanzar manualmente.
 
-La relevancia para esta investigación es que destaca el potencial creativo de los algoritmos como colaboradores en el proceso de diseño. Es un claro ejemplo de un sistema donde la forma emerge de un proceso complejo y parcialmente impredecible.
+La relevancia de este proyecto para la investigación reside en que valida el desarrollo de herramientas propias como práctica fundamental en la tipografía interactiva y generativa. Demuestra el potencial del diseño paramétrico para crear sistemas vivos donde la forma tipográfica no es un artefacto estático, sino el resultado dinámico de la interacción entre la lógica del diseñador y el procesamiento de datos.
 
 ---
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/), [Transformación espacial](/etiquetas/transformacion-espacial/)

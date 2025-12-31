@@ -39,8 +39,8 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Sonido](/etiquetas/sonido/), [Controlador físico (táctil)](/etiquetas/controlador-fisico/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/), [Controlador físico](/etiquetas/controlador-fisico/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación cromática](/etiquetas/transformacion-cromatica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí

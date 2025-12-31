@@ -30,7 +30,7 @@ permalink: /referentes/font-remix-project/
 ### Relevancia en relación a la tipografía interactiva
 Bigdot es una herramienta que explora la generación tipográfica a través de la combinación algorítmica de fuentes existentes, ofreciendo una nueva forma de interacción para el diseño tipográfico.
 
-Su principal aportación reside en que el usuario no diseña desde cero, sino que actúa como un \"remezclador\", seleccionando los ingredientes las tipografías que el sistema combina para crear un resultado nuevo.
+Su principal aportación reside en que el usuario no diseña desde cero, sino que actúa como un \"remezclador\", seleccionando como ingredientes las tipografías que el sistema combina para crear un resultado nuevo.
 
 La relevancia de este proyecto es que demuestra el potencial del código para expandir las posibilidades del diseño tipográfico, convirtiendo la creación de fuentes en un proceso colaborativo entre el diseñador de la herramienta y el usuario final.
 
@@ -38,12 +38,12 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 
 ### Clasificación
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Producto digital](/etiquetas/producto-digital/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Institución:** Central Saint Martins
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Datos externos (dos tipografías)](/etiquetas/datos-externos/)
+* **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** JavaScript, con la librería opentype.js
+* **Tecnología empleada:** JavaScript (Three.js), p5.js, GLSL (Shaders)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

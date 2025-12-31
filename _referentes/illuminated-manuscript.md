@@ -31,8 +31,8 @@ La relevancia de este proyecto es que hibrida de manera muy sofisticada un objet
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Gestual (táctil)](/etiquetas/gestual/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí

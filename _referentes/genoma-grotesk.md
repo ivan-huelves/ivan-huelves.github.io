@@ -28,12 +28,12 @@ La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografí
 
 ### Clasificación
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** F+F Schule für Kunst und Design
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Datos externos (luz)](/etiquetas/datos-externos/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Arduino, JavaScript, Css
+* **Tecnología empleada:** [Tipografía variable](/etiquetas/tipografia-variable/), Arduino, JavaScript, CSS
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** Sí
 

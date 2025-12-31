@@ -22,7 +22,7 @@ permalink: /referentes/touch-type/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Este proyecto es una instalación interactiva donde la tipografía está compuesta por partículas que simulan el comportamiento de una bandada. El sistema utiliza un modelo de machine learning (PoseNet) para detectar el cuerpo del usuario, permitiéndole distorsionar los caracteres con sus manos o hacerlas desaparecer al alejarse de la cámara.
+Este proyecto es una instalación interactiva donde la tipografía está compuesta por partículas que simulan el comportamiento de una bandada. El sistema utiliza un modelo de machine learning (PoseNet) para detectar el cuerpo del usuario, permitiéndole distorsionar los caracteres con sus manos o hacerlos desaparecer al alejarse de la cámara.
 
 Su principal aportación es la combinación de dos sistemas complejos: el seguimiento corporal y un algoritmo de comportamiento autónomo (flocking). A diferencia de una manipulación directa, el usuario no \"esculpe\" la letra, sino que \"perturba\" un sistema vivo. Su exhibición en espacios como el Today Art Museum de Pekín y Typographics en Cooper Union valida su importancia en el campo del diseño interactivo.
 
@@ -32,12 +32,12 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Google
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Machine Learning, (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), WebGL
+* **Tecnología empleada:** [Machine Learning](/etiquetas/machine-learning/), (PoseNet), [Algoritmo de Flocking](/etiquetas/algoritmo/), [WebGL](/etiquetas/web/)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

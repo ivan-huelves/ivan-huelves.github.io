@@ -3,7 +3,6 @@ layout: page
 title: "Proyectos: Transformación cromática"
 permalink: /etiquetas/transformacion-cromatica/
 ---
-
 Proyectos catalogados como **Transformación cromática**:
 
 - [Amsteldok](/referentes/amsteldok/)
@@ -11,6 +10,6 @@ Proyectos catalogados como **Transformación cromática**:
 - [Typo Talk](/referentes/typo-talk/)
 - [Visual Grammar](/referentes/visual-grammar/)
 
-
 <br>
+<hr>
 [← Volver al índice de referentes](/referentes/)

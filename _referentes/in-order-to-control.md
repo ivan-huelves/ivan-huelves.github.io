@@ -30,9 +30,9 @@ La relevancia de esta obra para la investigación es que explora cómo el cuerpo
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual (cámara)](/etiquetas/visual/), [Gestual (silueta corporal)](/etiquetas/gestual/)
+* **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** N.C.
+* **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

@@ -42,7 +42,7 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
 * **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
-* **Tecnología empleada:** P5.js
+* **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
@@ -51,4 +51,4 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">← Anterior<br><small>Kinetic Instant Messenger</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gen/">Siguiente →<br><small>GEN</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/kinetic-instant-messenger/">← Anterior<br><small>Kinetic Instant Messenger</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/gt/">Siguiente →<br><small>GT</small></a></div></div>

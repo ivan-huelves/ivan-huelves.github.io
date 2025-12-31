@@ -30,11 +30,11 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
-* **Tecnología empleada:** Inteligencia artificial, Modelo StyleGAN 2, Lucid Sonic Dreams
+* **Tecnología empleada:** [Inteligencia artificial](/etiquetas/inteligencia-artificial/), Modelo StyleGAN 2, Lucid Sonic Dreams
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 
@@ -43,4 +43,4 @@ La relevancia de este proyecto es que demuestra un nuevo paradigma donde la tipo
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-&-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/brain-opera/">← Anterior<br><small>Brain Opera</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/fable-table-ttt-poem/">Siguiente →<br><small>Fable Table & TTT Poem</small></a></div></div>

@@ -29,11 +29,10 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 ### Clasificación
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Institución:** Mushrooms: The Art, Design and Future of Fungi
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor (sliders)](/etiquetas/cursor/), [Algoritmo (algoritmo que simula el crecimiento de los hongos)](/etiquetas/algoritmo/)
+* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** [Generación tipográfica](/etiquetas/generacion-tipografica/)
-* **Tecnología empleada:** N.C. (Probablemente desarrollo a medida)
+* **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** No
 

@@ -30,7 +30,7 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual (realidad aumentada y realidad virtual)](/etiquetas/visual/)
+* **Tipo de input:** [Visual](/etiquetas/visual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí

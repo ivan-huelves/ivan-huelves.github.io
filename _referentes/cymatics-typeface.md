@@ -26,10 +26,10 @@ La relevancia para esta investigación es que demuestra cómo un input físico, 
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Sonido (frecuencias entre 750–2000 Hz)](/etiquetas/sonido/)
-* **Tipo de output:** [Transformación morfológica (figuras de Chladni)](/etiquetas/transformacion-morfologica/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** No
 * **Mantiene codificación textual:** No

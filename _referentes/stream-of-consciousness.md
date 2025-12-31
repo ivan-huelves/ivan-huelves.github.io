@@ -16,7 +16,7 @@ permalink: /referentes/stream-of-consciousness/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Stream of Consciousness es una instalación descrita como un \"jardín poético interactivo\". La obra consiste en una fuente física por la que fluye agua, sobre la cual se proyecta un \"torrente de palabras\". Estas palabras flotan en la superficie del agua como si fueran hojas, creando una fusión entre el entorno físico y la tipogafía digital.
+Stream of Consciousness es una instalación descrita como un \"jardín poético interactivo\". La obra consiste en una fuente física por la que fluye agua, sobre la cual se proyecta un \"torrente de palabras\". Estas palabras flotan en la superficie del agua como si fueran hojas, creando una fusión entre el entorno físico y la tipografía digital.
 
 Su principal aportación es el desarrollo y la implementación de una interfaz háptica líquida. Esta tecnología permite al usuario manipular gestualmente las palabras proyectadas. Puede detener el flujo del texto, tocar y agitar las palabras, o redirigir su curso, tratando los caracteres como si fueran objetos con propiedades físicas.
 
@@ -26,9 +26,9 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Instalación artística](/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Gestual (táctil manos)](/etiquetas/gestual/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí

@@ -32,10 +32,10 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion---experimental/)
+* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Pratt Institute
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Visual (mirada)](/etiquetas/visual/), [Gestual (glifos físicos)](/etiquetas/gestual/)
+* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo/)
+* **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/), [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
@@ -46,4 +46,4 @@ La relevancia para esta investigación es que explora cómo una interacción pur
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/dynamic-poetry-(wordnozzle-breeder-poemstalker-y-dialogue)/">Siguiente →<br><small>Dynamic Poetry (WordNozzle, Breeder, Poem.Stalker y Dialogue)</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/interactive-typography/">← Anterior<br><small>Interactive Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/like-beauty-in-flames/">Siguiente →<br><small>Like Beauty in Flames</small></a></div></div>

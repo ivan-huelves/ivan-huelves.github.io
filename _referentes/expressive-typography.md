@@ -27,14 +27,14 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 ---
 
 ### Clasificación
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralingüistica/)
+* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
 * **Tipo de input:** [Teclado](/etiquetas/teclado/)
 * **Tipo de output:** [Transformación morfológica](/etiquetas/transformacion-morfologica/)
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** N.C.
+* **Mantiene codificación textual:** N. C.
 
 <br>
 Ishizaki, Suguru. «Typographic Performance. Continuous Design Solutions as Emergent Behaviors of Active Agents». Doctoral dissertation, Massachusetts Institute of Technology, 1996. <a href='http://hdl.handle.net/1721.1/29105' target='_blank'>[Ver enlace]</a><br>

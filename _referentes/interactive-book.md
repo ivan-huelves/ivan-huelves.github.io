@@ -31,9 +31,8 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 ### Clasificación
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Institución:** Asamblea General de Naciones Unidas
 * **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Controlador físico (libro)](/etiquetas/controlador-fisico/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** [Transformación espacial](/etiquetas/transformacion-espacial/)
 * **Tecnología empleada:** Arduino
 * **Alfanumérica:** Sí
