@@ -3,7 +3,7 @@ layout: page
 title: "Synestype"
 date: 2024-01-01
 author: "Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini"
-year: "2021"
+year: "2022"
 thumbnail: "/images/referentes/synestype 01.jpg"
 permalink: /referentes/synestype/
 ---
