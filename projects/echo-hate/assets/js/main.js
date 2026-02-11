@@ -142,7 +142,7 @@ function applyVisuals(echoValue, toxicValue) {
 
     texts.forEach(t => {
         let hateAxisValue = 0; // 0 a 10
-        let ecocAxisValue = 0; // 0 a 10
+        let echocAxisValue = 0; // 0 a 10
         // 1. EJE DE ODIO (HATE)
         if (toxicValue > 0) {
             // toxicValue es 0-100, dividimos entre 10 para mapear a 0-10
@@ -153,21 +153,21 @@ function applyVisuals(echoValue, toxicValue) {
             badge.style.display = "none";
         }
 
-        // 2. EJE DE ECO (ECOC)
+        // 2. EJE DE ECHO (ECHO)
         if (echoValue > 0) {
             // echoValue es 0-100, dividimos entre 10 para mapear a 0-10
-            ecocAxisValue = echoValue / 10;
+            echocAxisValue = echoValue / 10;
         }
 
         // APLICACIÓN SIMULTÁNEA DE AMBOS EJES
-        t.style.fontVariationSettings = `'HATE' ${hateAxisValue}, 'ECOC' ${ecocAxisValue}`;
+        t.style.fontVariationSettings = `'HATE' ${hateAxisValue}, 'ECHO' ${echocAxisValue}`;
     });
 }
 
 function resetVisuals() {
     document.querySelectorAll('.t-text').forEach(t => {
         // FUERZA EL ESTADO NEUTRAL (AMBOS A 0)
-        t.style.fontVariationSettings = `'HATE' 0, 'ECOC' 0`;
+        t.style.fontVariationSettings = `'HATE' 0, 'ECHO' 0`;
         t.style.color = "#e7e9ea";
     });
     document.getElementById('alert-badge').style.display = "none";
