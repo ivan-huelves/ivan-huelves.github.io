@@ -1,0 +1,139 @@
+/* FUENTES */
+@font-face {
+    font-family: 'Participacion';
+    src: url('assets/font/participacion.ttf') format('truetype');
+    font-variation-settings: 'PART' 0; 
+}
+
+/* GENERAL */
+body {
+    margin: 0; padding: 0; width: 100vw; height: 100vh;
+    overflow: hidden; background-color: #000;
+    font-family: 'Participacion', sans-serif; 
+}
+
+/* PANTALLA DE INICIO */
+#overlay-inicio {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.9); z-index: 9999;
+    display: flex; justify-content: center; align-items: center;
+}
+#btn-conectar {
+    padding: 20px 40px; font-size: 1.2rem; background: rgb(255, 204, 0); color: #000;
+     font-family: monospace; font-weight: bold;
+    transition: 0.3s;
+}
+#btn-conectar:hover { background: #000; color: rgb(255, 204, 0); box-shadow: 0 0 10px rgb(255, 204, 0); }
+
+/* PROTOTIPO */
+.escena-contenedor { position: relative; width: 100%; height: 100%; perspective: 1000px; }
+
+.fondo-sala {
+    position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    background-image: url('assets/img/fondo_participacion.jpg'); 
+    background-size: cover; background-position: center; z-index: 1;
+}
+
+.publico-container {
+    position: absolute; bottom: 0; left: 0; width: 100%; height: 100%;
+    z-index: 3; pointer-events: none;
+}
+
+
+/* --- SILUETAS --- */
+.silueta {
+    position: absolute;
+    height: 55vh; 
+    
+    /* Configuración de la imagen de fondo */
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: bottom center;
+    
+    /* Filtros para que se integre con el fondo oscuro */
+    filter: contrast(1.1) brightness(0.8);
+
+    /* Estado Inicial: Escondido abajo */
+    transform: translateY(150%); 
+    opacity: 1;
+    
+    transition: transform 0.8s cubic-bezier(0.2, 0.6, 0.35, 1);
+    will-change: transform;
+}
+
+/* Estado Final: Visible */
+.silueta.ha-entrado {
+    /* El !important asegura que suba sí o sí */
+    transform: translateY(0) !important; 
+}
+
+
+/* TEXTO */
+.pantalla-proyeccion {
+    position: absolute; top: 12%; left: 22.5%; width: 54%; height: 42%;
+    display: flex; flex-direction: column; justify-content: center; align-items: center;
+    text-align: center; mix-blend-mode: multiply; z-index: 2;
+}
+.texto-contenido { color: #000; padding: 0 2rem; }
+#cuerpo { 
+    font-size: 1.3vw; max-width: 95%; margin: 0 auto; line-height: 1.2; 
+    white-space: pre-line; will-change: font-variation-settings;
+}
+
+/* UI SENSOR */
+.ui-sensor {
+    position: fixed; 
+    top: 30px;
+    right: 30px;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    font-family: monospace;
+    padding: 15px;
+    z-index: 100;
+}
+
+/* Header alineado a la derecha con el LED integrado */
+.sensor-header {
+    font-size: 0.8rem;
+    color: #aaa;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    text-transform: uppercase;
+}
+
+/* El número de personas alineado a la derecha */
+.sensor-data { 
+    font-size: 2rem; 
+    font-weight: bold; 
+    display: flex; 
+    justify-content: flex-end;
+}
+
+/* La luz (LED) */
+.led-actividad { 
+    width: 8px; 
+    height: 8px; 
+    background-color: #333;
+    border-radius: 50%; 
+    transition: background-color 0.1s, box-shadow 0.1s; 
+}
+
+/* Cuando se enciende al detectar persona */
+.led-actividad.on { 
+    background-color: #f00; 
+    box-shadow: 0 0 8px #f00; 
+}
+
+
+.barra-progreso { width: 100%; height: 4px; background: #222; margin-top: 10px; }
+.barra-relleno { height: 100%; background: rgb(255, 204, 0); width: 0%; transition: width 0.1s; }
+.debug-eje { font-size: 0.6rem; color: #ffffff; margin-top: 5px; text-align: right; }
+
+#val-eje {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
