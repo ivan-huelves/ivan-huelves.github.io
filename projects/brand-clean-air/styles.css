@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CleanAirVariable';
-    src: url('assets/fonts/CleanAirFund.ttf') format('truetype');
+    src: url('/assets/fonts/CleanAirFund.ttf') format('truetype');
     font-variation-settings: 'POLT' 0;
     font-weight: normal;
     font-style: normal;
@@ -19,7 +19,7 @@ body, html {
     width: 100%;
     height: 100vh; 
     min-height: 600px;
-    background-image: url('assets/img/clean air fund web capture.png');
+    background-image: url('/assets/img/clean air fund web capture.png');
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
