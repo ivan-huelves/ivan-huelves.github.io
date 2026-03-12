@@ -20,19 +20,21 @@ Nomad Typeface es una tipografía interactiva donde cada carácter posee un comp
 
 Su principal aportación es la investigación de la tipografía como una experiencia interactiva y puramente formal. En lugar de centrarse en la legibilidad o en la transmisión de un mensaje, el proyecto explora el potencial estético y lúdico de los caracteres digitales como formas abstractas en constante movimiento.
 
-La relevancia para esta investigación es que demuestra cómo el input del usuario puede activar comportamientos expresivos en la tipografía, reforzando su cualidad visual y dinámica más allá de su función comunicativa tradicional. Es un claro ejemplo de la función de \"Expresión artística y performativa\".
+La relevancia para esta investigación es que demuestra cómo el input del usuario puede activar comportamientos expresivos en la tipografía, reforzando su cualidad visual y dinámica más allá de su función comunicativa tradicional. Es un claro ejemplo de la función de *Expresión artística y performativa*.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Yee, Joyce. «Developing A Practice-Led Framework To Promote The Practise And Understanding Of Typography Across Different Media». University of Northumbria, 2006. <a href='http://rgdoi.net/10.13140/2.1.1044.3041' target='_blank'>[Ver enlace]</a><br>

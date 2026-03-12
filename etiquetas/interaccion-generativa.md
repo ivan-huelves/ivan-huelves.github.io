@@ -1,28 +1,12 @@
 ---
 layout: page
-title: "Proyectos: Cursor"
-permalink: /etiquetas/cursor/
+title: "Proyectos: Interacción generativa"
+permalink: /etiquetas/interaccion-generativa/
 ---
 
-Proyectos catalogados como **Cursor**:
+Proyectos catalogados como **Interacción generativa**:
 
 <div class="project-grid">
-
-    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            ActiveText Project y It's Alive!
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Alex Weyers
-          <br>
-          <span style="color: #999;">1998</span>
-        </div>
-      </div>
-    </a>
 
     <a href="/referentes/aerial-bold/" class="project-card">
       <div class="card-image">
@@ -72,18 +56,82 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/cheiro/" class="project-card">
+    <a href="/referentes/automated-type-design/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/cheiro 01.jpg" alt="Imagen de Cheiro" loading="lazy">
+        <img src="/images/referentes/Automated Type Design 01.jpg" alt="Imagen de Automated Type Design" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Cheiro
+            Automated Type Design
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Francis Lam
+          Daniel Wenzel
           <br>
-          <span style="color: #999;">2006</span>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/bit-tripper/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Bit Tripper 01.png" alt="Imagen de Bit Tripper" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Bit Tripper
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Counterpoint Studio
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/cumulus-park/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/cumulus 01.png" alt="Imagen de Cumulus Park" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cumulus Park
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Studio Dumbar/DEPT
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/cymatics-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Cymatics 01.webp" alt="Imagen de Cymatics Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cymatics Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Danielle Abbon
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dancing-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dancing type 01.png" alt="Imagen de Dancing Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dancing Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2021</span>
         </div>
       </div>
     </a>
@@ -104,32 +152,48 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/emergence/" class="project-card">
+    <a href="/referentes/ff-beowolf/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/emergence.gif" alt="Imagen de Emergence" loading="lazy">
+        <img src="/images/referentes/beowolf 01.jpg" alt="Imagen de FF Beowolf" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Emergence
+            FF Beowolf
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Stefanie Schwarz
+          Erik van Blokland y Just van Rossum
           <br>
-          <span style="color: #999;">2012</span>
+          <span style="color: #999;">1989</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/existential-co/" class="project-card">
+    <a href="/referentes/flefixx/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/extential 01.png" alt="Imagen de Existential Co." loading="lazy">
+        <img src="/images/referentes/Flefixx 1.png" alt="Imagen de Flefixx" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Existential Co.
+            Flefixx
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Space Type Co. y Studio Pact
+          Sun Young Oh
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/font-remix-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/font remix 01.jpg" alt="Imagen de Font Remix Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Font Remix Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lorraine Li
           <br>
           <span style="color: #999;">2022</span>
         </div>
@@ -152,34 +216,34 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/gintogx/" class="project-card">
+    <a href="/referentes/glitch-type-generator-tool/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/gintogx_01.gif" alt="Imagen de GintoGX" loading="lazy">
+        <img src="/images/referentes/glitch 01.png" alt="Imagen de Glitch Type Generator Tool" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            GintoGX
+            Glitch Type Generator Tool
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Daniel Wenzel
+          Jake Welch
           <br>
-          <span style="color: #999;">2018</span>
+          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/giving-character-to-characters/" class="project-card">
+    <a href="/referentes/gt/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Giving Character to Characters.png" alt="Imagen de Giving Character to Characters" loading="lazy">
+        <img src="/images/referentes/GEN Kyuha Shim 01.jpg" alt="Imagen de GT" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Giving Character to Characters
+            GT
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Richard The
+          Kyuha Shim
           <br>
-          <span style="color: #999;">2010</span>
+          <span style="color: #999;">2011</span>
         </div>
       </div>
     </a>
@@ -264,18 +328,18 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/letter-dance/" class="project-card">
+    <a href="/referentes/live-letters/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/letter dance.jpg" alt="Imagen de Letter Dance" loading="lazy">
+        <img src="/images/referentes/live letters 01.webp" alt="Imagen de Live Letters" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Letter Dance
+            Live Letters
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Peter Cho
+          Julia Schäfer
           <br>
-          <span style="color: #999;">1999</span>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -292,22 +356,6 @@ Proyectos catalogados como **Cursor**:
           Yugo Nakamura y tha ltd.
           <br>
           <span style="color: #999;">2008</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/move-me-mm/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/move me mm.jpg" alt="Imagen de Move Me MM" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Move Me MM
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Lucas de Groot
-          <br>
-          <span style="color: #999;">1994</span>
         </div>
       </div>
     </a>
@@ -344,6 +392,22 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
+    <a href="/referentes/orfeo/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/orfeo 01.jpg" alt="Imagen de Orfeo" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Orfeo
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jaime Munárriz Ortiz y Carlos Barberà Pastor
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/phase/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/phase 01.webp" alt="Imagen de Phase" loading="lazy">
@@ -360,18 +424,18 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
-    <a href="/referentes/poemas-no-meio-do-caminho/" class="project-card">
+    <a href="/referentes/physarum-type-tool/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/poemasnomeiodocaminho_01.jpg" alt="Imagen de Poemas no meio do caminho" loading="lazy">
+        <img src="/images/referentes/physarumtype 01.png" alt="Imagen de Physarum Type Tool" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Poemas no meio do caminho
+            Physarum Type Tool
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rui Torres
+          Maxence Duterne
           <br>
-          <span style="color: #999;">2008</span>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -388,38 +452,6 @@ Proyectos catalogados como **Cursor**:
           Kiel Mutschelknaus
           <br>
           <span style="color: #999;">2018</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/symphony-in-acid/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/symphony-in-acid-01.png" alt="Imagen de Symphony in Acid" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Symphony in Acid
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Ksawery Komputery y Max Cooper
-          <br>
-          <span style="color: #999;">2022</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/talmud-project/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/talmud.png" alt="Imagen de Talmud Project" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Talmud Project
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          David Small y Tom White
-          <br>
-          <span style="color: #999;">1999</span>
         </div>
       </div>
     </a>
@@ -452,6 +484,38 @@ Proyectos catalogados como **Cursor**:
           Vera van de Seyp
           <br>
           <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-code/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            TYPE + CODE
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yeohyun Ahn
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>
@@ -504,6 +568,22 @@ Proyectos catalogados como **Cursor**:
       </div>
     </a>
 
+    <a href="/referentes/uncanny-values-ai-font/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/uncanny 01.png" alt="Imagen de Uncanny Values - Ai font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Uncanny Values - Ai font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Process Studio
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/vave/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/vave 01.png" alt="Imagen de Vave" loading="lazy">
@@ -532,6 +612,22 @@ Proyectos catalogados como **Cursor**:
           Vanessa Zúñiga Tinizaray
           <br>
           <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/wet-fonts/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/wet fonts.jpg" alt="Imagen de Wet Fonts" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Wet Fonts
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small
+          <br>
+          <span style="color: #999;">1990</span>
         </div>
       </div>
     </a>

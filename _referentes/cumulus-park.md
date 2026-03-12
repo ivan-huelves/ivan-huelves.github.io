@@ -33,14 +33,16 @@ La relevancia de este proyecto para la investigación es que demuestra cómo una
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://studiodumbar.com/work/cumulus-park" target="_blank">🔗 Ver fuente 1</a><br>

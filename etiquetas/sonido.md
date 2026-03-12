@@ -152,22 +152,6 @@ Proyectos catalogados como **Sonido**:
       </div>
     </a>
 
-    <a href="/referentes/interactive-book/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/interactive book 01.webp" alt="Imagen de Interactive book" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Interactive book
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Tamper Studio
-          <br>
-          <span style="color: #999;">2017</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/kachi-buwa/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/KACHI-BUWA 01.jpg" alt="Imagen de Kachi-Buwa" loading="lazy">
@@ -451,7 +435,7 @@ Proyectos catalogados como **Sonido**:
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini
           <br>
-          <span style="color: #999;">2021</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -468,6 +452,22 @@ Proyectos catalogados como **Sonido**:
           Peter Cho
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/tomorrows-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tomorrow's Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vera van de Seyp
+          <br>
+          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>

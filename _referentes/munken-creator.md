@@ -29,15 +29,17 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Institución:** Munken Paper
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.patrik-huebner.com/generative-design/munken-creator-generative-typography-design/" target="_blank">🔗 Ver fuente 1</a><br>

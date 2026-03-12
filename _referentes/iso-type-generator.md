@@ -27,15 +27,17 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
 * **Institución:** Future Campus Ruhr
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://nahuelgerth.de/work/iso-type-generator" target="_blank">🔗 Ver fuente 1</a><br>

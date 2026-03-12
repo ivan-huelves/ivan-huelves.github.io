@@ -1,137 +1,137 @@
 ---
 layout: page
-title: "Proyectos: Visual"
-permalink: /etiquetas/visual/
+title: "Proyectos: Interacción fuerte o mutua"
+permalink: /etiquetas/interaccion-fuerte-o-mutua/
 ---
 
-Proyectos catalogados como **Visual**:
+Proyectos catalogados como **Interacción fuerte o mutua**:
 
 <div class="project-grid">
 
-    <a href="/referentes/between-page-and-screen/" class="project-card">
+    <a href="/referentes/abcdefghijklmnopqrstuvwxyz/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Between Page and Screen 01.jpg" alt="Imagen de Between Page and Screen" loading="lazy">
+        <img src="/images/referentes/abcdefghijklmnopqrstuvwxyz.png" alt="Imagen de abcdefghijklmnopqrstuvwxyz" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Between Page and Screen
+            abcdefghijklmnopqrstuvwxyz
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Amaranth Borsuk y Brad Bouse
+          Jörg Piringer
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            ActiveText Project y It's Alive!
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Alex Weyers
+          <br>
+          <span style="color: #999;">1998</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/archiv-des-wirrwarrs/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/archiv 01.jpg" alt="Imagen de Archiv des Wirrwarrs" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Archiv des Wirrwarrs
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Alvin Lin
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/emergence/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/emergence.gif" alt="Imagen de Emergence" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Emergence
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Stefanie Schwarz
           <br>
           <span style="color: #999;">2012</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/embodied-type/" class="project-card">
+    <a href="/referentes/encode-decode/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/embodied 01.gif" alt="Imagen de Embodied Type" loading="lazy">
+        <img src="/images/referentes/encode_decode 01.jpg" alt="Imagen de Encode/Decode" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Embodied Type
+            Encode/Decode
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Janny Ji
+          Rafael Lozano-Hemmer
           <br>
-          <span style="color: #999;">2019</span>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/gravient/" class="project-card">
+    <a href="/referentes/generative-typography/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Gravient 01.gif" alt="Imagen de Gravient" loading="lazy">
+        <img src="/images/referentes/generative typography kenny-zhang.jpg" alt="Imagen de Generative Typography" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Gravient
+            Generative Typography
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Pràctica
+          Zeke Wattles y estudiantes
           <br>
-          <span style="color: #999;">2018</span>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/holopoetry/" class="project-card">
+    <a href="/referentes/screen-profile/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/holopoetry 01.gif" alt="Imagen de Holopoetry" loading="lazy">
+        <img src="/images/referentes/screen profile 01.jpg" alt="Imagen de Screen Profile" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Holopoetry
+            Screen Profile
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Eduardo Kac
-          <br>
-          <span style="color: #999;">1983</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/in-order-to-control/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/in order to control 01.webp" alt="Imagen de In Order to Control" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            In Order to Control
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Nota Bene Visual
-          <br>
-          <span style="color: #999;">2011</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/like-beauty-in-flames/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/like beauty in flames 1.jpg" alt="Imagen de Like Beauty in Flames" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Like Beauty in Flames
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jenny Holzer
-          <br>
-          <span style="color: #999;">2021</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/responsive-typography-with-viewing-distance-detection/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg" alt="Imagen de Responsive Typography with Viewing Distance Detection" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Responsive Typography with Viewing Distance Detection
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Marko Dugonjić
-          <br>
-          <span style="color: #999;">2013</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/symphony-in-acid/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/symphony-in-acid-01.png" alt="Imagen de Symphony in Acid" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Symphony in Acid
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Ksawery Komputery y Max Cooper
+          Robert Coover, Shawn Greenlee, Andrew McClain, Robert Arellano y Joshua Carroll
           <br>
           <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/stream-of-consciousness/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/stream 01.jpg" alt="Imagen de Stream of Consciousness" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Stream of Consciousness
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small y Tom White
+          <br>
+          <span style="color: #999;">1999</span>
         </div>
       </div>
     </a>
@@ -152,34 +152,18 @@ Proyectos catalogados como **Visual**:
       </div>
     </a>
 
-    <a href="/referentes/the-guide-to-be-seen/" class="project-card">
+    <a href="/referentes/type-dynamics/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/the guide to be seen 02.png" alt="Imagen de The Guide To Be Seen" loading="lazy">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            The Guide To Be Seen
+            Type/dynamics
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Eager Zhang
+          Lust Studio
           <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/your-typeface/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/yourtypeface 01.jpg" alt="Imagen de Your Typeface" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Your Typeface
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Overtone y Set Snail
-          <br>
-          <span style="color: #999;">2020</span>
+          <span style="color: #999;">2013</span>
         </div>
       </div>
     </a>

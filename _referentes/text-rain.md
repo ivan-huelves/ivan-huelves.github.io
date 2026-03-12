@@ -16,7 +16,7 @@ permalink: /referentes/text-rain/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Text Rain es una instalación interactiva que utiliza el cuerpo del participante como interfaz directa para manipular texto. El sistema emplea visión por computador para que los glifos de un poema, que caen como lluvia, reaccionen a la silueta del usuario, permitiendo que este los \"atrape\" o los mueva.
+Text Rain es una instalación interactiva que utiliza el cuerpo del participante como interfaz directa para manipular texto. El sistema emplea visión por computador para que los glifos de un poema, que caen como lluvia, reaccionen a la silueta del usuario, permitiendo que este los *atrape* o los mueva.
 
 Su principal aportación es la transformación de la lectura en una experiencia física y performativa. El proyecto consigue que los caracteres tipográficos se comporten como objetos con propiedades físicas, estableciendo una relación directa entre el gesto corporal y el comportamiento del texto digital en tiempo real.
 
@@ -25,14 +25,16 @@ La relevancia de este proyecto es que se trata de una obra fundamental en la tip
 ---
 
 ### Clasificación
+* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="http://camilleutterback.com/projects/text-rain/" target="_blank">🔗 Ver fuente 1</a><br>

@@ -27,14 +27,16 @@ Para esta investigación su relevancia reside en el uso de interfaces naturales 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Narrativa social](/etiquetas/narrativa-social/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** TouchDesigner
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.lozano-hemmer.com/encodedecode.php" target="_blank">🔗 Ver fuente 1</a><br>

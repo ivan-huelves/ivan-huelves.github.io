@@ -31,14 +31,16 @@ La relevancia del proyecto para la investigación radica en demostrar que la tip
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** JavaScript
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://cotton.design/work/guilty-by-association" target="_blank">🔗 Ver fuente 1</a><br>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Proyectos: Interactivo"
-permalink: /etiquetas/interactivo/
+title: "Proyectos: Codificación textual: No"
+permalink: /etiquetas/codificacion-textual-no/
 ---
 
-Proyectos catalogados como **Interactivo**:
+Proyectos catalogados como **Codificación textual: No**:
 
 <div class="project-grid">
 
@@ -56,22 +56,6 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            ActiveText Project y It's Alive!
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Alex Weyers
-          <br>
-          <span style="color: #999;">1998</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/alphabot/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/ALPHABOT 01.webp" alt="Imagen de Alphabot" loading="lazy">
@@ -84,22 +68,6 @@ Proyectos catalogados como **Interactivo**:
           Nikita Pashenkov
           <br>
           <span style="color: #999;">2000</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/amsteldok/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Amsteldok 01.webp" alt="Imagen de Amsteldok" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Amsteldok
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Vbat y Fontsmith
-          <br>
-          <span style="color: #999;">2018</span>
         </div>
       </div>
     </a>
@@ -168,6 +136,38 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/cumulus-park/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/cumulus 01.png" alt="Imagen de Cumulus Park" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cumulus Park
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Studio Dumbar/DEPT
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/cymatics-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Cymatics 01.webp" alt="Imagen de Cymatics Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cymatics Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Danielle Abbon
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/dana-font/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/dana 01.jpg" alt="Imagen de Dana Font" loading="lazy">
@@ -232,6 +232,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/dia-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DIA Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          DIA Studio
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/dialogue/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
@@ -264,6 +280,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/embodied-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/embodied 01.gif" alt="Imagen de Embodied Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Embodied Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Janny Ji
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/emergence/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/emergence.gif" alt="Imagen de Emergence" loading="lazy">
@@ -276,22 +308,6 @@ Proyectos catalogados como **Interactivo**:
           Stefanie Schwarz
           <br>
           <span style="color: #999;">2012</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/emotional-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/emotional type 01.png" alt="Imagen de Emotional Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Emotional Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Promphan Suksumek
-          <br>
-          <span style="color: #999;">2017</span>
         </div>
       </div>
     </a>
@@ -360,18 +376,18 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/expressive-typography/" class="project-card">
+    <a href="/referentes/experimentos-de-tipografia-en-ar/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/ishizaki - expressive typography 1.png" alt="Imagen de Expressive Typography" loading="lazy">
+        <img src="/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif" alt="Imagen de Experimentos de Tipografía en AR" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Expressive Typography
+            Experimentos de Tipografía en AR
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Suguru Ishizaki
+          Andrew Johnson y Erik van Blokland
           <br>
-          <span style="color: #999;">1996</span>
+          <span style="color: #999;">2018</span>
         </div>
       </div>
     </a>
@@ -392,18 +408,18 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/facetype/" class="project-card">
+    <a href="/referentes/flefixx/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/facetype 01.png" alt="Imagen de Facetype" loading="lazy">
+        <img src="/images/referentes/Flefixx 1.png" alt="Imagen de Flefixx" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Facetype
+            Flefixx
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Adam Lenzinger
+          Sun Young Oh
           <br>
-          <span style="color: #999;">2020</span>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -440,50 +456,18 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/genoma-grotesk/" class="project-card">
+    <a href="/referentes/glitch-type-generator-tool/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/genoma 01.png" alt="Imagen de Genoma Grotesk" loading="lazy">
+        <img src="/images/referentes/glitch 01.png" alt="Imagen de Glitch Type Generator Tool" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Genoma Grotesk
+            Glitch Type Generator Tool
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Robin Eberwein
+          Jake Welch
           <br>
-          <span style="color: #999;">2018</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/giving-character-to-characters/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Giving Character to Characters.png" alt="Imagen de Giving Character to Characters" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Giving Character to Characters
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Richard The
-          <br>
-          <span style="color: #999;">2010</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/gnomon/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/gnomon.png" alt="Imagen de Gnomon" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Gnomon
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Indestructible Type
-          <br>
-          <span style="color: #999;">2018</span>
+          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>
@@ -520,6 +504,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/gt/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/GEN Kyuha Shim 01.jpg" alt="Imagen de GT" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            GT
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kyuha Shim
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/guilty-by-association/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/gba 01.png" alt="Imagen de Guilty By Association" loading="lazy">
@@ -552,6 +552,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/hard-music-festival/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/HARD Music Festival 01.jpg" alt="Imagen de Hard Music Festival" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Hard Music Festival
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mikiko Yamabayashi
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/holopoetry/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/holopoetry 01.gif" alt="Imagen de Holopoetry" loading="lazy">
@@ -564,6 +580,38 @@ Proyectos catalogados como **Interactivo**:
           Eduardo Kac
           <br>
           <span style="color: #999;">1983</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/hypha/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/hypha 01.png" alt="Imagen de Hypha" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Hypha
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Pentagram, A2-TYPE y Counterpoint
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/illuminated-manuscript/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/illuminated manuscript - small 1.jpg" alt="Imagen de Illuminated Manuscript" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Illuminated Manuscript
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small
+          <br>
+          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -632,6 +680,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/iso-type-generator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/iso type generator 01.png" alt="Imagen de ISO Type Generator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            ISO Type Generator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Nahuel Gerth
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/janemail/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Janemail.png" alt="Imagen de Janemail" loading="lazy">
@@ -644,22 +708,6 @@ Proyectos catalogados como **Interactivo**:
           Yin Yin Wong
           <br>
           <span style="color: #999;">1995</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/kachi-buwa/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/KACHI-BUWA 01.jpg" alt="Imagen de Kachi-Buwa" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Kachi-Buwa
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Emi Takahashi
-          <br>
-          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -696,6 +744,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/laika/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/laika 01.jpg" alt="Imagen de Laika" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Laika
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Michael Flückiger y Nicolas Kunz
+          <br>
+          <span style="color: #999;">2009</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/laser-letters/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/laser letters 01.gif" alt="Imagen de Laser Letters" loading="lazy">
@@ -708,6 +772,38 @@ Proyectos catalogados como **Interactivo**:
           Eri Sekiguchi, Fabian Florian y David El-Khouri
           <br>
           <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/lattice/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/lattice 01.jpg" alt="Imagen de Lattice" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Lattice
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          João Generoso
+          <br>
+          <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/leon-sans/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/leon sans 01.png" alt="Imagen de Leon Sans" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Leon Sans
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jongmin Kim
+          <br>
+          <span style="color: #999;">2019</span>
         </div>
       </div>
     </a>
@@ -760,18 +856,18 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/live-letters/" class="project-card">
+    <a href="/referentes/look-hear/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/live letters 01.webp" alt="Imagen de Live Letters" loading="lazy">
+        <img src="/images/referentes/LOOK_HEAR 1.jpg" alt="Imagen de Look/Hear" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Live Letters
+            Look/Hear
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Julia Schäfer
+          Ran Zheng
           <br>
-          <span style="color: #999;">2020</span>
+          <span style="color: #999;">2016</span>
         </div>
       </div>
     </a>
@@ -792,18 +888,34 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/move-me-mm/" class="project-card">
+    <a href="/referentes/morisawa-fontpark-20/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/move me mm.jpg" alt="Imagen de Move Me MM" loading="lazy">
+        <img src="/images/referentes/fontpark 01.jpg" alt="Imagen de Morisawa Fontpark 2.0" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Move Me MM
+            Morisawa Fontpark 2.0
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Lucas de Groot
+          Yugo Nakamura y tha ltd.
           <br>
-          <span style="color: #999;">1994</span>
+          <span style="color: #999;">2008</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/munken-creator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Munken Creator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Patrik Hübner
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -836,6 +948,22 @@ Proyectos catalogados como **Interactivo**:
           Byoung-Il Choi
           <br>
           <span style="color: #999;">2001</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/orfeo/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/orfeo 01.jpg" alt="Imagen de Orfeo" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Orfeo
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jaime Munárriz Ortiz y Carlos Barberà Pastor
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -884,6 +1012,22 @@ Proyectos catalogados como **Interactivo**:
           Sandra Lara Baranera
           <br>
           <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/physarum-type-tool/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/physarumtype 01.png" alt="Imagen de Physarum Type Tool" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Physarum Type Tool
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Maxence Duterne
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -952,34 +1096,50 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/responsive-typography-with-viewing-distance-detection/" class="project-card">
+    <a href="/referentes/rio-carnaval/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg" alt="Imagen de Responsive Typography with Viewing Distance Detection" loading="lazy">
+        <img src="/images/referentes/rio carnaval 01.jpeg" alt="Imagen de Rio Carnaval" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Responsive Typography with Viewing Distance Detection
+            Rio Carnaval
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Marko Dugonjić
+          Tatil Design
           <br>
-          <span style="color: #999;">2013</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/seen/" class="project-card">
+    <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/seen 01.png" alt="Imagen de Seen" loading="lazy">
+        <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Seen
+            Robotype (Sujigen, Mojigen, 7×7)
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Emil Kozole
+          Yuichiro Katsumoto
           <br>
-          <span style="color: #999;">2014</span>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/screen-profile/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/screen profile 01.jpg" alt="Imagen de Screen Profile" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Screen Profile
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Robert Coover, Shawn Greenlee, Andrew McClain, Robert Arellano y Joshua Carroll
+          <br>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -1016,6 +1176,22 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -1028,6 +1204,22 @@ Proyectos catalogados como **Interactivo**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/space-type-generator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/spacetypegenerator 01.jpg" alt="Imagen de Space Type Generator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Space Type Generator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kiel Mutschelknaus
+          <br>
+          <span style="color: #999;">2018</span>
         </div>
       </div>
     </a>
@@ -1076,22 +1268,6 @@ Proyectos catalogados como **Interactivo**:
           David Small y Tom White
           <br>
           <span style="color: #999;">1999</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/symphosizer/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Symphosizer 01.png" alt="Imagen de Symphosizer" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Symphosizer
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Collins y Dinamo
-          <br>
-          <span style="color: #999;">2021</span>
         </div>
       </div>
     </a>
@@ -1160,22 +1336,6 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/the-climate-crisis-font/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/climate crisis font 01.gif" alt="Imagen de The Climate Crisis Font" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            The Climate Crisis Font
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Helsingin Sanomat, Eino Korkala y Daniel Coull
-          <br>
-          <span style="color: #999;">2021</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/the-guide-to-be-seen/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/the guide to be seen 02.png" alt="Imagen de The Guide To Be Seen" loading="lazy">
@@ -1208,6 +1368,38 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/tipografia-generativa-talleres/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/anna carreras 01.png" alt="Imagen de Tipografía generativa (talleres)" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tipografía generativa (talleres)
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Anna Carreras
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/tomorrows-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tomorrow's Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vera van de Seyp
+          <br>
+          <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/touch-type/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/touch type 01.gif" alt="Imagen de Touch Type" loading="lazy">
@@ -1224,18 +1416,18 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/type-as-tone/" class="project-card">
+    <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/type as tone 1.webp" alt="Imagen de Type as Tone" loading="lazy">
+        <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type as Tone
+            TYPE + CODE
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Kasper Pyndt
+          Yeohyun Ahn
           <br>
-          <span style="color: #999;">2016</span>
+          <span style="color: #999;">2005</span>
         </div>
       </div>
     </a>
@@ -1272,6 +1464,38 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-dynamics/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
@@ -1284,6 +1508,22 @@ Proyectos catalogados como **Interactivo**:
           Lust Studio
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typechaosifier/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            typeChaosifier
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2019</span>
         </div>
       </div>
     </a>
@@ -1352,48 +1592,32 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/typo-talk/" class="project-card">
+    <a href="/referentes/uglyph/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+        <img src="/images/referentes/uglyph 01.png" alt="Imagen de Uglyph" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typo Talk
+            Uglyph
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
+          Seva Varfolomeev (Retry Studio)
           <br>
-          <span style="color: #999;">1997</span>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
 
-    <a href="/referentes/typographic-rhythm/" class="project-card">
+    <a href="/referentes/uncanny-values-ai-font/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
+        <img src="/images/referentes/uncanny 01.png" alt="Imagen de Uncanny Values - Ai font" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typographic Rhythm
+            Uncanny Values - Ai font
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Puckey
-          <br>
-          <span style="color: #999;">2005</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/variable-fonts-reactive-typography/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/variable-fonts-reactive-typo 01.jpg" alt="Imagen de Variable Fonts – Reactive Typography" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Variable Fonts – Reactive Typography
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Lisa Reckeweg
+          Process Studio
           <br>
           <span style="color: #999;">2019</span>
         </div>
@@ -1416,18 +1640,34 @@ Proyectos catalogados como **Interactivo**:
       </div>
     </a>
 
-    <a href="/referentes/your-typeface/" class="project-card">
+    <a href="/referentes/visual-chronicles-of-abya-yala/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/yourtypeface 01.jpg" alt="Imagen de Your Typeface" loading="lazy">
+        <img src="/images/referentes/Visual Chronicles of Abya Yala 01.jpg" alt="Imagen de Visual Chronicles of Abya Yala" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Your Typeface
+            Visual Chronicles of Abya Yala
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Overtone y Set Snail
+          Vanessa Zúñiga Tinizaray
           <br>
-          <span style="color: #999;">2020</span>
+          <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/wet-fonts/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/wet fonts.jpg" alt="Imagen de Wet Fonts" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Wet Fonts
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small
+          <br>
+          <span style="color: #999;">1990</span>
         </div>
       </div>
     </a>

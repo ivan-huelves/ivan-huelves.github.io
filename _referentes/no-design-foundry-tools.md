@@ -31,14 +31,16 @@ La relevancia para la investigación radica en que, a diferencia de otros refere
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** Python
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://nodesignfoundry.com/" target="_blank">🔗 Ver fuente 1</a><br>

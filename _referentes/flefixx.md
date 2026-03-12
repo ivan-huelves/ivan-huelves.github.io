@@ -29,15 +29,17 @@ La relevancia de este proyecto para la investigación es que establece un preced
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
 * **Institución:** HfG Karlsruhe
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** N. C. (probablemente p5.js o JavaScript)
 * **Alfanumérica:** No
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://flefixx.sunyoungoh.com/" target="_blank">🔗 Ver fuente 1</a><br>

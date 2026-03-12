@@ -25,14 +25,16 @@ La relevancia para esta investigación es que ejemplifica un modelo donde los ca
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/), [Sonido](/etiquetas/sonido/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/), [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://joerg.piringer.net/index.php?href=performance/abcdefghijklmnopqrstuvwxyz.xml" target="_blank">🔗 Ver fuente 1</a><br>

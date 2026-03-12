@@ -29,14 +29,16 @@ La relevancia de este proyecto para la investigación destaca por su enfoque exp
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** Osciloscopio
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.typeroom.eu/jonathan-mak-where-sound-meets-type" target="_blank">🔗 Ver fuente 1</a><br>

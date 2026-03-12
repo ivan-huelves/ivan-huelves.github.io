@@ -29,15 +29,17 @@ La relevancia del proyecto para la investigación radica en cómo sistematizar l
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** OCAD University
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://emitakahashi.ca/kachibuwa/" target="_blank">🔗 Ver fuente 1</a><br>

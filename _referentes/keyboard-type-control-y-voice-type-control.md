@@ -18,24 +18,26 @@ permalink: /referentes/keyboard-type-control-y-voice-type-control/
 
 
 ### Relevancia en relación a la tipografía interactiva
-La investigación \"Expressive Typography\" explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los glifos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo de la tipografía.
+La investigación *Expressive Typography* explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los glifos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo de la tipografía.
 
-Su principal aportación es el establecimiento de un modelo donde el input sensorial determina la morfología de los caracteres, convirtiendo la tipografía en una \"performance\" que incorpora la dimensión temporal.
+Su principal aportación es el establecimiento de un modelo donde el input sensorial determina la morfología de los caracteres, convirtiendo la tipografía en una *performance* que incorpora la dimensión temporal.
 
 La relevancia de estos proyectos es que son precedentes fundamentales que sentaron las bases de la tipografía interactiva. Al explorar interfaces como la voz y los teclados MIDI, demostraron que la tipografía podía funcionar como un sistema interactivo, abriendo la vía a futuras investigaciones sobre la relación entre el sonido, la prosodia y la morfología del glifo.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Sonido](/etiquetas/sonido/), [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Sonido](/etiquetas/sonido/), [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>

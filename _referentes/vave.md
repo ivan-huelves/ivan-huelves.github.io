@@ -29,14 +29,16 @@ Para esta investigación, la relevancia del caso radica en validar la capacidad 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** JavaScript
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://schultzschultz.com/work/" target="_blank">🔗 Ver fuente 1</a><br>

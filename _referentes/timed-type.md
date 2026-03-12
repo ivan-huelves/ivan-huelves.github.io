@@ -25,14 +25,16 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="http://www.stefanieschwarz-graphicdesign.de/timed-type/processing-clock.html" target="_blank">🔗 Ver fuente 1</a><br>

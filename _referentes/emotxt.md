@@ -31,14 +31,16 @@ Para esta investigación, su relevancia radica en demostrar cómo la interacció
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** N. C., Inteligencia artificial
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://weiyingma.work/EMOTXT" target="_blank">🔗 Ver fuente 1</a><br>

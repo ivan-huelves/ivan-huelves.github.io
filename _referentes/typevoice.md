@@ -29,14 +29,16 @@ La relevancia de este proyecto para la investigación es que valida el uso de la
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Generación tipográfica, Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.denniskung.work/new-page" target="_blank">🔗 Ver fuente 1</a><br>

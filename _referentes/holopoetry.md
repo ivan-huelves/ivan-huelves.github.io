@@ -29,14 +29,16 @@ La relevancia de este proyecto es que desafía las concepciones tradicionales de
 ---
 
 ### Clasificación
+* **Década:** [Década de 1980](/etiquetas/decada-de-1980/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual](/etiquetas/visual/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Holografía
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.ekac.org/allholopoems.html" target="_blank">🔗 Ver fuente 1</a><br>

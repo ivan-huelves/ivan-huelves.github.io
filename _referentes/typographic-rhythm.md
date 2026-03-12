@@ -25,10 +25,12 @@ La relevancia para esta investigación es que ejemplifica cómo la velocidad y e
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí

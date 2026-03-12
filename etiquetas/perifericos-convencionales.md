@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Proyectos: Teclado"
-permalink: /etiquetas/teclado/
+title: "Proyectos: Periféricos convencionales"
+permalink: /etiquetas/perifericos-convencionales/
 ---
 
-Proyectos catalogados como **Teclado**:
+Proyectos catalogados como **Periféricos convencionales**:
 
 <div class="project-grid">
 
@@ -168,18 +168,50 @@ Proyectos catalogados como **Teclado**:
       </div>
     </a>
 
-    <a href="/referentes/emotional-type/" class="project-card">
+    <a href="/referentes/dialogue/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/emotional type 01.png" alt="Imagen de Emotional Type" loading="lazy">
+        <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Emotional Type
+            Dialogue
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Promphan Suksumek
+          Yin Yin Wong
           <br>
-          <span style="color: #999;">2017</span>
+          <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/emergence/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/emergence.gif" alt="Imagen de Emergence" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Emergence
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Stefanie Schwarz
+          <br>
+          <span style="color: #999;">2012</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/existential-co/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/extential 01.png" alt="Imagen de Existential Co." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Existential Co.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Space Type Co. y Studio Pact
+          <br>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -248,6 +280,38 @@ Proyectos catalogados como **Teclado**:
       </div>
     </a>
 
+    <a href="/referentes/gintogx/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/gintogx_01.gif" alt="Imagen de GintoGX" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            GintoGX
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Daniel Wenzel
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/giving-character-to-characters/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Giving Character to Characters.png" alt="Imagen de Giving Character to Characters" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Giving Character to Characters
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Richard The
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/glitch-type-generator-tool/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/glitch 01.png" alt="Imagen de Glitch Type Generator Tool" loading="lazy">
@@ -260,6 +324,38 @@ Proyectos catalogados como **Teclado**:
           Jake Welch
           <br>
           <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/guilty-by-association/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/gba 01.png" alt="Imagen de Guilty By Association" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Guilty By Association
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Talia Cotton
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/hypha/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/hypha 01.png" alt="Imagen de Hypha" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Hypha
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Pentagram, A2-TYPE y Counterpoint
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -344,6 +440,38 @@ Proyectos catalogados como **Teclado**:
       </div>
     </a>
 
+    <a href="/referentes/leon-sans/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/leon sans 01.png" alt="Imagen de Leon Sans" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Leon Sans
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jongmin Kim
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/letter-dance/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/letter dance.jpg" alt="Imagen de Letter Dance" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Letter Dance
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/morisawa-fontpark-20/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/fontpark 01.jpg" alt="Imagen de Morisawa Fontpark 2.0" loading="lazy">
@@ -356,6 +484,38 @@ Proyectos catalogados como **Teclado**:
           Yugo Nakamura y tha ltd.
           <br>
           <span style="color: #999;">2008</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/move-me-mm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/move me mm.jpg" alt="Imagen de Move Me MM" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Move Me MM
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lucas de Groot
+          <br>
+          <span style="color: #999;">1994</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/munken-creator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Munken Creator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Patrik Hübner
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -408,6 +568,22 @@ Proyectos catalogados como **Teclado**:
       </div>
     </a>
 
+    <a href="/referentes/phase/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/phase 01.webp" alt="Imagen de Phase" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Phase
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Elias Hanzer y Florian Zia
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/physarum-type-tool/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/physarumtype 01.png" alt="Imagen de Physarum Type Tool" loading="lazy">
@@ -420,6 +596,22 @@ Proyectos catalogados como **Teclado**:
           Maxence Duterne
           <br>
           <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/poemas-no-meio-do-caminho/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/poemasnomeiodocaminho_01.jpg" alt="Imagen de Poemas no meio do caminho" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Poemas no meio do caminho
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rui Torres
+          <br>
+          <span style="color: #999;">2008</span>
         </div>
       </div>
     </a>
@@ -456,6 +648,22 @@ Proyectos catalogados como **Teclado**:
       </div>
     </a>
 
+    <a href="/referentes/talmud-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/talmud.png" alt="Imagen de Talmud Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Talmud Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small y Tom White
+          <br>
+          <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/textension/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/textension.jpg" alt="Imagen de Textension" loading="lazy">
@@ -484,6 +692,22 @@ Proyectos catalogados como **Teclado**:
           Anna Carreras
           <br>
           <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/tomorrows-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tomorrow's Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vera van de Seyp
+          <br>
+          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>

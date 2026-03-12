@@ -18,7 +18,7 @@ permalink: /referentes/morisawa-fontpark-20/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Morisawa Fontpark 2.0 es una herramienta web experimental diseñada por Yugo Nakamura que invita a los usuarios a 'jugar' con la biblioteca de fuentes de la fundición Morisawa. La aplicación permite descomponer, rotar y reorganizar los glifos para crear composiciones gráficas o ilustraciones, tratando la tipografía no solo como caracteres. 
+Morisawa Fontpark 2.0 es una herramienta web experimental diseñada por Yugo Nakamura que invita a los usuarios a *jugar* con la biblioteca de fuentes de la fundición Morisawa. La aplicación permite descomponer, rotar y reorganizar los glifos para crear composiciones gráficas o ilustraciones, tratando la tipografía no solo como caracteres. 
 
 Su aportación reside en la descontextualización de la función semántica de la letra para priorizar su valor plástico. El proyecto transforma el catálogo tipográfico en una herramienta de dibujo, donde el usuario explora la anatomía del carácter al fragmentarlo en trazos abstractos. 
 
@@ -27,14 +27,16 @@ La relevancia de este proyecto para la investigación reside en que establece un
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Generación tipográfica, Transformación morfológica
 * **Tecnología empleada:** Flash
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.morisawa.co.jp/culture/fontpark/" target="_blank">🔗 Ver fuente 1</a><br>

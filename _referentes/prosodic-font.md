@@ -20,19 +20,21 @@ Prosodic Font es un sistema experimental que traduce los parámetros prosódicos
 
 Su principal aportación es la demostración, validada con pruebas de usuario, de que un sistema de transformaciones gráficas puede representar eficazmente las variaciones prosódicas del habla. El proyecto demostró que los usuarios eran capaces de identificar correctamente la correspondencia entre los archivos visuales generados por Prosodic Font y los archivos de audio originales, siendo el ritmo y el acento vocal los factores más determinantes en esta percepción.
 
-La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de \"Expresión paralingüística\". El proyecto prueba que la tipografía interactiva puede capturar y transmitir las cualidades temporales y dinámicas del habla, enriqueciendo el texto con la expresividad de la voz humana.
+La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de *Expresión paralingüística*. El proyecto prueba que la tipografía interactiva puede capturar y transmitir las cualidades temporales y dinámicas del habla, enriqueciendo el texto con la expresividad de la voz humana.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Desarrollo a medida (probablemente en C++)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340' target='_blank'>[Ver enlace]</a><br>

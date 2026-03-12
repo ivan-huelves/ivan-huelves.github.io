@@ -29,14 +29,16 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Gestual](/etiquetas/gestual/), [Sonido](/etiquetas/sonido/), [Algoritmo](/etiquetas/algoritmo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/), [Gestual](/etiquetas/gestual/), [Sonido](/etiquetas/sonido/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://wenzeldaniel.com/w_gintogx.php" target="_blank">🔗 Ver fuente 1</a><br>

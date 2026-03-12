@@ -20,19 +20,21 @@ Physarum Type Tool es un software de código abierto que simula comportamientos 
 
 Su aportación consiste en introducir la biomímesis y la imprevisibilidad natural en el diseño digital. 
 
-La relevancia de este proyecto para la investigación radica en que cuestiona el control absoluto del diseñador sobre la forma final. Propone un modelo de 'co-autoría con el algoritmo', donde la tipografía se trata como un organismo vivo que evoluciona en tiempo real, transformando la escritura en un cultivo digital dinámico.
+La relevancia de este proyecto para la investigación radica en que cuestiona el control absoluto del diseñador sobre la forma final. Propone un modelo de *co-autoría con el algoritmo*, donde la tipografía se trata como un organismo vivo que evoluciona en tiempo real, transformando la escritura en un cultivo digital dinámico.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/), [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://maxenceduterne.com/physarumtype" target="_blank">🔗 Ver fuente 1</a><br>

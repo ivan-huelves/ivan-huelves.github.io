@@ -16,7 +16,7 @@ permalink: /referentes/letter-dance/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Letter Dance es un experimento de la serie Pliant type que presenta un único carácter, la letra 'A', como un elemento lúdico e interactivo en un espacio tridimensional simple. Al mover el dispositivo de puntero, el usuario hace que la letra se mueva y cambie de forma, aparentando que baila y sonríe. El proyecto aprovecha la apariencia humana de la letra 'A', con sus \"dos piernas\", para que el espectador le atribuya características de un ser vivo. 
+Letter Dance es un experimento de la serie Pliant type que presenta un único carácter, la letra *A*, como un elemento lúdico e interactivo en un espacio tridimensional simple. Al mover el dispositivo de puntero, el usuario hace que la letra se mueva y cambie de forma, aparentando que baila y sonríe. El proyecto aprovecha la apariencia humana de la letra *A*, con sus *dos piernas*, para que el espectador le atribuya características de un ser vivo. 
 
 Su principal aportación es el método utilizado para lograr la fluidez del movimiento, la cual no se basa en una simulación física compleja, sino en una diferencia temporal programada entre el movimiento del puntero y la actualización de los nodos del glifo.
 
@@ -25,15 +25,17 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 ---
 
 ### Clasificación
+* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>

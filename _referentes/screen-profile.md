@@ -27,15 +27,17 @@ La relevancia de este proyecto es que es un hito en la exploración de la tipogr
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Brown University
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida, Instalación de Realidad Virtual inmersiva en un entorno CAVE (Cave Automatic Virtual Environment), un cubo de 8 pies con proyecciones en tres paredes y el suelo.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://if50.substack.com/p/2002-screen" target="_blank">🔗 Ver fuente 1</a><br>

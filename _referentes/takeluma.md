@@ -24,19 +24,21 @@ Takeluma es un sistema de escritura que propone un nuevo alfabeto fonético para
 
 Su principal aportación es la materialización de esta teoría lingüística en un sistema tipográfico funcional. Al crear un alfabeto donde la forma de cada signo deriva directamente de las propiedades acústicas y articulatorias de los fonemas —y no de una convención arbitraria—, el proyecto demuestra que la escritura puede visualizar los significados inherentes al sonido del habla.
 
-La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de \"Expresión paralingüística\". Demuestra que la tipografía interactiva puede trascender la representación del alfabeto tradicional para convertirse en una visualización directa del habla.
+La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de *Expresión paralingüística*. Demuestra que la tipografía interactiva puede trascender la representación del alfabeto tradicional para convertirse en una visualización directa del habla.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Generación tipográfica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** No
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Cho, Peter. «Takeluma: An Exploration of Sound, Meaning, and Writing». MFA Thesis, UCLA Department of Design | Media Arts, 2005. <a href='https://pcho.net/takeluma' target='_blank'>[Ver enlace]</a><br>

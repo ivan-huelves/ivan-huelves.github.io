@@ -33,15 +33,17 @@ La relevancia para esta investigación reside en la conexión directa que establ
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Narrativa social](/etiquetas/narrativa-social/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Central Saint Martins
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** OpenType
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="http://projectseen.com/" target="_blank">🔗 Ver fuente 1</a><br>

@@ -27,14 +27,16 @@ Para esta investigación su relevancia es histórica al ser uno de los trabajos 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://collection.eliterature.org/2/works/nadeau_stillstanding.html" target="_blank">🔗 Ver fuente 1</a><br>

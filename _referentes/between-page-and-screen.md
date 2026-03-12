@@ -18,7 +18,7 @@ permalink: /referentes/between-page-and-screen/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Between Page and Screen es una obra que hibrida un libro tradicional con una experiencia digital. El libro no contiene texto impreso, sino únicamente marcadores gráficos que, al ser enfocados con una cámara web, activan poemas animados en la pantalla, creando una especie de \"pop-up digital\".
+Between Page and Screen es una obra que hibrida un libro tradicional con una experiencia digital. El libro no contiene texto impreso, sino únicamente marcadores gráficos que, al ser enfocados con una cámara web, activan poemas animados en la pantalla, creando una especie de *pop-up digital*.
 
 Su principal aportación reside en que el texto no existe ni en la página ni en la pantalla, sino en el espacio intermedio de la realidad aumentada. Esto obliga al lector a participar activamente con su cuerpo y con el libro para construir el acto de lectura.
 
@@ -27,14 +27,16 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual](/etiquetas/visual/), [Controlador físico](/etiquetas/controlador-fisico/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/), [Controlador físico](/etiquetas/controlador-fisico/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Realidad Aumentada (basado en FLARToolKit)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://amaranthborsuk.com/publications/between-page-and-screen/" target="_blank">🔗 Ver fuente 1</a><br>

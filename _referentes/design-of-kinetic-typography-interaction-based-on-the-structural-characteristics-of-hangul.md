@@ -25,14 +25,16 @@ Su relevancia radica en mostrar cómo la tipografía puede articular instalacion
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** OpenCV
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://doi.org/10.5392/IJoC.2016.12.3.042" target="_blank">🔗 Ver fuente 1</a><br>

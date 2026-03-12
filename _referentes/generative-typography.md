@@ -18,24 +18,26 @@ permalink: /referentes/generative-typography/
 
 
 ### Relevancia en relación a la tipografía interactiva
-GenType es el archivo digital del curso 'Generative Typography' dirigido por Zeke Wattles. El sitio recopila decenas de experimentos y herramientas tipográficas desarrolladas por estudiantes de diseño, abarcando desde identidades visuales reactivas hasta micrositios inmersivos. 
+GenType es el archivo digital del curso *Generative Typography* dirigido por Zeke Wattles. El sitio recopila decenas de experimentos y herramientas tipográficas desarrolladas por estudiantes de diseño, abarcando desde identidades visuales reactivas hasta micrositios inmersivos. 
 
-Su aportación consiste en sistematizar la enseñanza del 'Creative Coding' como metodología de diseño tipográfico, estableciendo la programación (específicamente mediante p5.js) como una competencia esencial para que el diseñador contemporáneo genere sistemas de letras vivos, superando la noción de la fuente como archivo estático.
+Su aportación consiste en sistematizar la enseñanza del *Creative Coding* como metodología de diseño tipográfico, estableciendo la programación (específicamente mediante p5.js) como una competencia esencial para que el diseñador contemporáneo genere sistemas de letras vivos, superando la noción de la fuente como archivo estático.
 
 La relevancia de este repositorio para la investigación radica en que documenta el cambio de paradigma en la formación académica. Demuestra cómo una nueva generación de diseñadores está pasando de ser usuarios de software a creadores de software, empleando el código para generar sistemas tipográficos que serían imposibles de concebir mediante herramientas de diseño tradicionales.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** ArtCenter College of Design
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/), [Interactivo multimodal](/etiquetas/interactivo-multimodal/), [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/), [Cursor](/etiquetas/cursor/), [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/), [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/), [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/), [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://zeke.studio/gentype/" target="_blank">🔗 Ver fuente 1</a><br>

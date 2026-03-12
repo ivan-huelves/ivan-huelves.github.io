@@ -16,7 +16,7 @@ permalink: /referentes/emergence/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Emergence es una aplicación de tipografía interactiva diseñada para la identidad visual del evento TEDxCentralSaintMartins. El proyecto plantea un 'logotipo abierto' donde la letra 'E' funciona como un contenedor dinámico, permitiendo a los usuarios subir imágenes mediante una interfaz web para modificar colectivamente su apariencia en tiempo real. 
+Emergence es una aplicación de tipografía interactiva diseñada para la identidad visual del evento TEDxCentralSaintMartins. El proyecto plantea un *logotipo abierto* donde la letra *E* funciona como un contenedor dinámico, permitiendo a los usuarios subir imágenes mediante una interfaz web para modificar colectivamente su apariencia en tiempo real. 
 
 Su aportación reside en la implementación de una identidad visual participativa que desjerarquiza el rol del diseñador. El sistema convierte el logotipo en una obra de autoría compartida, donde la morfología de la marca no viene impuesta, sino que emerge de la colaboración constante de la comunidad. 
 
@@ -25,14 +25,16 @@ La relevancia de este proyecto para la investigación estriba en que prefigura e
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** N. C.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="http://www.stefanieschwarz-graphicdesign.de/INTERACTIVE-TYPE-APP-emergence.html" target="_blank">🔗 Ver fuente 1</a><br>

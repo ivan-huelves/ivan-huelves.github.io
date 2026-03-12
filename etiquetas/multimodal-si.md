@@ -1,12 +1,124 @@
 ---
 layout: page
-title: "Proyectos: Interactivo multimodal"
-permalink: /etiquetas/interactivo-multimodal/
+title: "Proyectos: Multimodal: Sí"
+permalink: /etiquetas/multimodal-si/
 ---
 
-Proyectos catalogados como **Interactivo multimodal**:
+Proyectos catalogados como **Multimodal: Sí**:
 
 <div class="project-grid">
+
+    <a href="/referentes/abcdefghijklmnopqrstuvwxyz/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/abcdefghijklmnopqrstuvwxyz.png" alt="Imagen de abcdefghijklmnopqrstuvwxyz" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            abcdefghijklmnopqrstuvwxyz
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jörg Piringer
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            ActiveText Project y It's Alive!
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Alex Weyers
+          <br>
+          <span style="color: #999;">1998</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/amsteldok/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Amsteldok 01.webp" alt="Imagen de Amsteldok" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Amsteldok
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vbat y Fontsmith
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/archiv-des-wirrwarrs/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/archiv 01.jpg" alt="Imagen de Archiv des Wirrwarrs" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Archiv des Wirrwarrs
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Alvin Lin
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/brain-opera/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/brain-opera.jpg" alt="Imagen de Brain Opera" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Brain Opera
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small y Yin Yin Wong
+          <br>
+          <span style="color: #999;">1996</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/cheiro/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/cheiro 01.jpg" alt="Imagen de Cheiro" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cheiro
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Francis Lam
+          <br>
+          <span style="color: #999;">2006</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dancing-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dancing type 01.png" alt="Imagen de Dancing Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dancing Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
 
     <a href="/referentes/embodied-type/" class="project-card">
       <div class="card-image">
@@ -24,18 +136,18 @@ Proyectos catalogados como **Interactivo multimodal**:
       </div>
     </a>
 
-    <a href="/referentes/experimentos-de-tipografia-en-ar/" class="project-card">
+    <a href="/referentes/funky-mr-salvador-e-isabel-marant/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif" alt="Imagen de Experimentos de Tipografía en AR" loading="lazy">
+        <img src="/images/referentes/interfaces isabel marant.jpg" alt="Imagen de Funky Mr. Salvador e Isabel Marant" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Experimentos de Tipografía en AR
+            Funky Mr. Salvador e Isabel Marant
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Andrew Johnson y Erik van Blokland
+          Schultzschultz
           <br>
-          <span style="color: #999;">2018</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -72,38 +184,6 @@ Proyectos catalogados como **Interactivo multimodal**:
       </div>
     </a>
 
-    <a href="/referentes/hard-music-festival/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/HARD Music Festival 01.jpg" alt="Imagen de Hard Music Festival" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Hard Music Festival
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mikiko Yamabayashi
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/illuminated-manuscript/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/illuminated manuscript - small 1.jpg" alt="Imagen de Illuminated Manuscript" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Illuminated Manuscript
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          David Small
-          <br>
-          <span style="color: #999;">2002</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/laika/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/laika 01.jpg" alt="Imagen de Laika" loading="lazy">
@@ -120,18 +200,18 @@ Proyectos catalogados como **Interactivo multimodal**:
       </div>
     </a>
 
-    <a href="/referentes/look-hear/" class="project-card">
+    <a href="/referentes/like-beauty-in-flames/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/LOOK_HEAR 1.jpg" alt="Imagen de Look/Hear" loading="lazy">
+        <img src="/images/referentes/like beauty in flames 1.jpg" alt="Imagen de Like Beauty in Flames" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Look/Hear
+            Like Beauty in Flames
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Ran Zheng
+          Jenny Holzer
           <br>
-          <span style="color: #999;">2016</span>
+          <span style="color: #999;">2021</span>
         </div>
       </div>
     </a>
@@ -168,22 +248,6 @@ Proyectos catalogados como **Interactivo multimodal**:
       </div>
     </a>
 
-    <a href="/referentes/quarto/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/quarto 1.jpg" alt="Imagen de Quarto" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Quarto
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Giacomo Bastianelli
-          <br>
-          <span style="color: #999;">2022</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/rio-carnaval/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/rio carnaval 01.jpeg" alt="Imagen de Rio Carnaval" loading="lazy">
@@ -194,38 +258,6 @@ Proyectos catalogados como **Interactivo multimodal**:
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Tatil Design
-          <br>
-          <span style="color: #999;">2022</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Robotype (Sujigen, Mojigen, 7×7)
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Yuichiro Katsumoto
-          <br>
-          <span style="color: #999;">2016</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/screen-profile/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/screen profile 01.jpg" alt="Imagen de Screen Profile" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Screen Profile
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Robert Coover, Shawn Greenlee, Andrew McClain, Robert Arellano y Joshua Carroll
           <br>
           <span style="color: #999;">2022</span>
         </div>
@@ -259,7 +291,7 @@ Proyectos catalogados como **Interactivo multimodal**:
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini
           <br>
-          <span style="color: #999;">2021</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -276,6 +308,38 @@ Proyectos catalogados como **Interactivo multimodal**:
           Vera van de Seyp
           <br>
           <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-code/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            TYPE + CODE
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yeohyun Ahn
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-dynamics/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type/dynamics
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lust Studio
+          <br>
+          <span style="color: #999;">2013</span>
         </div>
       </div>
     </a>

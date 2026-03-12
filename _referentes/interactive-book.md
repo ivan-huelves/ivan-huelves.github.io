@@ -29,14 +29,16 @@ Aunque el proyecto no conserva la codificación textual ni trabaja con caractere
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Arduino
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.malloryrichey.com/experiential/interactive-book" target="_blank">🔗 Ver fuente 1</a><br>

@@ -27,14 +27,16 @@ La relevancia de este proyecto para la investigación reside en que explora cóm
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Algoritmo](/etiquetas/algoritmo/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/), [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://hyphahypha.com/" target="_blank">🔗 Ver fuente 1</a><br>

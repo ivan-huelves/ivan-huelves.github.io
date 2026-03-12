@@ -33,14 +33,16 @@ La relevancia para esta investigación reside en su condición de precedente his
 ---
 
 ### Clasificación
+* **Década:** [Década de 1980](/etiquetas/decada-de-1980/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** PostScript
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://www.moma.org/collection/works/139326" target="_blank">🔗 Ver fuente 1</a><br>

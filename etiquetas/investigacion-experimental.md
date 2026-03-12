@@ -915,7 +915,7 @@ Proyectos catalogados como **Investigación / Experimental**:
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini
           <br>
-          <span style="color: #999;">2021</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>

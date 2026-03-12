@@ -18,22 +18,24 @@ permalink: /referentes/wet-fonts/
 ### Relevancia en relación a la tipografía interactiva
 Wet Fonts es un sistema que simula la tipografía como si estuviera hecha de pigmentos líquidos sobre un soporte de papel. Para ello, el proyecto calcula la difusión del pigmento y el agua a través de las fibras simuladas del papel por cada pixel de la pantalla.
 
-Su principal aportación es la simulación digital de técnicas pictóricas. Este enfoque permite que propiedades como la tensión superficial o la difusión modifiquen la forma de los caracteres, haciendo posible, por ejemplo, crear una versión bold simplemente añadiendo más \"tinta\".
+Su principal aportación es la simulación digital de técnicas pictóricas. Este enfoque permite que propiedades como la tensión superficial o la difusión modifiquen la forma de los caracteres, haciendo posible, por ejemplo, crear una versión bold simplemente añadiendo más *tinta*.
 
 La relevancia para esta investigación es que se trata de un referente temprano de la tipografía generativa, que abrió el camino a entender la letra no como una forma estática, sino como un sistema dinámico. Su exploración de la materialidad simulada demostró que era posible integrar comportamientos propios de la física y la caligrafía en entornos digitales.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Algoritmo](/etiquetas/algoritmo/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** N. C. (probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>

@@ -8,7 +8,7 @@ thumbnail: "/images/referentes/synestype 01.jpg"
 permalink: /referentes/synestype/
 ---
 
-**Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini, 2021**
+**Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini, 2022**
 
 
 ![Imagen de Synestype](/images/referentes/synestype 01.jpg)
@@ -27,15 +27,17 @@ La relevancia del proyecto radica en la aplicación funcional de la tecnología 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
 * **Institución:** Politecnico di Milano, Politecnico di Torino
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/), [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable, Inteligencia artificial
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://www.asp-poli.it/wp-content/uploads/2022/03/Variable-Fonts_ASP_Poster.pdf" target="_blank">🔗 Ver fuente 1</a><br>

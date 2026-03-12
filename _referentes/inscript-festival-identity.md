@@ -18,7 +18,7 @@ permalink: /referentes/inscript-festival-identity/
 
 
 ### Relevancia en relación a la tipografía interactiva
-La identidad visual del Inscript Festival 2023 se articula a través de una aplicación web interactiva que traduce, en tiempo real, las propiedades sonoras de la voz del usuario en distorsiones tipográficas fluidas. El sistema opera bajo el concepto de 'eco visual', transformando la huella auditiva única de cada hablante en una morfología gráfica distintiva y coherente con el lenguaje de la marca.
+La identidad visual del Inscript Festival 2023 se articula a través de una aplicación web interactiva que traduce, en tiempo real, las propiedades sonoras de la voz del usuario en distorsiones tipográficas fluidas. El sistema opera bajo el concepto de *eco visual*, transformando la huella auditiva única de cada hablante en una morfología gráfica distintiva y coherente con el lenguaje de la marca.
 
 Su aportación metodológica consiste en desplazar el rol del diseñador desde la producción de piezas gráficas cerradas hacia la programación de sistemas. El proyecto no se define por un logotipo estático, sino que plantea un entorno interactivo que permite a la audiencia actuar como co-creadora de la identidad, generando variaciones infinitas bajo los parámetros definidos en el código.
 
@@ -27,14 +27,16 @@ La relevancia de este proyecto para la investigación radica en el uso de la tip
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** JavaScript (WebGL / Shaders / Web Audio API)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://inscript.tf/2023" target="_blank">🔗 Ver fuente 1</a><br>

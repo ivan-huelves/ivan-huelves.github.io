@@ -16,7 +16,7 @@ permalink: /referentes/glitch-type-generator-tool/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Glitch Type Generator es una herramienta web experimental desarrollada en p5.js que permite aplicar efectos de 'glitch' a composiciones tipográficas. La aplicación habilita al usuario para introducir texto personalizado, subir sus propias tipografías y manipular parámetros gráficos como color, trazo o posicionamiento para generar transformaciones visuales.
+Glitch Type Generator es una herramienta web experimental desarrollada en p5.js que permite aplicar efectos de *glitch* a composiciones tipográficas. La aplicación habilita al usuario para introducir texto personalizado, subir sus propias tipografías y manipular parámetros gráficos como color, trazo o posicionamiento para generar transformaciones visuales.
 
 Su aportación consiste en la sistematización del error digital como recurso estético. 
 
@@ -25,14 +25,16 @@ La relevancia de este proyecto para la investigación radica en que ejemplifica 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://jake-welch-design.github.io/Glitch_type_generator_tool/" target="_blank">🔗 Ver fuente 1</a><br>

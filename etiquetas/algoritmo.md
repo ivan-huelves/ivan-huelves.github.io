@@ -8,22 +8,6 @@ Proyectos catalogados como **Algoritmo**:
 
 <div class="project-grid">
 
-    <a href="/referentes/aerial-bold/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Aerial Bold 01.jpg" alt="Imagen de Aerial Bold" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Aerial Bold
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Benedikt Groß y Joey Lee
-          <br>
-          <span style="color: #999;">2016</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/automated-type-design/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Automated Type Design 01.jpg" alt="Imagen de Automated Type Design" loading="lazy">
@@ -56,18 +40,18 @@ Proyectos catalogados como **Algoritmo**:
       </div>
     </a>
 
-    <a href="/referentes/dialogue/" class="project-card">
+    <a href="/referentes/dancing-type/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
+        <img src="/images/referentes/dancing type 01.png" alt="Imagen de Dancing Type" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Dialogue
+            Dancing Type
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Yin Yin Wong
+          Dev Valladares
           <br>
-          <span style="color: #999;">1995</span>
+          <span style="color: #999;">2021</span>
         </div>
       </div>
     </a>
@@ -152,6 +136,22 @@ Proyectos catalogados como **Algoritmo**:
       </div>
     </a>
 
+    <a href="/referentes/physarum-type-tool/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/physarumtype 01.png" alt="Imagen de Physarum Type Tool" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Physarum Type Tool
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Maxence Duterne
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/robotype-sujigen-mojigen-77/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
@@ -164,22 +164,6 @@ Proyectos catalogados como **Algoritmo**:
           Yuichiro Katsumoto
           <br>
           <span style="color: #999;">2016</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/tomorrows-typography/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Tomorrow's Typography
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Vera van de Seyp
-          <br>
-          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>

@@ -22,7 +22,7 @@ permalink: /referentes/alphabet-synthesis-machine/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos \"inventados\" a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
+Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos *inventados* a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
 
 Su principal aportación es el uso de la interactividad no para modificar una fuente existente, sino para crearla desde cero. La obra investiga los límites entre el lenguaje y el gesto, la legibilidad y el caos, convirtiendo al usuario en un co-creador de nuevas formas tipográficas.
 
@@ -31,14 +31,16 @@ La relevancia para esta investigación es que demuestra un modelo de co-creació
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/), [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/), [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/), [Controlador físico](/etiquetas/controlador-fisico/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Java
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="http://www.flong.com/archive/projects/alphabet/index.html" target="_blank">🔗 Ver fuente 1</a><br>

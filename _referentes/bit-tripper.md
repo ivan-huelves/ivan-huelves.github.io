@@ -20,21 +20,23 @@ permalink: /referentes/bit-tripper/
 ### Relevancia en relación a la tipografía interactiva
 Bit Tripper es un generador de tipografías bitmap creado como parte del proyecto de branding para el álbum Chain Tripping del grupo musical YACHT. El álbum fue compuesto en colaboración con artistas y, principalmente, con inteligencia artificial, y la tipografía sigue el mismo principio.
 
-Su principal aportación es la integración de técnicas de machine learning (GANs) en una herramienta de diseño tipográfico accesible online. El sistema fue entrenado con cientos de tipografías bitmap clásicas, lo que le permite generar infinitas variaciones nuevas que exploran el \"espacio latente\" de este estilo tipográfico. El usuario puede generar sus propias fuentes y exportarlas en formato OpenType.
+Su principal aportación es la integración de técnicas de machine learning (GANs) en una herramienta de diseño tipográfico accesible online. El sistema fue entrenado con cientos de tipografías bitmap clásicas, lo que le permite generar infinitas variaciones nuevas que exploran el *espacio latente* de este estilo tipográfico. El usuario puede generar sus propias fuentes y exportarlas en formato OpenType.
 
 La relevancia para esta investigación es que el proyecto combina de forma magistral la experimentación tecnológica, la exploración estética y una estrategia de comunicación en un contexto artístico. Demuestra cómo la inteligencia artificial puede ser una herramienta colaborativa para el diseño tipográfico.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Generativo](/etiquetas/generativo/)
-* **Tipo de input:** [Teclado](/etiquetas/teclado/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Inteligencia artificial
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://bit-tripper.ctpt.co/" target="_blank">🔗 Ver fuente 1</a><br>

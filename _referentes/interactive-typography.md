@@ -16,7 +16,7 @@ permalink: /referentes/interactive-typography/
 
 
 ### Relevancia en relación a la tipografía interactiva
-InteractiveTypography es un prototipo para una aplicación móvil que explora cómo la tipografía puede reaccionar a su entorno. El proyecto propone tres modos de interacción que utilizan los sensores del dispositivo: \"Luz\", donde el grosor de la fuente se ajusta a la luminosidad ambiental; \"Sonido\", donde la tipografía reacciona a los niveles de ruido; y \"Movimiento\", donde se transforma según el movimiento del dispositivo.
+InteractiveTypography es un prototipo para una aplicación móvil que explora cómo la tipografía puede reaccionar a su entorno. El proyecto propone tres modos de interacción que utilizan los sensores del dispositivo: *Luz*, donde el grosor de la fuente se ajusta a la luminosidad ambiental; *Sonido*, donde la tipografía reacciona a los niveles de ruido; y *Movimiento*, donde se transforma según el movimiento del dispositivo.
 
 Su principal aportación es la exploración de una tipografía sensible al contexto, presentando funcionalidades concretas para la adaptación de los glifos a variables del entorno, como la condición lumínica.
 
@@ -25,14 +25,16 @@ La relevancia de este proyecto para la investigación es que se trata de un prec
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Accesibilidad](/etiquetas/accesibilidad/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Processing, Arduino
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://www.behance.net/gallery/12438829/Interactive-Typography" target="_blank">🔗 Ver fuente 1</a><br>

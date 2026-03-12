@@ -72,38 +72,6 @@ Proyectos catalogados como **Datos externos**:
       </div>
     </a>
 
-    <a href="/referentes/experimentos-de-tipografia-en-ar/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif" alt="Imagen de Experimentos de Tipografía en AR" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Experimentos de Tipografía en AR
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Andrew Johnson y Erik van Blokland
-          <br>
-          <span style="color: #999;">2018</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/fable-table-ttt-poem/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Fable Table & TTT Poem
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
-          <br>
-          <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/generative-typography/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/generative typography kenny-zhang.jpg" alt="Imagen de Generative Typography" loading="lazy">
@@ -259,7 +227,7 @@ Proyectos catalogados como **Datos externos**:
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini
           <br>
-          <span style="color: #999;">2021</span>
+          <span style="color: #999;">2022</span>
         </div>
       </div>
     </a>
@@ -292,6 +260,22 @@ Proyectos catalogados como **Datos externos**:
           Stefanie Schwarz
           <br>
           <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/tomorrows-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tomorrow's Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vera van de Seyp
+          <br>
+          <span style="color: #999;">2024</span>
         </div>
       </div>
     </a>

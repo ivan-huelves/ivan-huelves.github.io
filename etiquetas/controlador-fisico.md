@@ -24,6 +24,38 @@ Proyectos catalogados como **Controlador físico**:
       </div>
     </a>
 
+    <a href="/referentes/aerial-bold/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Aerial Bold 01.jpg" alt="Imagen de Aerial Bold" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Aerial Bold
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Benedikt Groß y Joey Lee
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/alphabet-synthesis-machine/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Alphabet Synthesis Machine 01.jpg" alt="Imagen de Alphabet Synthesis Machine" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Alphabet Synthesis Machine
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Jonathan Feinberg y Cassidy Curtis
+          <br>
+          <span style="color: #999;">2001</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/between-page-and-screen/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Between Page and Screen 01.jpg" alt="Imagen de Between Page and Screen" loading="lazy">
@@ -36,6 +68,22 @@ Proyectos catalogados como **Controlador físico**:
           Amaranth Borsuk y Brad Bouse
           <br>
           <span style="color: #999;">2012</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/embodied-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/embodied 01.gif" alt="Imagen de Embodied Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Embodied Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Janny Ji
+          <br>
+          <span style="color: #999;">2019</span>
         </div>
       </div>
     </a>

@@ -26,19 +26,21 @@ Este proyecto consiste en una tipografía con una doble función. Visualmente, s
 
 Su principal aportación es que la propia letra impresa, al ser vista a través de la cámara de un dispositivo, se convierte en el activador que dispara animaciones tridimensionales en realidad aumentada. Estas animaciones expanden la exploración formal de la letra, mostrando versiones volumétricas y dinámicas de los mismos patrones geométricos que componen la versión impresa.
 
-La relevancia de este proyecto consiste en que demuestra cómo la tipografía puede ser simultáneamente el mensaje y la interfaz. Une el texto estático con una capa de contenido digital interactivo, y lo hace a través de un lenguaje visual que reflexiona sobre la propia naturaleza de la \"visión artificial\".
+La relevancia de este proyecto consiste en que demuestra cómo la tipografía puede ser simultáneamente el mensaje y la interfaz. Une el texto estático con una capa de contenido digital interactivo, y lo hace a través de un lenguaje visual que reflexiona sobre la propia naturaleza de la *visión artificial*.
 
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/), [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Visual](/etiquetas/visual/), [Gestual](/etiquetas/gestual/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial, Generación tipográfica
 * **Tecnología empleada:** N. C. Aplicación de realidad aumentada.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://eagerzhang.com/24-the-guide-to-be-seen/" target="_blank">🔗 Ver fuente 1</a><br>

@@ -29,14 +29,16 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Sistema de diseño tipográfico](/etiquetas/sistema-de-diseno-tipografico/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/), [Sonido](/etiquetas/sonido/)
+* **Grado de interactividad:** [Interacción generativa](/etiquetas/interaccion-generativa/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/), [Sonido](/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente 1</a><br>

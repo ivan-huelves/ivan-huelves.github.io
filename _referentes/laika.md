@@ -31,14 +31,16 @@ La relevancia de este proyecto es que se trata de un hito en la investigación t
 ---
 
 ### Clasificación
+* **Década:** [Década de 2000](/etiquetas/decada-de-2000/)
 * **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo multimodal](/etiquetas/interactivo-multimodal/)
-* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Controlador físico](/etiquetas/controlador-fisico/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Controlador físico](/etiquetas/controlador-fisico/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://laikafont.ch/" target="_blank">🔗 Ver fuente 1</a><br>

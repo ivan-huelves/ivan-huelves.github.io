@@ -27,14 +27,16 @@ Para esta investigación, la relevancia de ambos casos radica en validar cómo l
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
 * **Tipo de input:** [Controlador físico](/etiquetas/controlador-fisico/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** N. C., Desarrollo a medida
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://schultzschultz.com/work/" target="_blank">🔗 Ver fuente 1</a><br>

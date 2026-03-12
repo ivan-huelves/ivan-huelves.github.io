@@ -25,14 +25,16 @@ La relevancia de este proyecto es que demuestra el potencial de la tipografía c
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
 * **Contexto:** [Producto digital](/etiquetas/producto-digital/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
 * **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable, Un script de JavaScript utiliza las librerías SunCalc.js (para calcular la posición del sol) y Moment.js (para gestionar la hora)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/etiquetas/codificacion-textual-si/)
 
 <br>
 <a href="https://indestructibletype.com/Gnomon.html" target="_blank">🔗 Ver fuente 1</a><br>

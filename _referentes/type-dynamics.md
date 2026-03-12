@@ -33,14 +33,16 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 ---
 
 ### Clasificación
+* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
 * **Función:** [Visualización de datos](/etiquetas/visualizacion-de-datos/)
 * **Contexto:** [Instalación artística](/etiquetas/instalacion-artistica/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/)
+* **Grado de interactividad:** [Interacción fuerte o mutua](/etiquetas/interaccion-fuerte-o-mutua/)
+* **Input multimodal:** [Sí](/etiquetas/multimodal-si/)
+* **Tipo de input:** [Datos externos](/etiquetas/datos-externos/), [Gestual](/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida, En Java sobre el framework RNDR. El sistema utiliza la API de Google Street View, sensores Kinect para el rastreo de visitantes.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://rndr.studio/projects/type-dynamics/" target="_blank">🔗 Ver fuente 1</a><br>

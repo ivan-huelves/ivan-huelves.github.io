@@ -8,17 +8,27 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 
 ---
 
+### Explorar por Década
+<div class="nav-links">
+<p>
+<a href="/etiquetas/decada-de-1980/">Años 80</a>
+<a href="/etiquetas/decada-de-1990/">Años 90</a>
+<a href="/etiquetas/decada-de-2000/">Años 2000</a>
+<a href="/etiquetas/decada-de-2010/">Años 2010</a>
+<a href="/etiquetas/decada-de-2020/">Años 2020</a>
+</p>
+</div>
+
 ### Explorar por Función
 <div class="nav-links">
 <p>
 <a href="/etiquetas/accesibilidad/">Accesibilidad</a>
-<a href="/etiquetas/exploracion-formal-y-o-performativa/">Exploración formal</a>
+<a href="/etiquetas/exploracion-formal-y-o-performativa/">Exploración formal y/o performativa</a>
 <a href="/etiquetas/expresion-paralinguistica/">Expresión paralingüística</a>
 <a href="/etiquetas/identidad-visual/">Identidad visual</a>
 <a href="/etiquetas/narrativa-social/">Narrativa social</a>
 <a href="/etiquetas/sistema-de-diseno-tipografico/">Sistemas de diseño</a>
 <a href="/etiquetas/visualizacion-de-datos/">Visualización de datos</a>
-
 </p>
 </div>
 
@@ -35,9 +45,9 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 ### Explorar por Grado de interactividad
 <div class="nav-links">
 <p>
-<a href="/etiquetas/interactivo/">Interactivo</a>
-<a href="/etiquetas/interactivo-multimodal/">Interactivo multimodal</a>
-<a href="/etiquetas/generativo/">Generativo</a>
+<a href="/etiquetas/interaccion-debil-o-reactiva/">Débil o reactiva</a>
+<a href="/etiquetas/interaccion-fuerte-o-mutua/">Fuerte o mutua</a>
+<a href="/etiquetas/interaccion-generativa/">Generativa</a>
 </p>
 </div>
 
@@ -46,12 +56,19 @@ Análisis de referentes clasificados en el marco de mi investigación doctoral.
 <p>
 <a href="/etiquetas/algoritmo/">Algoritmo</a>
 <a href="/etiquetas/controlador-fisico/">Controlador físico</a>
-<a href="/etiquetas/cursor/">Cursor</a>
 <a href="/etiquetas/datos-externos/">Datos externos</a>
-<a href="/etiquetas/sonido/">Sonido</a>
 <a href="/etiquetas/gestual/">Gestual</a>
-<a href="/etiquetas/teclado/">Teclado</a>
-<a href="/etiquetas/visual/">Visual</a>
+<a href="/etiquetas/perifericos-convencionales/">Periféricos convencionales</a>
+<a href="/etiquetas/sonido/">Sonido</a>
+</p>
+</div>
+
+### Otras características
+<div class="nav-links">
+<p>
+<a href="/etiquetas/multimodal-si/">Input Multimodal</a>
+<a href="/etiquetas/codificacion-textual-si/">Mantiene codificación textual</a>
+<a href="/etiquetas/codificacion-textual-no/">Pierde codificación textual</a>
 </p>
 </div>
 

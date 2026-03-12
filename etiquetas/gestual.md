@@ -56,18 +56,34 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
-    <a href="/referentes/brain-opera/" class="project-card">
+    <a href="/referentes/between-page-and-screen/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/brain-opera.jpg" alt="Imagen de Brain Opera" loading="lazy">
+        <img src="/images/referentes/Between Page and Screen 01.jpg" alt="Imagen de Between Page and Screen" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Brain Opera
+            Between Page and Screen
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          David Small y Yin Yin Wong
+          Amaranth Borsuk y Brad Bouse
           <br>
-          <span style="color: #999;">1996</span>
+          <span style="color: #999;">2012</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/cheiro/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/cheiro 01.jpg" alt="Imagen de Cheiro" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cheiro
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Francis Lam
+          <br>
+          <span style="color: #999;">2006</span>
         </div>
       </div>
     </a>
@@ -264,6 +280,22 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
+    <a href="/referentes/gravient/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Gravient 01.gif" alt="Imagen de Gravient" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Gravient
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Pràctica
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/handy-type/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/handytype 01.png" alt="Imagen de Handy Type" loading="lazy">
@@ -276,6 +308,22 @@ Proyectos catalogados como **Gestual**:
           Rozi Zhu y Haocheng Zhang
           <br>
           <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/holopoetry/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/holopoetry 01.gif" alt="Imagen de Holopoetry" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Holopoetry
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Eduardo Kac
+          <br>
+          <span style="color: #999;">1983</span>
         </div>
       </div>
     </a>
@@ -312,6 +360,38 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
+    <a href="/referentes/interactive-book/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/interactive book 01.webp" alt="Imagen de Interactive book" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Interactive book
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Tamper Studio
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/laika/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/laika 01.jpg" alt="Imagen de Laika" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Laika
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Michael Flückiger y Nicolas Kunz
+          <br>
+          <span style="color: #999;">2009</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/laser-letters/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/laser letters 01.gif" alt="Imagen de Laser Letters" loading="lazy">
@@ -344,6 +424,22 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
+    <a href="/referentes/like-beauty-in-flames/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/like beauty in flames 1.jpg" alt="Imagen de Like Beauty in Flames" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Like Beauty in Flames
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jenny Holzer
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/live-letters/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/live letters 01.webp" alt="Imagen de Live Letters" loading="lazy">
@@ -372,6 +468,22 @@ Proyectos catalogados como **Gestual**:
           Jason Edward Lewis y Bruno Nadeau
           <br>
           <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/responsive-typography-with-viewing-distance-detection/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg" alt="Imagen de Responsive Typography with Viewing Distance Detection" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Responsive Typography with Viewing Distance Detection
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Marko Dugonjić
+          <br>
+          <span style="color: #999;">2013</span>
         </div>
       </div>
     </a>
@@ -456,6 +568,22 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
+    <a href="/referentes/symphony-in-acid/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/symphony-in-acid-01.png" alt="Imagen de Symphony in Acid" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Symphony in Acid
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Ksawery Komputery y Max Cooper
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/text-rain/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
@@ -520,6 +648,22 @@ Proyectos catalogados como **Gestual**:
       </div>
     </a>
 
+    <a href="/referentes/type-dynamics/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type/dynamics
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lust Studio
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/typeface-project/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
@@ -548,6 +692,22 @@ Proyectos catalogados como **Gestual**:
           Lisa Reckeweg
           <br>
           <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/your-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/yourtypeface 01.jpg" alt="Imagen de Your Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Your Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Overtone y Set Snail
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>

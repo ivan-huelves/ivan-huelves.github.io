@@ -18,7 +18,7 @@ permalink: /referentes/existential-co/
 
 
 ### Relevancia en relación a la tipografía interactiva
-Existential Co. es una plataforma web desarrollada para el lanzamiento de la marca de producción homónima, definida por una identidad visual cinética. El proyecto articula una \"landing page\" de la campaña 'Why are we here?' caracterizada por el uso central de una tipografía interactiva cuyo movimiento se dispara mediante la navegación, donde los visitantes introducen respuestas textuales sobre la existencia humana.
+Existential Co. es una plataforma web desarrollada para el lanzamiento de la marca de producción homónima, definida por una identidad visual cinética. El proyecto articula una *landing page* de la campaña *Why are we here?* caracterizada por el uso central de una tipografía interactiva cuyo movimiento se dispara mediante la navegación, donde los visitantes introducen respuestas textuales sobre la existencia humana.
 
 Su principal aportación es la integración de la participación del usuario en la construcción de la narrativa de marca. El sistema transforma los inputs textuales de los visitantes en gráficos visuales que pueden descargarse y compartirse en redes sociales, convirtiendo el sitio web en un espacio de participación comunitaria.
 
@@ -27,14 +27,16 @@ La relevancia de este proyecto para la investigación reside en que ilustra el u
 ---
 
 ### Clasificación
+* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
 * **Función:** [Identidad visual](/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/etiquetas/branding/)
-* **Grado de interactividad:** [Interactivo](/etiquetas/interactivo/)
-* **Tipo de input:** [Cursor](/etiquetas/cursor/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** [No](/etiquetas/multimodal-no/)
+* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
 
 <br>
 <a href="https://spacetypeco.com/work/2022-existentialco" target="_blank">🔗 Ver fuente 1</a><br>
