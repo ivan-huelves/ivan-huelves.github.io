@@ -104,6 +104,22 @@ Proyectos catalogados como **Interacción fuerte o mutua**:
       </div>
     </a>
 
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/screen-profile/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/screen profile 01.jpg" alt="Imagen de Screen Profile" loading="lazy">

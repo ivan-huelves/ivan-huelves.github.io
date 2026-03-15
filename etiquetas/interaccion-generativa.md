@@ -440,6 +440,22 @@ Proyectos catalogados como **Interacción generativa**:
       </div>
     </a>
 
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/space-type-generator/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/spacetypegenerator 01.jpg" alt="Imagen de Space Type Generator" loading="lazy">

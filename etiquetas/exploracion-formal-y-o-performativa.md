@@ -696,6 +696,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
