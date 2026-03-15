@@ -24,22 +24,6 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            A Font is a Percussion Instrument
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rob Stenson
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/activetext-project-y-its-alive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/active text 01.jpg" alt="Imagen de ActiveText Project y It's Alive!" loading="lazy">
@@ -68,6 +52,22 @@ Proyectos catalogados como **Investigación / Experimental**:
           Benedikt Groß y Joey Lee
           <br>
           <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -744,22 +744,6 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/remark/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
-          <br>
-          <span style="color: #999;">2002</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
@@ -788,6 +772,22 @@ Proyectos catalogados como **Investigación / Experimental**:
           Victoria Constantine
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -872,22 +872,6 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/sound-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Sound Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Mak
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -900,6 +884,22 @@ Proyectos catalogados como **Investigación / Experimental**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -1064,6 +1064,38 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
+    <a href="/referentes/type-as-tone/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type as tone 1.webp" alt="Imagen de Type as Tone" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type as Tone
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kasper Pyndt
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typechaosifier/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            typeChaosifier
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
@@ -1080,18 +1112,18 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/type-as-tone/" class="project-card">
+    <a href="/referentes/typeface-project/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/type as tone 1.webp" alt="Imagen de Type as Tone" loading="lazy">
+        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type as Tone
+            Typeface Project
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Kasper Pyndt
+          Mary Huang
           <br>
-          <span style="color: #999;">2016</span>
+          <span style="color: #999;">2011</span>
         </div>
       </div>
     </a>
@@ -1128,54 +1160,6 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
-    <a href="/referentes/type-sound/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Sound
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mike van der Sanden
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typechaosifier/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            typeChaosifier
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Dev Valladares
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typeface-project/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typeface Project
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mary Huang
-          <br>
-          <span style="color: #999;">2011</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typeractive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
@@ -1188,6 +1172,22 @@ Proyectos catalogados como **Investigación / Experimental**:
           Peter Cho
           <br>
           <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>

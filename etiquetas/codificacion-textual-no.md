@@ -24,22 +24,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            A Font is a Percussion Instrument
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rob Stenson
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/abcdefghijklmnopqrstuvwxyz/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/abcdefghijklmnopqrstuvwxyz.png" alt="Imagen de abcdefghijklmnopqrstuvwxyz" loading="lazy">
@@ -52,6 +36,22 @@ Proyectos catalogados como **Codificación textual: No**:
           Jörg Piringer
           <br>
           <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -232,22 +232,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/dia-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            DIA Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          DIA Studio
-          <br>
-          <span style="color: #999;">2017</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/dialogue/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
@@ -260,6 +244,22 @@ Proyectos catalogados como **Codificación textual: No**:
           Yin Yin Wong
           <br>
           <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dia-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DIA Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          DIA Studio
+          <br>
+          <span style="color: #999;">2017</span>
         </div>
       </div>
     </a>
@@ -904,22 +904,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/munken-creator/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Munken Creator
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Patrik Hübner
-          <br>
-          <span style="color: #999;">2020</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/maquina-de-ouver/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/ouver 01.jpg" alt="Imagen de Máquina de Ouver" loading="lazy">
@@ -932,6 +916,22 @@ Proyectos catalogados como **Codificación textual: No**:
           João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida
           <br>
           <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/munken-creator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Munken Creator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Patrik Hübner
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -964,22 +964,6 @@ Proyectos catalogados como **Codificación textual: No**:
           Jaime Munárriz Ortiz y Carlos Barberà Pastor
           <br>
           <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/poemm/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            P.o.E.M.M.
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Bruno Nadeau
-          <br>
-          <span style="color: #999;">2010</span>
         </div>
       </div>
     </a>
@@ -1048,6 +1032,22 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
+    <a href="/referentes/poemm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            P.o.E.M.M.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/prosodic-font/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/prosodic font.png" alt="Imagen de Prosodic Font" loading="lazy">
@@ -1060,22 +1060,6 @@ Proyectos catalogados como **Codificación textual: No**:
           Tara Rosenberger
           <br>
           <span style="color: #999;">1998</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/remark/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
-          <br>
-          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -1108,6 +1092,22 @@ Proyectos catalogados como **Codificación textual: No**:
           Victoria Constantine
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -1192,22 +1192,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/sound-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Sound Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Mak
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -1220,6 +1204,22 @@ Proyectos catalogados como **Codificación textual: No**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -1320,22 +1320,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/text-rain/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Text Rain
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Camille Utterback y Romy Achituv
-          <br>
-          <span style="color: #999;">1999</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/textension/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/textension.jpg" alt="Imagen de Textension" loading="lazy">
@@ -1348,6 +1332,22 @@ Proyectos catalogados como **Codificación textual: No**:
           JT Nimoy
           <br>
           <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/text-rain/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Text Rain
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Camille Utterback y Romy Achituv
+          <br>
+          <span style="color: #999;">1999</span>
         </div>
       </div>
     </a>
@@ -1432,6 +1432,22 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
+    <a href="/referentes/typechaosifier/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            typeChaosifier
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
@@ -1444,6 +1460,38 @@ Proyectos catalogados como **Codificación textual: No**:
           Yeohyun Ahn
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-dynamics/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type/dynamics
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lust Studio
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typeface-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typeface Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mary Huang
+          <br>
+          <span style="color: #999;">2011</span>
         </div>
       </div>
     </a>
@@ -1480,86 +1528,6 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
-    <a href="/referentes/type-sound/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Sound
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mike van der Sanden
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Reed Hollett
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-dynamics/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type/dynamics
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Lust Studio
-          <br>
-          <span style="color: #999;">2013</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typechaosifier/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            typeChaosifier
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Dev Valladares
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typeface-project/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typeface Project
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mary Huang
-          <br>
-          <span style="color: #999;">2011</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typeractive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
@@ -1576,6 +1544,22 @@ Proyectos catalogados como **Codificación textual: No**:
       </div>
     </a>
 
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/typespace/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typespace 01.avif" alt="Imagen de Typespace" loading="lazy">
@@ -1588,6 +1572,22 @@ Proyectos catalogados como **Codificación textual: No**:
           Rajshree Saraf
           <br>
           <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>

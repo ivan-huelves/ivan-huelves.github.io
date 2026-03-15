@@ -49,4 +49,4 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-tools/">← Anterior<br><small>Type Tools</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typechaosifier/">Siguiente →<br><small>typeChaosifier</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-code/">← Anterior<br><small>TYPE + CODE</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeface-project/">Siguiente →<br><small>Typeface Project</small></a></div></div>

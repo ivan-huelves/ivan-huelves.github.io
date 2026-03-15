@@ -45,4 +45,4 @@ La relevancia de este proyecto reside en su uso innovador de la tipografía vari
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/textension/">← Anterior<br><small>Textension</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">Siguiente →<br><small>The Guide To Be Seen</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/text-rain/">← Anterior<br><small>Text Rain</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/the-guide-to-be-seen/">Siguiente →<br><small>The Guide To Be Seen</small></a></div></div>

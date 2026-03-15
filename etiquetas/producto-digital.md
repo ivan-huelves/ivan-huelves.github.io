@@ -248,22 +248,6 @@ Proyectos catalogados como **Producto digital**:
       </div>
     </a>
 
-    <a href="/referentes/type-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Reed Hollett
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typespace/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typespace 01.avif" alt="Imagen de Typespace" loading="lazy">
@@ -276,6 +260,22 @@ Proyectos catalogados como **Producto digital**:
           Rajshree Saraf
           <br>
           <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>

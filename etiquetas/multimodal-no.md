@@ -24,22 +24,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            A Font is a Percussion Instrument
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rob Stenson
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/aerial-bold/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Aerial Bold 01.jpg" alt="Imagen de Aerial Bold" loading="lazy">
@@ -52,6 +36,22 @@ Proyectos catalogados como **Multimodal: No**:
           Benedikt Groß y Joey Lee
           <br>
           <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -232,22 +232,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/dia-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            DIA Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          DIA Studio
-          <br>
-          <span style="color: #999;">2017</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/dialogue/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
@@ -260,6 +244,22 @@ Proyectos catalogados como **Multimodal: No**:
           Yin Yin Wong
           <br>
           <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dia-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DIA Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          DIA Studio
+          <br>
+          <span style="color: #999;">2017</span>
         </div>
       </div>
     </a>
@@ -1000,22 +1000,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/munken-creator/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Munken Creator
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Patrik Hübner
-          <br>
-          <span style="color: #999;">2020</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/maquina-de-ouver/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/ouver 01.jpg" alt="Imagen de Máquina de Ouver" loading="lazy">
@@ -1028,6 +1012,22 @@ Proyectos catalogados como **Multimodal: No**:
           João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida
           <br>
           <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/munken-creator/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/munken 01.jpg" alt="Imagen de Munken Creator" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Munken Creator
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Patrik Hübner
+          <br>
+          <span style="color: #999;">2020</span>
         </div>
       </div>
     </a>
@@ -1060,22 +1060,6 @@ Proyectos catalogados como **Multimodal: No**:
           Byoung-Il Choi
           <br>
           <span style="color: #999;">2001</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/poemm/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            P.o.E.M.M.
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Bruno Nadeau
-          <br>
-          <span style="color: #999;">2010</span>
         </div>
       </div>
     </a>
@@ -1140,6 +1124,22 @@ Proyectos catalogados como **Multimodal: No**:
           Rui Torres
           <br>
           <span style="color: #999;">2008</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/poemm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            P.o.E.M.M.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2010</span>
         </div>
       </div>
     </a>
@@ -1304,22 +1304,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/sound-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Sound Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Mak
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -1332,6 +1316,22 @@ Proyectos catalogados como **Multimodal: No**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -1448,22 +1448,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/text-rain/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Text Rain
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Camille Utterback y Romy Achituv
-          <br>
-          <span style="color: #999;">1999</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/textension/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/textension.jpg" alt="Imagen de Textension" loading="lazy">
@@ -1476,6 +1460,22 @@ Proyectos catalogados como **Multimodal: No**:
           JT Nimoy
           <br>
           <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/text-rain/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Text Rain
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Camille Utterback y Romy Achituv
+          <br>
+          <span style="color: #999;">1999</span>
         </div>
       </div>
     </a>
@@ -1576,70 +1576,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/type-machine/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Machine
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Heike Neff
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-me-type-me-not/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type me type not 01.png" alt="Imagen de Type Me, Type Me Not" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Me, Type Me Not
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Peter Cho
-          <br>
-          <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-sound/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Sound
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mike van der Sanden
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Reed Hollett
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typechaosifier/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
@@ -1672,6 +1608,38 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
+    <a href="/referentes/type-machine/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Machine
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Heike Neff
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-me-type-me-not/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type me type not 01.png" alt="Imagen de Type Me, Type Me Not" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Me, Type Me Not
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1997</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/typeractive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
@@ -1684,6 +1652,22 @@ Proyectos catalogados como **Multimodal: No**:
           Peter Cho
           <br>
           <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>
@@ -1704,6 +1688,22 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/typevoice/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type voice 1.jpg" alt="Imagen de TypeVoice" loading="lazy">
@@ -1720,22 +1720,6 @@ Proyectos catalogados como **Multimodal: No**:
       </div>
     </a>
 
-    <a href="/referentes/typo-talk/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typo Talk
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
-          <br>
-          <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typographic-rhythm/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
@@ -1748,6 +1732,22 @@ Proyectos catalogados como **Multimodal: No**:
           Jonathan Puckey
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typo-talk/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typo Talk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
         </div>
       </div>
     </a>

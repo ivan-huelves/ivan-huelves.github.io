@@ -48,4 +48,4 @@ La relevancia de este proyecto es que trata la tipografía como un sistema emerg
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrows-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-code/">Siguiente →<br><small>TYPE + CODE</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/tomorrows-typography/">← Anterior<br><small>Tomorrow's Typography</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>

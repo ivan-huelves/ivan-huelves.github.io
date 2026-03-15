@@ -43,4 +43,4 @@ La relevancia de este proyecto para la investigación radica en que constituye u
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-its-alive/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/alphabet-synthesis-machine/">Siguiente →<br><small>Alphabet Synthesis Machine</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/activetext-project-y-its-alive/">← Anterior<br><small>ActiveText Project y It's Alive!</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/a-font-is-a-percussion-instrument/">Siguiente →<br><small>A Font is a Percussion Instrument</small></a></div></div>

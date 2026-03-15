@@ -42,4 +42,4 @@ Cho, P. S. (1999). Computational Models for Expressive Dimensional Typography [M
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typeface-project/">← Anterior<br><small>Typeface Project</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typespace/">Siguiente →<br><small>Typespace</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-me-type-me-not/">← Anterior<br><small>Type Me, Type Me Not</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-sound/">Siguiente →<br><small>Type Sound</small></a></div></div>

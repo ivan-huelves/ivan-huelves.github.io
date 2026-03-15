@@ -46,4 +46,4 @@ La relevancia de este proyecto para la investigación reside en que demuestra c�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/move-me-mm/">← Anterior<br><small>Move Me MM</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">Siguiente →<br><small>Máquina de Ouver</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/maquina-de-ouver/">← Anterior<br><small>Máquina de Ouver</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/no-design-foundry-tools/">Siguiente →<br><small>no design foundry Tools</small></a></div></div>

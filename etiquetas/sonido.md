@@ -8,22 +8,6 @@ Proyectos catalogados como **Sonido**:
 
 <div class="project-grid">
 
-    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            A Font is a Percussion Instrument
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rob Stenson
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/abcdefghijklmnopqrstuvwxyz/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/abcdefghijklmnopqrstuvwxyz.png" alt="Imagen de abcdefghijklmnopqrstuvwxyz" loading="lazy">
@@ -36,6 +20,22 @@ Proyectos catalogados como **Sonido**:
           Jörg Piringer
           <br>
           <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -296,22 +296,6 @@ Proyectos catalogados como **Sonido**:
       </div>
     </a>
 
-    <a href="/referentes/remark/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
-          <br>
-          <span style="color: #999;">2002</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
@@ -340,6 +324,22 @@ Proyectos catalogados como **Sonido**:
           Victoria Constantine
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -376,22 +376,6 @@ Proyectos catalogados como **Sonido**:
       </div>
     </a>
 
-    <a href="/referentes/sound-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Sound Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Mak
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -404,6 +388,22 @@ Proyectos catalogados como **Sonido**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>

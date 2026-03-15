@@ -45,4 +45,4 @@ La relevancia de este proyecto para la investigación radica en que demuestra la
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-sound/">← Anterior<br><small>Type Sound</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-dynamics/">Siguiente →<br><small>Type/dynamics</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typespace/">← Anterior<br><small>Typespace</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typevoice/">Siguiente →<br><small>TypeVoice</small></a></div></div>

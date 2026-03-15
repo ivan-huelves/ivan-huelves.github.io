@@ -43,4 +43,4 @@ La relevancia de este proyecto para la investigación radica en su papel pionero
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/touch-type/">← Anterior<br><small>Touch Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-as-tone/">Siguiente →<br><small>Type as Tone</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typechaosifier/">← Anterior<br><small>typeChaosifier</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-dynamics/">Siguiente →<br><small>Type/dynamics</small></a></div></div>

@@ -46,4 +46,4 @@ La relevancia para esta investigación radica en el uso de la simulación algor�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-dynamics/">← Anterior<br><small>Type/dynamics</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/typeface-project/">Siguiente →<br><small>Typeface Project</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/type-as-tone/">← Anterior<br><small>Type as Tone</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/type-code/">Siguiente →<br><small>TYPE + CODE</small></a></div></div>

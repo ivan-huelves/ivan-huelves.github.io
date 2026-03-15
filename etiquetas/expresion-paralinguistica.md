@@ -248,22 +248,6 @@ Proyectos catalogados como **Expresión paralingüística**:
       </div>
     </a>
 
-    <a href="/referentes/typo-talk/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typo Talk
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
-          <br>
-          <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typographic-rhythm/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
@@ -276,6 +260,22 @@ Proyectos catalogados como **Expresión paralingüística**:
           Jonathan Puckey
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typo-talk/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typo Talk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
         </div>
       </div>
     </a>

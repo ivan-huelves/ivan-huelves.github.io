@@ -168,22 +168,6 @@ Proyectos catalogados como **Sistema de diseño tipográfico**:
       </div>
     </a>
 
-    <a href="/referentes/type-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Reed Hollett
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typechaosifier/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
@@ -196,6 +180,22 @@ Proyectos catalogados como **Sistema de diseño tipográfico**:
           Dev Valladares
           <br>
           <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Reed Hollett
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>

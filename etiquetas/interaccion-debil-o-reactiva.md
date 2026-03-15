@@ -840,22 +840,6 @@ Proyectos catalogados como **Interacción débil o reactiva**:
       </div>
     </a>
 
-    <a href="/referentes/poemm/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            P.o.E.M.M.
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Bruno Nadeau
-          <br>
-          <span style="color: #999;">2010</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/performa/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/performa.jpg" alt="Imagen de Performa" loading="lazy">
@@ -900,6 +884,22 @@ Proyectos catalogados como **Interacción débil o reactiva**:
           Rui Torres
           <br>
           <span style="color: #999;">2008</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/poemm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            P.o.E.M.M.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2010</span>
         </div>
       </div>
     </a>
@@ -1064,22 +1064,6 @@ Proyectos catalogados como **Interacción débil o reactiva**:
       </div>
     </a>
 
-    <a href="/referentes/sound-type/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Sound Type
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jonathan Mak
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/sound-reactive-typeface/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
@@ -1092,6 +1076,22 @@ Proyectos catalogados como **Interacción débil o reactiva**:
           Yarza Twins
           <br>
           <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -1320,6 +1320,22 @@ Proyectos catalogados como **Interacción débil o reactiva**:
       </div>
     </a>
 
+    <a href="/referentes/typeface-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typeface Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mary Huang
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-machine/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
@@ -1348,22 +1364,6 @@ Proyectos catalogados como **Interacción débil o reactiva**:
           Peter Cho
           <br>
           <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typeface-project/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typeface Project
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mary Huang
-          <br>
-          <span style="color: #999;">2011</span>
         </div>
       </div>
     </a>
@@ -1416,22 +1416,6 @@ Proyectos catalogados como **Interacción débil o reactiva**:
       </div>
     </a>
 
-    <a href="/referentes/typo-talk/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typo Talk
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
-          <br>
-          <span style="color: #999;">1997</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typographic-rhythm/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
@@ -1444,6 +1428,22 @@ Proyectos catalogados como **Interacción débil o reactiva**:
           Jonathan Puckey
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typo-talk/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typo Talk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
         </div>
       </div>
     </a>

@@ -43,4 +43,4 @@ Para esta investigación, la relevancia del proyecto es fundamental al ser uno d
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/orfeo/">← Anterior<br><small>Orfeo</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/performa/">Siguiente →<br><small>Performa</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/poemas-no-meio-do-caminho/">← Anterior<br><small>Poemas no meio do caminho</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/prosodic-font/">Siguiente →<br><small>Prosodic Font</small></a></div></div>

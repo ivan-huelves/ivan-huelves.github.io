@@ -504,6 +504,22 @@ Proyectos catalogados como **Interacción generativa**:
       </div>
     </a>
 
+    <a href="/referentes/typechaosifier/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            typeChaosifier
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
@@ -548,22 +564,6 @@ Proyectos catalogados como **Interacción generativa**:
           Reed Hollett
           <br>
           <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typechaosifier/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            typeChaosifier
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Dev Valladares
-          <br>
-          <span style="color: #999;">2019</span>
         </div>
       </div>
     </a>

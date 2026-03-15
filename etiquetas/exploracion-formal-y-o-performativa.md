@@ -24,22 +24,6 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
-    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            A Font is a Percussion Instrument
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Rob Stenson
-          <br>
-          <span style="color: #999;">2023</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/abcdefghijklmnopqrstuvwxyz/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/abcdefghijklmnopqrstuvwxyz.png" alt="Imagen de abcdefghijklmnopqrstuvwxyz" loading="lazy">
@@ -84,6 +68,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
           Benedikt Groß y Joey Lee
           <br>
           <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
         </div>
       </div>
     </a>
@@ -632,22 +632,6 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
-    <a href="/referentes/poemm/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            P.o.E.M.M.
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Jason Edward Lewis y Bruno Nadeau
-          <br>
-          <span style="color: #999;">2010</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/physarum-type-tool/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/physarumtype 01.png" alt="Imagen de Physarum Type Tool" loading="lazy">
@@ -680,6 +664,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
+    <a href="/referentes/poemm/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            P.o.E.M.M.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/quarto/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/quarto 1.jpg" alt="Imagen de Quarto" loading="lazy">
@@ -692,22 +692,6 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
           Giacomo Bastianelli
           <br>
           <span style="color: #999;">2022</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/remark/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
-          <br>
-          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -740,6 +724,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
           Victoria Constantine
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/remark/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Re:MARK
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
+          <br>
+          <span style="color: #999;">2002</span>
         </div>
       </div>
     </a>
@@ -888,22 +888,6 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
-    <a href="/referentes/text-rain/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Text Rain
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Camille Utterback y Romy Achituv
-          <br>
-          <span style="color: #999;">1999</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/textension/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/textension.jpg" alt="Imagen de Textension" loading="lazy">
@@ -916,6 +900,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
           JT Nimoy
           <br>
           <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/text-rain/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/text rain 01.jpg" alt="Imagen de Text Rain" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Text Rain
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Camille Utterback y Romy Achituv
+          <br>
+          <span style="color: #999;">1999</span>
         </div>
       </div>
     </a>
@@ -1016,6 +1016,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
+    <a href="/referentes/typeface-project/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typeface Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mary Huang
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-machine/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
@@ -1048,38 +1064,6 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
       </div>
     </a>
 
-    <a href="/referentes/type-sound/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Sound
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mike van der Sanden
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typeface-project/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typeface Project
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mary Huang
-          <br>
-          <span style="color: #999;">2011</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typeractive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
@@ -1092,6 +1076,22 @@ Proyectos catalogados como **Exploración formal y/o performativa**:
           Peter Cho
           <br>
           <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>

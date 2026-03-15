@@ -440,22 +440,6 @@ Proyectos catalogados como **Instalación artística**:
       </div>
     </a>
 
-    <a href="/referentes/type-machine/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Machine
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Heike Neff
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/type-dynamics/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/Type dynamics 01.avif" alt="Imagen de Type/dynamics" loading="lazy">
@@ -468,6 +452,22 @@ Proyectos catalogados como **Instalación artística**:
           Lust Studio
           <br>
           <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-machine/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Machine
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Heike Neff
+          <br>
+          <span style="color: #999;">2019</span>
         </div>
       </div>
     </a>

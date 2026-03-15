@@ -43,4 +43,4 @@ La relevancia para la investigación radica en que ejemplifica cómo las herrami
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typographic-rhythm/">← Anterior<br><small>Typographic Rhythm</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values-ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/typo-talk/">← Anterior<br><small>Typo Talk</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/uncanny-values-ai-font/">Siguiente →<br><small>Uncanny Values - Ai font</small></a></div></div>

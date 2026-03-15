@@ -152,22 +152,6 @@ Proyectos catalogados como **Periféricos convencionales**:
       </div>
     </a>
 
-    <a href="/referentes/dia-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            DIA Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          DIA Studio
-          <br>
-          <span style="color: #999;">2017</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/dialogue/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
@@ -180,6 +164,22 @@ Proyectos catalogados como **Periféricos convencionales**:
           Yin Yin Wong
           <br>
           <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/dia-tools/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/dia tools 01.png" alt="Imagen de DIA Tools" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DIA Tools
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          DIA Studio
+          <br>
+          <span style="color: #999;">2017</span>
         </div>
       </div>
     </a>
@@ -712,6 +712,22 @@ Proyectos catalogados como **Periféricos convencionales**:
       </div>
     </a>
 
+    <a href="/referentes/typechaosifier/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            typeChaosifier
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/type-code/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/type code 01.jpg" alt="Imagen de TYPE + CODE" loading="lazy">
@@ -744,54 +760,6 @@ Proyectos catalogados como **Periféricos convencionales**:
       </div>
     </a>
 
-    <a href="/referentes/type-sound/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Sound
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Mike van der Sanden
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/type-tools/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Type Tools
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Reed Hollett
-          <br>
-          <span style="color: #999;">2025</span>
-        </div>
-      </div>
-    </a>
-
-    <a href="/referentes/typechaosifier/" class="project-card">
-      <div class="card-image">
-        <img src="/images/referentes/typeChaosifier 01.jpg" alt="Imagen de typeChaosifier" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            typeChaosifier
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Dev Valladares
-          <br>
-          <span style="color: #999;">2019</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/referentes/typeractive/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
@@ -804,6 +772,22 @@ Proyectos catalogados como **Periféricos convencionales**:
           Peter Cho
           <br>
           <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/type-sound/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/type sound 01.png" alt="Imagen de Type Sound" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Sound
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mike van der Sanden
+          <br>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>
@@ -824,18 +808,18 @@ Proyectos catalogados como **Periféricos convencionales**:
       </div>
     </a>
 
-    <a href="/referentes/typo-talk/" class="project-card">
+    <a href="/referentes/type-tools/" class="project-card">
       <div class="card-image">
-        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+        <img src="/images/referentes/type tools 01.png" alt="Imagen de Type Tools" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Typo Talk
+            Type Tools
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Douglas Soo
+          Reed Hollett
           <br>
-          <span style="color: #999;">1997</span>
+          <span style="color: #999;">2025</span>
         </div>
       </div>
     </a>
@@ -852,6 +836,22 @@ Proyectos catalogados como **Periféricos convencionales**:
           Jonathan Puckey
           <br>
           <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/referentes/typo-talk/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typo Talk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
         </div>
       </div>
     </a>

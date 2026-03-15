@@ -53,4 +53,4 @@ La relevancia para esta investigación radica en que sitúa la creación tipogr�
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">← Anterior<br><small>Sound-Reactive Typeface</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/speak-dont-speak/">Siguiente →<br><small>Speak Don't Speak</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/sound-type/">← Anterior<br><small>Sound Type</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/speak-dont-speak/">Siguiente →<br><small>Speak Don't Speak</small></a></div></div>
