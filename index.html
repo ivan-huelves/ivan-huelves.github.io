@@ -14,7 +14,6 @@
             flex-direction: column;
             justify-content: center;
             min-height: 90vh;
-            /* Se aplica la tipografía monoespaciada solicitada */
             font-family: 'Courier New', Courier, monospace;
             line-height: 1.6;
         }
@@ -24,10 +23,25 @@
         }
 
         .bio {
-            /* Se establece un cuerpo de texto sobredimensionado */
             font-size: 1.4rem;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
             text-align: left;
+        }
+
+        .awards {
+            font-size: 1.1rem;
+            margin-top: 2rem;
+            line-height: 1.5;
+        }
+
+        .awards ul {
+            list-style: none;
+            padding: 0;
+            margin: 0.5rem 0 0 0; /* Espaciado reducido entre el título y la lista */
+        }
+
+        .awards li {
+            margin-bottom: 0.8rem;
         }
 
         .research-link {
@@ -43,6 +57,10 @@
             opacity: 0.6;
         }
 
+        a {
+            color: inherit;
+        }
+
         @media (max-width: 600px) {
             body {
                 padding: 10vw;
@@ -55,27 +73,25 @@
 </head>
 <body>
 
-    <main>
+<main>
     <div class="bio">
-        Iván Huelves Illas is a lecturer, researcher and designer specializing in *interactive typography* and interaction design. Having graduated in Graphic Design and holding a degree in Audiovisual Communication, he possesses a Master’s degree in Teacher Training and a postgraduate qualification in Design for Sustainability.
+        Iván Huelves Illas is a lecturer, researcher and designer specializing in interactive typography and interaction design. Having graduated in Graphic Design and holding a degree in Audiovisual Communication, he possesses a Master’s degree in Teacher Training and a postgraduate qualification in Design for Sustainability.
         <br><br>
         As a lecturer at the Escuela Superior de Diseño de Madrid, he teaches in the Graphic Design Degree and the Master in Interactive Design where he applies his knowledge to explore the intersection between design and new technologies.
         <br><br>
-        He combines his teaching work with a line of research on *interactive typography* within the PhD program in Design at the Universidad Complutense de Madrid¹, having disseminated his progress in various publications and conferences.
+        He combines his teaching work with a line of <a href="https://ivan-huelves.github.io/interactive-typography/" target="_blank">research on <i>interactive typography</i></a> within the PhD program in Design at the Universidad Complutense de Madrid, having disseminated his progress in various publications and conferences.
         <br><br>
-        His projects include <a href="https://graffica.info/sensor-variable-font-disenado-por-ivan-huelves-finalista-en-los-premios-acento-g-2019/" target="_blank"><i>Sensor Variable Font</i></a> (an *interactive typography* project which was recognized with a Gràffica award) and the noise pollution data visualization *Much Ado About Nothing* (featured in media including the <a href="https://www.agenciasinc.es/Visual/Fotografias/Visualizar-el-ruido" target="_blank">SINC agency</a>, <a href="https://elpais.com/diario/2008/12/14/madrid/1229257464_850215.html" target="_blank">El País</a> or arte.tv). His professional career is sensitive to social issues, having worked as an art director in the third sector and in the educational field.
+        His projects include <a href="https://graffica.info/sensor-variable-font-disenado-por-ivan-huelves-finalista-en-los-premios-acento-g-2019/" target="_blank"><i>Sensor Variable Font</i></a> (an interactive typography project which was recognized with a Gràffica award) and the noise pollution data visualization *Much Ado About Nothing* (featured in media including the <a href="https://www.agenciasinc.es/Visual/Fotografias/Visualizar-el-ruido" target="_blank">SINC agency</a>, <a href="https://elpais.com/diario/2008/12/14/madrid/1229257464_850215.html" target="_blank">El País</a> or arte.tv). His professional career is sensitive to social issues, having worked as an art director in the third sector and in the educational field.
     </div>
 
-    <div class="awards" style="font-size: 1.1rem; margin-top: 3rem; line-height: 1.6;">
-        Supervised award-winning student projects
-        <br><br>
-        Eulalia Ramírez Moreda with the project <a href="https://adg-fad.org/laus/proyecto/dizzy-dolly-la-tipografia-experimental-sensible-al-sonido/" target="_blank"><i>Dizzy Dolly</i></a> (Gold Laus ADG-FAD 2023 in the Students Digital Category and Final Degree Project).
-        <br>
-        Cristian Tudor Iacob with the <a href="https://adg-fad.org/laus/proyecto/anti-stress-type-generator/" target="_blank"><i>Anti-Stress Type Generator</i></a> (Bronze Laus ADG-FAD 2023 in the Students Digital Category and Final Degree Project).
-        <br>
-        Félix Javier Marcos Chávez and the project <a href="https://adg-fad.org/laus/proyecto/evta-emotional-variable-typeface-accessibility-0/" target="_blank"><i>Evta</i></a> (Bronze Laus ADG-FAD 2024 in the Students Aporta Category and Final Degree Project).
-        <br>
-        Sergio Cuartones with <i>Isidro</i> (2025 Nomination Certificate in Pentawards).
+    <div class="awards">
+        <strong>Supervised award-winning student projects</strong>
+        <ul>
+            <li>Eulalia Ramírez Moreda with the project <a href="https://adg-fad.org/laus/proyecto/dizzy-dolly-la-tipografia-experimental-sensible-al-sonido/" target="_blank"><i>Dizzy Dolly</i></a> (Gold Laus ADG-FAD 2023 in the Students Digital Category and Final Degree Project).</li>
+            <li>Cristian Tudor Iacob with the <a href="https://adg-fad.org/laus/proyecto/anti-stress-type-generator/" target="_blank"><i>Anti-Stress Type Generator</i></a> (Bronze Laus ADG-FAD 2023 in the Students Digital Category and Final Degree Project).</li>
+            <li>Félix Javier Marcos Chávez and the project <a href="https://adg-fad.org/laus/proyecto/evta-emotional-variable-typeface-accessibility-0/" target="_blank"><i>Evta</i></a> (Bronze Laus ADG-FAD 2024 in the Students Aporta Category and Final Degree Project).</li>
+            <li>Sergio Cuartones with <a href="https://pentawards.com/live/es/page/pentawards-shortlist-2025" target="_blank"><i>Isidro</i></a> (2025 Nomination Certificate in Pentawards).</li>
+        </ul>
     </div>
 
     <div style="margin-top: 3rem;">
