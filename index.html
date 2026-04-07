@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iván Huelves Illas — Interactive Typography Research</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 5vw;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 90vh;
+            /* Se aplica la tipografía monoespaciada solicitada */
+            font-family: 'Courier New', Courier, monospace;
+            line-height: 1.6;
+        }
+
+        main {
+            max-width: 800px;
+        }
+
+        .bio {
+            /* Se establece un cuerpo de texto sobredimensionado */
+            font-size: 1.4rem;
+            margin-bottom: 3rem;
+            text-align: left;
+        }
+
+        .research-link {
+            font-size: 1.2rem;
+            text-decoration: none;
+            color: #000000;
+            border-bottom: 2px solid #000000;
+            padding-bottom: 2px;
+            transition: opacity 0.3s ease;
+        }
+
+        .research-link:hover {
+            opacity: 0.6;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10vw;
+            }
+            .bio {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <main>
+        <div class="bio">
+            Iván Huelves Illas is a lecturer, researcher and designer specializing in typography and interaction design. Having graduated in Graphic Design and holding a degree in Audiovisual Communication, he possesses a Master’s degree in Teacher Training and a postgraduate qualification in Design for Sustainability.
+            <br><br>
+            As a lecturer at the Escuela Superior de Diseño de Madrid, he teaches in the Graphic Design Degree and the Master in Interactive Design, where he applies his knowledge to explore the intersection between design and new technologies.
+            <br><br>
+            He combines his teaching work with a line of research on *interactive typography* within the PhD program in Design at the Universidad Complutense de Madrid, having disseminated his progress in various publications and conferences.
+            <br><br>
+            His projects include *Sensor Variable Font* (an *interactive typography* project recognized with a Gràffica award) and the noise pollution data visualization *Much Ado About Nothing* (which has been featured in media such as arte.tv, El País or the SINC agency). His professional career is sensitive to social issues, having worked as an art director in the third sector and in the educational field.
+        </div>
+
+        <a href="https://github.com/ivan-huelves/interactive-typography" class="research-link">
+            Interactive Typography Research →
+        </a>
+    </main>
+
+</body>
+</html>
